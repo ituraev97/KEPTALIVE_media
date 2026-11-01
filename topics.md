@@ -1,0 +1,33 @@
+# KEPT ALIVE — season 1 queue
+Rotate formats; check every fact before writing. Mark `[x] YYYY-MM-DD` when published.
+
+- [ ] 001 HOW IT WORKS — The Golden Hour: How Medevac Crews Race the Clock (DVIDS medevac training; Kotwal et al., JAMA Surgery 2015)
+- [ ] 002 OUTBREAK — Smallpox: How the World Erased a Disease (archive.org films, WHO/CDC history pages)
+- [ ] 003 THE SAVE — Inside USNS Comfort: The Navy's Floating Hospital (DVIDS Comfort/Mercy)
+- [ ] 004 FIRST — The Iron Lung and the End of Polio (archive.org films, NLM, CDC polio history)
+- [ ] 005 HOW IT WORKS — Whole Blood and the Walking Blood Bank (DVIDS blood training)
+- [ ] 006 OUTBREAK — 1918: The Flu That Came Home From War (archive.org, NLM, CDC 1918 pages)
+- [ ] 007 HOW IT WORKS — The Tourniquet: From Feared to Lifesaver (DVIDS Stop the Bleed / TCCC training)
+- [ ] 008 FIRST — Penicillin: The Mold That Went to War (archive.org WWII films, NLM)
+- [ ] 009 THE SAVE — Fighting Ebola in Liberia, 2014 (DVIDS Operation United Assistance)
+- [ ] 010 FIRST — Ether Day: The First Public Surgery Without Pain (NLM, archive.org)
+- [ ] 011 HOW IT WORKS — How a Field Hospital Is Built in 72 Hours (DVIDS)
+- [ ] 012 OUTBREAK — Cholera and the Map That Found the Pump (archive.org, NLM)
+- [ ] 013 THE SAVE — Hospital Ship Mercy: Pacific Partnership Surgeries (DVIDS, wide shots only)
+- [ ] 014 HOW IT WORKS — Hyperbaric Chambers: Medicine Under Pressure (DVIDS)
+- [ ] 015 FIRST — The X-Ray: Seeing Inside the Body (archive.org, NLM)
+- [ ] 016 HOW IT WORKS — Aeromedical Evacuation: An ICU at 30,000 Feet (DVIDS CCATT)
+- [ ] 017 OUTBREAK — Yellow Fever and the Panama Canal (archive.org, NLM)
+- [ ] 018 HOW IT WORKS — CPR and the Defibrillator (DVIDS BLS training, NIH)
+- [ ] 019 FIRST — Insulin: From Death Sentence to Daily Shot (NLM, archive.org) — no dosing talk
+- [ ] 020 THE SAVE — Disaster Medicine After a Hurricane (DVIDS hurricane medical response)
+- [ ] 021 HOW IT WORKS — How Burn Units Save Lives (DVIDS, no injury close-ups)
+- [ ] 022 OUTBREAK — Measles: Eliminated, Then Back (CDC pages; consensus only)
+- [ ] 023 FIRST — Blood Banks: The Idea That Changed Surgery (NLM, archive.org)
+- [ ] 024 HOW IT WORKS — Triage: Who Gets Treated First and Why (DVIDS mass-casualty exercises)
+- [ ] 025 THE SAVE — Combat Medics: Training for the Worst Day (DVIDS)
+- [ ] 026 OUTBREAK — Tuberculosis: The Long Fight (archive.org 1950s films, CDC)
+- [ ] 027 FIRST — The First Heart Transplant (NLM, archive.org)
+- [ ] 028 HOW IT WORKS — Telemedicine on Ships and in the Arctic (DVIDS)
+- [ ] 029 HOW IT WORKS — Hypothermia: How Rescuers Rewarm the Body (DVIDS) — avoid overlap with CHANNEL 16 clips
+- [ ] 030 FIRST — Germ Theory: Handwashing to Antiseptic Surgery (NLM, archive.org)
