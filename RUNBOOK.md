@@ -23,10 +23,7 @@ pip install --break-system-packages kokoro-onnx soundfile scipy fonttools brotli
 mkdir -p /home/claude/tts && cd /home/claude/tts && \
   curl -sLO https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx && \
   curl -sLO https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
-cd /home/claude/keptalive_media/pipeline/node_modules/@fontsource && mkdir -p ~/.fonts && python3 -c "
-from fontTools.ttLib import TTFont; import os
-for s,d in [('saira-condensed/files/saira-condensed-latin-800-normal.woff2','SairaCondensed-ExtraBold.ttf'),('source-sans-3/files/source-sans-3-latin-600-normal.woff2','SourceSans3-SemiBold.ttf'),('martian-mono/files/martian-mono-latin-500-normal.woff2','MartianMono-Medium.ttf')]:
-  f=TTFont(s); f.flavor=None; f.save(os.path.expanduser('~/.fonts/'+d))" && fc-cache -f
+python3 /home/claude/keptalive_media/pipeline/install_fonts.py   # must print the 3 exact family names (fixes broken @fontsource names)
 mkdir -p /home/claude/clips && cp /home/claude/keptalive_media/clips.json /home/claude/clips/
 ```
 
