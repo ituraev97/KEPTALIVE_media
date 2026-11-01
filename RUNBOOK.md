@@ -17,7 +17,7 @@ Read the Projects doc `claude/kept-alive-bible.md` first (rules, brand, voice, f
 ## 1. Setup (fresh container)
 ```bash
 # add_repo owner=ituraev97 repo=KEPTALIVE_media access=push first
-git clone --depth 1 https://github.com/ituraev97/keptalive_media /home/claude/keptalive_media
+git clone --depth 1 https://github.com/ituraev97/KEPTALIVE_media /home/claude/keptalive_media
 cd /home/claude/keptalive_media/pipeline && npm i          # Playwright is preinstalled globally (/opt/npm-tools)
 pip install --break-system-packages kokoro-onnx soundfile scipy fonttools brotli librosa
 mkdir -p /home/claude/tts && cd /home/claude/tts && \
@@ -64,7 +64,7 @@ Long steps (build/finish/encode/shorts) through nohup + polling; never let a for
 - Thumbnail at 168×94 still reads; bottom-right corner empty.
 
 ## 6. Upload + schedule
-- Branch = weekday of the ET publish date (`drop-mon` … `drop-sun`): orphan commit with ONLY that day's files (long.mp4, short1..6.mp4, thumb_A.jpg), force-push. URL `https://raw.githubusercontent.com/ituraev97/keptalive_media/drop-XXX/<file>`. Video never on `main`.
+- Branch = weekday of the ET publish date (`drop-mon` … `drop-sun`): orphan commit with ONLY that day's files (long.mp4, short1..6.mp4, thumb_A.jpg), force-push. URL `https://raw.githubusercontent.com/ituraev97/KEPTALIVE_media/drop-XXX/<file>`. Video never on `main`.
 - Metricool brand **KEPT ALIVE**, blogId **7806960** (YouTube UCa7qKTXkXc0yXmKJkBTFa9Q, brand timezone Asia/Tashkent — send `publicationDate` with timezone America/New_York).
   - Long: 13:00 ET, `youtubeData`: type "video", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags (10–15), title ≤ 70 chars.
   - Shorts: 08:00, 10:00, 12:00, 15:00, 18:00, 21:00 ET, type "short", same flags, title ends with "#shorts".
