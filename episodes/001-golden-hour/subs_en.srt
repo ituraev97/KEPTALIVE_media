@@ -1,0 +1,871 @@
+1
+00:00:01,000 --> 00:00:03,444
+A Black Hawk crosses the desert, low and fast.
+
+2
+00:00:03,444 --> 00:00:05,835
+In the back, the crew is watching the ground.
+
+3
+00:00:06,285 --> 00:00:08,909
+In this exercise, soldiers on the ground have
+
+4
+00:00:08,909 --> 00:00:10,191
+radioed for a medevac.
+
+5
+00:00:10,191 --> 00:00:12,814
+In a few minutes, this crew will land, load a
+
+6
+00:00:12,814 --> 00:00:15,088
+simulated casualty, and take off again.
+
+7
+00:00:15,538 --> 00:00:17,141
+This one is a training mission.
+
+8
+00:00:17,141 --> 00:00:20,037
+But the clock they're racing is real, and it has a name.
+
+9
+00:00:20,487 --> 00:00:21,577
+The golden hour.
+
+10
+00:00:22,277 --> 00:00:25,389
+It's the idea that a badly injured person should
+
+11
+00:00:25,389 --> 00:00:28,242
+reach surgical care within about 60 minutes.
+
+12
+00:00:28,242 --> 00:00:31,678
+In 2009, the Pentagon made it a rule for Afghanistan.
+
+13
+00:00:31,678 --> 00:00:35,050
+And researchers later found that, after that rule, a
+
+14
+00:00:35,050 --> 00:00:37,449
+smaller share of wounded troops died.
+
+15
+00:00:37,899 --> 00:00:39,765
+So where did that hour come from?
+
+16
+00:00:39,765 --> 00:00:42,310
+And how does a medevac crew actually beat it?
+
+17
+00:00:42,910 --> 00:00:44,772
+This is how the golden hour works.
+
+18
+00:00:47,372 --> 00:00:50,007
+The phrase is usually credited to one surgeon.
+
+19
+00:00:50,457 --> 00:00:53,481
+R Adams Cowley, a heart and chest surgeon at the
+
+20
+00:00:53,481 --> 00:00:54,930
+University of Maryland.
+
+21
+00:00:54,930 --> 00:00:57,450
+His first trauma unit had just two beds.
+
+22
+00:00:57,450 --> 00:00:59,403
+People called it the death lab.
+
+23
+00:00:59,853 --> 00:01:03,459
+In an early interview, he put his idea into one sentence.
+
+24
+00:01:04,259 --> 00:01:07,744
+Cowley also pushed to get patients to him by air.
+
+25
+00:01:07,744 --> 00:01:11,086
+On March 19, 1970, the first medevac helicopter
+
+26
+00:01:11,086 --> 00:01:14,712
+transport in his program took place, using Maryland
+
+27
+00:01:14,712 --> 00:01:16,490
+State Police helicopters.
+
+28
+00:01:16,940 --> 00:01:19,586
+But the military had been flying the wounded for
+
+29
+00:01:19,586 --> 00:01:20,358
+years by then.
+
+30
+00:01:20,808 --> 00:01:24,642
+In Korea, the Army flew small Bell H-13 and Hiller
+
+31
+00:01:24,642 --> 00:01:25,946
+H-23 helicopters.
+
+32
+00:01:25,946 --> 00:01:29,627
+According to the Army, H-13 pilots carried about
+
+33
+00:01:29,627 --> 00:01:33,231
+18,000 casualties to mobile surgical hospitals.
+
+34
+00:01:33,681 --> 00:01:37,280
+The first Army aerial medical evacuation missions
+
+35
+00:01:37,280 --> 00:01:40,217
+there were flown in January 1951, by two
+
+36
+00:01:40,217 --> 00:01:43,448
+lieutenants, Willis Shawn and Joseph Bowler.
+
+37
+00:01:43,898 --> 00:01:47,063
+The Army also flew the larger H-19, which could
+
+38
+00:01:47,063 --> 00:01:50,362
+carry four to six litters, with a nurse on board.
+
+39
+00:01:50,812 --> 00:01:54,640
+The Army says the death rate of evacuated patients
+
+40
+00:01:54,640 --> 00:01:58,621
+before they reached a medical facility fell from 4.5
+
+41
+00:01:58,621 --> 00:02:02,373
+percent in World War II, to 2.5 percent in Korea.
+
+42
+00:02:02,973 --> 00:02:04,611
+Then came Vietnam.
+
+43
+00:02:04,611 --> 00:02:09,163
+In April 1962, the 57th Medical Detachment arrived
+
+44
+00:02:09,163 --> 00:02:12,076
+with five UH-1 Huey helicopters.
+
+45
+00:02:12,526 --> 00:02:15,608
+A year later, its commander picked a callsign out of
+
+46
+00:02:15,608 --> 00:02:17,445
+a Navy call sign book. Dustoff.
+
+47
+00:02:17,445 --> 00:02:20,526
+It became the permanent callsign for Army helicopter
+
+48
+00:02:20,526 --> 00:02:22,186
+ambulances, and it still is.
+
+49
+00:02:22,636 --> 00:02:24,663
+The pace grew enormous.
+
+50
+00:02:24,663 --> 00:02:28,981
+According to a former medevac pilot quoted by the
+
+51
+00:02:28,981 --> 00:02:33,124
+Army, between September 1967 and July 1968, six
+
+52
+00:02:33,124 --> 00:02:37,354
+helicopters of one unit flew 8,644 missions, and
+
+53
+00:02:37,354 --> 00:02:39,469
+carried 21,431 patients.
+
+54
+00:02:39,919 --> 00:02:45,163
+In 1964, the unit was commanded by Major Charles Kelly.
+
+55
+00:02:45,163 --> 00:02:46,117
+His motto:
+
+56
+00:02:46,117 --> 00:02:47,547
+No compromises.
+
+57
+00:02:47,547 --> 00:02:49,359
+No rationalization.
+
+58
+00:02:49,359 --> 00:02:51,361
+Fly the mission. Now.
+
+59
+00:02:51,811 --> 00:02:55,658
+Kelly was killed on July 1, 1964, during an attempt
+
+60
+00:02:55,658 --> 00:02:57,845
+to evacuate wounded soldiers.
+
+61
+00:02:57,845 --> 00:03:01,315
+One pilot from his unit later recalled Kelly's
+
+62
+00:03:01,315 --> 00:03:05,162
+answer, when he was told to leave the landing zone.
+
+63
+00:03:05,162 --> 00:03:07,727
+Not until I have all your wounded.
+
+64
+00:03:08,627 --> 00:03:11,292
+Every one of those flights starts the same way.
+
+65
+00:03:11,292 --> 00:03:12,313
+With a radio call.
+
+66
+00:03:12,763 --> 00:03:15,685
+In the Army, it's called a 9-line medevac request.
+
+67
+00:03:15,685 --> 00:03:17,146
+And it's built for speed.
+
+68
+00:03:17,596 --> 00:03:20,813
+In the words of this Guard unit, the primary goal of
+
+69
+00:03:20,813 --> 00:03:23,906
+medevac is to get the patient to a higher level of
+
+70
+00:03:23,906 --> 00:03:25,701
+care, inside the golden hour.
+
+71
+00:03:26,151 --> 00:03:29,289
+Among other things, the caller gives the location of
+
+72
+00:03:29,289 --> 00:03:32,428
+the landing zone, their unit's call sign, how urgent
+
+73
+00:03:32,428 --> 00:03:35,385
+the request is, any special equipment needed, and
+
+74
+00:03:35,385 --> 00:03:37,619
+how many patients there are, by type.
+
+75
+00:03:38,069 --> 00:03:41,491
+Each answer is a line number, then a letter or a number.
+
+76
+00:03:41,491 --> 00:03:44,363
+The Army's explanation is simple. It's quicker.
+
+77
+00:03:44,813 --> 00:03:46,001
+Mistakes cost time.
+
+78
+00:03:46,001 --> 00:03:49,000
+In one example the Army gives, a request for one
+
+79
+00:03:49,000 --> 00:03:51,250
+heat casualty turned out to be four.
+
+80
+00:03:51,250 --> 00:03:54,499
+The crew had to reconfigure the aircraft at the last
+
+81
+00:03:54,499 --> 00:03:54,937
+minute.
+
+82
+00:03:55,387 --> 00:03:58,332
+And the Army also describes the opposite problem.
+
+83
+00:03:58,332 --> 00:04:01,216
+A twisted ankle reported as urgent can tie up an
+
+84
+00:04:01,216 --> 00:04:04,341
+aircraft that a ground ambulance could have handled.
+
+85
+00:04:04,791 --> 00:04:07,853
+One Army training command describes the golden hour
+
+86
+00:04:07,853 --> 00:04:10,615
+for its medevac crews in a very practical way.
+
+87
+00:04:10,615 --> 00:04:13,077
+It starts when the crew gets the request.
+
+88
+00:04:13,077 --> 00:04:16,199
+It ends when the patient is dropped off at a medical
+
+89
+00:04:16,199 --> 00:04:17,339
+treatment facility.
+
+90
+00:04:18,139 --> 00:04:19,985
+So what actually answers that call?
+
+91
+00:04:20,435 --> 00:04:24,050
+Today, it's often the HH-60M, the medevac version of
+
+92
+00:04:24,050 --> 00:04:25,093
+the Black Hawk.
+
+93
+00:04:25,543 --> 00:04:26,502
+A crew of four.
+
+94
+00:04:26,502 --> 00:04:29,954
+A pilot, a co-pilot, a crew chief, and a flight medic.
+
+95
+00:04:30,404 --> 00:04:33,650
+Inside, there's a litter system that can carry about
+
+96
+00:04:33,650 --> 00:04:36,771
+six patients, an oxygen-generating system for care
+
+97
+00:04:36,771 --> 00:04:39,954
+on board, and a rescue hoist built into the outside
+
+98
+00:04:39,954 --> 00:04:40,953
+of the aircraft.
+
+99
+00:04:41,403 --> 00:04:44,198
+Some Army flight medics go further, and train as
+
+100
+00:04:44,198 --> 00:04:46,062
+critical care flight paramedics.
+
+101
+00:04:46,062 --> 00:04:49,207
+This one, in Pennsylvania, is practicing on the hoist.
+
+102
+00:04:49,657 --> 00:04:53,056
+Sometimes, loading happens with the rotors still turning.
+
+103
+00:04:53,056 --> 00:04:54,428
+It's called a hot load.
+
+104
+00:04:54,428 --> 00:04:57,529
+Here, National Guard and Army Reserve soldiers learn
+
+105
+00:04:57,529 --> 00:05:00,630
+to do it safely, with an 82nd Airborne Dustoff crew.
+
+106
+00:05:01,080 --> 00:05:03,703
+Because sometimes, the aircraft can't land at all.
+
+107
+00:05:04,303 --> 00:05:07,111
+In Alaska, Guard crews train for exactly that.
+
+108
+00:05:07,111 --> 00:05:10,286
+The helicopter holds a hover over the trees, and the
+
+109
+00:05:10,286 --> 00:05:11,507
+cable does the rest.
+
+110
+00:05:11,957 --> 00:05:14,654
+A crew member rides down, reaches the casualty on
+
+111
+00:05:14,654 --> 00:05:17,516
+the ground, and the two of them go back up together.
+
+112
+00:05:17,966 --> 00:05:20,741
+The Guard says these skills are essential in
+
+113
+00:05:20,741 --> 00:05:23,895
+Alaska's vast, austere terrain, where conventional
+
+114
+00:05:23,895 --> 00:05:25,471
+access can be impossible.
+
+115
+00:05:25,921 --> 00:05:28,560
+In Hawaii's jungle training course, students
+
+116
+00:05:28,560 --> 00:05:31,558
+practice with a jungle penetrator, a seat that can
+
+117
+00:05:31,558 --> 00:05:33,897
+be lowered through a gap in the canopy.
+
+118
+00:05:34,347 --> 00:05:36,597
+Every one of these steps eats minutes.
+
+119
+00:05:36,597 --> 00:05:39,499
+Getting to the aircraft. Starting it. Flying out.
+
+120
+00:05:39,499 --> 00:05:41,512
+Finding the landing zone. Loading.
+
+121
+00:05:41,962 --> 00:05:44,671
+That's why crews drill them again and again, until
+
+122
+00:05:44,671 --> 00:05:46,134
+they're fast and automatic.
+
+123
+00:05:46,934 --> 00:05:49,906
+And the chain doesn't end at the helicopter.
+
+124
+00:05:49,906 --> 00:05:53,013
+In this Wisconsin exercise, Air National Guard
+
+125
+00:05:53,013 --> 00:05:56,053
+aeromedical evacuation airmen practice moving
+
+126
+00:05:56,053 --> 00:05:59,971
+patients onto a C-130 transport plane, for longer flights.
+
+127
+00:06:00,771 --> 00:06:02,714
+Now, the question that matters.
+
+128
+00:06:02,714 --> 00:06:05,159
+Does flying faster actually save lives?
+
+129
+00:06:05,609 --> 00:06:08,707
+In 2009, Secretary of Defense Robert Gates set a
+
+130
+00:06:08,707 --> 00:06:10,320
+standard for Afghanistan.
+
+131
+00:06:10,320 --> 00:06:13,224
+Critically injured troops were to be flown by
+
+132
+00:06:13,224 --> 00:06:16,580
+helicopter to a treatment facility within 60 minutes
+
+133
+00:06:16,580 --> 00:06:17,354
+of the call.
+
+134
+00:06:17,804 --> 00:06:19,376
+The old goal had been two hours.
+
+135
+00:06:19,376 --> 00:06:20,752
+The new rule cut it in half.
+
+136
+00:06:21,202 --> 00:06:25,366
+Years later, a team led by Russ Kotwal at the Army
+
+137
+00:06:25,366 --> 00:06:29,946
+Institute of Surgical Research looked at what happened.
+
+138
+00:06:29,946 --> 00:06:34,026
+Their study, in JAMA Surgery, covered 21,089 U.S.
+
+139
+00:06:34,026 --> 00:06:38,690
+casualties in Afghanistan, from late 2001 to early 2014.
+
+140
+00:06:39,140 --> 00:06:42,319
+For the patients with detailed transport data, the
+
+141
+00:06:42,319 --> 00:06:45,371
+median helicopter transport time dropped from 90
+
+142
+00:06:45,371 --> 00:06:46,261
+minutes to 43.
+
+143
+00:06:46,711 --> 00:06:49,523
+The share of missions completed within 60 minutes
+
+144
+00:06:49,523 --> 00:06:52,450
+went from about a quarter, to about three quarters.
+
+145
+00:06:52,900 --> 00:06:55,205
+And the death numbers moved too.
+
+146
+00:06:55,205 --> 00:06:58,734
+The killed-in-action rate fell from 16 percent to
+
+147
+00:06:58,734 --> 00:06:59,382
+about 10.
+
+148
+00:06:59,382 --> 00:07:03,199
+The case fatality rate fell from 13.7 percent to 7.6.
+
+149
+00:07:03,649 --> 00:07:07,821
+The researchers estimated that the drop in the case
+
+150
+00:07:07,821 --> 00:07:10,766
+fatality rate meant 359 lives saved.
+
+151
+00:07:11,216 --> 00:07:14,106
+Interestingly, the died-of-wounds rate, people who
+
+152
+00:07:14,106 --> 00:07:16,822
+died after reaching a hospital, barely changed.
+
+153
+00:07:16,822 --> 00:07:18,903
+It stayed at just over four percent.
+
+154
+00:07:19,353 --> 00:07:22,431
+In an editorial published with the study, Todd
+
+155
+00:07:22,431 --> 00:07:23,904
+Rasmussen, of the U.S.
+
+156
+00:07:23,904 --> 00:07:27,183
+Combat Casualty Care Research Program, noted that
+
+157
+00:07:27,183 --> 00:07:29,726
+the golden hour idea itself isn't new.
+
+158
+00:07:30,176 --> 00:07:33,059
+They also found lower killed-in-action rates among
+
+159
+00:07:33,059 --> 00:07:35,711
+critically injured troops who received a blood
+
+160
+00:07:35,711 --> 00:07:38,536
+transfusion and were flown out within 60 minutes.
+
+161
+00:07:38,986 --> 00:07:40,449
+One important detail.
+
+162
+00:07:40,449 --> 00:07:43,932
+The study found the drop in the case fatality rate
+
+163
+00:07:43,932 --> 00:07:47,346
+was associated with more casualties reaching care
+
+164
+00:07:47,346 --> 00:07:48,600
+within 60 minutes.
+
+165
+00:07:48,600 --> 00:07:52,083
+That's not the same as proving speed alone did it.
+
+166
+00:07:52,083 --> 00:07:55,706
+A lot changed in combat medicine during those years.
+
+167
+00:07:56,606 --> 00:07:59,672
+And outside the military, the hour is more complicated.
+
+168
+00:08:00,122 --> 00:08:04,448
+In 2010, a team of researchers tested the golden
+
+169
+00:08:04,448 --> 00:08:07,962
+hour in North American civilian trauma.
+
+170
+00:08:07,962 --> 00:08:12,468
+They followed 3,665 injured adults, carried by 146
+
+171
+00:08:12,468 --> 00:08:16,073
+ambulance agencies to 51 trauma centers.
+
+172
+00:08:16,523 --> 00:08:19,607
+They found no significant link between any of the
+
+173
+00:08:19,607 --> 00:08:22,817
+ambulance time intervals and the chance of dying in
+
+174
+00:08:22,817 --> 00:08:23,635
+the hospital.
+
+175
+00:08:24,085 --> 00:08:25,781
+Critics pointed out limits.
+
+176
+00:08:25,781 --> 00:08:28,796
+Most of those ambulance times were already under
+
+177
+00:08:28,796 --> 00:08:32,063
+about 47 minutes, and the slowest group included far
+
+178
+00:08:32,063 --> 00:08:35,643
+more helicopter transports, which could skew the results.
+
+179
+00:08:36,093 --> 00:08:38,127
+So the honest summary is this.
+
+180
+00:08:38,127 --> 00:08:40,364
+Sixty minutes isn't a magic line.
+
+181
+00:08:40,364 --> 00:08:43,211
+But for the most badly injured, getting to
+
+182
+00:08:43,211 --> 00:08:45,854
+definitive care fast is still the goal.
+
+183
+00:08:46,754 --> 00:08:48,620
+Which leaves the hardest question.
+
+184
+00:08:48,620 --> 00:08:51,035
+What happens when the helicopter can't come?
+
+185
+00:08:51,485 --> 00:08:54,681
+Military planners are now preparing for wars where
+
+186
+00:08:54,681 --> 00:08:56,982
+the golden hour may not be possible.
+
+187
+00:08:56,982 --> 00:09:00,050
+DARPA, the Pentagon's research agency, points to
+
+188
+00:09:00,050 --> 00:09:03,119
+degraded communications, contested airspace, and
+
+189
+00:09:03,119 --> 00:09:06,762
+advanced weapons that could slow down medical evacuation.
+
+190
+00:09:07,212 --> 00:09:09,985
+It could also limit the ability to keep surgical
+
+191
+00:09:09,985 --> 00:09:11,775
+teams close to the front lines.
+
+192
+00:09:12,225 --> 00:09:15,557
+Its answer is to focus on what it calls the Live Chain.
+
+193
+00:09:15,557 --> 00:09:18,707
+The steps of care between the moment someone is hurt
+
+194
+00:09:18,707 --> 00:09:20,767
+and the moment they reach surgery.
+
+195
+00:09:20,767 --> 00:09:23,371
+Self-aid, buddy-aid, the medic, care during
+
+196
+00:09:23,371 --> 00:09:25,552
+evacuation, and finally the surgeon.
+
+197
+00:09:26,002 --> 00:09:28,344
+Army medics are training for it too.
+
+198
+00:09:28,344 --> 00:09:31,532
+In 2021, at Fort Riley, Kansas, the Army hospital
+
+199
+00:09:31,532 --> 00:09:34,721
+and the First Infantry Division prepare medics to
+
+200
+00:09:34,721 --> 00:09:37,453
+care for patients for longer periods, when
+
+201
+00:09:37,453 --> 00:09:39,405
+evacuation isn't possible yet.
+
+202
+00:09:39,855 --> 00:09:42,567
+In other words, if the hour can't be shortened,
+
+203
+00:09:42,567 --> 00:09:44,125
+medicine has to stretch it.
+
+204
+00:09:45,025 --> 00:09:46,798
+So, what's the golden hour, really?
+
+205
+00:09:47,248 --> 00:09:48,802
+It's a surgeon's phrase.
+
+206
+00:09:48,802 --> 00:09:52,170
+But the system built around that hour came from many
+
+207
+00:09:52,170 --> 00:09:52,623
+places.
+
+208
+00:09:52,623 --> 00:09:55,473
+A radio format, a helicopter callsign, and a
+
+209
+00:09:55,473 --> 00:09:56,445
+60-minute rule.
+
+210
+00:09:56,895 --> 00:09:59,576
+Behind every part of it is the same thing you've
+
+211
+00:09:59,576 --> 00:10:00,637
+seen in this video.
+
+212
+00:10:00,637 --> 00:10:03,431
+Crews training, over and over, so that on the real
+
+213
+00:10:03,431 --> 00:10:04,995
+day, nobody wastes a minute.
+
+214
+00:10:05,445 --> 00:10:06,931
+Next time on KEPT ALIVE.
+
+215
+00:10:06,931 --> 00:10:09,719
+Smallpox, and how the world erased a disease.
+
+216
+00:10:10,519 --> 00:10:11,660
+For education only.
+
+217
+00:10:11,660 --> 00:10:13,281
+This is not medical advice.
+
+218
+00:10:13,281 --> 00:10:16,102
+If you have a health concern, talk to a doctor.

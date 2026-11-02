@@ -1,0 +1,238 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:03.42,Sub,,0,0,0,,{\fad(80,80)}A Black Hawk crosses the desert, low and fast.
+Dialogue: 0,0:00:03.44,0:00:05.82,Sub,,0,0,0,,{\fad(80,80)}In the back, the crew is watching the ground.
+Dialogue: 2,0:00:01.25,0:00:06.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 631 0 l 631 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:06.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:06.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · MAY 11, 2024
+Dialogue: 3,0:00:01.25,0:00:06.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}82ND AIRBORNE DUSTOFF CREW
+Dialogue: 0,0:00:06.29,0:00:08.89,Sub,,0,0,0,,{\fad(80,80)}In this exercise, soldiers on the ground have
+Dialogue: 0,0:00:08.91,0:00:10.17,Sub,,0,0,0,,{\fad(80,80)}radioed for a medevac.
+Dialogue: 0,0:00:10.19,0:00:12.79,Sub,,0,0,0,,{\fad(80,80)}In a few minutes, this crew will land, load a
+Dialogue: 0,0:00:12.81,0:00:15.07,Sub,,0,0,0,,{\fad(80,80)}simulated casualty, and take off again.
+Dialogue: 0,0:00:15.54,0:00:17.12,Sub,,0,0,0,,{\fad(80,80)}This one is a training mission.
+Dialogue: 0,0:00:17.14,0:00:20.02,Sub,,0,0,0,,{\fad(80,80)}But the clock they're racing is real, and it has a name.
+Dialogue: 0,0:00:20.49,0:00:21.56,Sub,,0,0,0,,{\fad(80,80)}The golden hour.
+Dialogue: 0,0:00:22.28,0:00:25.37,Sub,,0,0,0,,{\fad(80,80)}It's the idea that a badly injured person should
+Dialogue: 0,0:00:25.39,0:00:28.22,Sub,,0,0,0,,{\fad(80,80)}reach surgical care within about 60 minutes.
+Dialogue: 0,0:00:28.24,0:00:31.66,Sub,,0,0,0,,{\fad(80,80)}In 2009, the Pentagon made it a rule for Afghanistan.
+Dialogue: 0,0:00:31.68,0:00:35.03,Sub,,0,0,0,,{\fad(80,80)}And researchers later found that, after that rule, a
+Dialogue: 0,0:00:35.05,0:00:37.43,Sub,,0,0,0,,{\fad(80,80)}smaller share of wounded troops died.
+Dialogue: 0,0:00:37.90,0:00:39.75,Sub,,0,0,0,,{\fad(80,80)}So where did that hour come from?
+Dialogue: 0,0:00:39.77,0:00:42.29,Sub,,0,0,0,,{\fad(80,80)}And how does a medevac crew actually beat it?
+Dialogue: 0,0:02:02.97,0:02:04.59,Sub,,0,0,0,,{\fad(80,80)}Then came Vietnam.
+Dialogue: 0,0:02:04.61,0:02:09.14,Sub,,0,0,0,,{\fad(80,80)}In April 1962, the 57th Medical Detachment arrived
+Dialogue: 0,0:02:09.16,0:02:12.06,Sub,,0,0,0,,{\fad(80,80)}with five UH-1 Huey helicopters.
+Dialogue: 2,0:02:03.22,0:02:08.97,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:02:03.22,0:02:08.97,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:03.22,0:02:08.97,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}UNIT AND DATE NOT IDENTIFIED · VIA DMA / DVIDS
+Dialogue: 3,0:02:03.22,0:02:08.97,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}VIETNAM-ERA HUEYS · ARCHIVAL FOOTAGE
+Dialogue: 0,0:02:12.53,0:02:15.59,Sub,,0,0,0,,{\fad(80,80)}A year later, its commander picked a callsign out of
+Dialogue: 0,0:02:15.61,0:02:17.42,Sub,,0,0,0,,{\fad(80,80)}a Navy call sign book. Dustoff.
+Dialogue: 0,0:02:17.44,0:02:20.51,Sub,,0,0,0,,{\fad(80,80)}It became the permanent callsign for Army helicopter
+Dialogue: 0,0:02:20.53,0:02:22.17,Sub,,0,0,0,,{\fad(80,80)}ambulances, and it still is.
+Dialogue: 2,0:02:12.78,0:02:18.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 579 0 l 579 132 l 0 132{\p0}
+Dialogue: 3,0:02:12.78,0:02:18.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:12.78,0:02:18.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY AIR AMBULANCE CALLSIGN
+Dialogue: 3,0:02:12.78,0:02:18.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"DUSTOFF"
+Dialogue: 0,0:03:12.76,0:03:15.66,Sub,,0,0,0,,{\fad(80,80)}In the Army, it's called a 9-line medevac request.
+Dialogue: 0,0:03:15.68,0:03:17.13,Sub,,0,0,0,,{\fad(80,80)}And it's built for speed.
+Dialogue: 2,0:03:13.01,0:03:17.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 760 0 l 760 132 l 0 132{\p0}
+Dialogue: 3,0:03:13.01,0:03:17.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:13.01,0:03:17.55,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · AUG 3, 2020
+Dialogue: 3,0:03:13.01,0:03:17.55,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RHODE ISLAND ARMY NATIONAL GUARD
+Dialogue: 0,0:03:17.60,0:03:20.79,Sub,,0,0,0,,{\fad(80,80)}In the words of this Guard unit, the primary goal of
+Dialogue: 0,0:03:20.81,0:03:23.89,Sub,,0,0,0,,{\fad(80,80)}medevac is to get the patient to a higher level of
+Dialogue: 0,0:03:23.91,0:03:25.68,Sub,,0,0,0,,{\fad(80,80)}care, inside the golden hour.
+Dialogue: 0,0:03:38.07,0:03:41.47,Sub,,0,0,0,,{\fad(80,80)}Each answer is a line number, then a letter or a number.
+Dialogue: 0,0:03:41.49,0:03:44.34,Sub,,0,0,0,,{\fad(80,80)}The Army's explanation is simple. It's quicker.
+Dialogue: 0,0:03:55.39,0:03:58.31,Sub,,0,0,0,,{\fad(80,80)}And the Army also describes the opposite problem.
+Dialogue: 0,0:03:58.33,0:04:01.20,Sub,,0,0,0,,{\fad(80,80)}A twisted ankle reported as urgent can tie up an
+Dialogue: 0,0:04:01.22,0:04:04.32,Sub,,0,0,0,,{\fad(80,80)}aircraft that a ground ambulance could have handled.
+Dialogue: 2,0:03:55.64,0:04:01.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 545 0 l 545 132 l 0 132{\p0}
+Dialogue: 3,0:03:55.64,0:04:01.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:55.64,0:04:01.39,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · SEPT 10, 2026
+Dialogue: 3,0:03:55.64,0:04:01.39,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOINT MEDICAL EXERCISE
+Dialogue: 0,0:04:20.44,0:04:24.03,Sub,,0,0,0,,{\fad(80,80)}Today, it's often the HH-60M, the medevac version of
+Dialogue: 0,0:04:24.05,0:04:25.07,Sub,,0,0,0,,{\fad(80,80)}the Black Hawk.
+Dialogue: 2,0:04:20.69,0:04:25.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 660 0 l 660 132 l 0 132{\p0}
+Dialogue: 3,0:04:20.69,0:04:25.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:20.69,0:04:25.49,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · SOUTH KOREA · SEPT 9, 2026
+Dialogue: 3,0:04:20.69,0:04:25.49,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HH-60M MEDEVAC BLACK HAWK
+Dialogue: 0,0:04:30.40,0:04:33.63,Sub,,0,0,0,,{\fad(80,80)}Inside, there's a litter system that can carry about
+Dialogue: 0,0:04:33.65,0:04:36.75,Sub,,0,0,0,,{\fad(80,80)}six patients, an oxygen-generating system for care
+Dialogue: 0,0:04:36.77,0:04:39.93,Sub,,0,0,0,,{\fad(80,80)}on board, and a rescue hoist built into the outside
+Dialogue: 0,0:04:39.95,0:04:40.93,Sub,,0,0,0,,{\fad(80,80)}of the aircraft.
+Dialogue: 0,0:04:41.40,0:04:44.18,Sub,,0,0,0,,{\fad(80,80)}Some Army flight medics go further, and train as
+Dialogue: 0,0:04:44.20,0:04:46.04,Sub,,0,0,0,,{\fad(80,80)}critical care flight paramedics.
+Dialogue: 0,0:04:46.06,0:04:49.19,Sub,,0,0,0,,{\fad(80,80)}This one, in Pennsylvania, is practicing on the hoist.
+Dialogue: 2,0:04:41.65,0:04:47.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 760 0 l 760 132 l 0 132{\p0}
+Dialogue: 3,0:04:41.65,0:04:47.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:41.65,0:04:47.40,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · NOV 2, 2025
+Dialogue: 3,0:04:41.65,0:04:47.40,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PENNSYLVANIA ARMY NATIONAL GUARD
+Dialogue: 0,0:04:49.66,0:04:53.04,Sub,,0,0,0,,{\fad(80,80)}Sometimes, loading happens with the rotors still turning.
+Dialogue: 0,0:04:53.06,0:04:54.41,Sub,,0,0,0,,{\fad(80,80)}It's called a hot load.
+Dialogue: 0,0:04:54.43,0:04:57.51,Sub,,0,0,0,,{\fad(80,80)}Here, National Guard and Army Reserve soldiers learn
+Dialogue: 0,0:04:57.53,0:05:00.61,Sub,,0,0,0,,{\fad(80,80)}to do it safely, with an 82nd Airborne Dustoff crew.
+Dialogue: 2,0:04:49.91,0:04:55.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:04:49.91,0:04:55.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:49.91,0:04:55.66,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · MAY 11, 2024
+Dialogue: 3,0:04:49.91,0:04:55.66,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOT LOAD TRAINING · 82ND COMBAT AVIATION BRIGADE
+Dialogue: 0,0:05:01.08,0:05:03.68,Sub,,0,0,0,,{\fad(80,80)}Because sometimes, the aircraft can't land at all.
+Dialogue: 0,0:05:04.30,0:05:07.09,Sub,,0,0,0,,{\fad(80,80)}In Alaska, Guard crews train for exactly that.
+Dialogue: 0,0:05:07.11,0:05:10.27,Sub,,0,0,0,,{\fad(80,80)}The helicopter holds a hover over the trees, and the
+Dialogue: 0,0:05:10.29,0:05:11.49,Sub,,0,0,0,,{\fad(80,80)}cable does the rest.
+Dialogue: 2,0:05:04.55,0:05:10.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 631 0 l 631 132 l 0 132{\p0}
+Dialogue: 3,0:05:04.55,0:05:10.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:04.55,0:05:10.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · JULY 2025
+Dialogue: 3,0:05:04.55,0:05:10.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ALASKA ARMY NATIONAL GUARD
+Dialogue: 0,0:05:11.96,0:05:14.63,Sub,,0,0,0,,{\fad(80,80)}A crew member rides down, reaches the casualty on
+Dialogue: 0,0:05:14.65,0:05:17.50,Sub,,0,0,0,,{\fad(80,80)}the ground, and the two of them go back up together.
+Dialogue: 0,0:05:17.97,0:05:20.72,Sub,,0,0,0,,{\fad(80,80)}The Guard says these skills are essential in
+Dialogue: 0,0:05:20.74,0:05:23.87,Sub,,0,0,0,,{\fad(80,80)}Alaska's vast, austere terrain, where conventional
+Dialogue: 0,0:05:23.89,0:05:25.45,Sub,,0,0,0,,{\fad(80,80)}access can be impossible.
+Dialogue: 0,0:05:25.92,0:05:28.54,Sub,,0,0,0,,{\fad(80,80)}In Hawaii's jungle training course, students
+Dialogue: 0,0:05:28.56,0:05:31.54,Sub,,0,0,0,,{\fad(80,80)}practice with a jungle penetrator, a seat that can
+Dialogue: 0,0:05:31.56,0:05:33.88,Sub,,0,0,0,,{\fad(80,80)}be lowered through a gap in the canopy.
+Dialogue: 2,0:05:26.17,0:05:31.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:05:26.17,0:05:31.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:26.17,0:05:31.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · SEPT 19, 2026
+Dialogue: 3,0:05:26.17,0:05:31.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JUNGLE OPERATIONS TRAINING COURSE · HAWAII
+Dialogue: 0,0:05:34.35,0:05:36.58,Sub,,0,0,0,,{\fad(80,80)}Every one of these steps eats minutes.
+Dialogue: 0,0:05:36.60,0:05:39.48,Sub,,0,0,0,,{\fad(80,80)}Getting to the aircraft. Starting it. Flying out.
+Dialogue: 0,0:05:39.50,0:05:41.49,Sub,,0,0,0,,{\fad(80,80)}Finding the landing zone. Loading.
+Dialogue: 0,0:05:41.96,0:05:44.65,Sub,,0,0,0,,{\fad(80,80)}That's why crews drill them again and again, until
+Dialogue: 0,0:05:44.67,0:05:46.11,Sub,,0,0,0,,{\fad(80,80)}they're fast and automatic.
+Dialogue: 0,0:05:46.93,0:05:49.89,Sub,,0,0,0,,{\fad(80,80)}And the chain doesn't end at the helicopter.
+Dialogue: 0,0:05:49.91,0:05:52.99,Sub,,0,0,0,,{\fad(80,80)}In this Wisconsin exercise, Air National Guard
+Dialogue: 0,0:05:53.01,0:05:56.03,Sub,,0,0,0,,{\fad(80,80)}aeromedical evacuation airmen practice moving
+Dialogue: 0,0:05:56.05,0:05:59.95,Sub,,0,0,0,,{\fad(80,80)}patients onto a C-130 transport plane, for longer flights.
+Dialogue: 2,0:05:47.18,0:05:52.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 802 0 l 802 132 l 0 132{\p0}
+Dialogue: 3,0:05:47.18,0:05:52.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:47.18,0:05:52.93,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING · AUG 26, 2026
+Dialogue: 3,0:05:47.18,0:05:52.93,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PATRIOT 26 · VOLK FIELD, WISCONSIN
+Dialogue: 0,0:06:21.20,0:06:25.35,Sub,,0,0,0,,{\fad(80,80)}Years later, a team led by Russ Kotwal at the Army
+Dialogue: 0,0:06:25.37,0:06:29.93,Sub,,0,0,0,,{\fad(80,80)}Institute of Surgical Research looked at what happened.
+Dialogue: 0,0:06:29.95,0:06:34.01,Sub,,0,0,0,,{\fad(80,80)}Their study, in JAMA Surgery, covered 21,089 U.S.
+Dialogue: 0,0:06:34.03,0:06:38.67,Sub,,0,0,0,,{\fad(80,80)}casualties in Afghanistan, from late 2001 to early 2014.
+Dialogue: 0,0:07:19.35,0:07:22.41,Sub,,0,0,0,,{\fad(80,80)}In an editorial published with the study, Todd
+Dialogue: 0,0:07:22.43,0:07:23.88,Sub,,0,0,0,,{\fad(80,80)}Rasmussen, of the U.S.
+Dialogue: 0,0:07:23.90,0:07:27.16,Sub,,0,0,0,,{\fad(80,80)}Combat Casualty Care Research Program, noted that
+Dialogue: 0,0:07:27.18,0:07:29.71,Sub,,0,0,0,,{\fad(80,80)}the golden hour idea itself isn't new.
+Dialogue: 0,0:07:30.18,0:07:33.04,Sub,,0,0,0,,{\fad(80,80)}They also found lower killed-in-action rates among
+Dialogue: 0,0:07:33.06,0:07:35.69,Sub,,0,0,0,,{\fad(80,80)}critically injured troops who received a blood
+Dialogue: 0,0:07:35.71,0:07:38.52,Sub,,0,0,0,,{\fad(80,80)}transfusion and were flown out within 60 minutes.
+Dialogue: 0,0:07:38.99,0:07:40.43,Sub,,0,0,0,,{\fad(80,80)}One important detail.
+Dialogue: 0,0:07:40.45,0:07:43.91,Sub,,0,0,0,,{\fad(80,80)}The study found the drop in the case fatality rate
+Dialogue: 0,0:07:43.93,0:07:47.33,Sub,,0,0,0,,{\fad(80,80)}was associated with more casualties reaching care
+Dialogue: 0,0:07:47.35,0:07:48.58,Sub,,0,0,0,,{\fad(80,80)}within 60 minutes.
+Dialogue: 0,0:07:48.60,0:07:52.06,Sub,,0,0,0,,{\fad(80,80)}That's not the same as proving speed alone did it.
+Dialogue: 0,0:07:52.08,0:07:55.69,Sub,,0,0,0,,{\fad(80,80)}A lot changed in combat medicine during those years.
+Dialogue: 0,0:08:24.08,0:08:25.76,Sub,,0,0,0,,{\fad(80,80)}Critics pointed out limits.
+Dialogue: 0,0:08:25.78,0:08:28.78,Sub,,0,0,0,,{\fad(80,80)}Most of those ambulance times were already under
+Dialogue: 0,0:08:28.80,0:08:32.04,Sub,,0,0,0,,{\fad(80,80)}about 47 minutes, and the slowest group included far
+Dialogue: 0,0:08:32.06,0:08:35.62,Sub,,0,0,0,,{\fad(80,80)}more helicopter transports, which could skew the results.
+Dialogue: 0,0:08:36.09,0:08:38.11,Sub,,0,0,0,,{\fad(80,80)}So the honest summary is this.
+Dialogue: 0,0:08:38.13,0:08:40.34,Sub,,0,0,0,,{\fad(80,80)}Sixty minutes isn't a magic line.
+Dialogue: 0,0:08:40.36,0:08:43.19,Sub,,0,0,0,,{\fad(80,80)}But for the most badly injured, getting to
+Dialogue: 0,0:08:43.21,0:08:45.83,Sub,,0,0,0,,{\fad(80,80)}definitive care fast is still the goal.
+Dialogue: 0,0:09:07.21,0:09:09.96,Sub,,0,0,0,,{\fad(80,80)}It could also limit the ability to keep surgical
+Dialogue: 0,0:09:09.98,0:09:11.76,Sub,,0,0,0,,{\fad(80,80)}teams close to the front lines.
+Dialogue: 0,0:09:26.00,0:09:28.32,Sub,,0,0,0,,{\fad(80,80)}Army medics are training for it too.
+Dialogue: 0,0:09:28.34,0:09:31.51,Sub,,0,0,0,,{\fad(80,80)}In 2021, at Fort Riley, Kansas, the Army hospital
+Dialogue: 0,0:09:31.53,0:09:34.70,Sub,,0,0,0,,{\fad(80,80)}and the First Infantry Division prepare medics to
+Dialogue: 0,0:09:34.72,0:09:37.43,Sub,,0,0,0,,{\fad(80,80)}care for patients for longer periods, when
+Dialogue: 0,0:09:37.45,0:09:39.39,Sub,,0,0,0,,{\fad(80,80)}evacuation isn't possible yet.
+Dialogue: 0,0:09:39.86,0:09:42.55,Sub,,0,0,0,,{\fad(80,80)}In other words, if the hour can't be shortened,
+Dialogue: 0,0:09:42.57,0:09:44.11,Sub,,0,0,0,,{\fad(80,80)}medicine has to stretch it.
+Dialogue: 0,0:09:56.89,0:09:59.56,Sub,,0,0,0,,{\fad(80,80)}Behind every part of it is the same thing you've
+Dialogue: 0,0:09:59.58,0:10:00.62,Sub,,0,0,0,,{\fad(80,80)}seen in this video.
+Dialogue: 0,0:10:00.64,0:10:03.41,Sub,,0,0,0,,{\fad(80,80)}Crews training, over and over, so that on the real
+Dialogue: 0,0:10:03.43,0:10:04.97,Sub,,0,0,0,,{\fad(80,80)}day, nobody wastes a minute.
+Dialogue: 0,0:10:05.44,0:10:06.91,Sub,,0,0,0,,{\fad(80,80)}Next time on KEPT ALIVE.
+Dialogue: 0,0:10:06.93,0:10:09.70,Sub,,0,0,0,,{\fad(80,80)}Smallpox, and how the world erased a disease.
+Dialogue: 5,0:10:14.50,0:10:18.70,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Army, Army National Guard, U.S. Air Force & Defense Media Activity via DVIDS (public domain)\NTraining exercises, an interview and archival Vietnam-era footage.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH or CDC.\NFor education only. This is not medical advice.
+Dialogue: 4,0:00:00.00,0:00:03.13,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:03.13,0:00:06.30,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:06.30,0:00:10.90,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:10.90,0:00:15.53,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:15.53,0:00:18.00,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:18.00,0:00:20.50,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:20.50,0:00:22.27,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:22.27,0:00:30.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:30.10,0:00:37.90,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:37.90,0:00:40.40,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:40.40,0:00:42.90,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:02:12.53,0:02:17.57,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:02:17.57,0:02:22.63,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:03:12.77,0:03:15.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:03:15.17,0:03:17.60,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:03:17.60,0:03:21.87,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:03:21.87,0:03:26.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:03:38.07,0:03:41.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:03:41.43,0:03:44.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:03:55.40,0:04:00.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:00.10,0:04:04.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:20.43,0:04:23.00,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:23.00,0:04:25.53,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:30.40,0:04:35.90,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:35.90,0:04:41.40,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:41.40,0:04:45.53,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:45.53,0:04:49.67,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:49.67,0:04:55.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:55.37,0:05:01.07,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:01.07,0:05:04.30,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:04.30,0:05:06.87,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:06.87,0:05:09.40,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:09.40,0:05:11.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:11.97,0:05:14.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:14.97,0:05:17.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:17.97,0:05:21.93,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:21.93,0:05:25.93,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:25.93,0:05:30.13,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:30.13,0:05:34.33,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:34.33,0:05:36.90,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:36.90,0:05:39.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:39.43,0:05:41.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:41.97,0:05:44.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:44.43,0:05:46.93,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:46.93,0:05:51.53,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:51.53,0:05:56.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:56.17,0:06:00.77,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:21.20,0:06:30.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:30.17,0:06:39.13,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:19.37,0:07:24.77,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:24.77,0:07:30.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:30.17,0:07:34.57,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:34.57,0:07:39.00,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:39.00,0:07:47.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:47.80,0:07:56.60,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:24.10,0:08:30.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:30.10,0:08:36.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:36.10,0:08:41.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:41.43,0:08:46.77,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:07.20,0:09:09.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:09.73,0:09:12.23,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:39.87,0:09:42.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:42.43,0:09:45.03,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:56.90,0:09:59.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:59.73,0:10:02.60,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:10:02.60,0:10:05.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:10:05.43,0:10:10.53,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

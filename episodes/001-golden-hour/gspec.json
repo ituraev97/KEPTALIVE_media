@@ -1,0 +1,672 @@
+[
+ {
+  "key": "title_9cb1e7",
+  "name": "title",
+  "opts": {
+   "kicker": "HOW IT WORKS \u00b7 001",
+   "title": "The <span style=\"color:#2BB3A3\">Golden</span><br>Hour",
+   "sub": "HOW MEDEVAC CREWS RACE THE CLOCK",
+   "size": 230
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_769e7b",
+  "name": "chapter",
+  "opts": {
+   "case": "THE GOLDEN HOUR",
+   "n": "I",
+   "t": "WHERE THE HOUR CAME FROM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_7713c7",
+  "name": "cards3",
+  "opts": {
+   "kicker": "UNIVERSITY OF MARYLAND \u00b7 BALTIMORE",
+   "title": "R ADAMS COWLEY",
+   "cards": [
+    {
+     "h": "2",
+     "t": "beds in his first trauma unit",
+     "s": "LATER EXPANDED TO FOUR"
+    },
+    {
+     "h": "\"DEATH LAB\"",
+     "t": "what the unit was called",
+     "s": "",
+     "size": 64
+    },
+    {
+     "h": "1970",
+     "t": "first state police medevac flight",
+     "s": "MARCH 19, 1970"
+    }
+   ],
+   "footer": "SOURCE: EMS1, HOW THE \"DEATH LAB\" EVOLVED INTO A MODERN TRAUMA SYSTEM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_7916ee",
+  "name": "quote",
+  "opts": {
+   "q": "There is a golden hour between life and death.",
+   "w": "R ADAMS COWLEY \u00b7 EARLY INTERVIEW, AS QUOTED BY EMS1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_e25bd6",
+  "name": "callcard",
+  "opts": {
+   "kicker": "MARYLAND \u00b7 1968\u20131970",
+   "title": "PATIENTS BY AIR",
+   "rows": [
+    [
+     "1968",
+     "COWLEY NEGOTIATES MILITARY HELICOPTER TRANSPORT"
+    ],
+    [
+     "MAR 19, 1970",
+     "FIRST MEDEVAC HELICOPTER TRANSPORT"
+    ],
+    [
+     "WHO FLEW",
+     "MARYLAND STATE POLICE"
+    ]
+   ],
+   "footer": "SOURCE: EMS1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_a60fa8",
+  "name": "timeline",
+  "opts": {
+   "kicker": "HELICOPTER MEDEVAC",
+   "title": "FROM KOREA TO TODAY",
+   "events": [
+    {
+     "y": "1951",
+     "t": "First Army air medevacs"
+    },
+    {
+     "y": "1962",
+     "t": "57th Medical Detachment arrives in Vietnam"
+    },
+    {
+     "y": "1963",
+     "t": "Callsign \"Dustoff\" chosen"
+    },
+    {
+     "y": "2009",
+     "t": "60-minute rule for the critically injured"
+    }
+   ],
+   "active": 0,
+   "footer": "SOURCES: U.S. ARMY \u00b7 TEXAS TECH VIETNAM CENTER \u00b7 JAMA SURGERY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_e5e6af",
+  "name": "stat",
+  "opts": {
+   "a": "18,000",
+   "b": "CASUALTIES CARRIED BY H-13 HELICOPTERS TO MASH UNITS",
+   "c": "KOREAN WAR \u00b7 SOURCE: U.S. ARMY (ARMY.MIL)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_d23ea4",
+  "name": "callcard",
+  "opts": {
+   "kicker": "KOREA \u00b7 JANUARY 1951",
+   "title": "THE FIRST ARMY AEROMEDICAL EVACUATIONS",
+   "rows": [
+    [
+     "JAN 3, 1951",
+     "FIRST ARMY AERIAL MEDICAL EVACUATION MISSIONS"
+    ],
+    [
+     "PILOTS",
+     "1ST LT. WILLIS G. SHAWN \u00b7 1ST LT. JOSEPH L. BOWLER"
+    ],
+    [
+     "ARMY HELICOPTERS IN KOREA",
+     "BELL H-13 SIOUX \u00b7 HILLER H-23 RAVEN"
+    ]
+   ],
+   "footer": "SOURCE: U.S. ARMY (ARMY.MIL)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_76e4cf",
+  "name": "stat",
+  "opts": {
+   "a": "4\u20136",
+   "b": "LITTERS ON THE H-19, WITH ONE ONBOARD NURSE",
+   "c": "KOREAN WAR \u00b7 SOURCE: U.S. ARMY (ARMY.MIL)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_c6f759",
+  "name": "phases",
+  "opts": {
+   "kicker": "DEATHS BEFORE REACHING CARE \u00b7 EVACUATED PATIENTS",
+   "title": "WORLD WAR II VS. KOREA",
+   "left": {
+    "label": "WORLD WAR II",
+    "num": "4.5%",
+    "desc": "BEFORE REACHING A MEDICAL FACILITY"
+   },
+   "right": {
+    "label": "KOREAN WAR",
+    "num": "2.5%",
+    "desc": "BEFORE REACHING A MEDICAL FACILITY"
+   },
+   "active": 1,
+   "footer": "SOURCE: U.S. ARMY, \"ARMY HELICOPTERS IN KOREA, 1950 TO '53\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_d1062e",
+  "name": "cards3",
+  "opts": {
+   "kicker": "VIETNAM \u00b7 57TH MEDICAL DETACHMENT (HELICOPTER AMBULANCE)",
+   "title": "THE FIRST DUSTOFF UNIT",
+   "cards": [
+    {
+     "h": "1962",
+     "t": "Arrives in Vietnam",
+     "s": "APRIL 1962"
+    },
+    {
+     "h": "5",
+     "t": "UH-1 Huey helicopters",
+     "s": "AT ARRIVAL"
+    },
+    {
+     "h": "1963",
+     "t": "Callsign \"Dustoff\" chosen",
+     "s": "FROM A NAVY CALL SIGN BOOK"
+    }
+   ],
+   "footer": "SOURCE: TEXAS TECH VIETNAM CENTER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_2d751a",
+  "name": "phases",
+  "opts": {
+   "kicker": "ONE ARMY AIR AMBULANCE UNIT \u00b7 VIETNAM",
+   "title": "SEPT 1967 \u2013 JULY 1968",
+   "left": {
+    "label": "SIX HELICOPTERS FLEW",
+    "num": "8,644",
+    "desc": "MISSIONS"
+   },
+   "right": {
+    "label": "AND CARRIED",
+    "num": "21,431",
+    "desc": "PATIENTS"
+   },
+   "footer": "SOURCE: U.S. ARMY (ARMY.MIL), FORMER MEDEVAC PILOT GEORGE BAUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_e32706",
+  "name": "quote",
+  "opts": {
+   "q": "No compromises. No rationalization. Fly the mission. Now.",
+   "w": "MAJ. CHARLES L. KELLY \u00b7 57TH MEDICAL DETACHMENT, 1964 \u00b7 VIA TEXAS TECH VIETNAM CENTER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_5eb7cd",
+  "name": "callcard",
+  "opts": {
+   "kicker": "57TH MEDICAL DETACHMENT \u00b7 VIETNAM",
+   "title": "MAJ. CHARLES L. KELLY",
+   "rows": [
+    [
+     "1964",
+     "COMMANDS THE 57TH MEDICAL DETACHMENT"
+    ],
+    [
+     "JULY 1, 1964",
+     "KILLED DURING AN EVACUATION ATTEMPT"
+    ],
+    [
+     "AS RECALLED",
+     "\"NOT UNTIL I HAVE ALL YOUR WOUNDED\""
+    ]
+   ],
+   "footer": "SOURCE: TEXAS TECH VIETNAM CENTER \u00b7 ORAL HISTORY OF PILOT ERNIE SYLVESTER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_9c1626",
+  "name": "chapter",
+  "opts": {
+   "case": "THE GOLDEN HOUR",
+   "n": "II",
+   "t": "THE CALL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_bd5df3",
+  "name": "steps",
+  "opts": {
+   "kicker": "9-LINE MEDEVAC REQUEST",
+   "title": "WHAT THE CREW NEEDS TO KNOW",
+   "items": [
+    [
+     "Where",
+     "Landing zone location"
+    ],
+    [
+     "Who",
+     "Unit call sign"
+    ],
+    [
+     "How urgent",
+     "Precedence"
+    ],
+    [
+     "Gear",
+     "Special equipment"
+    ],
+    [
+     "How many",
+     "Patients, by type"
+    ]
+   ],
+   "footer": "SOURCE: U.S. ARMY, 7TH ARMY TRAINING COMMAND \u00b7 SAFETY FOCUS: 9-LINE MEDEVAC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_878c05",
+  "name": "callcard",
+  "opts": {
+   "kicker": "7TH ARMY TRAINING COMMAND \u00b7 EXAMPLE",
+   "title": "WHEN THE CALL IS WRONG",
+   "rows": [
+    [
+     "CALLED IN",
+     "1 HEAT CASUALTY"
+    ],
+    [
+     "ON ARRIVAL",
+     "4 CASUALTIES"
+    ],
+    [
+     "RESULT",
+     "AIRCRAFT RECONFIGURED AT THE LAST MINUTE"
+    ]
+   ],
+   "footer": "SOURCE: U.S. ARMY (ARMY.MIL)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_895e22",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE GOLDEN HOUR \u00b7 AS ONE ARMY TRAINING COMMAND COUNTS IT",
+   "title": "WHEN THE CLOCK RUNS",
+   "items": [
+    [
+     "Start",
+     "The crew receives the request"
+    ],
+    [
+     "Fly",
+     "Launch and reach the patient"
+    ],
+    [
+     "Load",
+     "Patient on board, en route care"
+    ],
+    [
+     "Stop",
+     "Patient handed over at a treatment facility"
+    ]
+   ],
+   "active": 3,
+   "footer": "SOURCE: U.S. ARMY (ARMY.MIL)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_942e27",
+  "name": "chapter",
+  "opts": {
+   "case": "THE GOLDEN HOUR",
+   "n": "III",
+   "t": "THE AIRCRAFT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_e6ba3a",
+  "name": "cards3",
+  "opts": {
+   "kicker": "HH-60M MEDEVAC",
+   "title": "WHO IS ON BOARD",
+   "cards": [
+    {
+     "h": "2",
+     "t": "Pilots",
+     "s": "PILOT AND CO-PILOT"
+    },
+    {
+     "h": "1",
+     "t": "Crew chief",
+     "s": "AIRCRAFT AND HOIST"
+    },
+    {
+     "h": "1",
+     "t": "Flight medic",
+     "s": "CARE IN THE AIR"
+    }
+   ],
+   "footer": "SOURCE: ARMY TECHNOLOGY, HH-60M MEDEVAC BLACK HAWK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_4551a6",
+  "name": "chapter",
+  "opts": {
+   "case": "THE GOLDEN HOUR",
+   "n": "IV",
+   "t": "THE SIXTY-MINUTE RULE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_148b2c",
+  "name": "callcard",
+  "opts": {
+   "kicker": "SECRETARY OF DEFENSE ROBERT M. GATES \u00b7 2009",
+   "title": "THE 60-MINUTE STANDARD",
+   "rows": [
+    [
+     "WHO",
+     "CRITICALLY INJURED U.S. CASUALTIES"
+    ],
+    [
+     "HOW",
+     "HELICOPTER TRANSPORT"
+    ],
+    [
+     "CLOCK",
+     "FROM THE CALL TO A TREATMENT FACILITY"
+    ],
+    [
+     "LIMIT",
+     "60 MINUTES OR LESS"
+    ]
+   ],
+   "footer": "SOURCE: JAMA SURGERY, 2015 (KOTWAL ET AL.), VIA JAMA NETWORK RELEASE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_0e13e5",
+  "name": "phases",
+  "opts": {
+   "kicker": "HELICOPTER TRANSPORT STANDARD",
+   "title": "BEFORE AND AFTER 2009",
+   "left": {
+    "label": "BEFORE THE MANDATE",
+    "num": "2 HR",
+    "desc": "EARLIER GOAL"
+   },
+   "right": {
+    "label": "FROM 2009",
+    "num": "60 MIN",
+    "desc": "CALL TO TREATMENT FACILITY"
+   },
+   "active": 1,
+   "footer": "SOURCE: JAMA SURGERY, 2015 (KOTWAL ET AL.)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_eab82a",
+  "name": "phases",
+  "opts": {
+   "kicker": "MEDIAN HELICOPTER TRANSPORT TIME \u00b7 AFGHANISTAN",
+   "title": "90 MINUTES \u2192 43",
+   "left": {
+    "label": "BEFORE THE MANDATE",
+    "num": "90",
+    "desc": "MINUTES"
+   },
+   "right": {
+    "label": "AFTER THE MANDATE",
+    "num": "43",
+    "desc": "MINUTES"
+   },
+   "active": 1,
+   "footer": "4,542 CASUALTIES WITH DETAILED DATA \u00b7 SOURCE: JAMA SURGERY, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_3df832",
+  "name": "stat",
+  "opts": {
+   "a": "75.2%",
+   "b": "OF TRANSPORTS WITHIN 60 MINUTES AFTER THE MANDATE",
+   "c": "UP FROM 24.8% \u00b7 SOURCE: JAMA SURGERY, 2015 (KOTWAL ET AL.)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_e73de8",
+  "name": "phases",
+  "opts": {
+   "kicker": "AFGHANISTAN \u00b7 SEPT 2001 \u2013 MARCH 2014",
+   "title": "CASE FATALITY RATE",
+   "left": {
+    "label": "BEFORE THE MANDATE",
+    "num": "13.7%",
+    "desc": "CASE FATALITY RATE"
+   },
+   "right": {
+    "label": "AFTER THE MANDATE",
+    "num": "7.6%",
+    "desc": "CASE FATALITY RATE"
+   },
+   "active": 1,
+   "footer": "KILLED IN ACTION: 16.0% \u2192 9.9% \u00b7 SOURCE: JAMA SURGERY, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d1eceb",
+  "name": "stat",
+  "opts": {
+   "a": "359",
+   "b": "LIVES SAVED \u00b7 RESEARCHERS' ESTIMATE",
+   "c": "PROJECTED VS. ACTUAL CASE FATALITY RATE \u00b7 JAMA SURGERY, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_95dd71",
+  "name": "stat",
+  "opts": {
+   "a": "4.1% \u2192 4.3%",
+   "b": "DIED OF WOUNDS \u00b7 ESSENTIALLY UNCHANGED",
+   "c": "SOURCE: JAMA SURGERY, 2015 (KOTWAL ET AL.)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_eb2f92",
+  "name": "chapter",
+  "opts": {
+   "case": "THE GOLDEN HOUR",
+   "n": "V",
+   "t": "IS IT REALLY AN HOUR?"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_8d98b4",
+  "name": "cards3",
+  "opts": {
+   "kicker": "ANNALS OF EMERGENCY MEDICINE \u00b7 2010",
+   "title": "TESTING THE GOLDEN HOUR",
+   "cards": [
+    {
+     "h": "3,665",
+     "t": "injured adults",
+     "s": "WITH ABNORMAL FIELD PHYSIOLOGY"
+    },
+    {
+     "h": "146",
+     "t": "EMS agencies",
+     "s": "NORTH AMERICA"
+    },
+    {
+     "h": "51",
+     "t": "trauma centers",
+     "s": "LEVEL 1 AND LEVEL 2"
+    }
+   ],
+   "footer": "SOURCE: NEWGARD ET AL., ANN EMERG MED 2010;55:235\u2013246 \u00b7 VIA JEMS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_2bdd38",
+  "name": "stat",
+  "opts": {
+   "a": "NO SIGNIFICANT LINK",
+   "b": "BETWEEN EMS TIME INTERVALS AND HOSPITAL MORTALITY",
+   "c": "IN THIS STUDY \u00b7 NEWGARD ET AL., 2010"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_92acf8",
+  "name": "chapter",
+  "opts": {
+   "case": "THE GOLDEN HOUR",
+   "n": "VI",
+   "t": "WHEN THE HOUR RUNS OUT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_1cfdc3",
+  "name": "list",
+  "opts": {
+   "kicker": "DARPA \u00b7 THE LIVE CHAIN",
+   "title": "WHY THE HOUR MAY NOT BE THERE",
+   "items": [
+    "Degraded communications",
+    "Contested airspace",
+    "Advanced weaponry that limits evacuation"
+   ],
+   "footer": "SOURCE: DARPA, VIA DVIDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_e720de",
+  "name": "steps",
+  "opts": {
+   "kicker": "DARPA \u00b7 THE LIVE CHAIN",
+   "title": "EVERY LINK BEFORE SURGERY",
+   "items": [
+    [
+     "Self",
+     "Self-aid"
+    ],
+    [
+     "Buddy",
+     "Buddy-aid"
+    ],
+    [
+     "Medic",
+     "Medic care"
+    ],
+    [
+     "En route",
+     "Care during evacuation"
+    ],
+    [
+     "Surgery",
+     "Surgical care"
+    ]
+   ],
+   "active": 4,
+   "footer": "SOURCE: DARPA, \"THE LIVE CHAIN\" (DVIDS VIDEO 993660)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_a17777",
+  "name": "chapter",
+  "opts": {
+   "case": "THE GOLDEN HOUR",
+   "n": "VII",
+   "t": "WHAT IT CHANGED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_c82707",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE GOLDEN HOUR",
+   "title": "ONE HOUR, MANY PIECES",
+   "items": [
+    [
+     "Idea",
+     "\"A golden hour between life and death\""
+    ],
+    [
+     "Call",
+     "The 9-line request"
+    ],
+    [
+     "Crew",
+     "Dustoff and the flight medic"
+    ],
+    [
+     "Rule",
+     "60 minutes, 2009"
+    ]
+   ]
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_edd662",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 HOW IT WORKS 001",
+   "stamp": "60 MIN"
+  },
+  "intro": 2.4
+ }
+]
