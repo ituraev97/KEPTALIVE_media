@@ -75,7 +75,7 @@ def _render(idx, shot, d, out, n):
         box = CLIPMETA.get(str(src), {}).get("box", "iw:ih:0:0")
         src_fps = eval(subprocess.check_output(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=r_frame_rate", "-of", "csv=p=0", clip]).decode().strip())
         # RULE: 24p sources are motion-interpolated to 30p (plain fps conversion repeats every 4th frame = visible judder)
-        rate = f"minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" if src_fps < 28 else f"fps={FPS}"
+        rate = f"minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" if src_fps < 28 else (f"fps={CLIPMETA.get(str(src), {})['src_fps']},minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" if CLIPMETA.get(str(src), {}).get("src_fps") else f"fps={FPS}")
         mode = o.get("mode", "fit")
         if mode == "fill":  # crop the active picture to 16:9 (static crop, vertical position fy 0..1)
             fy = o.get("fy", 0.5)

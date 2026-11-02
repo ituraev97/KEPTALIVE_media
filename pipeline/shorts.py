@@ -81,7 +81,7 @@ for sh in SS.SHORTS:
             if not ok(ss):
                 cands = [c for c in (ss + k * 0.25 * sg for k in range(1, 17) for sg in (1, -1)) if 0 <= c <= cdur - d - 0.4 and ok(c)]
                 if cands: print(f"MOVE {cid} {ss} -> {cands[0]:.2f}", flush=True); ss = cands[0]
-            rate = f"minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" if fps_of(clip) < 28 else f"fps={FPS}"
+            rate = f"minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" if fps_of(clip) < 28 else (f"fps={META.get(str(cid), {})['src_fps']},minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" if META.get(str(cid), {}).get("src_fps") else f"fps={FPS}")
             vf = (f"crop={box},crop=min(iw\\,ih*9/16):ih:(iw-min(iw\\,ih*9/16))*{cx}:0,{rate},scale={W}:{H}:flags=lanczos,setsar=1,{GRADE}")
             out = f"{wd}/v{len(segs):02d}.mp4"; n = int(round(d * FPS))
             run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", str(ss), "-i", clip, "-t", f"{d + 0.3:.3f}", "-vf", vf, "-frames:v", str(n), "-an",
@@ -100,6 +100,7 @@ for sh in SS.SHORTS:
             e = s + durs[li] * len(c) / tot
             ev.append(f"Dialogue: 3,{ts(s)},{ts(e - 0.01)},Cap,,0,0,0,,{{\\an5\\pos(540,1240)\\fscx90\\fscy90\\t(0,80,\\fscx100\\fscy100)}}{c.upper()}")
             s = e
+    if sh.get("label"): ev.append(f"Dialogue: 4,{ts(0)},{ts(TOTAL)},Small,,0,0,0,,{{\\an7\\pos(70,178)\\fs26}}{sh['label']}")
     ev.append(f"Dialogue: 5,{ts(TOTAL - 2.2)},{ts(TOTAL)},CTA,,0,0,0,,{{\\an5\\pos(540,1480)\\fad(200,0)}}{SS.CTA}")
     ev.append(f"Dialogue: 5,{ts(0.4)},{ts(5.5)},Small,,0,0,0,,{{\\fad(300,300)}}Footage: U.S. government via DVIDS · not affiliated with the DoD")
     open(f"{wd}/subs.ass", "w", encoding="utf-8").write(HEAD + "\n".join(ev) + "\n")

@@ -33,6 +33,7 @@ mkdir -p /home/claude/clips && cp /home/claude/keptalive_media/clips.json /home/
 - archive.org public-domain films (`advancedsearch.php`, mediatype:movies) for OUTBREAK / FIRST; check each item's rights; credit "ARCHIVAL FILM · YEAR · STUDIO".
 - Never use a clip already in `used_clips.json`. Contact sheet every 3–5 s with timestamps; skip injuries/blood/patients' faces.
 - `python3 pipeline/src_cuts.py /home/claude/clips ID` (internal cuts; builder avoids flash fragments). Add `box` to `clips.json` for 4:3 sources.
+- Check real cadence: some "60p" DVIDS files are 24p/25p content (e.g. 923203, 923212) — set `"src_fps": "24000/1001"` (or "25") for that id in `clips.json`; build/shorts then motion-interpolate from the true rate. Some shots inside such files are still uneven: if motion_check flags them, swap the shot. Interview/museum clips with speech: list them in `META["mute_nat"]`. `META["training"]` = clip ids that get the on-screen TRAINING EXERCISE badge.
 
 ## 3. Research + script
 - `episodes/NNN-slug/episode.py`: `LINES = [(spoken, shots, opts)]` — same DSL as the reference. opts: `kind` (calm|punch|tense|slow|drive|question), `tag` (place · date lower third), `gap`. Numbers as words in `spoken`; hard terms respelled + `DISPLAY` map.

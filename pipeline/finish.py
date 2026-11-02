@@ -49,6 +49,7 @@ Style: Kick,Martian Mono,26,{SONAR},&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100
 Style: Head,Saira Condensed ExtraBold,68,{FOAM},&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
 Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -77,6 +78,10 @@ for i, (txt, shots, o) in enumerate(LINES):
         add(a0, b0, "Kick", r"{\an7" + mv.format(y=846).replace("76", "106").replace("96", "126") + r"\fad(250,300)}" + t2, 3)
         add(a0, b0, "Head", r"{\an7" + mv.format(y=878).replace("76", "106").replace("96", "126") + r"\fad(250,300)}" + t1, 3)
 add(TOTAL - 4.2, TOTAL, "Credit", r"{\fad(400,0)}" + META.get("credit", ""), 5)
+TRAIN = set(str(x) for x in META.get("training", []))
+for sg in T["segs"]:  # honesty: every shot from a training exercise carries a TRAINING badge (top-left)
+    if str(sg["src"]) in TRAIN:
+        add(sg["t"], sg["t"] + sg["d"], "Badge", r"{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE", 4)
 add(0.6, 7.0, "Credit", r"{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC", 5)
 open("subs.ass", "w", encoding="utf-8").write(head + "\n".join(ev) + "\n")
 open("subs_en.srt", "w", encoding="utf-8").write("\n".join(srt))
@@ -192,7 +197,7 @@ os.makedirs("nat", exist_ok=True)
 lst = open("nat/list.txt", "w")
 for k_, sg in enumerate(T["segs"]):
     out = f"nat/{k_:03d}.wav"; src = sg["src"]
-    has_a = (not src.startswith(("g:", "img:"))) and subprocess.run(["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries", "stream=index", "-of", "csv=p=0", f"{CLIPS}/{src}.mp4"], capture_output=True, text=True).stdout.strip()
+    has_a = (not src.startswith(("g:", "img:"))) and str(src) not in set(map(str, META.get("mute_nat", []))) and subprocess.run(["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries", "stream=index", "-of", "csv=p=0", f"{CLIPS}/{src}.mp4"], capture_output=True, text=True).stdout.strip()
     if not has_a:
         run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-f", "lavfi", "-i", "anullsrc=r=48000:cl=mono", "-t", f"{sg['d']:.3f}", out])
     else:
