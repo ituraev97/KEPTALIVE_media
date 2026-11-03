@@ -1,0 +1,939 @@
+[
+ {
+  "key": "title_f9df43",
+  "name": "title",
+  "opts": {
+   "kicker": "OUTBREAK \u00b7 002",
+   "title": "Small<span style=\"color:#2BB3A3\">pox</span>",
+   "sub": "HOW THE WORLD ERASED A DISEASE",
+   "size": 230
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_33c714",
+  "name": "chapter",
+  "opts": {
+   "case": "SMALLPOX",
+   "n": "I",
+   "t": "THREE THOUSAND YEARS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_a258ed",
+  "name": "cards3",
+  "opts": {
+   "kicker": "SMALLPOX \u00b7 VARIOLA VIRUS",
+   "title": "AN ANCIENT KILLER",
+   "cards": [
+    {
+     "h": "3,000+",
+     "t": "years it has existed, at least",
+     "s": "SMALLPOX-LIKE RASHES ON EGYPTIAN MUMMIES"
+    },
+    {
+     "h": "~3 IN 10",
+     "t": "people who caught it died, on average",
+     "s": "",
+     "size": 96
+    },
+    {
+     "h": "1",
+     "t": "human infectious disease ever eradicated",
+     "s": "DECLARED 1980"
+    }
+   ],
+   "footer": "SOURCES: CDC, HISTORY OF SMALLPOX \u00b7 WHO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_5ad757",
+  "name": "timeline",
+  "opts": {
+   "kicker": "HOW SMALLPOX SPREAD",
+   "title": "FOLLOWING TRADE AND EXPLORATION",
+   "events": [
+    {
+     "y": "4TH C.",
+     "t": "First described, China"
+    },
+    {
+     "y": "7TH C.",
+     "t": "Northern Africa, Spain, Portugal"
+    },
+    {
+     "y": "11TH C.",
+     "t": "Europe"
+    },
+    {
+     "y": "16TH\u201317TH C.",
+     "t": "Caribbean and the Americas"
+    },
+    {
+     "y": "18TH C.",
+     "t": "Australia"
+    }
+   ],
+   "active": 3,
+   "footer": "SOURCE: CDC, HISTORY OF SMALLPOX"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_097e16",
+  "name": "chapter",
+  "opts": {
+   "case": "SMALLPOX",
+   "n": "II",
+   "t": "THE SCRATCH"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_6b3d4d",
+  "name": "steps",
+  "opts": {
+   "kicker": "VARIOLATION \u00b7 BEFORE VACCINES",
+   "title": "FIGHTING SMALLPOX WITH SMALLPOX",
+   "items": [
+    [
+     "Asia",
+     "Dried scabs blown into the nose"
+    ],
+    [
+     "Africa, India, Ottoman Empire",
+     "Practice spread by 1700"
+    ],
+    [
+     "Europe and America",
+     "Material put into a scratch in the skin"
+    ]
+   ],
+   "footer": "SOURCE: U.S. NATIONAL LIBRARY OF MEDICINE (NLM)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_5db8a2",
+  "name": "phases",
+  "opts": {
+   "kicker": "DEATHS \u00b7 ACCORDING TO THE NATIONAL LIBRARY OF MEDICINE",
+   "title": "VARIOLATION VS. NATURAL SMALLPOX",
+   "left": {
+    "label": "AFTER VARIOLATION",
+    "num": "1\u20132%",
+    "desc": "DIED"
+   },
+   "right": {
+    "label": "CAUGHT NATURALLY",
+    "num": "30%",
+    "desc": "DIED"
+   },
+   "active": 0,
+   "footer": "SOURCE: NLM, SMALLPOX: A GREAT AND TERRIBLE SCOURGE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_fd329a",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CONSTANTINOPLE \u00b7 1717 \u00b7 TRIALS 1721",
+   "title": "LADY MARY WORTLEY MONTAGU",
+   "rows": [
+    [
+     "1717",
+     "LEARNS OF VARIOLATION IN CONSTANTINOPLE"
+    ],
+    [
+     "1721",
+     "PRISONERS AND ABANDONED CHILDREN INOCULATED"
+    ],
+    [
+     "RESULT",
+     "NONE CAUGHT SMALLPOX AFTER LATER EXPOSURE"
+    ]
+   ],
+   "footer": "SOURCE: U.S. NATIONAL LIBRARY OF MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_5f3b03",
+  "name": "callcard",
+  "opts": {
+   "kicker": "BOSTON \u00b7 1721",
+   "title": "VARIOLATION COMES TO AMERICA",
+   "rows": [
+    [
+     "1721",
+     "SMALLPOX EPIDEMIC IN BOSTON"
+    ],
+    [
+     "WHO PUSHED IT",
+     "MINISTER COTTON MATHER"
+    ],
+    [
+     "WHERE HE LEARNED IT",
+     "ONESIMUS, ENSLAVED IN HIS HOUSEHOLD"
+    ]
+   ],
+   "footer": "SOURCE: U.S. NATIONAL LIBRARY OF MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_82f39b",
+  "name": "phases",
+  "opts": {
+   "kicker": "CONTINENTAL ARMY \u00b7 1777",
+   "title": "AN ARMY WITH NO PROTECTION",
+   "left": {
+    "label": "CONTINENTAL TROOPS",
+    "num": "<25%",
+    "desc": "HAD ALREADY HAD SMALLPOX"
+   },
+   "right": {
+    "label": "BRITISH TROOPS",
+    "num": "MOST",
+    "desc": "WERE IMMUNE"
+   },
+   "active": 0,
+   "footer": "SOURCES: MILITARY HEALTH SYSTEM (HEALTH.MIL) \u00b7 AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_7af9b0",
+  "name": "stat",
+  "opts": {
+   "a": "~90%",
+   "b": "OF CONTINENTAL ARMY DEATHS CAUSED BY DISEASE \u00b7 ESTIMATED",
+   "c": "SOURCE: MILITARY HEALTH SYSTEM (HEALTH.MIL)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_793c26",
+  "name": "quote",
+  "opts": {
+   "q": "I have determined that the troops shall be inoculated.",
+   "w": "GEORGE WASHINGTON TO DR. WILLIAM SHIPPEN \u00b7 FEB. 6, 1777 \u00b7 VIA HEALTH.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_a4e836",
+  "name": "callcard",
+  "opts": {
+   "kicker": "WINTER 1777",
+   "title": "INOCULATING AN ARMY",
+   "rows": [
+    [
+     "FEB. 6, 1777",
+     "WASHINGTON ORDERS THE TROOPS INOCULATED"
+    ],
+    [
+     "WHERE",
+     "MORRISTOWN, N.J., AND PHILADELPHIA"
+    ],
+    [
+     "WHY WINTER",
+     "FIGHTING HAD EBBED \u00b7 TIME TO RECOVER"
+    ],
+    [
+     "THE RISK",
+     "IT COULD CAUSE THE OUTBREAK IT WAS MEANT TO PREVENT"
+    ]
+   ],
+   "footer": "SOURCES: MILITARY HEALTH SYSTEM \u00b7 AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_844380",
+  "name": "chapter",
+  "opts": {
+   "case": "SMALLPOX",
+   "n": "III",
+   "t": "THE COW"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_898650",
+  "name": "steps",
+  "opts": {
+   "kicker": "EDWARD JENNER \u00b7 1796",
+   "title": "THE FIRST VACCINE",
+   "items": [
+    [
+     "Observe",
+     "Dairymaids with cowpox seemed immune"
+    ],
+    [
+     "Test",
+     "An 8-year-old boy is given cowpox"
+    ],
+    [
+     "Expose",
+     "Later exposed to smallpox"
+    ],
+    [
+     "Result",
+     "He did not get smallpox"
+    ]
+   ],
+   "active": 3,
+   "footer": "SOURCES: CDC \u00b7 U.S. NATIONAL LIBRARY OF MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_b00ebc",
+  "name": "quote",
+  "opts": {
+   "q": "The annihilation of the smallpox, the most dreadful scourge of the human species, must be the final result of this practice.",
+   "w": "EDWARD JENNER \u00b7 1801 \u00b7 AS QUOTED BY THE CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_5ca1e1",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FROM COWPOX TO VACCINIA",
+   "title": "THE VACCINE SPREADS",
+   "events": [
+    {
+     "y": "1796",
+     "t": "Jenner's cowpox test"
+    },
+    {
+     "y": "1798",
+     "t": "Findings published"
+    },
+    {
+     "y": "1807",
+     "t": "Bavaria requires vaccination of recruits"
+    },
+    {
+     "y": "1800S",
+     "t": "Vaccine virus becomes vaccinia"
+    }
+   ],
+   "active": 2,
+   "footer": "SOURCES: CDC \u00b7 U.S. NATIONAL LIBRARY OF MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_89d75a",
+  "name": "chapter",
+  "opts": {
+   "case": "SMALLPOX",
+   "n": "IV",
+   "t": "THE PLAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_51a1cb",
+  "name": "phases",
+  "opts": {
+   "kicker": "WORLD HEALTH ORGANIZATION",
+   "title": "THE FIRST ATTEMPT",
+   "left": {
+    "label": "LAUNCHED",
+    "num": "1959",
+    "desc": "GLOBAL ERADICATION PLAN"
+   },
+   "right": {
+    "label": "STILL WIDESPREAD",
+    "num": "1966",
+    "desc": "TOO LITTLE MONEY, STAFF, VACCINE"
+   },
+   "active": 1,
+   "footer": "SOURCE: CDC, HISTORY OF SMALLPOX"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_fddb49",
+  "name": "callcard",
+  "opts": {
+   "kicker": "WHO \u00b7 INTENSIFIED SMALLPOX ERADICATION PROGRAMME",
+   "title": "STARTING OVER",
+   "rows": [
+    [
+     "OCT. 1966",
+     "D. A. HENDERSON TAKES CHARGE, IN GENEVA"
+    ],
+    [
+     "1967",
+     "INTENSIFIED PROGRAM BEGINS"
+    ],
+    [
+     "HIS TRAINING",
+     "U.S. CDC, UNDER ALEXANDER LANGMUIR"
+    ]
+   ],
+   "footer": "SOURCE: BREMAN, J INFECT DIS 2017 \u00b7 CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_db93c5",
+  "name": "cards3",
+  "opts": {
+   "kicker": "SMALLPOX IN 1967 \u00b7 ESTIMATES",
+   "title": "WHAT THEY WERE UP AGAINST",
+   "cards": [
+    {
+     "h": "33",
+     "t": "countries where it was endemic",
+     "s": "POPULATION 1.2 BILLION"
+    },
+    {
+     "h": "10\u201315M",
+     "t": "cases a year, estimated",
+     "s": ""
+    },
+    {
+     "h": "<5%",
+     "t": "of cases ever reported",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: BREMAN, \"D. A. HENDERSON \u2026 SMALLPOX ERADICATION,\" J INFECT DIS 2017"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_5b2fec",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE BIFURCATED NEEDLE",
+   "title": "A TWO-PRONGED NEEDLE",
+   "cards": [
+    {
+     "h": "\u00bc",
+     "t": "of the vaccine previously needed",
+     "s": ""
+    },
+    {
+     "h": "~100%",
+     "t": "vaccine \"takes\"",
+     "s": "NEARLY ALL SUCCESSFUL"
+    },
+    {
+     "h": "100\u00d7",
+     "t": "could be reused after sterilization",
+     "s": "UP TO"
+    }
+   ],
+   "footer": "SOURCES: U.S. NATIONAL LIBRARY OF MEDICINE \u00b7 BREMAN, J INFECT DIS 2017"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_db3168",
+  "name": "chapter",
+  "opts": {
+   "case": "SMALLPOX",
+   "n": "V",
+   "t": "THE RING"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d99f0b",
+  "name": "stat",
+  "opts": {
+   "a": "25,000,000",
+   "b": "PEOPLE VACCINATED BY WORKERS IN 1967",
+   "c": "LARGE SEGMENTS OF THE POPULATION STILL MISSED \u00b7 SOURCE: NLM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_5f3ec0",
+  "name": "steps",
+  "opts": {
+   "kicker": "SURVEILLANCE AND CONTAINMENT",
+   "title": "FIND IT. THEN RING IT.",
+   "items": [
+    [
+     "Search",
+     "Find every case"
+    ],
+    [
+     "Isolate",
+     "Contain the outbreak"
+    ],
+    [
+     "Ring",
+     "Vaccinate the contacts around it"
+    ],
+    [
+     "Repeat",
+     "Until no cases are left"
+    ]
+   ],
+   "active": 2,
+   "footer": "SOURCES: BREMAN, J INFECT DIS 2017 \u00b7 NLM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_c0f8ff",
+  "name": "phases",
+  "opts": {
+   "kicker": "TWO STRATEGIES",
+   "title": "RING VS. MASS VACCINATION",
+   "left": {
+    "label": "INDISCRIMINATE MASS VACCINATION",
+    "num": "MISSED",
+    "desc": "LARGE PARTS OF THE POPULATION"
+   },
+   "right": {
+    "label": "RING VACCINATION",
+    "num": "TARGETED",
+    "desc": "VASTLY BETTER, PER BREMAN"
+   },
+   "active": 1,
+   "footer": "SOURCES: NLM \u00b7 BREMAN, J INFECT DIS 2017"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_b817f7",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -25,
+      -5
+     ],
+     [
+      25,
+      20
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       -13.23,
+       8.48
+      ],
+      "r": 40,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -13.23,
+       8.48
+      ],
+      "name": "SIERRA LEONE",
+      "sub": "1968 TRIAL \u00b7 ZERO WITHIN 9 MONTHS",
+      "d": 0.3,
+      "color": "#6CF29A"
+     }
+    ]
+   },
+   "kicker": "WEST AFRICA \u00b7 1968\u201369",
+   "title": "ZERO-POX IN NINE MONTHS",
+   "footer": "SOURCE: U.S. NATIONAL LIBRARY OF MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_d3631d",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE PEOPLE WHO DID IT",
+   "title": "AN ARMY AGAINST A VIRUS",
+   "cards": [
+    {
+     "h": "150,000+",
+     "t": "workers on the program",
+     "s": "",
+     "size": 96
+    },
+    {
+     "h": "700+",
+     "t": "field leaders",
+     "s": "FROM 73 COUNTRIES"
+    },
+    {
+     "h": "150+",
+     "t": "of them from the CDC",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: BREMAN, J INFECT DIS 2017"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_51535d",
+  "name": "stat",
+  "opts": {
+   "a": "700+",
+   "b": "BIFURCATED NEEDLES TWISTED INTO LAPEL PINS",
+   "c": "\"THE ORDER OF THE BIFURCATED NEEDLE\" \u00b7 c. 1976 \u00b7 SOURCE: BREMAN, J INFECT DIS 2017"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_de90bb",
+  "name": "chapter",
+  "opts": {
+   "case": "SMALLPOX",
+   "n": "VI",
+   "t": "ZERO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_259ed9",
+  "name": "timeline",
+  "opts": {
+   "kicker": "SMALLPOX ELIMINATED",
+   "title": "REGION BY REGION",
+   "events": [
+    {
+     "y": "1952",
+     "t": "North America"
+    },
+    {
+     "y": "1953",
+     "t": "Europe"
+    },
+    {
+     "y": "1971",
+     "t": "South America"
+    },
+    {
+     "y": "1975",
+     "t": "Asia"
+    },
+    {
+     "y": "1977",
+     "t": "Africa"
+    }
+   ],
+   "active": 4,
+   "footer": "SOURCE: CDC, HISTORY OF SMALLPOX"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_2ec38f",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -95,
+      -12
+     ],
+     [
+      100,
+      62
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       90.4,
+       23.8
+      ],
+      "r": 30,
+      "n": 2,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       90.4,
+       23.8
+      ],
+      "name": "BANGLADESH",
+      "sub": "LATE 1975 \u00b7 LAST NATURAL VARIOLA MAJOR",
+      "d": 0.3,
+      "color": "#6CF29A",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "LATE 1975",
+   "title": "THE LAST CASE OF VARIOLA MAJOR",
+   "footer": "SOURCE: CDC, HISTORY OF SMALLPOX"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_ea118e",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -95,
+      -12
+     ],
+     [
+      100,
+      62
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       90.4,
+       23.8
+      ],
+      "r": 30,
+      "n": 1,
+      "d": 0.2,
+      "color": "#8A9AA0"
+     },
+     {
+      "ll": [
+       44.77,
+       1.71
+      ],
+      "r": 36,
+      "n": 3,
+      "d": 0.6
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       90.4,
+       23.8
+      ],
+      "name": "BANGLADESH",
+      "sub": "1975",
+      "d": 0.1,
+      "anchor": "end"
+     },
+     {
+      "ll": [
+       44.77,
+       1.71
+      ],
+      "name": "MERCA, SOMALIA",
+      "sub": "OCT. 30, 1977 \u00b7 LAST NATURAL CASE",
+      "d": 0.4,
+      "color": "#6CF29A",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "OCTOBER 30, 1977",
+   "title": "THE LAST NATURAL CASE",
+   "footer": "SOURCE: CDC \u00b7 WHO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_87af12",
+  "name": "stat",
+  "opts": {
+   "a": "MAY 8, 1980",
+   "b": "THE WORLD IS DECLARED FREE OF SMALLPOX",
+   "c": "33RD WORLD HEALTH ASSEMBLY \u00b7 SOURCES: CDC \u00b7 WHO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_1d8287",
+  "name": "quote",
+  "opts": {
+   "q": "Many people consider smallpox eradication to be the biggest achievement in international public health.",
+   "w": "CDC \u00b7 HISTORY OF SMALLPOX"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_2e9358",
+  "name": "chapter",
+  "opts": {
+   "case": "SMALLPOX",
+   "n": "VII",
+   "t": "WHAT'S LEFT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_16bfc5",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -110,
+      15
+     ],
+     [
+      110,
+      65
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       -84.39,
+       33.75
+      ],
+      "r": 30,
+      "n": 2,
+      "d": 0.5
+     },
+     {
+      "ll": [
+       83.18,
+       54.93
+      ],
+      "r": 30,
+      "n": 2,
+      "d": 0.8
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -84.39,
+       33.75
+      ],
+      "name": "CDC \u00b7 ATLANTA",
+      "sub": "UNITED STATES",
+      "d": 0.3,
+      "color": "#6CF29A"
+     },
+     {
+      "ll": [
+       83.18,
+       54.93
+      ],
+      "name": "VECTOR \u00b7 KOLTSOVO",
+      "sub": "RUSSIA",
+      "d": 0.6,
+      "color": "#6CF29A",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "VARIOLA VIRUS STOCKS",
+   "title": "ONLY TWO OFFICIAL STOCKS",
+   "footer": "SOURCES: CDC \u00b7 WHO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_06e798",
+  "name": "timeline",
+  "opts": {
+   "kicker": "SMALLPOX VACCINATION IN THE U.S. MILITARY",
+   "title": "STOPPED, THEN RESTARTED",
+   "events": [
+    {
+     "y": "~1972",
+     "t": "Routine civilian vaccination ends in the U.S."
+    },
+    {
+     "y": "1984",
+     "t": "Limited to military recruits"
+    },
+    {
+     "y": "1990",
+     "t": "Recruit vaccination discontinued"
+    },
+    {
+     "y": "DEC. 2002",
+     "t": "DoD restarts for designated personnel"
+    }
+   ],
+   "active": 3,
+   "footer": "SOURCE: DOD NEWS RELEASE NO. 634-02, DEC. 13, 2002"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_502885",
+  "name": "stat",
+  "opts": {
+   "a": "192.5M",
+   "b": "DOSES OF ACAM2000 SUPPLIED FOR THE STRATEGIC NATIONAL STOCKPILE",
+   "c": "AS REPORTED BY THE MANUFACTURER, 2007 \u00b7 VIA CIDRAP"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_57b109",
+  "name": "chapter",
+  "opts": {
+   "case": "SMALLPOX",
+   "n": "VIII",
+   "t": "HOW IT WAS DONE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_4c146a",
+  "name": "steps",
+  "opts": {
+   "kicker": "SMALLPOX",
+   "title": "FROM SCRATCH TO ZERO",
+   "items": [
+    [
+     "1721",
+     "Variolation reaches Boston"
+    ],
+    [
+     "1796",
+     "Jenner's cowpox vaccine"
+    ],
+    [
+     "1967",
+     "Freeze-dried vaccine, bifurcated needle"
+    ],
+    [
+     "1968\u20131980",
+     "Ring vaccination, then zero"
+    ]
+   ],
+   "active": 3
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_25985f",
+  "name": "stat",
+  "opts": {
+   "a": "NEXT",
+   "b": "INSIDE THE NAVY'S FLOATING HOSPITAL",
+   "c": "KEPT ALIVE \u00b7 THE SAVE \u00b7 003"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_fc9b92",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 OUTBREAK 002",
+   "stamp": "1980"
+  },
+  "intro": 2.4
+ }
+]

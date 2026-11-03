@@ -82,6 +82,8 @@ for sh in SS.SHORTS:
                 cands = [c for c in (ss + k * 0.25 * sg for k in range(1, 17) for sg in (1, -1)) if 0 <= c <= cdur - d - 0.4 and ok(c)]
                 if cands: print(f"MOVE {cid} {ss} -> {cands[0]:.2f}", flush=True); ss = cands[0]
             rate = f"minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" if fps_of(clip) < 28 else (f"fps={META.get(str(cid), {})['src_fps']},minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" if META.get(str(cid), {}).get("src_fps") else f"fps={FPS}")
+            if META.get(str(cid), {}).get("decimate"):  # 24p film with repeated frames in a 30p file
+                rate = f"decimate=cycle={META[str(cid)]['decimate']},minterpolate=fps={FPS}:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1"
             vf = (f"crop={box},crop=min(iw\\,ih*9/16):ih:(iw-min(iw\\,ih*9/16))*{cx}:0,{rate},scale={W}:{H}:flags=lanczos,setsar=1,{GRADE}")
             out = f"{wd}/v{len(segs):02d}.mp4"; n = int(round(d * FPS))
             run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", str(ss), "-i", clip, "-t", f"{d + 0.3:.3f}", "-vf", vf, "-frames:v", str(n), "-an",

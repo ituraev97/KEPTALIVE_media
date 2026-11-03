@@ -1,0 +1,171 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:01.38,Sub,,0,0,0,,{\fad(80,80)}1955.
+Dialogue: 0,0:00:01.40,0:00:05.59,Sub,,0,0,0,,{\fad(80,80)}An American educational film shows a doctor, a small
+Dialogue: 0,0:00:05.61,0:00:07.62,Sub,,0,0,0,,{\fad(80,80)}child, and a vaccination.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"IMMUNIZATION" · ENCYCLOPAEDIA BRITANNICA FILMS
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1955
+Dialogue: 0,0:00:08.09,0:00:10.84,Sub,,0,0,0,,{\fad(80,80)}For thousands of years, smallpox was one of the
+Dialogue: 0,0:00:10.86,0:00:12.49,Sub,,0,0,0,,{\fad(80,80)}deadliest diseases on Earth.
+Dialogue: 0,0:00:12.51,0:00:15.56,Sub,,0,0,0,,{\fad(80,80)}On average, about 3 in 10 people who caught it died.
+Dialogue: 0,0:00:16.03,0:00:19.41,Sub,,0,0,0,,{\fad(80,80)}As late as 1967, according to a history of the
+Dialogue: 0,0:00:19.43,0:00:22.74,Sub,,0,0,0,,{\fad(80,80)}eradication campaign, it was still causing an
+Dialogue: 0,0:00:22.76,0:00:25.70,Sub,,0,0,0,,{\fad(80,80)}estimated 10 to 15 million cases a year.
+Dialogue: 0,0:00:25.72,0:00:29.33,Sub,,0,0,0,,{\fad(80,80)}Ten years later, the last natural case was found.
+Dialogue: 0,0:00:29.35,0:00:31.84,Sub,,0,0,0,,{\fad(80,80)}Today, it doesn't exist in nature.
+Dialogue: 0,0:00:32.56,0:00:35.66,Sub,,0,0,0,,{\fad(80,80)}It is the only human infectious disease that has
+Dialogue: 0,0:00:35.68,0:00:36.95,Sub,,0,0,0,,{\fad(80,80)}ever been wiped out.
+Dialogue: 0,0:00:36.97,0:00:40.33,Sub,,0,0,0,,{\fad(80,80)}So how do you erase a disease from an entire planet?
+Dialogue: 2,0:00:32.81,0:00:38.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:00:32.81,0:00:38.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:32.81,0:00:38.56,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}USAMRIID · BIOSAFETY LEVEL 4 · 2020
+Dialogue: 3,0:00:32.81,0:00:38.56,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY BIODEFENSE LAB · FORT DETRICK, MARYLAND
+Dialogue: 0,0:01:12.06,0:01:14.37,Sub,,0,0,0,,{\fad(80,80)}And people noticed something early on.
+Dialogue: 0,0:01:14.39,0:01:17.38,Sub,,0,0,0,,{\fad(80,80)}If you survived smallpox, you were protected from
+Dialogue: 0,0:01:17.40,0:01:18.48,Sub,,0,0,0,,{\fad(80,80)}catching it again.
+Dialogue: 2,0:01:12.31,0:01:18.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 547 0 l 547 132 l 0 132{\p0}
+Dialogue: 3,0:01:12.31,0:01:18.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:12.31,0:01:18.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ANIMATION · HOW IMMUNITY WORKS
+Dialogue: 3,0:01:12.31,0:01:18.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1955
+Dialogue: 0,0:02:17.52,0:02:20.91,Sub,,0,0,0,,{\fad(80,80)}About half a century later, it became a question of war.
+Dialogue: 2,0:02:17.77,0:02:21.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 717 0 l 717 132 l 0 132{\p0}
+Dialogue: 3,0:02:17.77,0:02:21.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:17.77,0:02:21.33,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MILITARY HEALTH SYSTEM PODCAST · 2026
+Dialogue: 3,0:02:17.77,0:02:21.33,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HISTORIAN DR. DALE SMITH · USU
+Dialogue: 0,0:02:43.38,0:02:47.83,Sub,,0,0,0,,{\fad(80,80)}So, on February 6, 1777, George Washington wrote to
+Dialogue: 0,0:02:47.85,0:02:50.02,Sub,,0,0,0,,{\fad(80,80)}his medical director, Dr.
+Dialogue: 0,0:02:50.04,0:02:51.42,Sub,,0,0,0,,{\fad(80,80)}William Shippen.
+Dialogue: 0,0:03:10.02,0:03:12.78,Sub,,0,0,0,,{\fad(80,80)}The Military Health System calls the strategy
+Dialogue: 0,0:03:12.80,0:03:13.95,Sub,,0,0,0,,{\fad(80,80)}largely successful.
+Dialogue: 0,0:03:17.31,0:03:20.03,Sub,,0,0,0,,{\fad(80,80)}The English doctor Edward Jenner had noticed
+Dialogue: 0,0:03:20.05,0:03:21.71,Sub,,0,0,0,,{\fad(80,80)}something about dairymaids.
+Dialogue: 0,0:03:21.73,0:03:24.57,Sub,,0,0,0,,{\fad(80,80)}The ones who had caught cowpox, a disease they
+Dialogue: 0,0:03:24.59,0:03:27.86,Sub,,0,0,0,,{\fad(80,80)}picked up from cows, seemed to be immune to smallpox.
+Dialogue: 2,0:03:17.56,0:03:23.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 547 0 l 547 132 l 0 132{\p0}
+Dialogue: 3,0:03:17.56,0:03:23.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:17.56,0:03:23.31,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENCYCLOPAEDIA BRITANNICA FILMS
+Dialogue: 3,0:03:17.56,0:03:23.31,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1955
+Dialogue: 0,0:03:37.03,0:03:39.77,Sub,,0,0,0,,{\fad(80,80)}He repeated the experiment on other children,
+Dialogue: 0,0:03:39.79,0:03:41.12,Sub,,0,0,0,,{\fad(80,80)}including his own son.
+Dialogue: 0,0:03:41.14,0:03:44.31,Sub,,0,0,0,,{\fad(80,80)}Within twenty years of his findings being published,
+Dialogue: 0,0:03:44.33,0:03:47.07,Sub,,0,0,0,,{\fad(80,80)}his work had been translated into Portuguese,
+Dialogue: 0,0:03:47.09,0:03:49.28,Sub,,0,0,0,,{\fad(80,80)}French, Dutch, Italian and Japanese.
+Dialogue: 2,0:03:37.28,0:03:43.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 547 0 l 547 132 l 0 132{\p0}
+Dialogue: 3,0:03:37.28,0:03:43.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:37.28,0:03:43.03,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENCYCLOPAEDIA BRITANNICA FILMS
+Dialogue: 3,0:03:37.28,0:03:43.03,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1955
+Dialogue: 0,0:04:18.52,0:04:21.74,Sub,,0,0,0,,{\fad(80,80)}In this 1955 film, smallpox vaccine production
+Dialogue: 0,0:04:21.76,0:04:23.08,Sub,,0,0,0,,{\fad(80,80)}starts with calves.
+Dialogue: 0,0:04:23.10,0:04:26.60,Sub,,0,0,0,,{\fad(80,80)}Then the vaccine is processed in a lab, and sealed
+Dialogue: 0,0:04:26.62,0:04:28.15,Sub,,0,0,0,,{\fad(80,80)}into tiny glass tubes.
+Dialogue: 2,0:04:18.77,0:04:24.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 502 0 l 502 132 l 0 132{\p0}
+Dialogue: 3,0:04:18.77,0:04:24.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:18.77,0:04:24.52,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SMALLPOX VACCINE PRODUCTION
+Dialogue: 3,0:04:18.77,0:04:24.52,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1955
+Dialogue: 0,0:04:28.62,0:04:29.41,Sub,,0,0,0,,{\fad(80,80)}It worked.
+Dialogue: 0,0:04:29.43,0:04:33.57,Sub,,0,0,0,,{\fad(80,80)}Smallpox was eliminated from North America in 1952.
+Dialogue: 0,0:04:33.59,0:04:35.52,Sub,,0,0,0,,{\fad(80,80)}Europe followed in 1953.
+Dialogue: 0,0:04:35.99,0:04:38.79,Sub,,0,0,0,,{\fad(80,80)}But in much of the world, smallpox was still everywhere.
+Dialogue: 0,0:05:28.73,0:05:30.28,Sub,,0,0,0,,{\fad(80,80)}They needed better tools.
+Dialogue: 0,0:05:30.30,0:05:32.35,Sub,,0,0,0,,{\fad(80,80)}The first was the vaccine itself.
+Dialogue: 0,0:05:32.37,0:05:35.48,Sub,,0,0,0,,{\fad(80,80)}During the program, only heat-stable, freeze-dried
+Dialogue: 0,0:05:35.50,0:05:36.54,Sub,,0,0,0,,{\fad(80,80)}vaccine was used.
+Dialogue: 2,0:05:28.98,0:05:34.73,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:05:28.98,0:05:34.73,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:28.98,0:05:34.73,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. AIR FORCE TRAINING VIDEO · 2018
+Dialogue: 3,0:05:28.98,0:05:34.73,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SMALLPOX VACCINE VIALS · MODERN
+Dialogue: 0,0:05:44.14,0:05:47.19,Sub,,0,0,0,,{\fad(80,80)}According to the National Library of Medicine, it
+Dialogue: 0,0:05:47.21,0:05:50.39,Sub,,0,0,0,,{\fad(80,80)}needed a quarter of the vaccine used before, almost
+Dialogue: 0,0:05:50.41,0:05:53.40,Sub,,0,0,0,,{\fad(80,80)}every vaccination took, and after sterilization,
+Dialogue: 0,0:05:53.42,0:05:56.54,Sub,,0,0,0,,{\fad(80,80)}each needle could be reused up to a hundred times.
+Dialogue: 2,0:05:44.39,0:05:50.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 931 0 l 931 132 l 0 132{\p0}
+Dialogue: 3,0:05:44.39,0:05:50.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:44.39,0:05:50.14,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. AIR FORCE TRAINING VIDEO · 2018
+Dialogue: 3,0:05:44.39,0:05:50.14,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MODERN VACCINE PREP · NOT 1960S PRACTICE
+Dialogue: 0,0:07:44.96,0:07:46.57,Sub,,0,0,0,,{\fad(80,80)}There was one more death.
+Dialogue: 0,0:07:46.59,0:07:49.88,Sub,,0,0,0,,{\fad(80,80)}In 1978, a medical photographer at a medical school
+Dialogue: 0,0:07:49.90,0:07:53.06,Sub,,0,0,0,,{\fad(80,80)}in Birmingham, England, caught smallpox and died.
+Dialogue: 0,0:07:53.08,0:07:56.44,Sub,,0,0,0,,{\fad(80,80)}The CDC says her infection was traced to the medical
+Dialogue: 0,0:07:56.46,0:08:00.07,Sub,,0,0,0,,{\fad(80,80)}school building, where smallpox research was being done.
+Dialogue: 2,0:07:45.21,0:07:50.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:07:45.21,0:07:50.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:45.21,0:07:50.96,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY LAB · 2020 · NOT BIRMINGHAM
+Dialogue: 3,0:07:45.21,0:07:50.96,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BSL-4 SUIT DECONTAMINATION SHOWER · USAMRIID
+Dialogue: 0,0:08:41.53,0:08:44.40,Sub,,0,0,0,,{\fad(80,80)}The World Health Organization inspects both
+Dialogue: 0,0:08:44.42,0:08:47.88,Sub,,0,0,0,,{\fad(80,80)}repositories every two years, and keeps an emergency
+Dialogue: 0,0:08:47.90,0:08:51.24,Sub,,0,0,0,,{\fad(80,80)}stockpile of smallpox vaccine, in case the disease
+Dialogue: 0,0:08:51.26,0:08:52.11,Sub,,0,0,0,,{\fad(80,80)}ever returns.
+Dialogue: 2,0:08:41.78,0:08:47.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:08:41.78,0:08:47.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:41.78,0:08:47.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}USAMRIID · BSL-4 · FORT DETRICK, MD · 2020
+Dialogue: 3,0:08:41.78,0:08:47.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY BIODEFENSE LAB, NOT A SMALLPOX REPOSITORY
+Dialogue: 0,0:08:52.58,0:08:56.32,Sub,,0,0,0,,{\fad(80,80)}Labs that study the most dangerous viruses work like this.
+Dialogue: 0,0:08:56.34,0:08:59.56,Sub,,0,0,0,,{\fad(80,80)}Full-body suits, connected to a supplied air line.
+Dialogue: 0,0:08:59.58,0:09:00.86,Sub,,0,0,0,,{\fad(80,80)}This one is the U.S.
+Dialogue: 0,0:09:00.88,0:09:04.23,Sub,,0,0,0,,{\fad(80,80)}Army's infectious disease institute at Fort Detrick,
+Dialogue: 0,0:09:04.25,0:09:04.81,Sub,,0,0,0,,{\fad(80,80)}Maryland.
+Dialogue: 2,0:08:52.83,0:08:58.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 802 0 l 802 132 l 0 132{\p0}
+Dialogue: 3,0:08:52.83,0:08:58.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:52.83,0:08:58.58,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TRAINING LABORATORY · 2020
+Dialogue: 3,0:08:52.83,0:08:58.58,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BSL-4 PPE DEMONSTRATION · USAMRIID
+Dialogue: 0,0:09:05.28,0:09:08.62,Sub,,0,0,0,,{\fad(80,80)}Founded in 1969, it's the only Defense Department
+Dialogue: 0,0:09:08.64,0:09:11.70,Sub,,0,0,0,,{\fad(80,80)}lab equipped to safely study highly hazardous
+Dialogue: 0,0:09:11.72,0:09:14.51,Sub,,0,0,0,,{\fad(80,80)}viruses at the highest containment level.
+Dialogue: 0,0:09:14.53,0:09:17.59,Sub,,0,0,0,,{\fad(80,80)}Separately, according to the Army, it ran the
+Dialogue: 0,0:09:17.61,0:09:20.95,Sub,,0,0,0,,{\fad(80,80)}pivotal trial that led to FDA approval of another
+Dialogue: 0,0:09:20.97,0:09:22.11,Sub,,0,0,0,,{\fad(80,80)}smallpox vaccine.
+Dialogue: 0,0:09:22.58,0:09:25.27,Sub,,0,0,0,,{\fad(80,80)}After the attacks of September eleventh, and the
+Dialogue: 0,0:09:25.29,0:09:28.16,Sub,,0,0,0,,{\fad(80,80)}anthrax letters, the Pentagon reassessed the threat
+Dialogue: 0,0:09:28.18,0:09:30.42,Sub,,0,0,0,,{\fad(80,80)}that smallpox could be used as a weapon.
+Dialogue: 0,0:09:50.95,0:09:52.69,Sub,,0,0,0,,{\fad(80,80)}A newer vaccine followed.
+Dialogue: 0,0:09:52.71,0:09:55.16,Sub,,0,0,0,,{\fad(80,80)}In 2007, the FDA approved ACAM2000.
+Dialogue: 0,0:09:55.18,0:09:58.77,Sub,,0,0,0,,{\fad(80,80)}It was derived from an older vaccine, Dryvax, which
+Dialogue: 0,0:09:58.79,0:10:01.03,Sub,,0,0,0,,{\fad(80,80)}was grown on the skin of calves.
+Dialogue: 0,0:10:01.05,0:10:03.64,Sub,,0,0,0,,{\fad(80,80)}The new one is grown in cell culture.
+Dialogue: 2,0:09:51.20,0:09:56.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 674 0 l 674 132 l 0 132{\p0}
+Dialogue: 3,0:09:51.20,0:09:56.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:51.20,0:09:56.95,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. AIR FORCE TRAINING VIDEO · 2018
+Dialogue: 3,0:09:51.20,0:09:56.95,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SMALLPOX VACCINE PREPARATION
+Dialogue: 0,0:10:20.24,0:10:23.33,Sub,,0,0,0,,{\fad(80,80)}Vaccination is still part of military life.
+Dialogue: 0,0:10:23.35,0:10:26.59,Sub,,0,0,0,,{\fad(80,80)}This is a seasonal flu vaccine drive, at Camp
+Dialogue: 0,0:10:26.61,0:10:29.35,Sub,,0,0,0,,{\fad(80,80)}Carroll, South Korea, in October 2026.
+Dialogue: 2,0:10:20.49,0:10:26.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:10:20.49,0:10:26.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:20.49,0:10:26.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CAMP CARROLL, SOUTH KOREA · OCT. 26, 2026
+Dialogue: 3,0:10:20.49,0:10:26.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FLU VACCINE DRIVE, NOT SMALLPOX
+Dialogue: 0,0:10:42.71,0:10:46.35,Sub,,0,0,0,,{\fad(80,80)}And with more than 150,000 people, who went looking
+Dialogue: 0,0:10:46.37,0:10:49.44,Sub,,0,0,0,,{\fad(80,80)}for every last case, until there were none.
+Dialogue: 2,0:10:42.96,0:10:48.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 547 0 l 547 132 l 0 132{\p0}
+Dialogue: 3,0:10:42.96,0:10:48.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:42.96,0:10:48.71,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENCYCLOPAEDIA BRITANNICA FILMS
+Dialogue: 3,0:10:42.96,0:10:48.71,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1955
+Dialogue: 5,0:10:58.35,0:11:02.55,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Army (USAMRIID), U.S. Air Force, Military Health System, AFN Daegu (U.S. Forces Korea) via DVIDS (public domain);\N\"Immunization\" (1955, Encyclopaedia Britannica Films), public domain via Prelinger Archives / Internet Archive.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH, CDC or WHO.\NFor education only. This is not medical advice.
+Dialogue: 4,0:05:28.73,0:05:32.87,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:32.87,0:05:37.00,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:44.13,0:05:50.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:50.73,0:05:57.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:52.57,0:08:56.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:56.80,0:09:01.03,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:01.03,0:09:05.27,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:50.93,0:09:55.33,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:55.33,0:09:59.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:59.73,0:10:04.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

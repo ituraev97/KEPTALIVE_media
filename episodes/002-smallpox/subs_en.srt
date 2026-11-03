@@ -1,0 +1,955 @@
+1
+00:00:01,000 --> 00:00:01,405
+1955.
+
+2
+00:00:01,405 --> 00:00:05,614
+An American educational film shows a doctor, a small
+
+3
+00:00:05,614 --> 00:00:07,637
+child, and a vaccination.
+
+4
+00:00:08,087 --> 00:00:10,859
+For thousands of years, smallpox was one of the
+
+5
+00:00:10,859 --> 00:00:12,510
+deadliest diseases on Earth.
+
+6
+00:00:12,510 --> 00:00:15,577
+On average, about 3 in 10 people who caught it died.
+
+7
+00:00:16,027 --> 00:00:19,431
+As late as 1967, according to a history of the
+
+8
+00:00:19,431 --> 00:00:22,761
+eradication campaign, it was still causing an
+
+9
+00:00:22,761 --> 00:00:25,722
+estimated 10 to 15 million cases a year.
+
+10
+00:00:25,722 --> 00:00:29,348
+Ten years later, the last natural case was found.
+
+11
+00:00:29,348 --> 00:00:31,864
+Today, it doesn't exist in nature.
+
+12
+00:00:32,564 --> 00:00:35,678
+It is the only human infectious disease that has
+
+13
+00:00:35,678 --> 00:00:36,975
+ever been wiped out.
+
+14
+00:00:36,975 --> 00:00:40,348
+So how do you erase a disease from an entire planet?
+
+15
+00:00:40,948 --> 00:00:43,004
+This is how the world beat smallpox.
+
+16
+00:00:45,604 --> 00:00:46,774
+Start with what it was.
+
+17
+00:00:47,224 --> 00:00:49,925
+Smallpox is caused by the variola virus.
+
+18
+00:00:49,925 --> 00:00:53,234
+According to the CDC, it has existed for at least
+
+19
+00:00:53,234 --> 00:00:54,045
+3,000 years.
+
+20
+00:00:54,045 --> 00:00:57,894
+Smallpox-like rashes have been found on Egyptian mummies.
+
+21
+00:00:58,344 --> 00:01:01,484
+The earliest written description we know of comes
+
+22
+00:01:01,484 --> 00:01:03,471
+from China, in the 4th century.
+
+23
+00:01:03,471 --> 00:01:06,483
+Then it followed trade routes and explorers, to
+
+24
+00:01:06,483 --> 00:01:09,559
+Japan, to Europe, to Africa, and in the 16th and
+
+25
+00:01:09,559 --> 00:01:11,610
+17th centuries, to the Americas.
+
+26
+00:01:12,060 --> 00:01:14,391
+And people noticed something early on.
+
+27
+00:01:14,391 --> 00:01:17,396
+If you survived smallpox, you were protected from
+
+28
+00:01:17,396 --> 00:01:18,500
+catching it again.
+
+29
+00:01:19,200 --> 00:01:21,982
+That observation led to the first weapon against it.
+
+30
+00:01:22,432 --> 00:01:23,984
+It was called variolation.
+
+31
+00:01:23,984 --> 00:01:26,073
+Practitioners in Asia developed it.
+
+32
+00:01:26,073 --> 00:01:29,117
+In one method, dried smallpox scabs were blown into
+
+33
+00:01:29,117 --> 00:01:29,655
+the nose.
+
+34
+00:01:29,655 --> 00:01:32,759
+In Europe and America, it was usually done through a
+
+35
+00:01:32,759 --> 00:01:33,953
+scratch in the skin.
+
+36
+00:01:34,403 --> 00:01:35,208
+It was risky.
+
+37
+00:01:35,208 --> 00:01:38,242
+It meant deliberately exposing people to material
+
+38
+00:01:38,242 --> 00:01:39,481
+from smallpox sores.
+
+39
+00:01:39,481 --> 00:01:41,710
+But the numbers were hard to ignore.
+
+40
+00:01:42,160 --> 00:01:45,745
+In Europe, an English aristocrat, Lady Mary Wortley
+
+41
+00:01:45,745 --> 00:01:49,190
+Montagu, learned of it in Constantinople in 1717,
+
+42
+00:01:49,190 --> 00:01:52,353
+where her husband was the British ambassador.
+
+43
+00:01:52,353 --> 00:01:56,008
+In 1721, at the urging of Lady Mary and the Princess
+
+44
+00:01:56,008 --> 00:01:59,312
+of Wales, prisoners and abandoned children were
+
+45
+00:01:59,312 --> 00:02:00,085
+inoculated.
+
+46
+00:02:00,085 --> 00:02:03,389
+None of them got smallpox after later exposure.
+
+47
+00:02:03,839 --> 00:02:07,357
+In 1721, during a smallpox epidemic in Boston, the
+
+48
+00:02:07,357 --> 00:02:09,961
+procedure was first tried in America.
+
+49
+00:02:09,961 --> 00:02:13,621
+The minister Cotton Mather had learned about it from
+
+50
+00:02:13,621 --> 00:02:17,069
+an enslaved man in his household, named Onesimus.
+
+51
+00:02:17,519 --> 00:02:20,934
+About half a century later, it became a question of war.
+
+52
+00:02:21,384 --> 00:02:24,725
+Smallpox had ravaged the American army that invaded
+
+53
+00:02:24,725 --> 00:02:26,625
+Canada in the winter of 1775.
+
+54
+00:02:26,625 --> 00:02:30,031
+And fewer than a quarter of Continental soldiers had
+
+55
+00:02:30,031 --> 00:02:31,734
+caught smallpox naturally.
+
+56
+00:02:31,734 --> 00:02:35,009
+Most of the British troops they faced were immune.
+
+57
+00:02:35,459 --> 00:02:38,690
+According to the Military Health System, disease
+
+58
+00:02:38,690 --> 00:02:41,987
+caused an estimated 90 percent of the Continental
+
+59
+00:02:41,987 --> 00:02:42,929
+Army's deaths.
+
+60
+00:02:43,379 --> 00:02:47,847
+So, on February 6, 1777, George Washington wrote to
+
+61
+00:02:47,847 --> 00:02:50,037
+his medical director, Dr.
+
+62
+00:02:50,037 --> 00:02:51,439
+William Shippen.
+
+63
+00:02:51,889 --> 00:02:54,943
+I have determined that the troops shall be inoculated.
+
+64
+00:02:55,743 --> 00:02:56,701
+It was a gamble.
+
+65
+00:02:56,701 --> 00:02:59,754
+Inoculation could have set off the very outbreak he
+
+66
+00:02:59,754 --> 00:03:02,688
+feared, and he worried it could hurt recruitment.
+
+67
+00:03:02,688 --> 00:03:05,622
+Most of it was done in winter, while the fighting
+
+68
+00:03:05,622 --> 00:03:08,616
+paused, at the camp in Morristown, New Jersey, and
+
+69
+00:03:08,616 --> 00:03:09,574
+in Philadelphia.
+
+70
+00:03:10,024 --> 00:03:12,797
+The Military Health System calls the strategy
+
+71
+00:03:12,797 --> 00:03:13,968
+largely successful.
+
+72
+00:03:14,768 --> 00:03:16,860
+But the real breakthrough came from a cow.
+
+73
+00:03:17,310 --> 00:03:20,047
+The English doctor Edward Jenner had noticed
+
+74
+00:03:20,047 --> 00:03:21,726
+something about dairymaids.
+
+75
+00:03:21,726 --> 00:03:24,587
+The ones who had caught cowpox, a disease they
+
+76
+00:03:24,587 --> 00:03:27,883
+picked up from cows, seemed to be immune to smallpox.
+
+77
+00:03:28,333 --> 00:03:29,750
+In 1796, he tested it.
+
+78
+00:03:29,750 --> 00:03:32,714
+He deliberately gave an 8-year-old boy cowpox.
+
+79
+00:03:32,714 --> 00:03:35,033
+Then he exposed the boy to smallpox.
+
+80
+00:03:35,033 --> 00:03:36,579
+The boy didn't get sick.
+
+81
+00:03:37,029 --> 00:03:39,790
+He repeated the experiment on other children,
+
+82
+00:03:39,790 --> 00:03:41,140
+including his own son.
+
+83
+00:03:41,140 --> 00:03:44,331
+Within twenty years of his findings being published,
+
+84
+00:03:44,331 --> 00:03:47,092
+his work had been translated into Portuguese,
+
+85
+00:03:47,092 --> 00:03:49,301
+French, Dutch, Italian and Japanese.
+
+86
+00:03:49,751 --> 00:03:53,159
+The World Health Organization calls it the first
+
+87
+00:03:53,159 --> 00:03:55,572
+successful vaccine ever developed.
+
+88
+00:03:55,572 --> 00:03:58,057
+And Jenner saw where it could lead.
+
+89
+00:03:58,057 --> 00:04:01,678
+In 1801, he wrote that the annihilation of smallpox
+
+90
+00:04:01,678 --> 00:04:03,452
+must be the final result.
+
+91
+00:04:03,902 --> 00:04:05,342
+Armies took notice.
+
+92
+00:04:05,342 --> 00:04:08,674
+In 1807, Bavaria became the first to require
+
+93
+00:04:08,674 --> 00:04:10,795
+vaccination of its recruits.
+
+94
+00:04:10,795 --> 00:04:14,507
+Over the 1800s, the virus in the vaccine changed,
+
+95
+00:04:14,507 --> 00:04:18,067
+from cowpox to a related virus called vaccinia.
+
+96
+00:04:18,517 --> 00:04:21,758
+In this 1955 film, smallpox vaccine production
+
+97
+00:04:21,758 --> 00:04:23,097
+starts with calves.
+
+98
+00:04:23,097 --> 00:04:26,620
+Then the vaccine is processed in a lab, and sealed
+
+99
+00:04:26,620 --> 00:04:28,170
+into tiny glass tubes.
+
+100
+00:04:28,620 --> 00:04:29,435
+It worked.
+
+101
+00:04:29,435 --> 00:04:33,587
+Smallpox was eliminated from North America in 1952.
+
+102
+00:04:33,587 --> 00:04:35,542
+Europe followed in 1953.
+
+103
+00:04:35,992 --> 00:04:38,808
+But in much of the world, smallpox was still everywhere.
+
+104
+00:04:39,608 --> 00:04:42,228
+So the world tried something that had never been done.
+
+105
+00:04:42,678 --> 00:04:46,226
+In 1959, the World Health Organization launched a
+
+106
+00:04:46,226 --> 00:04:49,700
+global plan to eradicate smallpox. It struggled.
+
+107
+00:04:49,700 --> 00:04:53,320
+There wasn't enough money, enough staff, or enough
+
+108
+00:04:53,320 --> 00:04:53,899
+vaccine.
+
+109
+00:04:53,899 --> 00:04:56,722
+By 1966, smallpox was still widespread.
+
+110
+00:04:57,172 --> 00:05:01,218
+So in 1967, it started over, with the Intensified
+
+111
+00:05:01,218 --> 00:05:02,869
+Eradication Program.
+
+112
+00:05:02,869 --> 00:05:05,841
+Leading it was an American, Dr. D.A.
+
+113
+00:05:05,841 --> 00:05:08,979
+Henderson, who had trained at the CDC.
+
+114
+00:05:09,429 --> 00:05:11,097
+The scale was enormous.
+
+115
+00:05:11,097 --> 00:05:14,795
+At the start, smallpox was endemic in 33 countries,
+
+116
+00:05:14,795 --> 00:05:17,696
+with a population of 1.2 billion people.
+
+117
+00:05:17,696 --> 00:05:21,467
+A 2017 history in the Journal of Infectious Diseases
+
+118
+00:05:21,467 --> 00:05:25,383
+puts it at an estimated 10 to 15 million cases a year.
+
+119
+00:05:25,383 --> 00:05:28,284
+Fewer than 5 percent were ever reported.
+
+120
+00:05:28,734 --> 00:05:30,300
+They needed better tools.
+
+121
+00:05:30,300 --> 00:05:32,367
+The first was the vaccine itself.
+
+122
+00:05:32,367 --> 00:05:35,500
+During the program, only heat-stable, freeze-dried
+
+123
+00:05:35,500 --> 00:05:36,565
+vaccine was used.
+
+124
+00:05:37,015 --> 00:05:38,668
+The second was a tiny tool.
+
+125
+00:05:38,668 --> 00:05:40,015
+The bifurcated needle.
+
+126
+00:05:40,015 --> 00:05:42,893
+Two prongs, credited to Benjamin Rubin of Wyeth
+
+127
+00:05:42,893 --> 00:05:43,689
+Laboratories.
+
+128
+00:05:44,139 --> 00:05:47,212
+According to the National Library of Medicine, it
+
+129
+00:05:47,212 --> 00:05:50,410
+needed a quarter of the vaccine used before, almost
+
+130
+00:05:50,410 --> 00:05:53,421
+every vaccination took, and after sterilization,
+
+131
+00:05:53,421 --> 00:05:56,556
+each needle could be reused up to a hundred times.
+
+132
+00:05:57,356 --> 00:05:59,707
+But the biggest change wasn't a tool.
+
+133
+00:05:59,707 --> 00:06:00,660
+It was an idea.
+
+134
+00:06:01,110 --> 00:06:03,655
+Vaccinating everyone sounds simple.
+
+135
+00:06:03,655 --> 00:06:06,999
+In 1967, workers vaccinated 25 million people.
+
+136
+00:06:06,999 --> 00:06:11,216
+But large parts of the population were still being missed.
+
+137
+00:06:11,666 --> 00:06:14,619
+A CDC-trained doctor named William Foege pushed a
+
+138
+00:06:14,619 --> 00:06:15,764
+different approach.
+
+139
+00:06:15,764 --> 00:06:17,090
+Find every case, fast.
+
+140
+00:06:17,090 --> 00:06:19,922
+Then vaccinate the people around it, in a ring,
+
+141
+00:06:19,922 --> 00:06:21,850
+before the virus can reach them.
+
+142
+00:06:22,300 --> 00:06:25,295
+It was called surveillance and containment, or ring
+
+143
+00:06:25,295 --> 00:06:25,999
+vaccination.
+
+144
+00:06:25,999 --> 00:06:29,052
+And it proved vastly better than indiscriminate mass
+
+145
+00:06:29,052 --> 00:06:29,757
+vaccination.
+
+146
+00:06:30,207 --> 00:06:33,263
+Foege also planned an all-out push for the season
+
+147
+00:06:33,263 --> 00:06:34,947
+when smallpox spread least.
+
+148
+00:06:34,947 --> 00:06:37,941
+In 1968, it was tested in Sierra Leone, then the
+
+149
+00:06:37,941 --> 00:06:40,685
+country with the most smallpox in the world.
+
+150
+00:06:40,685 --> 00:06:43,554
+Within nine months, Sierra Leone reached zero.
+
+151
+00:06:44,004 --> 00:06:46,071
+It took an army of its own.
+
+152
+00:06:46,071 --> 00:06:49,670
+More than 150,000 people worked on the program.
+
+153
+00:06:49,670 --> 00:06:54,111
+More than 700 of its field leaders came from 73 countries.
+
+154
+00:06:54,111 --> 00:06:57,174
+More than 150 of them were from the CDC.
+
+155
+00:06:57,974 --> 00:07:01,787
+As the goal got close, the team even created its own
+
+156
+00:07:01,787 --> 00:07:02,227
+honor.
+
+157
+00:07:02,227 --> 00:07:04,793
+The Order of the Bifurcated Needle.
+
+158
+00:07:04,793 --> 00:07:08,532
+More than 700 needles were twisted into lapel pins.
+
+159
+00:07:09,332 --> 00:07:11,611
+Country by country, the map went quiet.
+
+160
+00:07:12,061 --> 00:07:16,181
+South America in 1971. Asia in 1975.
+
+161
+00:07:16,181 --> 00:07:17,897
+Africa in 1977.
+
+162
+00:07:18,347 --> 00:07:22,296
+In late 1975, a 3-year-old girl in Bangladesh became
+
+163
+00:07:22,296 --> 00:07:26,168
+the last person known to catch the deadlier form of
+
+164
+00:07:26,168 --> 00:07:29,053
+the disease, variola major, naturally.
+
+165
+00:07:29,503 --> 00:07:33,696
+And on October 30, 1977, a hospital cook in Merca,
+
+166
+00:07:33,696 --> 00:07:38,057
+Somalia, was diagnosed with the milder form, variola
+
+167
+00:07:38,057 --> 00:07:39,734
+minor. He recovered.
+
+168
+00:07:39,734 --> 00:07:44,514
+He was the last person known to catch smallpox naturally.
+
+169
+00:07:44,964 --> 00:07:46,588
+There was one more death.
+
+170
+00:07:46,588 --> 00:07:49,899
+In 1978, a medical photographer at a medical school
+
+171
+00:07:49,899 --> 00:07:53,081
+in Birmingham, England, caught smallpox and died.
+
+172
+00:07:53,081 --> 00:07:56,457
+The CDC says her infection was traced to the medical
+
+173
+00:07:56,457 --> 00:08:00,093
+school building, where smallpox research was being done.
+
+174
+00:08:00,543 --> 00:08:04,809
+Then, on May 8, 1980, the 33rd World Health Assembly
+
+175
+00:08:04,809 --> 00:08:07,762
+declared the world free of smallpox.
+
+176
+00:08:08,362 --> 00:08:09,943
+The CDC puts it simply.
+
+177
+00:08:09,943 --> 00:08:13,381
+Many people consider it the biggest achievement in
+
+178
+00:08:13,381 --> 00:08:15,306
+international public health.
+
+179
+00:08:16,206 --> 00:08:18,119
+But the virus itself still exists.
+
+180
+00:08:18,569 --> 00:08:21,285
+In 1981, four countries still held it:
+
+181
+00:08:21,285 --> 00:08:25,073
+the United States, England, Russia, and South Africa.
+
+182
+00:08:25,073 --> 00:08:28,433
+By 1984, England and South Africa had destroyed
+
+183
+00:08:28,433 --> 00:08:30,863
+their stocks, or transferred them.
+
+184
+00:08:30,863 --> 00:08:34,580
+Today, the only stocks the World Health Organization
+
+185
+00:08:34,580 --> 00:08:36,510
+oversees are in two places.
+
+186
+00:08:36,510 --> 00:08:39,869
+The CDC in Atlanta, and the VECTOR Institute in
+
+187
+00:08:39,869 --> 00:08:41,084
+Koltsovo, Russia.
+
+188
+00:08:41,534 --> 00:08:44,417
+The World Health Organization inspects both
+
+189
+00:08:44,417 --> 00:08:47,903
+repositories every two years, and keeps an emergency
+
+190
+00:08:47,903 --> 00:08:51,255
+stockpile of smallpox vaccine, in case the disease
+
+191
+00:08:51,255 --> 00:08:52,127
+ever returns.
+
+192
+00:08:52,577 --> 00:08:56,337
+Labs that study the most dangerous viruses work like this.
+
+193
+00:08:56,337 --> 00:08:59,579
+Full-body suits, connected to a supplied air line.
+
+194
+00:08:59,579 --> 00:09:00,875
+This one is the U.S.
+
+195
+00:09:00,875 --> 00:09:04,247
+Army's infectious disease institute at Fort Detrick,
+
+196
+00:09:04,247 --> 00:09:04,830
+Maryland.
+
+197
+00:09:05,280 --> 00:09:08,637
+Founded in 1969, it's the only Defense Department
+
+198
+00:09:08,637 --> 00:09:11,720
+lab equipped to safely study highly hazardous
+
+199
+00:09:11,720 --> 00:09:14,528
+viruses at the highest containment level.
+
+200
+00:09:14,528 --> 00:09:17,611
+Separately, according to the Army, it ran the
+
+201
+00:09:17,611 --> 00:09:20,968
+pivotal trial that led to FDA approval of another
+
+202
+00:09:20,968 --> 00:09:22,133
+smallpox vaccine.
+
+203
+00:09:22,583 --> 00:09:25,295
+After the attacks of September eleventh, and the
+
+204
+00:09:25,295 --> 00:09:28,176
+anthrax letters, the Pentagon reassessed the threat
+
+205
+00:09:28,176 --> 00:09:30,436
+that smallpox could be used as a weapon.
+
+206
+00:09:30,886 --> 00:09:34,325
+Routine smallpox vaccination had already ended.
+
+207
+00:09:34,325 --> 00:09:36,959
+For American civilians, around 1972.
+
+208
+00:09:36,959 --> 00:09:39,227
+For military recruits, in 1990.
+
+209
+00:09:39,227 --> 00:09:42,886
+In December 2002, the Defense Department announced
+
+210
+00:09:42,886 --> 00:09:46,251
+it would vaccinate designated personnel again,
+
+211
+00:09:46,251 --> 00:09:49,910
+starting with smallpox response teams and hospital
+
+212
+00:09:49,910 --> 00:09:50,495
+workers.
+
+213
+00:09:50,945 --> 00:09:52,712
+A newer vaccine followed.
+
+214
+00:09:52,712 --> 00:09:55,184
+In 2007, the FDA approved ACAM2000.
+
+215
+00:09:55,184 --> 00:09:58,788
+It was derived from an older vaccine, Dryvax, which
+
+216
+00:09:58,788 --> 00:10:01,048
+was grown on the skin of calves.
+
+217
+00:10:01,048 --> 00:10:03,662
+The new one is grown in cell culture.
+
+218
+00:10:04,112 --> 00:10:08,031
+The FDA said it's intended for people at high risk
+
+219
+00:10:08,031 --> 00:10:09,912
+of exposure to smallpox.
+
+220
+00:10:09,912 --> 00:10:13,752
+At the time, the manufacturer said it had already
+
+221
+00:10:13,752 --> 00:10:17,514
+supplied 192.5 million doses to the CDC, for the
+
+222
+00:10:17,514 --> 00:10:19,787
+Strategic National Stockpile.
+
+223
+00:10:20,237 --> 00:10:23,354
+Vaccination is still part of military life.
+
+224
+00:10:23,354 --> 00:10:26,615
+This is a seasonal flu vaccine drive, at Camp
+
+225
+00:10:26,615 --> 00:10:29,369
+Carroll, South Korea, in October 2026.
+
+226
+00:10:30,269 --> 00:10:32,437
+So, how did the world erase a disease?
+
+227
+00:10:32,887 --> 00:10:34,364
+Not with one discovery.
+
+228
+00:10:34,364 --> 00:10:35,713
+With a chain of them.
+
+229
+00:10:35,713 --> 00:10:37,318
+A dangerous old practice.
+
+230
+00:10:37,318 --> 00:10:38,539
+A doctor and a cow.
+
+231
+00:10:38,539 --> 00:10:40,209
+A tiny two-pronged needle.
+
+232
+00:10:40,209 --> 00:10:42,264
+And an idea about where to look.
+
+233
+00:10:42,714 --> 00:10:46,372
+And with more than 150,000 people, who went looking
+
+234
+00:10:46,372 --> 00:10:49,456
+for every last case, until there were none.
+
+235
+00:10:49,906 --> 00:10:51,371
+Next time on KEPT ALIVE.
+
+236
+00:10:51,371 --> 00:10:53,567
+Inside the Navy's floating hospital.
+
+237
+00:10:54,367 --> 00:10:55,508
+For education only.
+
+238
+00:10:55,508 --> 00:10:57,128
+This is not medical advice.
+
+239
+00:10:57,128 --> 00:10:59,950
+If you have a health concern, talk to a doctor.
