@@ -1,0 +1,895 @@
+1
+00:00:01,000 --> 00:00:02,168
+March 30, 2020.
+
+2
+00:00:02,168 --> 00:00:06,218
+A white ship, nearly 900 feet long, with red crosses
+
+3
+00:00:06,218 --> 00:00:09,411
+on its sides, sails into New York Harbor.
+
+4
+00:00:09,860 --> 00:00:11,417
+Inside it is a hospital.
+
+5
+00:00:11,417 --> 00:00:12,455
+A thousand beds.
+
+6
+00:00:12,455 --> 00:00:14,855
+Twelve operating rooms. A CT scanner.
+
+7
+00:00:14,855 --> 00:00:17,579
+And two plants that make their own oxygen.
+
+8
+00:00:18,029 --> 00:00:20,859
+Five days earlier, it was still loading supplies at
+
+9
+00:00:20,859 --> 00:00:21,913
+a pier in Virginia.
+
+10
+00:00:21,913 --> 00:00:23,911
+Now it had come to a city in crisis.
+
+11
+00:00:24,511 --> 00:00:27,450
+How do you build a hospital that can sail anywhere
+
+12
+00:00:27,450 --> 00:00:30,036
+in the world, and switch it on in five days?
+
+13
+00:00:30,636 --> 00:00:32,637
+This is the Navy's floating hospital.
+
+14
+00:00:35,237 --> 00:00:36,609
+Start with the ship itself.
+
+15
+00:00:36,609 --> 00:00:38,693
+Because it wasn't built to be a hospital.
+
+16
+00:00:39,143 --> 00:00:41,443
+Comfort began life as a supertanker.
+
+17
+00:00:41,443 --> 00:00:44,509
+It's one of two Mercy-class hospital ships, both
+
+18
+00:00:44,509 --> 00:00:47,512
+converted San Clemente-class tankers, built and
+
+19
+00:00:47,512 --> 00:00:50,579
+converted by the National Steel and Shipbuilding
+
+20
+00:00:50,579 --> 00:00:51,985
+Company, in San Diego.
+
+21
+00:00:52,435 --> 00:00:56,182
+Its sister ship, Mercy, was delivered in 1986.
+
+22
+00:00:56,182 --> 00:01:00,417
+Comfort was delivered to the Navy's Military Sealift
+
+23
+00:01:00,417 --> 00:01:02,698
+Command on December 1, 1987.
+
+24
+00:01:03,148 --> 00:01:05,959
+Mercy's homeport is San Diego, California.
+
+25
+00:01:05,959 --> 00:01:08,035
+Comfort's is Norfolk, Virginia.
+
+26
+00:01:08,035 --> 00:01:11,248
+It moved there from the Washington area in 2013.
+
+27
+00:01:11,698 --> 00:01:14,346
+The numbers are those of a tanker.
+
+28
+00:01:14,346 --> 00:01:15,436
+894 feet long.
+
+29
+00:01:15,436 --> 00:01:16,527
+106 feet wide.
+
+30
+00:01:16,527 --> 00:01:19,330
+More than 69,000 tons, fully loaded.
+
+31
+00:01:19,330 --> 00:01:23,147
+One steam turbine, and a top speed of 17.5 knots.
+
+32
+00:01:23,597 --> 00:01:26,458
+The ship itself isn't run by Navy sailors.
+
+33
+00:01:26,458 --> 00:01:29,797
+It's operated by about 70 civil service mariners.
+
+34
+00:01:29,797 --> 00:01:33,271
+The hospital is staffed by up to 1,200 Navy medical
+
+35
+00:01:33,271 --> 00:01:35,247
+and communications personnel.
+
+36
+00:01:35,697 --> 00:01:38,006
+Most of the time, the ship waits.
+
+37
+00:01:38,006 --> 00:01:41,504
+It's kept in what the Navy calls reduced operating
+
+38
+00:01:41,504 --> 00:01:45,002
+status, with a small crew of civilian mariners and
+
+39
+00:01:45,002 --> 00:01:47,031
+active-duty personnel aboard.
+
+40
+00:01:47,481 --> 00:01:50,584
+But when it's called, the Navy says it can be fully
+
+41
+00:01:50,584 --> 00:01:52,896
+activated and crewed within five days.
+
+42
+00:01:53,696 --> 00:01:55,238
+So what's actually on board?
+
+43
+00:01:55,688 --> 00:01:58,793
+According to the Navy, the hospital has twelve fully
+
+44
+00:01:58,793 --> 00:02:01,420
+equipped operating rooms, and a thousand-bed
+
+45
+00:02:01,420 --> 00:02:02,495
+hospital facility.
+
+46
+00:02:02,945 --> 00:02:06,433
+It has digital radiology, a medical laboratory, a
+
+47
+00:02:06,433 --> 00:02:09,637
+pharmacy, an optometry lab, and a CT scanner.
+
+48
+00:02:10,087 --> 00:02:10,873
+A 2017 U.S.
+
+49
+00:02:10,873 --> 00:02:14,517
+Army video caption describes it as a seagoing level
+
+50
+00:02:14,517 --> 00:02:18,019
+three medical treatment facility, able to quickly
+
+51
+00:02:18,019 --> 00:02:21,735
+provide basic surgery, care after surgery, and acute
+
+52
+00:02:21,735 --> 00:02:25,879
+medical care, for humanitarian crises and disaster relief.
+
+53
+00:02:26,329 --> 00:02:29,674
+An older fact sheet for Comfort describes one of the
+
+54
+00:02:29,674 --> 00:02:32,955
+largest trauma facilities in the United States, and
+
+55
+00:02:32,955 --> 00:02:35,271
+a blood supply of up to 5,000 units.
+
+56
+00:02:35,721 --> 00:02:38,726
+At sea, patients can come aboard through side ports.
+
+57
+00:02:38,726 --> 00:02:39,651
+Or from the sky.
+
+58
+00:02:39,651 --> 00:02:42,657
+The flight deck can land large military helicopters.
+
+59
+00:02:43,107 --> 00:02:45,204
+And the same deck moves supplies.
+
+60
+00:02:45,204 --> 00:02:48,127
+Here, during a 2025 mission, a Navy helicopter
+
+61
+00:02:48,127 --> 00:02:50,797
+carries pallets from the ship to the pier.
+
+62
+00:02:51,597 --> 00:02:53,893
+Hospital ships are older than you might think.
+
+63
+00:02:54,343 --> 00:02:57,317
+During the Civil War, a ship called Red Rover is
+
+64
+00:02:57,317 --> 00:03:00,353
+often credited as the Navy's first hospital ship.
+
+65
+00:03:00,353 --> 00:03:03,265
+It was the first to use women volunteer nurses.
+
+66
+00:03:03,715 --> 00:03:06,772
+In 1920, the Navy commissioned USS Relief.
+
+67
+00:03:06,772 --> 00:03:10,411
+According to Navy history, it's the only Navy ship
+
+68
+00:03:10,411 --> 00:03:14,123
+ever built from the keel up as a floating hospital.
+
+69
+00:03:14,123 --> 00:03:15,287
+It had 500 beds.
+
+70
+00:03:15,287 --> 00:03:19,072
+And in 1921, it sailed with eleven nurses, the first
+
+71
+00:03:19,072 --> 00:03:22,347
+Navy women ever assigned to a ship's company.
+
+72
+00:03:22,797 --> 00:03:26,014
+Today's Comfort is the third ship to carry that name.
+
+73
+00:03:26,014 --> 00:03:28,806
+The earlier ones served in the two world wars.
+
+74
+00:03:29,606 --> 00:03:32,803
+And since 1990, this Comfort has been called again
+
+75
+00:03:32,803 --> 00:03:33,442
+and again.
+
+76
+00:03:33,892 --> 00:03:38,105
+In the Gulf War, from August 1990 to April 1991, the
+
+77
+00:03:38,105 --> 00:03:41,102
+ship treated wounded American troops.
+
+78
+00:03:41,102 --> 00:03:45,234
+Its staff saw more than 8,000 outpatients, admitted
+
+79
+00:03:45,234 --> 00:03:49,446
+700 inpatients, and performed 337 complex surgeries.
+
+80
+00:03:49,896 --> 00:03:53,321
+In 1994, it went to work for Haitian migrants.
+
+81
+00:03:53,321 --> 00:03:57,117
+First, off Kingston, Jamaica, as the first American
+
+82
+00:03:57,117 --> 00:04:00,095
+floating center for processing migrants.
+
+83
+00:04:00,095 --> 00:04:03,445
+Then, off Port-au-Prince, Haiti, as a 250-bed
+
+84
+00:04:03,445 --> 00:04:07,539
+hospital, supporting 35,000 Cuban and Haitian migrants.
+
+85
+00:04:07,989 --> 00:04:11,389
+On September 11, 2001, it was activated that same
+
+86
+00:04:11,389 --> 00:04:12,082
+afternoon.
+
+87
+00:04:12,082 --> 00:04:15,412
+Three days later, it was at a pier in Manhattan,
+
+88
+00:04:15,412 --> 00:04:18,881
+giving relief workers meals, a place to sleep, and
+
+89
+00:04:18,881 --> 00:04:22,212
+medical and psychological care, until October 1.
+
+90
+00:04:22,662 --> 00:04:26,423
+In 2003, during the Iraq War, Comfort spent 56 days
+
+91
+00:04:26,423 --> 00:04:29,963
+in the Persian Gulf as a floating trauma center.
+
+92
+00:04:29,963 --> 00:04:33,430
+It treated nearly 700 people, including wounded
+
+93
+00:04:33,430 --> 00:04:37,486
+American troops, and about 200 injured Iraqi civilians.
+
+94
+00:04:37,936 --> 00:04:41,873
+After Hurricane Katrina, in 2005, it treated nearly
+
+95
+00:04:41,873 --> 00:04:45,810
+1,500 people in 12 days in Pascagoula, Mississippi,
+
+96
+00:04:45,810 --> 00:04:48,049
+then moved on to New Orleans.
+
+97
+00:04:48,499 --> 00:04:50,798
+Comfort already knew Haiti.
+
+98
+00:04:50,798 --> 00:04:55,139
+In April 2009, during a Continuing Promise mission,
+
+99
+00:04:55,139 --> 00:04:58,119
+it spent 12 days in Port-au-Prince.
+
+100
+00:04:58,119 --> 00:05:02,461
+Its staff treated 6,731 patients, and performed 161
+
+101
+00:05:02,461 --> 00:05:03,312
+surgeries.
+
+102
+00:05:03,762 --> 00:05:06,902
+In January 2010, an earthquake struck Haiti.
+
+103
+00:05:06,902 --> 00:05:10,328
+Eight days later, Comfort arrived off the coast.
+
+104
+00:05:10,328 --> 00:05:13,967
+By March, its teams had treated 1,025 patients, and
+
+105
+00:05:13,967 --> 00:05:15,680
+performed 862 surgeries.
+
+106
+00:05:15,680 --> 00:05:17,892
+Nine babies were born on board.
+
+107
+00:05:18,342 --> 00:05:21,760
+At the peak, on January 28, there were 411 patients
+
+108
+00:05:21,760 --> 00:05:22,363
+on board.
+
+109
+00:05:22,363 --> 00:05:25,847
+At the height of the mission, more than 1,200 people
+
+110
+00:05:25,847 --> 00:05:27,322
+were part of the crew.
+
+111
+00:05:27,772 --> 00:05:32,106
+In 2017, after Hurricane Maria, it arrived in San
+
+112
+00:05:32,106 --> 00:05:34,937
+Juan, Puerto Rico, on October 3.
+
+113
+00:05:34,937 --> 00:05:39,094
+The Navy says it treated 1,899 patients on that
+
+114
+00:05:39,094 --> 00:05:42,367
+mission, and performed 191 surgeries.
+
+115
+00:05:42,817 --> 00:05:45,942
+The ship's master, Captain Roger Gwinn, described
+
+116
+00:05:45,942 --> 00:05:46,708
+the arrival.
+
+117
+00:05:46,708 --> 00:05:49,833
+When we first got there, there was no electricity
+
+118
+00:05:49,833 --> 00:05:51,364
+and everything was dark.
+
+119
+00:05:51,814 --> 00:05:54,476
+Two babies were born on board during that mission.
+
+120
+00:05:54,926 --> 00:05:56,307
+Then came 2020.
+
+121
+00:05:57,107 --> 00:05:58,783
+The mission was supposed to be simple.
+
+122
+00:05:59,233 --> 00:06:02,614
+As COVID-19 spread, Comfort was sent to New York to
+
+123
+00:06:02,614 --> 00:06:05,861
+serve as a referral hospital for patients who did
+
+124
+00:06:05,861 --> 00:06:06,855
+not have COVID.
+
+125
+00:06:06,855 --> 00:06:10,567
+That way, hospitals on shore could focus on COVID cases.
+
+126
+00:06:11,017 --> 00:06:12,662
+It left Norfolk on March 28.
+
+127
+00:06:12,662 --> 00:06:15,013
+Two days later, it tied up in Manhattan.
+
+128
+00:06:15,013 --> 00:06:18,246
+For this mission, more than 1,200 people were on board.
+
+129
+00:06:18,696 --> 00:06:21,225
+The first patient came aboard on April 1.
+
+130
+00:06:21,675 --> 00:06:23,256
+Then the mission changed.
+
+131
+00:06:23,256 --> 00:06:26,417
+On April 6, the ship began accepting patients with
+
+132
+00:06:26,417 --> 00:06:26,987
+COVID-19.
+
+133
+00:06:26,987 --> 00:06:30,528
+The Navy says it was reconfigured to treat all patients.
+
+134
+00:06:30,978 --> 00:06:33,934
+It worked alongside the Javits Center and hospitals
+
+135
+00:06:33,934 --> 00:06:35,731
+across New York and New Jersey.
+
+136
+00:06:36,181 --> 00:06:39,486
+The mission commander, Captain Joseph O'Brien, said
+
+137
+00:06:39,486 --> 00:06:42,791
+success hinged on coordination with FEMA, state and
+
+138
+00:06:42,791 --> 00:06:43,828
+local officials.
+
+139
+00:06:44,278 --> 00:06:49,036
+In one month, the Navy says, Comfort treated 182 patients.
+
+140
+00:06:49,036 --> 00:06:52,152
+About 70 percent of them had COVID-19.
+
+141
+00:06:52,152 --> 00:06:56,254
+Its teams performed more than 110 procedures, more
+
+142
+00:06:56,254 --> 00:07:00,519
+than 540 x-rays and CT scans, and prepared more than
+
+143
+00:07:00,519 --> 00:07:03,718
+1,300 intravenous and oral medications.
+
+144
+00:07:04,168 --> 00:07:07,247
+For a thousand-bed ship, that's not a large number.
+
+145
+00:07:07,247 --> 00:07:10,266
+But it shows something about how these ships work.
+
+146
+00:07:10,266 --> 00:07:13,346
+The plan can change in the middle of a mission, and
+
+147
+00:07:13,346 --> 00:07:15,459
+the hospital has to change with it.
+
+148
+00:07:15,909 --> 00:07:18,194
+On April 30, Comfort left New York.
+
+149
+00:07:18,194 --> 00:07:21,588
+Two days later, it was back in Norfolk, returning to
+
+150
+00:07:21,588 --> 00:07:24,787
+what the Navy calls Ready 5 status, ready for the
+
+151
+00:07:24,787 --> 00:07:25,440
+next call.
+
+152
+00:07:26,240 --> 00:07:28,450
+Not every mission starts with a disaster.
+
+153
+00:07:28,900 --> 00:07:32,530
+Since 2007, the Navy has run a humanitarian mission
+
+154
+00:07:32,530 --> 00:07:35,946
+called Continuing Promise, in the Caribbean, and
+
+155
+00:07:35,946 --> 00:07:37,797
+Central and South America.
+
+156
+00:07:37,797 --> 00:07:40,217
+In 2025, it was the sixteenth one.
+
+157
+00:07:40,217 --> 00:07:41,427
+Comfort's eighth.
+
+158
+00:07:41,877 --> 00:07:42,536
+79 days.
+
+159
+00:07:42,536 --> 00:07:45,830
+Six countries. Grenada. Panama. Ecuador.
+
+160
+00:07:45,830 --> 00:07:48,713
+The Dominican Republic. Costa Rica.
+
+161
+00:07:48,713 --> 00:07:50,689
+And Trinidad and Tobago.
+
+162
+00:07:51,139 --> 00:07:54,554
+The first mission stop was Grenada, the ship's
+
+163
+00:07:54,554 --> 00:07:55,964
+second visit there.
+
+164
+00:07:55,964 --> 00:07:59,750
+In seven days, the team treated 1,653 patients, and
+
+165
+00:07:59,750 --> 00:08:02,348
+performed 52 surgeries on the ship.
+
+166
+00:08:02,798 --> 00:08:04,727
+Much of the work happened on shore.
+
+167
+00:08:04,727 --> 00:08:06,601
+Teams set up medical sites ashore.
+
+168
+00:08:07,051 --> 00:08:10,800
+There was medical care, eye care, and dentistry.
+
+169
+00:08:10,800 --> 00:08:14,549
+At these shore sites, the teams saw 1,919 dental
+
+170
+00:08:14,549 --> 00:08:18,376
+patients, filled 17,166 prescriptions, and handed
+
+171
+00:08:18,376 --> 00:08:22,438
+out more than 7,000 pairs of glasses and sunglasses.
+
+172
+00:08:22,888 --> 00:08:26,288
+A dental assistant on the mission, Hospital Corpsman
+
+173
+00:08:26,288 --> 00:08:28,708
+3rd Class Cody Romero, put it simply.
+
+174
+00:08:29,158 --> 00:08:32,304
+Helping people out, and seeing them smile, and not
+
+175
+00:08:32,304 --> 00:08:34,003
+in pain, is very rewarding.
+
+176
+00:08:34,453 --> 00:08:37,183
+And some patients came out to the ship.
+
+177
+00:08:37,183 --> 00:08:40,122
+Surgeons performed 242 surgeries on board.
+
+178
+00:08:40,572 --> 00:08:44,469
+Some of the work was done side by side with local
+
+179
+00:08:44,469 --> 00:08:45,583
+medical teams.
+
+180
+00:08:45,583 --> 00:08:49,401
+In five days in Panama, the team cared for 2,845
+
+181
+00:08:49,401 --> 00:08:52,901
+people, and the Navy counted 43 side-by-side
+
+182
+00:08:52,901 --> 00:08:56,082
+exchanges with Panamanian medical staff.
+
+183
+00:08:56,532 --> 00:08:58,208
+Even the equipment got care.
+
+184
+00:08:58,208 --> 00:09:01,319
+The ship's biomedical technicians restored more than
+
+185
+00:09:01,319 --> 00:09:04,071
+2 million dollars' worth of medical equipment.
+
+186
+00:09:04,521 --> 00:09:08,791
+Navy Seabees put in 2,571 work-hours improving eight
+
+187
+00:09:08,791 --> 00:09:09,941
+local schools.
+
+188
+00:09:09,941 --> 00:09:13,390
+The mission held 113 subject matter expert
+
+189
+00:09:13,390 --> 00:09:17,577
+exchanges, and its medical exchanges drew more than
+
+190
+00:09:17,577 --> 00:09:20,862
+4,000 participants across all its stops.
+
+191
+00:09:21,312 --> 00:09:23,826
+Army veterinarians came too.
+
+192
+00:09:23,826 --> 00:09:28,406
+They delivered 2,267 animal treatments, and trained
+
+193
+00:09:28,406 --> 00:09:30,202
+512 animal handlers.
+
+194
+00:09:30,652 --> 00:09:34,853
+In total, the Navy says, the mission treated 12,616
+
+195
+00:09:34,853 --> 00:09:35,595
+patients.
+
+196
+00:09:36,045 --> 00:09:39,182
+The mission commander, Captain Ryan Kendall, said
+
+197
+00:09:39,182 --> 00:09:41,615
+the environment demanded adaptability.
+
+198
+00:09:41,615 --> 00:09:44,752
+But our commitment to that promise never wavered.
+
+199
+00:09:45,202 --> 00:09:48,080
+A hospital corpsman on board, Hospital Corpsman
+
+200
+00:09:48,080 --> 00:09:51,142
+Second Class Malachi Gregory, described the chance
+
+201
+00:09:51,142 --> 00:09:54,020
+to come down here and help people who otherwise
+
+202
+00:09:54,020 --> 00:09:55,184
+wouldn't be helped.
+
+203
+00:09:55,634 --> 00:10:00,137
+On August 17, 2025, Comfort came home to Norfolk.
+
+204
+00:10:01,037 --> 00:10:03,534
+So how do you keep a floating hospital ready?
+
+205
+00:10:03,984 --> 00:10:05,192
+Not with one ship.
+
+206
+00:10:05,192 --> 00:10:06,132
+With a system.
+
+207
+00:10:06,132 --> 00:10:07,408
+An old tanker hull.
+
+208
+00:10:07,408 --> 00:10:11,302
+A small standby crew that keeps it ready between missions.
+
+209
+00:10:11,302 --> 00:10:12,444
+A five-day clock.
+
+210
+00:10:12,444 --> 00:10:15,600
+And up to 1,200 Navy medical and communications
+
+211
+00:10:15,600 --> 00:10:18,755
+personnel, who come aboard when the call comes.
+
+212
+00:10:19,205 --> 00:10:23,531
+Between them, the Navy says, Comfort and Mercy have
+
+213
+00:10:23,531 --> 00:10:27,263
+treated more than 550,000 people since 2001.
+
+214
+00:10:27,713 --> 00:10:31,268
+Each of those missions needed the same things.
+
+215
+00:10:31,268 --> 00:10:35,287
+A ship ready at a pier, and people ready to fill it.
+
+216
+00:10:35,287 --> 00:10:35,751
+A war.
+
+217
+00:10:35,751 --> 00:10:38,147
+A terrorist attack. Hurricanes.
+
+218
+00:10:38,147 --> 00:10:40,156
+An earthquake. A pandemic.
+
+219
+00:10:40,156 --> 00:10:44,098
+And in between, a promise, kept one port at a time.
+
+220
+00:10:44,548 --> 00:10:46,048
+Next time on KEPT ALIVE.
+
+221
+00:10:46,048 --> 00:10:48,299
+The iron lung, and the end of polio.
+
+222
+00:10:49,099 --> 00:10:50,239
+For education only.
+
+223
+00:10:50,239 --> 00:10:51,860
+This is not medical advice.
+
+224
+00:10:51,860 --> 00:10:54,681
+If you have a health concern, talk to a doctor.

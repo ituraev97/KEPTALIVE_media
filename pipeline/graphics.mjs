@@ -312,8 +312,8 @@ const B = {
 
 B.callcard = (o) => page(`${header(o.kicker || "KEPT ALIVE · LOG", o.title || "")}
   <div style="position:absolute;left:110px;top:300px;width:1700px">${o.rows.map((r, i) => `<div class="a" data-d="${0.4 + i * 0.32}" style="display:flex;gap:44px;align-items:baseline;padding:22px 0;border-top:2px solid #24383F">
-    <div class="mono sonar" style="font-size:40px;letter-spacing:.08em;width:260px">${r[0]}</div>
-    <div class="osw" style="font-size:54px;letter-spacing:.03em;color:${i === o.rows.length - 1 ? "#2BB3A3" : "#EEF2EF"}">${r[1]}</div></div>`).join("")}</div>
+    <div class="mono sonar" style="font-size:36px;letter-spacing:.08em;width:380px;flex-shrink:0;line-height:1.15">${r[0]}</div>
+    <div class="osw" style="flex:1;font-size:54px;letter-spacing:.03em;color:${i === o.rows.length - 1 ? "#2BB3A3" : "#EEF2EF"}">${r[1]}</div></div>`).join("")}</div>
   ${o.footer ? footer(o.footer) : ""}`);
 B.steps = (o) => page(`${header(o.kicker, o.title)}
   <div style="position:absolute;left:110px;right:110px;top:330px;display:grid;grid-template-columns:repeat(${o.items.length},1fr);gap:40px">${o.items.map((it, i) => `<div class="a" data-d="${0.35 + i * 0.25}" style="border-top:8px solid ${i === (o.active ?? -1) ? "#2BB3A3" : "#6CF29A"};padding-top:28px">

@@ -1,0 +1,859 @@
+[
+ {
+  "key": "title_72c177",
+  "name": "title",
+  "opts": {
+   "kicker": "THE SAVE \u00b7 003",
+   "title": "USNS <span style=\"color:#2BB3A3\">Comfort</span>",
+   "sub": "INSIDE THE NAVY'S FLOATING HOSPITAL",
+   "size": 210
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_ac5b90",
+  "name": "chapter",
+  "opts": {
+   "case": "USNS COMFORT",
+   "n": "I",
+   "t": "THE TANKER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_ca85fc",
+  "name": "timeline",
+  "opts": {
+   "kicker": "MERCY-CLASS HOSPITAL SHIPS",
+   "title": "FROM TANKER TO HOSPITAL",
+   "events": [
+    {
+     "y": "TANKER",
+     "t": "Built as a supertanker"
+    },
+    {
+     "y": "1986",
+     "t": "Sister ship Mercy delivered"
+    },
+    {
+     "y": "DEC. 1, 1987",
+     "t": "Comfort delivered to MSC"
+    },
+    {
+     "y": "2013",
+     "t": "Comfort moves to Norfolk, Va."
+    }
+   ],
+   "active": 2,
+   "footer": "SOURCES: U.S. NAVY FACT FILE \u00b7 USNS COMFORT FACT SHEET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_f9e96a",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -125,
+      24
+     ],
+     [
+      -66,
+      49
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       -117.16,
+       32.72
+      ],
+      "r": 30,
+      "n": 2,
+      "d": 0.4
+     },
+     {
+      "ll": [
+       -76.3,
+       36.95
+      ],
+      "r": 30,
+      "n": 2,
+      "d": 0.7
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -117.16,
+       32.72
+      ],
+      "name": "USNS MERCY",
+      "sub": "SAN DIEGO, CALIF.",
+      "d": 0.3
+     },
+     {
+      "ll": [
+       -76.3,
+       36.95
+      ],
+      "name": "USNS COMFORT",
+      "sub": "NORFOLK, VA. \u00b7 SINCE 2013",
+      "d": 0.6,
+      "color": "#6CF29A",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "TWO HOSPITAL SHIPS",
+   "title": "TWO HOMEPORTS",
+   "footer": "SOURCE: U.S. NAVY FACT FILE, HOSPITAL SHIPS (T-AH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_18e566",
+  "name": "cards3",
+  "opts": {
+   "kicker": "USNS COMFORT \u00b7 BY THE NUMBERS",
+   "title": "A HOSPITAL ON A TANKER HULL",
+   "cards": [
+    {
+     "h": "894 FT",
+     "t": "long",
+     "s": "272.6 METERS"
+    },
+    {
+     "h": "69,360",
+     "t": "tons, full load",
+     "s": "DISPLACEMENT"
+    },
+    {
+     "h": "17.5",
+     "t": "knots, top speed",
+     "s": "ONE STEAM TURBINE"
+    }
+   ],
+   "footer": "SOURCE: U.S. NAVY FACT FILE, HOSPITAL SHIPS (T-AH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_97dcca",
+  "name": "stat",
+  "opts": {
+   "a": "5 DAYS",
+   "b": "TO FULLY ACTIVATE AND CREW THE SHIP",
+   "c": "FROM REDUCED OPERATING STATUS \u00b7 SOURCE: U.S. NAVY FACT FILE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_175362",
+  "name": "chapter",
+  "opts": {
+   "case": "USNS COMFORT",
+   "n": "II",
+   "t": "INSIDE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_7729df",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE HOSPITAL",
+   "title": "WHAT'S ON BOARD",
+   "cards": [
+    {
+     "h": "1,000",
+     "t": "hospital beds",
+     "s": ""
+    },
+    {
+     "h": "12",
+     "t": "fully equipped operating rooms",
+     "s": ""
+    },
+    {
+     "h": "2",
+     "t": "oxygen-producing plants",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: U.S. NAVY FACT FILE, HOSPITAL SHIPS (T-AH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_c5c420",
+  "name": "list",
+  "opts": {
+   "kicker": "USNS COMFORT FACT SHEET",
+   "title": "BUILT FOR TRAUMA",
+   "items": [
+    "Digital radiology and a CT scanner",
+    "Medical laboratory and pharmacy",
+    "Optometry lab",
+    "Up to 5,000 units of blood"
+   ],
+   "footer": "SOURCES: U.S. NAVY FACT FILE \u00b7 USNS COMFORT FACT SHEET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_1aaf8c",
+  "name": "chapter",
+  "opts": {
+   "case": "USNS COMFORT",
+   "n": "III",
+   "t": "A LONG LINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_58be6e",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CIVIL WAR",
+   "title": "RED ROVER",
+   "rows": [
+    [
+     "WHEN",
+     "THE CIVIL WAR"
+    ],
+    [
+     "CREDITED AS",
+     "OFTEN, THE NAVY'S FIRST HOSPITAL SHIP"
+    ],
+    [
+     "A FIRST",
+     "WOMEN VOLUNTEER NURSES ABOARD"
+    ]
+   ],
+   "footer": "SOURCE: U.S. NAVY BUMED HISTORIAN A. SOBOCINSKI (USNHISTORY.NAVYLIVE.DODLIVE.MIL, 2018)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_d070f4",
+  "name": "callcard",
+  "opts": {
+   "kicker": "COMMISSIONED DEC. 28, 1920",
+   "title": "USS RELIEF (AH-1)",
+   "rows": [
+    [
+     "BUILT",
+     "FROM THE KEEL UP AS A HOSPITAL SHIP \u00b7 THE ONLY ONE"
+    ],
+    [
+     "BEDS",
+     "500"
+    ],
+    [
+     "FEB. 1921",
+     "11 NURSES \u00b7 FIRST NAVY WOMEN IN A SHIP'S COMPANY"
+    ]
+   ],
+   "footer": "SOURCE: U.S. NAVY BUMED HISTORIAN A. SOBOCINSKI (USNHISTORY.NAVYLIVE.DODLIVE.MIL, 2018)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_527e10",
+  "name": "chapter",
+  "opts": {
+   "case": "USNS COMFORT",
+   "n": "IV",
+   "t": "THE CALLS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_9e1912",
+  "name": "cards3",
+  "opts": {
+   "kicker": "DESERT SHIELD / DESERT STORM \u00b7 AUG. 1990\u2013APR. 1991",
+   "title": "THE GULF WAR",
+   "cards": [
+    {
+     "h": "8,000+",
+     "t": "outpatients seen",
+     "s": ""
+    },
+    {
+     "h": "700",
+     "t": "inpatients admitted",
+     "s": ""
+    },
+    {
+     "h": "337",
+     "t": "complex surgeries",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: USNS COMFORT FACT SHEET (U.S. NAVY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_22d715",
+  "name": "callcard",
+  "opts": {
+   "kicker": "JAMAICA AND HAITI \u00b7 1994",
+   "title": "A HOSPITAL FOR MIGRANTS",
+   "rows": [
+    [
+     "JUNE\u2013AUG. 1994",
+     "KINGSTON, JAMAICA \u00b7 FIRST U.S. AFLOAT MIGRANT PROCESSING CENTER"
+    ],
+    [
+     "SEPT.\u2013OCT. 1994",
+     "OFF PORT-AU-PRINCE \u00b7 250-BED HOSPITAL FACILITY"
+    ],
+    [
+     "SUPPORTING",
+     "35,000 CUBAN AND HAITIAN MIGRANTS"
+    ]
+   ],
+   "footer": "SOURCE: USNS COMFORT FACT SHEET (U.S. NAVY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_f96a1e",
+  "name": "callcard",
+  "opts": {
+   "kicker": "SEPTEMBER 11, 2001",
+   "title": "NEW YORK, THE FIRST TIME",
+   "rows": [
+    [
+     "SEPT. 11",
+     "ACTIVATED THE SAME AFTERNOON"
+    ],
+    [
+     "SEPT. 14 \u2013 OCT. 1",
+     "PIERSIDE IN MANHATTAN"
+    ],
+    [
+     "FOR RELIEF WORKERS",
+     "MEALS \u00b7 BERTHING \u00b7 MEDICAL AND PSYCHOLOGICAL CARE"
+    ]
+   ],
+   "footer": "SOURCE: USNS COMFORT FACT SHEET (U.S. NAVY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_e53aa2",
+  "name": "cards3",
+  "opts": {
+   "kicker": "OPERATION IRAQI FREEDOM \u00b7 2003",
+   "title": "A FLOATING TRAUMA CENTER",
+   "cards": [
+    {
+     "h": "56",
+     "t": "days in the Persian Gulf",
+     "s": ""
+    },
+    {
+     "h": "~700",
+     "t": "people treated",
+     "s": "NEARLY 700"
+    },
+    {
+     "h": "~200",
+     "t": "of them Iraqi civilians",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: USNS COMFORT FACT SHEET (U.S. NAVY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_bf6c74",
+  "name": "stat",
+  "opts": {
+   "a": "NEARLY 1,500",
+   "b": "PEOPLE TREATED IN 12 DAYS \u00b7 PASCAGOULA, MISS. \u00b7 2005",
+   "c": "AFTER HURRICANE KATRINA \u00b7 SOURCE: USNS COMFORT FACT SHEET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_711d3d",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CONTINUING PROMISE 2009",
+   "title": "PORT-AU-PRINCE \u00b7 12 DAYS",
+   "rows": [
+    [
+     "APRIL 2009",
+     "12 DAYS IN PORT-AU-PRINCE, HAITI"
+    ],
+    [
+     "PATIENTS",
+     "6,731 TREATED"
+    ],
+    [
+     "SURGERIES",
+     "161"
+    ]
+   ],
+   "footer": "SOURCE: USNS COMFORT FACT SHEET, OPERATION UNIFIED RESPONSE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_b05d67",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -80,
+      14
+     ],
+     [
+      -62,
+      24
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       -72.34,
+       18.54
+      ],
+      "r": 36,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -72.34,
+       18.54
+      ],
+      "name": "HAITI",
+      "sub": "JAN. 20 \u2013 MAR. 10, 2010",
+      "d": 0.3,
+      "color": "#6CF29A"
+     }
+    ]
+   },
+   "kicker": "HAITI EARTHQUAKE \u00b7 JAN. 12, 2010",
+   "title": "1,025 PATIENTS \u00b7 862 SURGERIES",
+   "footer": "SOURCE: USNS COMFORT FACT SHEET, OPERATION UNIFIED RESPONSE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_59fa3f",
+  "name": "cards3",
+  "opts": {
+   "kicker": "OPERATION UNIFIED RESPONSE \u00b7 HAITI \u00b7 2010",
+   "title": "AT THE PEAK",
+   "cards": [
+    {
+     "h": "411",
+     "t": "patients aboard on Jan. 28",
+     "s": "PEAK CENSUS"
+    },
+    {
+     "h": "1,200+",
+     "t": "crew at the height of the mission",
+     "s": ""
+    },
+    {
+     "h": "9",
+     "t": "babies born on board",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: USNS COMFORT FACT SHEET, OPERATION UNIFIED RESPONSE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_74c34f",
+  "name": "quote",
+  "opts": {
+   "q": "When we first got there, there was no electricity and everything was dark.",
+   "w": "CAPT. ROGER GWINN \u00b7 MASTER, USNS COMFORT \u00b7 PUERTO RICO, 2017 \u00b7 VIA U.S. NAVY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_0277a9",
+  "name": "chapter",
+  "opts": {
+   "case": "USNS COMFORT",
+   "n": "V",
+   "t": "NEW YORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_758839",
+  "name": "timeline",
+  "opts": {
+   "kicker": "USNS COMFORT \u00b7 NEW YORK \u00b7 2020",
+   "title": "A MISSION THAT CHANGED",
+   "events": [
+    {
+     "y": "MAR. 28",
+     "t": "Departs Norfolk"
+    },
+    {
+     "y": "MAR. 30",
+     "t": "Arrives in New York"
+    },
+    {
+     "y": "APR. 1",
+     "t": "First patient aboard"
+    },
+    {
+     "y": "APR. 6",
+     "t": "Accepts COVID-19 patients"
+    },
+    {
+     "y": "APR. 30",
+     "t": "Departs New York"
+    }
+   ],
+   "active": 3,
+   "footer": "SOURCES: U.S. NAVY, \"USNS COMFORT DEPARTS NYC\" \u00b7 DVIDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_f52b1f",
+  "name": "quote",
+  "opts": {
+   "q": "The success of this mission in New York City hinged on coordination with FEMA, state and local officials.",
+   "w": "CAPT. JOSEPH O'BRIEN \u00b7 MISSION COMMANDER, TASK FORCE NEW YORK \u00b7 VIA U.S. NAVY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_a90318",
+  "name": "cards3",
+  "opts": {
+   "kicker": "NEW YORK \u00b7 MARCH 30 \u2013 APRIL 30, 2020",
+   "title": "ONE MONTH IN MANHATTAN",
+   "cards": [
+    {
+     "h": "182",
+     "t": "patients treated",
+     "s": "ABOUT 70% WITH COVID-19"
+    },
+    {
+     "h": "110+",
+     "t": "procedures",
+     "s": ""
+    },
+    {
+     "h": "540+",
+     "t": "x-rays and CT scans",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: U.S. NAVY, \"USNS COMFORT DEPARTS NYC\" (2020)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_fc02a7",
+  "name": "chapter",
+  "opts": {
+   "case": "USNS COMFORT",
+   "n": "VI",
+   "t": "THE PROMISE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_671624",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -100,
+      -8
+     ],
+     [
+      -48,
+      44
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       -76.3,
+       36.95
+      ],
+      "r": 26,
+      "n": 2,
+      "d": 0.2
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -76.3,
+       36.95
+      ],
+      "name": "NORFOLK",
+      "sub": "HOMEPORT",
+      "d": 0.2
+     },
+     {
+      "ll": [
+       -61.75,
+       12.05
+      ],
+      "name": "1 \u00b7 GRENADA",
+      "d": 0.5,
+      "dy": -34,
+      "size": 32
+     },
+     {
+      "ll": [
+       -79.9,
+       9.36
+      ],
+      "name": "2 \u00b7 PANAMA",
+      "d": 0.8,
+      "size": 32,
+      "dy": -4
+     },
+     {
+      "ll": [
+       -80.72,
+       -0.95
+      ],
+      "name": "3 \u00b7 ECUADOR",
+      "d": 1.1,
+      "size": 32
+     },
+     {
+      "ll": [
+       -70.69,
+       19.79
+      ],
+      "name": "4 \u00b7 DOMINICAN REP.",
+      "d": 1.4,
+      "size": 32
+     },
+     {
+      "ll": [
+       -83.03,
+       9.99
+      ],
+      "name": "5 \u00b7 COSTA RICA",
+      "d": 1.7,
+      "anchor": "end",
+      "size": 32
+     },
+     {
+      "ll": [
+       -61.52,
+       10.66
+      ],
+      "name": "6 \u00b7 TRINIDAD AND TOBAGO",
+      "d": 2.0,
+      "color": "#6CF29A",
+      "size": 32,
+      "dy": 30
+     }
+    ]
+   },
+   "kicker": "CONTINUING PROMISE 2025 \u00b7 79 DAYS",
+   "title": "SIX COUNTRIES",
+   "footer": "SOURCE: U.S. NAVY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_2d8cb4",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CONTINUING PROMISE 2025 \u00b7 STOP 1",
+   "title": "GRENADA \u00b7 7 DAYS",
+   "rows": [
+    [
+     "PATIENTS",
+     "1,653 TREATED"
+    ],
+    [
+     "ON THE SHIP",
+     "52 SURGERIES"
+    ],
+    [
+     "PHARMACY",
+     "2,003 PRESCRIPTIONS FILLED"
+    ]
+   ],
+   "footer": "SOURCE: U.S. NAVY, \"USNS COMFORT DEPARTS GRENADA\" (2025)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_0f20c7",
+  "name": "quote",
+  "opts": {
+   "q": "Helping people out and seeing them smile and not in pain is very rewarding.",
+   "w": "HOSPITAL CORPSMAN 3RD CLASS CODY ROMERO \u00b7 DENTAL ASSISTANT \u00b7 VIA U.S. NAVY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_cde74f",
+  "name": "cards3",
+  "opts": {
+   "kicker": "CONTINUING PROMISE 2025",
+   "title": "BEYOND THE PATIENTS",
+   "cards": [
+    {
+     "h": "8",
+     "t": "local schools improved",
+     "s": "2,571 SEABEE MAN-HOURS"
+    },
+    {
+     "h": "113",
+     "t": "subject matter expert exchanges",
+     "s": ""
+    },
+    {
+     "h": "4,022",
+     "t": "participants in medical exchanges",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: U.S. NAVY, \"USNS COMFORT RETURNS HOME AFTER CONTINUING PROMISE 2025\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_bbf90f",
+  "name": "stat",
+  "opts": {
+   "a": "2,267",
+   "b": "ANIMAL TREATMENTS BY ARMY VETERINARIANS",
+   "c": "248TH MEDICAL DETACHMENT \u00b7 512 ANIMAL HANDLERS TRAINED \u00b7 SOURCE: U.S. NAVY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_8a9d08",
+  "name": "cards3",
+  "opts": {
+   "kicker": "CONTINUING PROMISE 2025 \u00b7 79 DAYS",
+   "title": "THE MISSION IN NUMBERS",
+   "cards": [
+    {
+     "h": "12,616",
+     "t": "patients treated",
+     "s": "",
+     "size": 96
+    },
+    {
+     "h": "242",
+     "t": "surgeries aboard the ship",
+     "s": ""
+    },
+    {
+     "h": "17,166",
+     "t": "prescriptions filled",
+     "s": "",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCE: U.S. NAVY, \"USNS COMFORT RETURNS HOME AFTER CONTINUING PROMISE 2025\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_f5adb6",
+  "name": "quote",
+  "opts": {
+   "q": "The environment demanded adaptability, but our commitment to that promise never wavered.",
+   "w": "CAPT. RYAN KENDALL \u00b7 CP25 MISSION COMMANDER \u00b7 VIA U.S. NAVY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_5b0daf",
+  "name": "chapter",
+  "opts": {
+   "case": "USNS COMFORT",
+   "n": "VII",
+   "t": "READY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_ae17a5",
+  "name": "steps",
+  "opts": {
+   "kicker": "USNS COMFORT",
+   "title": "HOW A HOSPITAL SHIP STAYS READY",
+   "items": [
+    [
+     "The hull",
+     "A converted supertanker"
+    ],
+    [
+     "The keepers",
+     "A small standby crew between missions"
+    ],
+    [
+     "The clock",
+     "Fully crewed within five days"
+    ],
+    [
+     "The hospital",
+     "Up to 1,200 Navy medical and communications staff"
+    ]
+   ],
+   "active": 2,
+   "footer": "SOURCE: U.S. NAVY FACT FILE, HOSPITAL SHIPS (T-AH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_bb0c81",
+  "name": "stat",
+  "opts": {
+   "a": "550,000+",
+   "b": "PEOPLE TREATED BY COMFORT AND MERCY SINCE 2001",
+   "c": "SOURCE: U.S. NAVY FACT FILE, HOSPITAL SHIPS (T-AH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_a96806",
+  "name": "stat",
+  "opts": {
+   "a": "NEXT",
+   "b": "THE IRON LUNG AND THE END OF POLIO",
+   "c": "KEPT ALIVE \u00b7 FIRST \u00b7 004"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_3bf9ea",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 THE SAVE 003",
+   "stamp": "T-AH 20"
+  },
+  "intro": 2.4
+ }
+]

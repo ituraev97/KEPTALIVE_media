@@ -1,0 +1,222 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:02.15,Sub,,0,0,0,,{\fad(80,80)}March 30, 2020.
+Dialogue: 0,0:00:02.17,0:00:06.20,Sub,,0,0,0,,{\fad(80,80)}A white ship, nearly 900 feet long, with red crosses
+Dialogue: 0,0:00:06.22,0:00:09.39,Sub,,0,0,0,,{\fad(80,80)}on its sides, sails into New York Harbor.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MARCH 30, 2020 · TIME-LAPSE · U.S. NAVY
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT ARRIVES · NEW YORK
+Dialogue: 0,0:00:09.86,0:00:11.40,Sub,,0,0,0,,{\fad(80,80)}Inside it is a hospital.
+Dialogue: 0,0:00:11.42,0:00:12.44,Sub,,0,0,0,,{\fad(80,80)}A thousand beds.
+Dialogue: 0,0:00:12.46,0:00:14.83,Sub,,0,0,0,,{\fad(80,80)}Twelve operating rooms. A CT scanner.
+Dialogue: 0,0:00:14.85,0:00:17.56,Sub,,0,0,0,,{\fad(80,80)}And two plants that make their own oxygen.
+Dialogue: 0,0:00:18.03,0:00:20.84,Sub,,0,0,0,,{\fad(80,80)}Five days earlier, it was still loading supplies at
+Dialogue: 0,0:00:20.86,0:00:21.89,Sub,,0,0,0,,{\fad(80,80)}a pier in Virginia.
+Dialogue: 0,0:00:21.91,0:00:23.89,Sub,,0,0,0,,{\fad(80,80)}Now it had come to a city in crisis.
+Dialogue: 2,0:00:18.28,0:00:24.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:00:18.28,0:00:24.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:18.28,0:00:24.03,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MARCH 25, 2020 · U.S. NAVY
+Dialogue: 3,0:00:18.28,0:00:24.03,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LOADING AT NAVAL STATION NORFOLK, VA.
+Dialogue: 0,0:00:24.51,0:00:27.43,Sub,,0,0,0,,{\fad(80,80)}How do you build a hospital that can sail anywhere
+Dialogue: 0,0:00:27.45,0:00:30.02,Sub,,0,0,0,,{\fad(80,80)}in the world, and switch it on in five days?
+Dialogue: 0,0:00:39.14,0:00:41.42,Sub,,0,0,0,,{\fad(80,80)}Comfort began life as a supertanker.
+Dialogue: 0,0:00:41.44,0:00:44.49,Sub,,0,0,0,,{\fad(80,80)}It's one of two Mercy-class hospital ships, both
+Dialogue: 0,0:00:44.51,0:00:47.49,Sub,,0,0,0,,{\fad(80,80)}converted San Clemente-class tankers, built and
+Dialogue: 0,0:00:47.51,0:00:50.56,Sub,,0,0,0,,{\fad(80,80)}converted by the National Steel and Shipbuilding
+Dialogue: 0,0:00:50.58,0:00:51.96,Sub,,0,0,0,,{\fad(80,80)}Company, in San Diego.
+Dialogue: 2,0:00:39.39,0:00:45.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 674 0 l 674 132 l 0 132{\p0}
+Dialogue: 3,0:00:39.39,0:00:45.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:39.39,0:00:45.14,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MARCH 28, 2020 · U.S. NAVY
+Dialogue: 3,0:00:39.39,0:00:45.14,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT DEPARTS NORFOLK
+Dialogue: 0,0:01:23.60,0:01:26.44,Sub,,0,0,0,,{\fad(80,80)}The ship itself isn't run by Navy sailors.
+Dialogue: 0,0:01:26.46,0:01:29.78,Sub,,0,0,0,,{\fad(80,80)}It's operated by about 70 civil service mariners.
+Dialogue: 0,0:01:29.80,0:01:33.25,Sub,,0,0,0,,{\fad(80,80)}The hospital is staffed by up to 1,200 Navy medical
+Dialogue: 0,0:01:33.27,0:01:35.23,Sub,,0,0,0,,{\fad(80,80)}and communications personnel.
+Dialogue: 2,0:01:23.85,0:01:29.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:01:23.85,0:01:29.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:23.85,0:01:29.60,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MARCH 30, 2020 · U.S. NAVY
+Dialogue: 3,0:01:23.85,0:01:29.60,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT ARRIVES · NEW YORK
+Dialogue: 0,0:01:35.70,0:01:37.99,Sub,,0,0,0,,{\fad(80,80)}Most of the time, the ship waits.
+Dialogue: 0,0:01:38.01,0:01:41.48,Sub,,0,0,0,,{\fad(80,80)}It's kept in what the Navy calls reduced operating
+Dialogue: 0,0:01:41.50,0:01:44.98,Sub,,0,0,0,,{\fad(80,80)}status, with a small crew of civilian mariners and
+Dialogue: 0,0:01:45.00,0:01:47.01,Sub,,0,0,0,,{\fad(80,80)}active-duty personnel aboard.
+Dialogue: 2,0:01:35.95,0:01:41.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:01:35.95,0:01:41.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:35.95,0:01:41.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MARCH 25, 2020 · U.S. NAVY
+Dialogue: 3,0:01:35.95,0:01:41.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT AT NAVAL STATION NORFOLK
+Dialogue: 0,0:02:02.94,0:02:06.41,Sub,,0,0,0,,{\fad(80,80)}It has digital radiology, a medical laboratory, a
+Dialogue: 0,0:02:06.43,0:02:09.62,Sub,,0,0,0,,{\fad(80,80)}pharmacy, an optometry lab, and a CT scanner.
+Dialogue: 2,0:02:03.19,0:02:08.94,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 931 0 l 931 132 l 0 132{\p0}
+Dialogue: 3,0:02:03.19,0:02:08.94,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:03.19,0:02:08.94,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORT OF SPAIN, TRINIDAD · AUG. 6, 2025 · U.S. ARMY
+Dialogue: 3,0:02:03.19,0:02:08.94,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DISTINGUISHED VISITORS TOUR USNS COMFORT
+Dialogue: 0,0:02:10.09,0:02:10.85,Sub,,0,0,0,,{\fad(80,80)}A 2017 U.S.
+Dialogue: 0,0:02:10.87,0:02:14.50,Sub,,0,0,0,,{\fad(80,80)}Army video caption describes it as a seagoing level
+Dialogue: 0,0:02:14.52,0:02:18.00,Sub,,0,0,0,,{\fad(80,80)}three medical treatment facility, able to quickly
+Dialogue: 0,0:02:18.02,0:02:21.71,Sub,,0,0,0,,{\fad(80,80)}provide basic surgery, care after surgery, and acute
+Dialogue: 0,0:02:21.73,0:02:25.86,Sub,,0,0,0,,{\fad(80,80)}medical care, for humanitarian crises and disaster relief.
+Dialogue: 2,0:02:10.34,0:02:16.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 676 0 l 676 132 l 0 132{\p0}
+Dialogue: 3,0:02:10.34,0:02:16.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:10.34,0:02:16.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORT OF SPAIN, TRINIDAD · AUG. 6, 2025
+Dialogue: 3,0:02:10.34,0:02:16.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL TOUR · USNS COMFORT
+Dialogue: 0,0:02:35.72,0:02:38.71,Sub,,0,0,0,,{\fad(80,80)}At sea, patients can come aboard through side ports.
+Dialogue: 0,0:02:38.73,0:02:39.63,Sub,,0,0,0,,{\fad(80,80)}Or from the sky.
+Dialogue: 0,0:02:39.65,0:02:42.64,Sub,,0,0,0,,{\fad(80,80)}The flight deck can land large military helicopters.
+Dialogue: 2,0:02:35.97,0:02:41.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:02:35.97,0:02:41.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:35.97,0:02:41.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}RIOHACHA, COLOMBIA · NOV. 27, 2018 · U.S. NAVY
+Dialogue: 3,0:02:35.97,0:02:41.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MH-60S SEAHAWK ON USNS COMFORT'S FLIGHT DECK
+Dialogue: 0,0:02:43.11,0:02:45.18,Sub,,0,0,0,,{\fad(80,80)}And the same deck moves supplies.
+Dialogue: 0,0:02:45.20,0:02:48.11,Sub,,0,0,0,,{\fad(80,80)}Here, during a 2025 mission, a Navy helicopter
+Dialogue: 0,0:02:48.13,0:02:50.78,Sub,,0,0,0,,{\fad(80,80)}carries pallets from the ship to the pier.
+Dialogue: 2,0:02:43.36,0:02:49.11,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:02:43.36,0:02:49.11,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:43.36,0:02:49.11,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PUERTO PLATA, DOMINICAN REPUBLIC · JULY 16, 2025
+Dialogue: 3,0:02:43.36,0:02:49.11,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUPPLY OFFLOAD BY HELICOPTER
+Dialogue: 0,0:03:22.80,0:03:25.99,Sub,,0,0,0,,{\fad(80,80)}Today's Comfort is the third ship to carry that name.
+Dialogue: 0,0:03:26.01,0:03:28.79,Sub,,0,0,0,,{\fad(80,80)}The earlier ones served in the two world wars.
+Dialogue: 2,0:03:23.05,0:03:28.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 695 0 l 695 132 l 0 132{\p0}
+Dialogue: 3,0:03:23.05,0:03:28.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:23.05,0:03:28.80,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JUNE 2, 2025 · U.S. AIR FORCE
+Dialogue: 3,0:03:23.05,0:03:28.80,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT ARRIVES IN MIAMI
+Dialogue: 0,0:05:27.77,0:05:32.09,Sub,,0,0,0,,{\fad(80,80)}In 2017, after Hurricane Maria, it arrived in San
+Dialogue: 0,0:05:32.11,0:05:34.92,Sub,,0,0,0,,{\fad(80,80)}Juan, Puerto Rico, on October 3.
+Dialogue: 0,0:05:34.94,0:05:39.07,Sub,,0,0,0,,{\fad(80,80)}The Navy says it treated 1,899 patients on that
+Dialogue: 0,0:05:39.09,0:05:42.35,Sub,,0,0,0,,{\fad(80,80)}mission, and performed 191 surgeries.
+Dialogue: 2,0:05:28.02,0:05:33.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:05:28.02,0:05:33.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:28.02,0:05:33.77,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OCT. 3, 2017 · U.S. ARMY
+Dialogue: 3,0:05:28.02,0:05:33.77,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT ARRIVES IN SAN JUAN, PUERTO RICO
+Dialogue: 0,0:05:51.81,0:05:54.46,Sub,,0,0,0,,{\fad(80,80)}Two babies were born on board during that mission.
+Dialogue: 0,0:05:54.93,0:05:56.29,Sub,,0,0,0,,{\fad(80,80)}Then came 2020.
+Dialogue: 2,0:05:55.18,0:05:56.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 674 0 l 674 132 l 0 132{\p0}
+Dialogue: 3,0:05:55.18,0:05:56.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:55.18,0:05:56.71,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MARCH 28, 2020 · U.S. NAVY
+Dialogue: 3,0:05:55.18,0:05:56.71,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT DEPARTS NORFOLK
+Dialogue: 0,0:05:59.23,0:06:02.59,Sub,,0,0,0,,{\fad(80,80)}As COVID-19 spread, Comfort was sent to New York to
+Dialogue: 0,0:06:02.61,0:06:05.84,Sub,,0,0,0,,{\fad(80,80)}serve as a referral hospital for patients who did
+Dialogue: 0,0:06:05.86,0:06:06.84,Sub,,0,0,0,,{\fad(80,80)}not have COVID.
+Dialogue: 0,0:06:06.86,0:06:10.55,Sub,,0,0,0,,{\fad(80,80)}That way, hospitals on shore could focus on COVID cases.
+Dialogue: 2,0:05:59.48,0:06:05.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:05:59.48,0:06:05.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:59.48,0:06:05.23,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MARCH 25, 2020 · U.S. NAVY
+Dialogue: 3,0:05:59.48,0:06:05.23,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LOADING FOR NEW YORK · NAVAL STATION NORFOLK
+Dialogue: 0,0:06:11.02,0:06:12.64,Sub,,0,0,0,,{\fad(80,80)}It left Norfolk on March 28.
+Dialogue: 0,0:06:12.66,0:06:14.99,Sub,,0,0,0,,{\fad(80,80)}Two days later, it tied up in Manhattan.
+Dialogue: 0,0:06:15.01,0:06:18.23,Sub,,0,0,0,,{\fad(80,80)}For this mission, more than 1,200 people were on board.
+Dialogue: 2,0:06:11.27,0:06:17.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 610 0 l 610 132 l 0 132{\p0}
+Dialogue: 3,0:06:11.27,0:06:17.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:11.27,0:06:17.02,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MARCH 30, 2020 · U.S. NAVY
+Dialogue: 3,0:06:11.27,0:06:17.02,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARRIVING IN NEW YORK CITY
+Dialogue: 0,0:06:18.70,0:06:21.20,Sub,,0,0,0,,{\fad(80,80)}The first patient came aboard on April 1.
+Dialogue: 0,0:06:30.98,0:06:33.91,Sub,,0,0,0,,{\fad(80,80)}It worked alongside the Javits Center and hospitals
+Dialogue: 0,0:06:33.93,0:06:35.71,Sub,,0,0,0,,{\fad(80,80)}across New York and New Jersey.
+Dialogue: 2,0:06:31.23,0:06:36.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:06:31.23,0:06:36.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:31.23,0:06:36.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}APRIL 30, 2020 · U.S. NAVY
+Dialogue: 3,0:06:31.23,0:06:36.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT DEPARTS NEW YORK HARBOR
+Dialogue: 0,0:07:04.17,0:07:07.23,Sub,,0,0,0,,{\fad(80,80)}For a thousand-bed ship, that's not a large number.
+Dialogue: 0,0:07:07.25,0:07:10.25,Sub,,0,0,0,,{\fad(80,80)}But it shows something about how these ships work.
+Dialogue: 0,0:07:10.27,0:07:13.33,Sub,,0,0,0,,{\fad(80,80)}The plan can change in the middle of a mission, and
+Dialogue: 0,0:07:13.35,0:07:15.44,Sub,,0,0,0,,{\fad(80,80)}the hospital has to change with it.
+Dialogue: 2,0:07:04.42,0:07:10.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 610 0 l 610 132 l 0 132{\p0}
+Dialogue: 3,0:07:04.42,0:07:10.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:04.42,0:07:10.17,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}APRIL 30, 2020 · U.S. NAVY
+Dialogue: 3,0:07:04.42,0:07:10.17,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DEPARTING NEW YORK HARBOR
+Dialogue: 0,0:07:15.91,0:07:18.17,Sub,,0,0,0,,{\fad(80,80)}On April 30, Comfort left New York.
+Dialogue: 0,0:07:18.19,0:07:21.57,Sub,,0,0,0,,{\fad(80,80)}Two days later, it was back in Norfolk, returning to
+Dialogue: 0,0:07:21.59,0:07:24.77,Sub,,0,0,0,,{\fad(80,80)}what the Navy calls Ready 5 status, ready for the
+Dialogue: 0,0:07:24.79,0:07:25.42,Sub,,0,0,0,,{\fad(80,80)}next call.
+Dialogue: 2,0:07:16.16,0:07:21.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:07:16.16,0:07:21.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:16.16,0:07:21.91,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MAY 2, 2020 · U.S. NAVY
+Dialogue: 3,0:07:16.16,0:07:21.91,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RETURN TO NAVAL STATION NORFOLK
+Dialogue: 0,0:07:28.90,0:07:32.51,Sub,,0,0,0,,{\fad(80,80)}Since 2007, the Navy has run a humanitarian mission
+Dialogue: 0,0:07:32.53,0:07:35.93,Sub,,0,0,0,,{\fad(80,80)}called Continuing Promise, in the Caribbean, and
+Dialogue: 0,0:07:35.95,0:07:37.78,Sub,,0,0,0,,{\fad(80,80)}Central and South America.
+Dialogue: 0,0:07:37.80,0:07:40.20,Sub,,0,0,0,,{\fad(80,80)}In 2025, it was the sixteenth one.
+Dialogue: 0,0:07:40.22,0:07:41.41,Sub,,0,0,0,,{\fad(80,80)}Comfort's eighth.
+Dialogue: 2,0:07:29.15,0:07:34.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:07:29.15,0:07:34.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:29.15,0:07:34.90,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MIAMI · CARIBBEAN SEA · JUNE 2025 · U.S. AIR FORCE / U.S. ARMY
+Dialogue: 3,0:07:29.15,0:07:34.90,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CONTINUING PROMISE 2025
+Dialogue: 0,0:08:02.80,0:08:04.71,Sub,,0,0,0,,{\fad(80,80)}Much of the work happened on shore.
+Dialogue: 0,0:08:04.73,0:08:06.58,Sub,,0,0,0,,{\fad(80,80)}Teams set up medical sites ashore.
+Dialogue: 2,0:08:03.05,0:08:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:08:03.05,0:08:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:03.05,0:08:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PUERTO PLATA, DOMINICAN REPUBLIC · JULY 16, 2025
+Dialogue: 3,0:08:03.05,0:08:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SETTING UP A MEDICAL SITE
+Dialogue: 0,0:08:07.05,0:08:10.78,Sub,,0,0,0,,{\fad(80,80)}There was medical care, eye care, and dentistry.
+Dialogue: 0,0:08:10.80,0:08:14.53,Sub,,0,0,0,,{\fad(80,80)}At these shore sites, the teams saw 1,919 dental
+Dialogue: 0,0:08:14.55,0:08:18.36,Sub,,0,0,0,,{\fad(80,80)}patients, filled 17,166 prescriptions, and handed
+Dialogue: 0,0:08:18.38,0:08:22.42,Sub,,0,0,0,,{\fad(80,80)}out more than 7,000 pairs of glasses and sunglasses.
+Dialogue: 2,0:08:07.30,0:08:13.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 760 0 l 760 132 l 0 132{\p0}
+Dialogue: 3,0:08:07.30,0:08:13.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:07.30,0:08:13.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JULY 29, 2025 · U.S. NAVY
+Dialogue: 3,0:08:07.30,0:08:13.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MEDICAL SITE · LIMÓN, COSTA RICA
+Dialogue: 0,0:08:22.89,0:08:26.27,Sub,,0,0,0,,{\fad(80,80)}A dental assistant on the mission, Hospital Corpsman
+Dialogue: 0,0:08:26.29,0:08:28.69,Sub,,0,0,0,,{\fad(80,80)}3rd Class Cody Romero, put it simply.
+Dialogue: 0,0:08:34.45,0:08:37.16,Sub,,0,0,0,,{\fad(80,80)}And some patients came out to the ship.
+Dialogue: 0,0:08:37.18,0:08:40.10,Sub,,0,0,0,,{\fad(80,80)}Surgeons performed 242 surgeries on board.
+Dialogue: 2,0:08:34.70,0:08:40.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 724 0 l 724 132 l 0 132{\p0}
+Dialogue: 3,0:08:34.70,0:08:40.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:34.70,0:08:40.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}COLÓN, PANAMA · JUNE 28, 2025 · U.S. ARMY
+Dialogue: 3,0:08:34.70,0:08:40.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SURGERY ABOARD USNS COMFORT
+Dialogue: 0,0:08:40.57,0:08:44.45,Sub,,0,0,0,,{\fad(80,80)}Some of the work was done side by side with local
+Dialogue: 0,0:08:44.47,0:08:45.56,Sub,,0,0,0,,{\fad(80,80)}medical teams.
+Dialogue: 0,0:08:45.58,0:08:49.38,Sub,,0,0,0,,{\fad(80,80)}In five days in Panama, the team cared for 2,845
+Dialogue: 0,0:08:49.40,0:08:52.88,Sub,,0,0,0,,{\fad(80,80)}people, and the Navy counted 43 side-by-side
+Dialogue: 0,0:08:52.90,0:08:56.06,Sub,,0,0,0,,{\fad(80,80)}exchanges with Panamanian medical staff.
+Dialogue: 2,0:08:40.82,0:08:46.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:08:40.82,0:08:46.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:40.82,0:08:46.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JULY 16, 2025 · U.S. NAVY
+Dialogue: 3,0:08:40.82,0:08:46.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MEDICAL SITE · PUERTO PLATA, DOMINICAN REPUBLIC
+Dialogue: 0,0:08:56.53,0:08:58.19,Sub,,0,0,0,,{\fad(80,80)}Even the equipment got care.
+Dialogue: 0,0:08:58.21,0:09:01.30,Sub,,0,0,0,,{\fad(80,80)}The ship's biomedical technicians restored more than
+Dialogue: 0,0:09:01.32,0:09:04.05,Sub,,0,0,0,,{\fad(80,80)}2 million dollars' worth of medical equipment.
+Dialogue: 2,0:08:56.78,0:09:02.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 824 0 l 824 132 l 0 132{\p0}
+Dialogue: 3,0:08:56.78,0:09:02.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:56.78,0:09:02.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORT OF SPAIN, TRINIDAD · AUG. 6, 2025
+Dialogue: 3,0:08:56.78,0:09:02.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TOUR OF THE HOSPITAL · USNS COMFORT
+Dialogue: 0,0:09:45.20,0:09:48.06,Sub,,0,0,0,,{\fad(80,80)}A hospital corpsman on board, Hospital Corpsman
+Dialogue: 0,0:09:48.08,0:09:51.12,Sub,,0,0,0,,{\fad(80,80)}Second Class Malachi Gregory, described the chance
+Dialogue: 0,0:09:51.14,0:09:54.00,Sub,,0,0,0,,{\fad(80,80)}to come down here and help people who otherwise
+Dialogue: 0,0:09:54.02,0:09:55.16,Sub,,0,0,0,,{\fad(80,80)}wouldn't be helped.
+Dialogue: 2,0:09:45.45,0:09:51.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1385 0 l 1385 132 l 0 132{\p0}
+Dialogue: 3,0:09:45.45,0:09:51.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:45.45,0:09:51.20,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CARIBBEAN SEA, JUNE 17 · PUERTO PLATA, D.R., JULY 16, 2025 · U.S. ARMY / U.S. NAVY
+Dialogue: 3,0:09:45.45,0:09:51.20,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FLIGHT DECK · USNS COMFORT
+Dialogue: 0,0:09:55.63,0:10:00.12,Sub,,0,0,0,,{\fad(80,80)}On August 17, 2025, Comfort came home to Norfolk.
+Dialogue: 2,0:09:55.88,0:10:00.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1273 0 l 1273 132 l 0 132{\p0}
+Dialogue: 3,0:09:55.88,0:10:00.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:55.88,0:10:00.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CARIBBEAN SEA, JUNE · PUERTO PLATA, D.R., JULY 2025 · U.S. ARMY / U.S. NAVY
+Dialogue: 3,0:09:55.88,0:10:00.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT FLIGHT DECK · CONTINUING PROMISE 2025
+Dialogue: 0,0:10:27.71,0:10:31.25,Sub,,0,0,0,,{\fad(80,80)}Each of those missions needed the same things.
+Dialogue: 0,0:10:31.27,0:10:35.27,Sub,,0,0,0,,{\fad(80,80)}A ship ready at a pier, and people ready to fill it.
+Dialogue: 0,0:10:35.29,0:10:35.73,Sub,,0,0,0,,{\fad(80,80)}A war.
+Dialogue: 0,0:10:35.75,0:10:38.13,Sub,,0,0,0,,{\fad(80,80)}A terrorist attack. Hurricanes.
+Dialogue: 0,0:10:38.15,0:10:40.14,Sub,,0,0,0,,{\fad(80,80)}An earthquake. A pandemic.
+Dialogue: 0,0:10:40.16,0:10:44.08,Sub,,0,0,0,,{\fad(80,80)}And in between, a promise, kept one port at a time.
+Dialogue: 2,0:10:27.96,0:10:33.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 902 0 l 902 132 l 0 132{\p0}
+Dialogue: 3,0:10:27.96,0:10:33.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:27.96,0:10:33.71,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEW YORK, MARCH 2020 · NORFOLK, MAY 2020 · U.S. NAVY
+Dialogue: 3,0:10:27.96,0:10:33.71,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}USNS COMFORT
+Dialogue: 5,0:10:53.08,0:10:57.28,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Navy, U.S. Army, U.S. Air Force via DVIDS (public domain).\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, the U.S. Navy, NIH or CDC.\NFor education only. This is not medical advice.
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

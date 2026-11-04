@@ -60,6 +60,9 @@ Long steps (build/finish/encode/shorts) through nohup + polling; never let a for
 - motion_check 0 issues (long and each Short). Contact sheet every 8 s: no gore, no overlaps, subtitles inside frame.
 - Listen check: voice must be MALE (am_fenrir). `ffmpeg -i long.mp4 -af ebur128 -f null -` ≈ −14 LUFS.
 - Thumbnail at 168×94 still reads; bottom-right corner empty.
+- Shorts HUD `label`: max ~50 characters per line; split longer labels into two lines with `\\N` (one long line runs off the frame).
+- Check every surgery shot in the 9:16 crop too: a medium 16:9 shot becomes a close-up of the operating field after cropping — use only room-wide shots.
+- Avoid edited "wrap-up" montages (1-second cuts, baked-in titles) — the builder cannot place a shot inside them.
 
 ## 6. Upload + schedule
 - Branch = weekday of the ET publish date (`drop-mon` … `drop-sun`): orphan commit with ONLY that day's files (long.mp4, short1..6.mp4, thumb_A.jpg), force-push. URL `https://raw.githubusercontent.com/ituraev97/KEPTALIVE_media/drop-XXX/<file>`. Video never on `main`.
