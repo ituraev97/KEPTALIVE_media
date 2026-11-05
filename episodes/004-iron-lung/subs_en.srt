@@ -1,0 +1,915 @@
+1
+00:00:01,000 --> 00:00:01,402
+1945.
+
+2
+00:00:01,402 --> 00:00:04,132
+Manila, in the Philippines. A U.S.
+
+3
+00:00:04,132 --> 00:00:08,227
+Army film crew records a patient being moved out of
+
+4
+00:00:08,227 --> 00:00:09,833
+a military hospital.
+
+5
+00:00:10,283 --> 00:00:12,164
+The patient isn't on a stretcher.
+
+6
+00:00:12,164 --> 00:00:13,987
+The patient is inside a machine.
+
+7
+00:00:13,987 --> 00:00:15,925
+A steel tank, loaded onto a plane.
+
+8
+00:00:16,375 --> 00:00:18,133
+It was called an iron lung.
+
+9
+00:00:18,133 --> 00:00:19,370
+And it did one job.
+
+10
+00:00:19,370 --> 00:00:21,779
+It breathed for people who could not.
+
+11
+00:00:22,479 --> 00:00:26,122
+For decades, the disease that filled these machines
+
+12
+00:00:26,122 --> 00:00:27,765
+came back every summer.
+
+13
+00:00:27,765 --> 00:00:30,694
+It was called infantile paralysis. Polio.
+
+14
+00:00:31,144 --> 00:00:35,052
+Then, in about 25 years, America stopped wild polio
+
+15
+00:00:35,052 --> 00:00:37,197
+from spreading. This is how.
+
+16
+00:00:37,797 --> 00:00:40,751
+The iron lung, and the end of polio in America.
+
+17
+00:00:43,351 --> 00:00:44,548
+Start with the virus.
+
+18
+00:00:44,998 --> 00:00:46,570
+Polio is caused by a virus.
+
+19
+00:00:46,570 --> 00:00:49,250
+According to the World Health Organization, it
+
+20
+00:00:49,250 --> 00:00:52,279
+spreads mainly from person to person, through what's
+
+21
+00:00:52,279 --> 00:00:53,910
+called the fecal-oral route.
+
+22
+00:00:54,360 --> 00:00:57,327
+Most infections cause no symptoms at all.
+
+23
+00:00:57,327 --> 00:01:01,090
+The CDC says about 70 percent of polio infections in
+
+24
+00:01:01,090 --> 00:01:02,537
+children are silent.
+
+25
+00:01:02,537 --> 00:01:06,082
+But the World Health Organization says about 1 in
+
+26
+00:01:06,082 --> 00:01:09,483
+200 infections leads to irreversible paralysis,
+
+27
+00:01:09,483 --> 00:01:10,930
+usually in the legs.
+
+28
+00:01:11,380 --> 00:01:14,449
+And when the paralysis reached the muscles used for
+
+29
+00:01:14,449 --> 00:01:17,518
+breathing, 5 to 10 percent of those paralyzed died.
+
+30
+00:01:17,968 --> 00:01:20,695
+In the first half of the twentieth century,
+
+31
+00:01:20,695 --> 00:01:23,485
+epidemics hit the developed countries of the
+
+32
+00:01:23,485 --> 00:01:26,719
+Northern Hemisphere every summer and fall, and they
+
+33
+00:01:26,719 --> 00:01:27,923
+kept getting worse.
+
+34
+00:01:27,923 --> 00:01:30,904
+In the United States, paralytic polio peaked in
+
+35
+00:01:30,904 --> 00:01:33,630
+1952, with more than 21,000 cases reported.
+
+36
+00:01:34,080 --> 00:01:38,343
+In the late 1940s and early fifties, according to
+
+37
+00:01:38,343 --> 00:01:42,432
+the CDC, polio crippled an average of more than
+
+38
+00:01:42,432 --> 00:01:45,216
+35,000 people a year in the U.S.
+
+39
+00:01:45,666 --> 00:01:49,464
+Mass Humanities notes severe American epidemics in
+
+40
+00:01:49,464 --> 00:01:52,046
+nineteen sixteen and in the 1930s.
+
+41
+00:01:52,046 --> 00:01:54,628
+The most devastating came in 1952.
+
+42
+00:01:55,428 --> 00:01:57,949
+For the patients who could no longer breathe, there
+
+43
+00:01:57,949 --> 00:01:58,641
+was a machine.
+
+44
+00:01:59,091 --> 00:02:02,091
+It was developed at Harvard by Philip Drinker and
+
+45
+00:02:02,091 --> 00:02:03,254
+Louis Agassiz Shaw.
+
+46
+00:02:03,254 --> 00:02:06,132
+According to Mass Humanities, the first one was
+
+47
+00:02:06,132 --> 00:02:09,193
+little more than a galvanized iron box, a bed, and
+
+48
+00:02:09,193 --> 00:02:11,029
+two household vacuum cleaners.
+
+49
+00:02:11,479 --> 00:02:14,953
+On October 12, 1928, it was used on a young girl, at
+
+50
+00:02:14,953 --> 00:02:16,958
+Children's Hospital in Boston.
+
+51
+00:02:16,958 --> 00:02:20,098
+It was the first successful use of a mechanical
+
+52
+00:02:20,098 --> 00:02:21,234
+respirator there.
+
+53
+00:02:21,684 --> 00:02:22,927
+Here's how it worked.
+
+54
+00:02:22,927 --> 00:02:25,946
+The patient lay inside the tank, with only the head
+
+55
+00:02:25,946 --> 00:02:28,433
+outside, sealed off by an airtight collar.
+
+56
+00:02:28,883 --> 00:02:31,666
+When the pressure inside the tank dropped, the chest
+
+57
+00:02:31,666 --> 00:02:33,913
+expanded, and air streamed into the lungs.
+
+58
+00:02:33,913 --> 00:02:36,536
+When the pressure rose again, the air flowed out.
+
+59
+00:02:36,536 --> 00:02:39,318
+Over and over, it did what the patient's own muscles
+
+60
+00:02:39,318 --> 00:02:39,854
+could not.
+
+61
+00:02:40,304 --> 00:02:44,394
+In 1931, an improved version was completed by J.H.
+
+62
+00:02:44,394 --> 00:02:47,421
+Emerson, of Cambridge, Massachusetts.
+
+63
+00:02:47,421 --> 00:02:51,511
+A 1933 account put its price at about $1,000, half
+
+64
+00:02:51,511 --> 00:02:54,619
+or less the cost of the other machine.
+
+65
+00:02:55,069 --> 00:02:58,326
+Harvard Medical School says the Emerson model became
+
+66
+00:02:58,326 --> 00:03:01,833
+the main iron lung used in hospitals across the country.
+
+67
+00:03:01,833 --> 00:03:04,589
+Boston Children's had a room-sized one, in a
+
+68
+00:03:04,589 --> 00:03:05,716
+hospital basement.
+
+69
+00:03:05,716 --> 00:03:08,659
+It could hold five patients at once, and nurses
+
+70
+00:03:08,659 --> 00:03:10,851
+could walk inside to care for them.
+
+71
+00:03:11,301 --> 00:03:14,930
+Iron lungs were meant to give temporary relief,
+
+72
+00:03:14,930 --> 00:03:16,937
+until a patient recovered.
+
+73
+00:03:16,937 --> 00:03:18,558
+But not everyone did.
+
+74
+00:03:18,558 --> 00:03:22,264
+In 1959, about 1,200 people in the United States
+
+75
+00:03:22,264 --> 00:03:24,889
+were still using tank respirators.
+
+76
+00:03:25,339 --> 00:03:28,030
+Caring for someone inside a tank was hard.
+
+77
+00:03:28,030 --> 00:03:31,299
+Later machines, like a 1957 Emerson model described
+
+78
+00:03:31,299 --> 00:03:34,632
+by the Kansas Historical Society, had a plastic dome
+
+79
+00:03:34,632 --> 00:03:37,901
+that could go over the patient's head and take over
+
+80
+00:03:37,901 --> 00:03:40,721
+the breathing, during bathing or other care.
+
+81
+00:03:41,521 --> 00:03:44,530
+Polio's most famous patient was a future president.
+
+82
+00:03:44,980 --> 00:03:47,529
+In August 1921, at 39, Franklin D.
+
+83
+00:03:47,529 --> 00:03:51,202
+Roosevelt was diagnosed with infantile paralysis.
+
+84
+00:03:51,202 --> 00:03:54,875
+In 1924, he went to Warm Springs, Georgia, hoping
+
+85
+00:03:54,875 --> 00:03:56,524
+its waters would help.
+
+86
+00:03:56,524 --> 00:03:59,372
+Two years later, he bought the resort.
+
+87
+00:03:59,822 --> 00:04:03,644
+Fundraising for Warm Springs grew into something bigger.
+
+88
+00:04:03,644 --> 00:04:07,057
+In 1938, Roosevelt founded the National Foundation
+
+89
+00:04:07,057 --> 00:04:08,695
+for Infantile Paralysis.
+
+90
+00:04:09,145 --> 00:04:12,736
+The radio comedian Eddie Cantor urged Americans to
+
+91
+00:04:12,736 --> 00:04:16,327
+send their dimes directly to the president, at the
+
+92
+00:04:16,327 --> 00:04:17,188
+White House.
+
+93
+00:04:17,188 --> 00:04:18,912
+And he suggested a name.
+
+94
+00:04:18,912 --> 00:04:20,276
+The March of Dimes.
+
+95
+00:04:20,726 --> 00:04:22,216
+Movie audiences gave.
+
+96
+00:04:22,216 --> 00:04:25,408
+In this nineteen 44 newsreel, a young girl on
+
+97
+00:04:25,408 --> 00:04:28,458
+crutches thanks moviegoers for their dimes.
+
+98
+00:04:28,908 --> 00:04:32,008
+And the National Foundation would pick the man to
+
+99
+00:04:32,008 --> 00:04:34,982
+run what PBS NewsHour calls the largest vaccine
+
+100
+00:04:34,982 --> 00:04:36,438
+trial of its kind ever.
+
+101
+00:04:37,238 --> 00:04:39,119
+The vaccine came from Jonas Salk.
+
+102
+00:04:39,569 --> 00:04:43,255
+In the early 1950s, Salk developed an inactivated
+
+103
+00:04:43,255 --> 00:04:44,308
+polio vaccine.
+
+104
+00:04:44,308 --> 00:04:45,887
+It used killed virus.
+
+105
+00:04:45,887 --> 00:04:49,724
+In this 1956 film, made by the National Foundation,
+
+106
+00:04:49,724 --> 00:04:53,635
+the vaccine is produced and checked, batch by batch.
+
+107
+00:04:54,085 --> 00:04:57,133
+To find out if it worked, the National Foundation
+
+108
+00:04:57,133 --> 00:05:00,368
+turned to Salk's former teacher, Thomas Francis Jr.,
+
+109
+00:05:00,368 --> 00:05:02,234
+at the University of Michigan.
+
+110
+00:05:02,684 --> 00:05:06,195
+The trial formally began on April 26, 1954.
+
+111
+00:05:06,195 --> 00:05:09,542
+More than 1.8 million children took part.
+
+112
+00:05:09,542 --> 00:05:13,625
+It relied on about 150,000 volunteers, some 15,000
+
+113
+00:05:13,625 --> 00:05:16,972
+schools, and 44 state health departments.
+
+114
+00:05:17,422 --> 00:05:20,520
+In part of the trial, some children got the vaccine,
+
+115
+00:05:20,520 --> 00:05:23,142
+and a group at least as large got a placebo.
+
+116
+00:05:23,142 --> 00:05:24,750
+That part was double-blind.
+
+117
+00:05:24,750 --> 00:05:27,551
+Neither the children nor the doctors giving the
+
+118
+00:05:27,551 --> 00:05:29,159
+shots knew which was which.
+
+119
+00:05:29,609 --> 00:05:33,229
+On April 12, 1955, Francis stepped up in Rackham
+
+120
+00:05:33,229 --> 00:05:36,999
+Auditorium, in Ann Arbor, to announce the results.
+
+121
+00:05:37,450 --> 00:05:38,690
+The vaccine works.
+
+122
+00:05:38,690 --> 00:05:41,032
+It is safe, effective, and potent.
+
+123
+00:05:41,832 --> 00:05:44,921
+According to the University of Michigan, it was up
+
+124
+00:05:44,921 --> 00:05:47,578
+to 80 to 90 percent effective in preventing
+
+125
+00:05:47,578 --> 00:05:48,567
+paralytic polio.
+
+126
+00:05:48,567 --> 00:05:50,049
+Newspapers ran the news.
+
+127
+00:05:50,499 --> 00:05:54,277
+That same year, 1955, the vaccine was licensed for
+
+128
+00:05:54,277 --> 00:05:56,166
+use in the United States.
+
+129
+00:05:56,966 --> 00:05:58,105
+Then came a setback.
+
+130
+00:05:58,555 --> 00:06:02,666
+In 1955, some batches of polio vaccine given to the
+
+131
+00:06:02,666 --> 00:06:05,407
+public contained live polio virus.
+
+132
+00:06:05,407 --> 00:06:09,115
+The CDC says more than 250 cases of polio were
+
+133
+00:06:09,115 --> 00:06:13,065
+attributed to vaccine made by one company, Cutter
+
+134
+00:06:13,065 --> 00:06:14,113
+Laboratories.
+
+135
+00:06:14,563 --> 00:06:17,963
+The vaccine was recalled as soon as the cases were
+
+136
+00:06:17,963 --> 00:06:18,575
+detected.
+
+137
+00:06:18,575 --> 00:06:21,974
+The government improved the production process and
+
+138
+00:06:21,974 --> 00:06:23,334
+increased oversight.
+
+139
+00:06:23,334 --> 00:06:26,462
+By the fall of 1955, vaccinations had resumed.
+
+140
+00:06:26,462 --> 00:06:29,997
+The CDC says the incident led to a better system for
+
+141
+00:06:29,997 --> 00:06:31,357
+regulating vaccines.
+
+142
+00:06:31,807 --> 00:06:33,314
+Vaccination went on.
+
+143
+00:06:33,314 --> 00:06:37,156
+In this 1957 newsreel, the Salk vaccine is given to
+
+144
+00:06:37,156 --> 00:06:39,491
+children, including twin girls.
+
+145
+00:06:40,291 --> 00:06:42,231
+Next, America had to reach everyone.
+
+146
+00:06:42,681 --> 00:06:46,159
+In 1961, the Communicable Disease Center, today's
+
+147
+00:06:46,159 --> 00:06:49,211
+CDC, filmed a polio vaccination campaign in
+
+148
+00:06:49,211 --> 00:06:52,831
+Columbus, Georgia, with the state and county health
+
+149
+00:06:52,831 --> 00:06:53,683
+departments.
+
+150
+00:06:54,133 --> 00:06:55,921
+Free vaccine stations went up.
+
+151
+00:06:55,921 --> 00:06:58,423
+Signs went up on street corners and buses.
+
+152
+00:06:58,423 --> 00:06:59,794
+The message was simple.
+
+153
+00:06:59,794 --> 00:07:00,687
+One shot, good.
+
+154
+00:07:00,687 --> 00:07:01,760
+Two shots, better.
+
+155
+00:07:01,760 --> 00:07:02,832
+Three shots, best.
+
+156
+00:07:03,282 --> 00:07:05,893
+Health workers went door to door with forms.
+
+157
+00:07:05,893 --> 00:07:08,978
+And the campaign kept score, charting how many young
+
+158
+00:07:08,978 --> 00:07:11,707
+children in each area had three or more shots.
+
+159
+00:07:12,157 --> 00:07:14,866
+Meanwhile, a second vaccine arrived.
+
+160
+00:07:14,866 --> 00:07:18,477
+The CDC credits Albert Sabin with developing the
+
+161
+00:07:18,477 --> 00:07:21,412
+oral polio vaccine, in the early 1960s.
+
+162
+00:07:21,412 --> 00:07:24,346
+Oral vaccines were licensed in the U.S.
+
+163
+00:07:24,346 --> 00:07:25,626
+starting in 1961.
+
+164
+00:07:26,076 --> 00:07:26,910
+It worked.
+
+165
+00:07:26,910 --> 00:07:31,001
+According to the CDC, the last cases of paralytic
+
+166
+00:07:31,001 --> 00:07:35,175
+polio caused by locally acquired wild virus in the
+
+167
+00:07:35,175 --> 00:07:38,180
+United States were reported in 1979.
+
+168
+00:07:38,630 --> 00:07:42,182
+Since 2000, the only polio vaccine used in the U.S.
+
+169
+00:07:42,182 --> 00:07:45,386
+has been the inactivated one, given as a shot.
+
+170
+00:07:45,386 --> 00:07:48,729
+The CDC notes that because it's made from killed
+
+171
+00:07:48,729 --> 00:07:50,748
+virus, it cannot cause polio.
+
+172
+00:07:51,548 --> 00:07:53,478
+But what replaced the iron lung?
+
+173
+00:07:53,478 --> 00:07:55,226
+That story starts in Denmark.
+
+174
+00:07:55,676 --> 00:07:58,175
+In 1952, polio hit Copenhagen hard.
+
+175
+00:07:58,175 --> 00:08:01,244
+Two accounts of the epidemic say the city's
+
+176
+00:08:01,244 --> 00:08:04,956
+infectious disease hospital, and Denmark as a whole,
+
+177
+00:08:04,956 --> 00:08:06,598
+had just one iron lung.
+
+178
+00:08:07,048 --> 00:08:10,211
+A Danish anesthesiologist, Bjørn Ibsen, suggested
+
+179
+00:08:10,211 --> 00:08:11,309
+another approach.
+
+180
+00:08:11,309 --> 00:08:14,472
+Instead of pulling air in from the outside of the
+
+181
+00:08:14,472 --> 00:08:17,829
+body, push air into the lungs, through a tube in the
+
+182
+00:08:17,829 --> 00:08:18,410
+windpipe.
+
+183
+00:08:18,410 --> 00:08:19,572
+Positive pressure.
+
+184
+00:08:20,022 --> 00:08:22,374
+But there weren't machines to do the pushing.
+
+185
+00:08:22,374 --> 00:08:24,726
+So people did it by hand, squeezing a bag, in
+
+186
+00:08:24,726 --> 00:08:26,033
+shifts, around the clock.
+
+187
+00:08:26,033 --> 00:08:28,646
+Some accounts put the number of medical and dental
+
+188
+00:08:28,646 --> 00:08:31,102
+students who took part at more than a thousand.
+
+189
+00:08:31,552 --> 00:08:35,213
+Deaths among the patients with breathing paralysis
+
+190
+00:08:35,213 --> 00:08:36,164
+fell sharply.
+
+191
+00:08:36,164 --> 00:08:39,898
+And in December 1953, the first intensive care unit
+
+192
+00:08:39,898 --> 00:08:41,435
+opened in Copenhagen.
+
+193
+00:08:41,885 --> 00:08:45,226
+Harvard Medical School says iron lungs eventually
+
+194
+00:08:45,226 --> 00:08:46,316
+became obsolete.
+
+195
+00:08:46,316 --> 00:08:49,521
+Today, intensive care units like these, at U.S.
+
+196
+00:08:49,521 --> 00:08:52,793
+Naval Hospital Guam, use mechanical ventilators.
+
+197
+00:08:53,243 --> 00:08:56,918
+And here, an Air Force respiratory care practitioner
+
+198
+00:08:56,918 --> 00:09:00,239
+teaches Tanzanian military medical staff to use
+
+199
+00:09:00,239 --> 00:09:03,631
+ventilators, during a training exercise in 2026.
+
+200
+00:09:04,431 --> 00:09:06,927
+The rest of the world still had to finish the job.
+
+201
+00:09:07,377 --> 00:09:11,151
+In 1994, an international commission certified the
+
+202
+00:09:11,151 --> 00:09:14,925
+Western Hemisphere free of native wild poliovirus.
+
+203
+00:09:15,375 --> 00:09:18,826
+Globally, the push had begun in 1988, with the
+
+204
+00:09:18,826 --> 00:09:21,526
+Global Polio Eradication Initiative.
+
+205
+00:09:21,526 --> 00:09:25,352
+Back then, the World Health Organization estimates,
+
+206
+00:09:25,352 --> 00:09:28,952
+there were about 350,000 cases, in more than 125
+
+207
+00:09:28,952 --> 00:09:29,703
+countries.
+
+208
+00:09:29,703 --> 00:09:33,303
+Since then, wild polio cases have fallen by more
+
+209
+00:09:33,303 --> 00:09:34,503
+than 99 percent.
+
+210
+00:09:34,953 --> 00:09:38,739
+Of the three types of wild poliovirus, two have been
+
+211
+00:09:38,739 --> 00:09:40,196
+declared eradicated.
+
+212
+00:09:40,196 --> 00:09:43,181
+Type two in 2015, and type three in 2019.
+
+213
+00:09:43,631 --> 00:09:47,323
+Today, according to the World Health Organization,
+
+214
+00:09:47,323 --> 00:09:50,572
+wild polio is endemic in only two countries.
+
+215
+00:09:50,572 --> 00:09:52,492
+Afghanistan, and Pakistan.
+
+216
+00:09:53,292 --> 00:09:55,926
+So, how did wild polio end in America?
+
+217
+00:09:56,376 --> 00:09:57,957
+Not with the iron lung.
+
+218
+00:09:57,957 --> 00:10:00,020
+The machine kept people alive.
+
+219
+00:10:00,020 --> 00:10:01,945
+It could not stop the virus.
+
+220
+00:10:02,395 --> 00:10:04,400
+That took a nation sending dimes.
+
+221
+00:10:04,400 --> 00:10:07,620
+A trial with almost 2 million children. Two vaccines.
+
+222
+00:10:07,620 --> 00:10:09,868
+And campaigns that went door to door.
+
+223
+00:10:10,318 --> 00:10:13,357
+And the crisis the iron lung couldn't handle helped
+
+224
+00:10:13,357 --> 00:10:15,681
+give us the modern intensive care unit.
+
+225
+00:10:16,131 --> 00:10:17,513
+Next time on KEPT ALIVE.
+
+226
+00:10:17,513 --> 00:10:19,816
+Whole blood, and the walking blood bank.
+
+227
+00:10:20,616 --> 00:10:21,756
+For education only.
+
+228
+00:10:21,756 --> 00:10:23,377
+This is not medical advice.
+
+229
+00:10:23,377 --> 00:10:26,198
+If you have a health concern, talk to a doctor.

@@ -4,7 +4,7 @@ Rotate formats; check every fact before writing. Mark `[x] YYYY-MM-DD` when publ
 - [x] 2026-11-02 001 HOW IT WORKS — The Golden Hour: How Medevac Crews Race the Clock (DVIDS medevac training; Kotwal et al., JAMA Surgery 2015)
 - [x] 2026-11-03 002 OUTBREAK — Smallpox: How the World Erased a Disease (archive.org films, WHO/CDC history pages)
 - [x] 2026-11-04 003 THE SAVE — Inside USNS Comfort: The Navy's Floating Hospital (DVIDS Comfort/Mercy)
-- [ ] 004 FIRST — The Iron Lung and the End of Polio (archive.org films, NLM, CDC polio history)
+- [x] 2026-11-05 004 FIRST — The Iron Lung and the End of Polio (archive.org films, DVIDS ventilator/ICU, CDC/WHO/Harvard sources)
 - [ ] 005 HOW IT WORKS — Whole Blood and the Walking Blood Bank (DVIDS blood training)
 - [ ] 006 OUTBREAK — 1918: The Flu That Came Home From War (archive.org, NLM, CDC 1918 pages)
 - [ ] 007 HOW IT WORKS — The Tourniquet: From Feared to Lifesaver (DVIDS Stop the Bleed / TCCC training)

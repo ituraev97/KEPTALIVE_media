@@ -1,0 +1,803 @@
+[
+ {
+  "key": "title_c1fdc4",
+  "name": "title",
+  "opts": {
+   "kicker": "FIRST \u00b7 004",
+   "title": "The Iron <span style=\"color:#2BB3A3\">Lung</span>",
+   "sub": "AND THE END OF POLIO IN AMERICA",
+   "size": 210
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_0befc1",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "I",
+   "t": "EVERY SUMMER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_60b106",
+  "name": "cards3",
+  "opts": {
+   "kicker": "POLIO \u00b7 WHAT ONE INFECTION CAN DO",
+   "title": "MOSTLY SILENT. SOMETIMES DEVASTATING.",
+   "cards": [
+    {
+     "h": "~70%",
+     "t": "of infections in children cause no symptoms",
+     "s": "SOURCE: CDC"
+    },
+    {
+     "h": "1 IN 200",
+     "t": "infections leads to irreversible paralysis",
+     "s": "USUALLY IN THE LEGS \u00b7 WHO",
+     "size": 96
+    },
+    {
+     "h": "5\u201310%",
+     "t": "of those paralysed die",
+     "s": "WHEN BREATHING MUSCLES ARE IMMOBILIZED \u00b7 WHO"
+    }
+   ],
+   "footer": "SOURCES: CDC PINK BOOK, CH. 18 \u00b7 WHO POLIOMYELITIS FACT SHEET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f62055",
+  "name": "stat",
+  "opts": {
+   "a": "21,000+",
+   "b": "PARALYTIC POLIO CASES REPORTED IN THE U.S. IN 1952",
+   "c": "THE PEAK YEAR \u00b7 SOURCE: CDC PINK BOOK, CH. 18"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_52686b",
+  "name": "timeline",
+  "opts": {
+   "kicker": "POLIO IN THE UNITED STATES",
+   "title": "THE WORST SUMMERS",
+   "events": [
+    {
+     "y": "1916",
+     "t": "Severe epidemic"
+    },
+    {
+     "y": "LATE 1940S",
+     "t": "35,000+ crippled a year, on average"
+    },
+    {
+     "y": "1952",
+     "t": "Peak: 21,000+ paralytic cases"
+    }
+   ],
+   "active": 2,
+   "footer": "SOURCES: MASS HUMANITIES \u00b7 CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_ec3050",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "II",
+   "t": "THE MACHINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_cfadd0",
+  "name": "callcard",
+  "opts": {
+   "kicker": "HARVARD \u00b7 1928",
+   "title": "THE DRINKER RESPIRATOR",
+   "rows": [
+    [
+     "WHO",
+     "PHILIP DRINKER AND LOUIS AGASSIZ SHAW"
+    ],
+    [
+     "BUILT FROM",
+     "AN IRON BOX, A BED, TWO VACUUM CLEANERS"
+    ],
+    [
+     "FIRST USE",
+     "OCT. 12, 1928 \u00b7 CHILDREN'S HOSPITAL, BOSTON"
+    ]
+   ],
+   "footer": "SOURCES: HARVARD MEDICAL SCHOOL \u00b7 MASS HUMANITIES \u00b7 BOSTON CHILDREN'S ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_c043ab",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -80,
+      38
+     ],
+     [
+      -66,
+      46
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       -71.06,
+       42.36
+      ],
+      "r": 40,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -71.06,
+       42.36
+      ],
+      "name": "BOSTON",
+      "sub": "CHILDREN'S HOSPITAL \u00b7 OCT. 12, 1928",
+      "d": 0.3,
+      "color": "#6CF29A",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "OCTOBER 12, 1928",
+   "title": "THE FIRST PATIENT",
+   "footer": "SOURCES: MASS HUMANITIES \u00b7 BOSTON CHILDREN'S HOSPITAL ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_602df0",
+  "name": "steps",
+  "opts": {
+   "kicker": "HOW AN IRON LUNG BREATHES FOR YOU",
+   "title": "NEGATIVE PRESSURE",
+   "items": [
+    [
+     "Seal",
+     "Body inside, head out, airtight collar"
+    ],
+    [
+     "Lower",
+     "Pressure in the tank drops"
+    ],
+    [
+     "Inhale",
+     "Chest expands, air flows in"
+    ],
+    [
+     "Exhale",
+     "Pressure rises, air flows out"
+    ]
+   ],
+   "active": 0,
+   "footer": "SOURCES: HARVARD MEDICAL SCHOOL \u00b7 KANSAS HISTORICAL SOCIETY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_adb7bb",
+  "name": "steps",
+  "opts": {
+   "kicker": "HOW AN IRON LUNG BREATHES FOR YOU",
+   "title": "NEGATIVE PRESSURE",
+   "items": [
+    [
+     "Seal",
+     "Body inside, head out, airtight collar"
+    ],
+    [
+     "Lower",
+     "Pressure in the tank drops"
+    ],
+    [
+     "Inhale",
+     "Chest expands, air flows in"
+    ],
+    [
+     "Exhale",
+     "Pressure rises, air flows out"
+    ]
+   ],
+   "active": 2,
+   "footer": "SOURCES: HARVARD MEDICAL SCHOOL \u00b7 KANSAS HISTORICAL SOCIETY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_782ec8",
+  "name": "phases",
+  "opts": {
+   "kicker": "THE IRON LUNG GETS CHEAPER",
+   "title": "DRINKER VS. EMERSON",
+   "left": {
+    "label": "DRINKER RESPIRATOR",
+    "num": "$2,000+",
+    "desc": "$2,000 OR $2,300 IN A 1933 ACCOUNT"
+   },
+   "right": {
+    "label": "EMERSON RESPIRATOR \u00b7 1931",
+    "num": "$1,000",
+    "desc": "PRICE CITED IN A 1933 ACCOUNT"
+   },
+   "active": 1,
+   "footer": "SOURCES: MASS HUMANITIES (MASS MOMENTS) \u00b7 HARVARD MEDICAL SCHOOL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_9b18f0",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE IRON LUNG ERA",
+   "title": "HOSPITALS BUILT AROUND A MACHINE",
+   "cards": [
+    {
+     "h": "1931",
+     "t": "Emerson model completed",
+     "s": "BECAME THE MAIN MODEL IN U.S. HOSPITALS"
+    },
+    {
+     "h": "5",
+     "t": "patients in one room-sized respirator",
+     "s": "BOSTON CHILDREN'S \u00b7 1930S"
+    },
+    {
+     "h": "1,200",
+     "t": "people in the U.S. using tank respirators",
+     "s": "IN 1959"
+    }
+   ],
+   "footer": "SOURCES: HARVARD MEDICAL SCHOOL \u00b7 BOSTON CHILDREN'S ARCHIVES \u00b7 MASS HUMANITIES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_a70a82",
+  "name": "callcard",
+  "opts": {
+   "kicker": "EMERSON RESPIRATOR \u00b7 1957",
+   "title": "LIVING INSIDE THE MACHINE",
+   "rows": [
+    [
+     "HEAD",
+     "OUTSIDE, THROUGH A PLASTIC COLLAR"
+    ],
+    [
+     "FOR CARE",
+     "A PLASTIC DOME TOOK OVER THE BREATHING"
+    ],
+    [
+     "PURPOSE",
+     "TEMPORARY RELIEF UNTIL RECOVERY"
+    ]
+   ],
+   "footer": "SOURCE: KANSAS HISTORICAL SOCIETY (KANSAPEDIA)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_66bb9a",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "III",
+   "t": "THE DIMES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_5eca20",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FROM ONE PATIENT TO A NATIONAL CAUSE",
+   "title": "ROOSEVELT AND POLIO",
+   "events": [
+    {
+     "y": "1921",
+     "t": "FDR diagnosed, age 39"
+    },
+    {
+     "y": "1924",
+     "t": "First visit to Warm Springs, Ga."
+    },
+    {
+     "y": "1926",
+     "t": "Buys the resort"
+    },
+    {
+     "y": "1934",
+     "t": "First Birthday Ball fundraiser"
+    },
+    {
+     "y": "1938",
+     "t": "National Foundation founded"
+    }
+   ],
+   "active": 4,
+   "footer": "SOURCE: FDR PRESIDENTIAL LIBRARY & MUSEUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_c0039d",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026send their dimes directly to the President at the White House \u2026 and we could call it the March of Dimes.",
+   "w": "EDDIE CANTOR \u00b7 AS QUOTED BY DR. HOWARD MARKEL, PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_5aea0a",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "IV",
+   "t": "THE TRIAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_e6f111",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE 1954 FIELD TRIAL",
+   "title": "THE BIGGEST TEST OF ITS KIND",
+   "cards": [
+    {
+     "h": "1.8M+",
+     "t": "children took part",
+     "s": "1,829,916 IN THE FINAL REPORT"
+    },
+    {
+     "h": "~150,000",
+     "t": "volunteers",
+     "s": "",
+     "size": 96
+    },
+    {
+     "h": "44",
+     "t": "state health departments",
+     "s": "AND ABOUT 15,000 SCHOOLS"
+    }
+   ],
+   "footer": "SOURCES: UNIVERSITY OF MICHIGAN SCHOOL OF PUBLIC HEALTH \u00b7 PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_818a07",
+  "name": "stat",
+  "opts": {
+   "a": "APRIL 12, 1955",
+   "b": "RESULTS ANNOUNCED \u00b7 RACKHAM AUDITORIUM, ANN ARBOR",
+   "c": "UNIVERSITY OF MICHIGAN \u00b7 SOURCES: UMICH SPH \u00b7 PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_1a61ec",
+  "name": "quote",
+  "opts": {
+   "q": "The vaccine works. It is safe, effective, and potent.",
+   "w": "DR. THOMAS FRANCIS JR. \u00b7 APRIL 12, 1955 \u00b7 ANN ARBOR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_67a3a5",
+  "name": "stat",
+  "opts": {
+   "a": "80\u201390%",
+   "b": "EFFECTIVE IN PREVENTING PARALYTIC POLIO \u00b7 \"UP TO\"",
+   "c": "SOURCE: UNIVERSITY OF MICHIGAN SCHOOL OF PUBLIC HEALTH"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_5f3389",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "V",
+   "t": "THE SETBACK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_7407f0",
+  "name": "callcard",
+  "opts": {
+   "kicker": "1955 \u00b7 THE CUTTER INCIDENT",
+   "title": "A BAD BATCH",
+   "rows": [
+    [
+     "WHAT WENT WRONG",
+     "SOME BATCHES CONTAINED LIVE POLIO VIRUS"
+    ],
+    [
+     "CASES",
+     "250+ ATTRIBUTED TO ONE MAKER'S VACCINE"
+    ],
+    [
+     "RESPONSE",
+     "RECALLED AS SOON AS CASES WERE DETECTED"
+    ]
+   ],
+   "footer": "SOURCE: CDC, HISTORICAL VACCINE SAFETY CONCERNS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_e08952",
+  "name": "steps",
+  "opts": {
+   "kicker": "AFTER CUTTER",
+   "title": "WHAT CHANGED",
+   "items": [
+    [
+     "Recall",
+     "As soon as cases were detected"
+    ],
+    [
+     "Fix",
+     "Improved the production process"
+    ],
+    [
+     "Oversee",
+     "More government oversight"
+    ],
+    [
+     "Resume",
+     "Vaccination restarts, fall 1955"
+    ]
+   ],
+   "active": 2,
+   "footer": "SOURCE: CDC, HISTORICAL VACCINE SAFETY CONCERNS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_def859",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "VI",
+   "t": "ONE, TWO, THREE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_b73bad",
+  "name": "phases",
+  "opts": {
+   "kicker": "TWO VACCINES",
+   "title": "SALK AND SABIN",
+   "left": {
+    "label": "INACTIVATED \u00b7 JONAS SALK",
+    "num": "1955",
+    "desc": "KILLED VIRUS \u00b7 GIVEN AS A SHOT"
+   },
+   "right": {
+    "label": "ORAL \u00b7 ALBERT SABIN",
+    "num": "1961",
+    "desc": "FIRST ORAL VACCINES LICENSED IN THE U.S."
+   },
+   "footer": "SOURCES: CDC PINK BOOK, CH. 18 \u00b7 CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6fc7a0",
+  "name": "stat",
+  "opts": {
+   "a": "\u20601979",
+   "b": "LAST LOCALLY ACQUIRED WILD POLIO CASES REPORTED IN THE U.S.",
+   "c": "SOURCE: CDC PINK BOOK, CH. 18"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_164552",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "VII",
+   "t": "ONE IRON LUNG"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_959964",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      0,
+      50
+     ],
+     [
+      25,
+      60
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       12.57,
+       55.68
+      ],
+      "r": 40,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       12.57,
+       55.68
+      ],
+      "name": "COPENHAGEN",
+      "sub": "1952 \u00b7 ONE IRON LUNG IN THE COUNTRY",
+      "d": 0.3,
+      "color": "#6CF29A"
+     }
+    ]
+   },
+   "kicker": "DENMARK \u00b7 1952",
+   "title": "AN EPIDEMIC, ONE MACHINE",
+   "footer": "SOURCES: NEW STATESMAN (2020) \u00b7 ATS CONFERENCE NEWS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_c55831",
+  "name": "phases",
+  "opts": {
+   "kicker": "TWO WAYS TO BREATHE FOR SOMEONE",
+   "title": "PULL VS. PUSH",
+   "left": {
+    "label": "IRON LUNG",
+    "num": "PULL",
+    "desc": "LOWER PRESSURE AROUND THE CHEST"
+   },
+   "right": {
+    "label": "BJ\u00d8RN IBSEN \u00b7 1952",
+    "num": "PUSH",
+    "desc": "POSITIVE PRESSURE INTO THE LUNGS"
+   },
+   "active": 1,
+   "footer": "SOURCES: UNIVERSITY OF FLORIDA COLLEGE OF MEDICINE \u00b7 KANSAS HISTORICAL SOCIETY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_07d098",
+  "name": "stat",
+  "opts": {
+   "a": "DEC. 1953",
+   "b": "THE FIRST INTENSIVE CARE UNIT OPENS IN COPENHAGEN",
+   "c": "SOURCES: UNIVERSITY OF FLORIDA COLLEGE OF MEDICINE \u00b7 ATS CONFERENCE NEWS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_a7c7c8",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "VIII",
+   "t": "THE LAST TWO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d99eac",
+  "name": "stat",
+  "opts": {
+   "a": "\u20601994",
+   "b": "WESTERN HEMISPHERE CERTIFIED FREE OF INDIGENOUS WILD POLIOVIRUS",
+   "c": "SOURCE: CDC PINK BOOK, CH. 18"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_bf957e",
+  "name": "cards3",
+  "opts": {
+   "kicker": "GLOBAL POLIO ERADICATION INITIATIVE",
+   "title": "FROM 350,000 TO A HANDFUL",
+   "cards": [
+    {
+     "h": "1988",
+     "t": "Global initiative launched",
+     "s": "WORLD HEALTH ASSEMBLY RESOLUTION"
+    },
+    {
+     "h": "~350,000",
+     "t": "cases, estimated, in 1988",
+     "s": "IN 125+ COUNTRIES",
+     "size": 96
+    },
+    {
+     "h": ">99%",
+     "t": "drop in wild polio cases since",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: WHO POLIOMYELITIS FACT SHEET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_752b96",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THREE WILD POLIOVIRUSES",
+   "title": "TWO DOWN",
+   "events": [
+    {
+     "y": "1988",
+     "t": "Global initiative begins"
+    },
+    {
+     "y": "1994",
+     "t": "Western Hemisphere certified"
+    },
+    {
+     "y": "2015",
+     "t": "Wild type 2 declared eradicated"
+    },
+    {
+     "y": "2019",
+     "t": "Wild type 3 declared eradicated"
+    }
+   ],
+   "active": 3,
+   "footer": "SOURCE: CDC PINK BOOK, CH. 18"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_0b239a",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      40,
+      15
+     ],
+     [
+      95,
+      45
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       67.7,
+       33.9
+      ],
+      "r": 34,
+      "n": 2,
+      "d": 0.5
+     },
+     {
+      "ll": [
+       69.3,
+       30.4
+      ],
+      "r": 34,
+      "n": 2,
+      "d": 0.8
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       67.7,
+       33.9
+      ],
+      "name": "AFGHANISTAN",
+      "sub": "ENDEMIC",
+      "d": 0.3,
+      "color": "#6CF29A",
+      "anchor": "end"
+     },
+     {
+      "ll": [
+       69.3,
+       30.4
+      ],
+      "name": "PAKISTAN",
+      "sub": "ENDEMIC",
+      "d": 0.6,
+      "color": "#6CF29A"
+     }
+    ]
+   },
+   "kicker": "WILD POLIOVIRUS TODAY",
+   "title": "TWO COUNTRIES LEFT",
+   "footer": "SOURCE: WHO POLIOMYELITIS FACT SHEET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_150912",
+  "name": "chapter",
+  "opts": {
+   "case": "POLIO",
+   "n": "IX",
+   "t": "WHAT IT TOOK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_74d325",
+  "name": "steps",
+  "opts": {
+   "kicker": "POLIO IN AMERICA",
+   "title": "FROM THE TANK TO THE LAST WILD CASE",
+   "items": [
+    [
+     "1928",
+     "First iron lung in Boston"
+    ],
+    [
+     "1938",
+     "National Foundation founded"
+    ],
+    [
+     "1955",
+     "Salk vaccine licensed"
+    ],
+    [
+     "1979",
+     "Last local wild cases"
+    ]
+   ],
+   "active": 3
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d7bc63",
+  "name": "stat",
+  "opts": {
+   "a": "NEXT",
+   "b": "WHOLE BLOOD AND THE WALKING BLOOD BANK",
+   "c": "KEPT ALIVE \u00b7 HOW IT WORKS \u00b7 005"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_571a51",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 FIRST 004",
+   "stamp": "1928"
+  },
+  "intro": 2.4
+ }
+]

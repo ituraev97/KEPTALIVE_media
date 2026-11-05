@@ -62,6 +62,9 @@ Long steps (build/finish/encode/shorts) through nohup + polling; never let a for
 - Thumbnail at 168×94 still reads; bottom-right corner empty.
 - Shorts HUD `label`: max ~50 characters per line; split longer labels into two lines with `\\N` (one long line runs off the frame).
 - Check every surgery shot in the 9:16 crop too: a medium 16:9 shot becomes a close-up of the operating field after cropping — use only room-wide shots.
+- Never kill build_ep.py mid-run and reuse seg/: a segment cut off mid-write keeps a valid .key and gets reused (truncated -> timing drift, motion_check GFX-DRIFT everywhere). After an aborted build, compare each seg's frame count with timing.json and delete short ones. Changing the number of shots in a line shifts all later seg indices (full re-render) - keep shot counts when patching.
+- Check DVIDS "Day in the Life"-style clips for burned-in caption text inside the shot window (e.g. 861320 after 99.5 s).
+- Archival (non-DVIDS) Shorts: set `credit=` in shorts_spec.py so the on-screen footage line does not say "via DVIDS".
 - Avoid edited "wrap-up" montages (1-second cuts, baked-in titles) — the builder cannot place a shot inside them.
 
 ## 6. Upload + schedule

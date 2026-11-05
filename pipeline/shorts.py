@@ -104,7 +104,7 @@ for sh in SS.SHORTS:
             s = e
     if sh.get("label"): ev.append(f"Dialogue: 4,{ts(0)},{ts(TOTAL)},Small,,0,0,0,,{{\\an7\\pos(70,178)\\fs26}}{sh['label']}")
     ev.append(f"Dialogue: 5,{ts(TOTAL - 2.2)},{ts(TOTAL)},CTA,,0,0,0,,{{\\an5\\pos(540,1480)\\fad(200,0)}}{SS.CTA}")
-    ev.append(f"Dialogue: 5,{ts(0.4)},{ts(5.5)},Small,,0,0,0,,{{\\fad(300,300)}}Footage: U.S. government via DVIDS · not affiliated with the DoD")
+    ev.append(f"Dialogue: 5,{ts(0.4)},{ts(5.5)},Small,,0,0,0,,{{\\fad(300,300)}}{sh.get('credit', 'Footage: U.S. government via DVIDS · not affiliated with the DoD')}")
     open(f"{wd}/subs.ass", "w", encoding="utf-8").write(HEAD + "\n".join(ev) + "\n")
     # ---- audio: voice + light score + sfx + nat
     N = int(TOTAL * SR) + SR; tt = np.arange(N) / SR; rng = np.random.default_rng(int(sh["id"][1:]))

@@ -1,0 +1,193 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:01.38,Sub,,0,0,0,,{\fad(80,80)}1945.
+Dialogue: 0,0:00:01.40,0:00:04.11,Sub,,0,0,0,,{\fad(80,80)}Manila, in the Philippines. A U.S.
+Dialogue: 0,0:00:04.13,0:00:08.21,Sub,,0,0,0,,{\fad(80,80)}Army film crew records a patient being moved out of
+Dialogue: 0,0:00:08.23,0:00:09.81,Sub,,0,0,0,,{\fad(80,80)}a military hospital.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"IRON LUNG EVACUATION" · 60TH GENERAL HOSPITAL, MANILA
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:00:10.28,0:00:12.14,Sub,,0,0,0,,{\fad(80,80)}The patient isn't on a stretcher.
+Dialogue: 0,0:00:12.16,0:00:13.97,Sub,,0,0,0,,{\fad(80,80)}The patient is inside a machine.
+Dialogue: 0,0:00:13.99,0:00:15.90,Sub,,0,0,0,,{\fad(80,80)}A steel tank, loaded onto a plane.
+Dialogue: 0,0:00:16.37,0:00:18.11,Sub,,0,0,0,,{\fad(80,80)}It was called an iron lung.
+Dialogue: 0,0:00:18.13,0:00:19.35,Sub,,0,0,0,,{\fad(80,80)}And it did one job.
+Dialogue: 0,0:00:19.37,0:00:21.76,Sub,,0,0,0,,{\fad(80,80)}It breathed for people who could not.
+Dialogue: 0,0:00:22.48,0:00:26.10,Sub,,0,0,0,,{\fad(80,80)}For decades, the disease that filled these machines
+Dialogue: 0,0:00:26.12,0:00:27.75,Sub,,0,0,0,,{\fad(80,80)}came back every summer.
+Dialogue: 0,0:00:27.77,0:00:30.67,Sub,,0,0,0,,{\fad(80,80)}It was called infantile paralysis. Polio.
+Dialogue: 2,0:00:22.73,0:00:28.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1208 0 l 1208 132 l 0 132{\p0}
+Dialogue: 3,0:00:22.73,0:00:28.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:22.73,0:00:28.48,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"UNCONDITIONAL SURRENDER" · NATIONAL FOUNDATION FOR INFANTILE PARALYSIS
+Dialogue: 3,0:00:22.73,0:00:28.48,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1956
+Dialogue: 0,0:00:31.14,0:00:35.03,Sub,,0,0,0,,{\fad(80,80)}Then, in about 25 years, America stopped wild polio
+Dialogue: 0,0:00:35.05,0:00:37.18,Sub,,0,0,0,,{\fad(80,80)}from spreading. This is how.
+Dialogue: 0,0:00:45.00,0:00:46.55,Sub,,0,0,0,,{\fad(80,80)}Polio is caused by a virus.
+Dialogue: 0,0:00:46.57,0:00:49.23,Sub,,0,0,0,,{\fad(80,80)}According to the World Health Organization, it
+Dialogue: 0,0:00:49.25,0:00:52.26,Sub,,0,0,0,,{\fad(80,80)}spreads mainly from person to person, through what's
+Dialogue: 0,0:00:52.28,0:00:53.89,Sub,,0,0,0,,{\fad(80,80)}called the fecal-oral route.
+Dialogue: 2,0:00:45.25,0:00:51.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 757 0 l 757 132 l 0 132{\p0}
+Dialogue: 3,0:00:45.25,0:00:51.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:45.25,0:00:51.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NATIONAL FOUNDATION FOR INFANTILE PARALYSIS
+Dialogue: 3,0:00:45.25,0:00:51.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1956
+Dialogue: 0,0:01:11.38,0:01:14.43,Sub,,0,0,0,,{\fad(80,80)}And when the paralysis reached the muscles used for
+Dialogue: 0,0:01:14.45,0:01:17.50,Sub,,0,0,0,,{\fad(80,80)}breathing, 5 to 10 percent of those paralyzed died.
+Dialogue: 0,0:01:34.08,0:01:38.32,Sub,,0,0,0,,{\fad(80,80)}In the late 1940s and early fifties, according to
+Dialogue: 0,0:01:38.34,0:01:42.41,Sub,,0,0,0,,{\fad(80,80)}the CDC, polio crippled an average of more than
+Dialogue: 0,0:01:42.43,0:01:45.20,Sub,,0,0,0,,{\fad(80,80)}35,000 people a year in the U.S.
+Dialogue: 0,0:03:11.30,0:03:14.91,Sub,,0,0,0,,{\fad(80,80)}Iron lungs were meant to give temporary relief,
+Dialogue: 0,0:03:14.93,0:03:16.92,Sub,,0,0,0,,{\fad(80,80)}until a patient recovered.
+Dialogue: 0,0:03:16.94,0:03:18.54,Sub,,0,0,0,,{\fad(80,80)}But not everyone did.
+Dialogue: 0,0:03:18.56,0:03:22.24,Sub,,0,0,0,,{\fad(80,80)}In 1959, about 1,200 people in the United States
+Dialogue: 0,0:03:22.26,0:03:24.87,Sub,,0,0,0,,{\fad(80,80)}were still using tank respirators.
+Dialogue: 2,0:03:11.55,0:03:17.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:03:11.55,0:03:17.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:11.55,0:03:17.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}IRON LUNG EVACUATION · MANILA
+Dialogue: 3,0:03:11.55,0:03:17.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:03:44.98,0:03:47.51,Sub,,0,0,0,,{\fad(80,80)}In August 1921, at 39, Franklin D.
+Dialogue: 0,0:03:47.53,0:03:51.18,Sub,,0,0,0,,{\fad(80,80)}Roosevelt was diagnosed with infantile paralysis.
+Dialogue: 0,0:03:51.20,0:03:54.85,Sub,,0,0,0,,{\fad(80,80)}In 1924, he went to Warm Springs, Georgia, hoping
+Dialogue: 0,0:03:54.87,0:03:56.50,Sub,,0,0,0,,{\fad(80,80)}its waters would help.
+Dialogue: 0,0:03:56.52,0:03:59.35,Sub,,0,0,0,,{\fad(80,80)}Two years later, he bought the resort.
+Dialogue: 2,0:03:45.23,0:03:50.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:03:45.23,0:03:50.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:45.23,0:03:50.98,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FDR PRESIDENTIAL LIBRARY
+Dialogue: 3,0:03:45.23,0:03:50.98,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · WARM SPRINGS, GA. · 1928–1939
+Dialogue: 0,0:04:20.73,0:04:22.20,Sub,,0,0,0,,{\fad(80,80)}Movie audiences gave.
+Dialogue: 0,0:04:22.22,0:04:25.39,Sub,,0,0,0,,{\fad(80,80)}In this nineteen 44 newsreel, a young girl on
+Dialogue: 0,0:04:25.41,0:04:28.44,Sub,,0,0,0,,{\fad(80,80)}crutches thanks moviegoers for their dimes.
+Dialogue: 2,0:04:20.98,0:04:26.73,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 802 0 l 802 132 l 0 132{\p0}
+Dialogue: 3,0:04:20.98,0:04:26.73,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:20.98,0:04:26.73,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"THANKS FOR THE DIMES"
+Dialogue: 3,0:04:20.98,0:04:26.73,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}UNIVERSAL NEWSREEL · FEB. 28, 1944
+Dialogue: 0,0:04:28.91,0:04:31.99,Sub,,0,0,0,,{\fad(80,80)}And the National Foundation would pick the man to
+Dialogue: 0,0:04:32.01,0:04:34.96,Sub,,0,0,0,,{\fad(80,80)}run what PBS NewsHour calls the largest vaccine
+Dialogue: 0,0:04:34.98,0:04:36.42,Sub,,0,0,0,,{\fad(80,80)}trial of its kind ever.
+Dialogue: 0,0:04:39.57,0:04:43.23,Sub,,0,0,0,,{\fad(80,80)}In the early 1950s, Salk developed an inactivated
+Dialogue: 0,0:04:43.25,0:04:44.29,Sub,,0,0,0,,{\fad(80,80)}polio vaccine.
+Dialogue: 0,0:04:44.31,0:04:45.87,Sub,,0,0,0,,{\fad(80,80)}It used killed virus.
+Dialogue: 0,0:04:45.89,0:04:49.70,Sub,,0,0,0,,{\fad(80,80)}In this 1956 film, made by the National Foundation,
+Dialogue: 0,0:04:49.72,0:04:53.62,Sub,,0,0,0,,{\fad(80,80)}the vaccine is produced and checked, batch by batch.
+Dialogue: 2,0:04:39.82,0:04:45.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 886 0 l 886 132 l 0 132{\p0}
+Dialogue: 3,0:04:39.82,0:04:45.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:39.82,0:04:45.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}POLIO VACCINE PRODUCTION · NATIONAL FOUNDATION FILM
+Dialogue: 3,0:04:39.82,0:04:45.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1956
+Dialogue: 0,0:04:54.09,0:04:57.11,Sub,,0,0,0,,{\fad(80,80)}To find out if it worked, the National Foundation
+Dialogue: 0,0:04:57.13,0:05:00.35,Sub,,0,0,0,,{\fad(80,80)}turned to Salk's former teacher, Thomas Francis Jr.,
+Dialogue: 0,0:05:00.37,0:05:02.21,Sub,,0,0,0,,{\fad(80,80)}at the University of Michigan.
+Dialogue: 2,0:04:54.34,0:05:00.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 676 0 l 676 132 l 0 132{\p0}
+Dialogue: 3,0:04:54.34,0:05:00.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:54.34,0:05:00.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}VACCINE LAB · NATIONAL FOUNDATION FILM
+Dialogue: 3,0:04:54.34,0:05:00.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1956
+Dialogue: 0,0:05:17.42,0:05:20.50,Sub,,0,0,0,,{\fad(80,80)}In part of the trial, some children got the vaccine,
+Dialogue: 0,0:05:20.52,0:05:23.12,Sub,,0,0,0,,{\fad(80,80)}and a group at least as large got a placebo.
+Dialogue: 0,0:05:23.14,0:05:24.73,Sub,,0,0,0,,{\fad(80,80)}That part was double-blind.
+Dialogue: 0,0:05:24.75,0:05:27.53,Sub,,0,0,0,,{\fad(80,80)}Neither the children nor the doctors giving the
+Dialogue: 0,0:05:27.55,0:05:29.14,Sub,,0,0,0,,{\fad(80,80)}shots knew which was which.
+Dialogue: 2,0:05:17.67,0:05:23.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 757 0 l 757 132 l 0 132{\p0}
+Dialogue: 3,0:05:17.67,0:05:23.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:17.67,0:05:23.42,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NATIONAL FOUNDATION FOR INFANTILE PARALYSIS
+Dialogue: 3,0:05:17.67,0:05:23.42,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1956
+Dialogue: 0,0:05:50.50,0:05:54.26,Sub,,0,0,0,,{\fad(80,80)}That same year, 1955, the vaccine was licensed for
+Dialogue: 0,0:05:54.28,0:05:56.15,Sub,,0,0,0,,{\fad(80,80)}use in the United States.
+Dialogue: 2,0:05:50.75,0:05:56.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 502 0 l 502 132 l 0 132{\p0}
+Dialogue: 3,0:05:50.75,0:05:56.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:50.75,0:05:56.50,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}POLIOMYELITIS VACCINE VIALS
+Dialogue: 3,0:05:50.75,0:05:56.50,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1956
+Dialogue: 0,0:06:31.81,0:06:33.29,Sub,,0,0,0,,{\fad(80,80)}Vaccination went on.
+Dialogue: 0,0:06:33.31,0:06:37.14,Sub,,0,0,0,,{\fad(80,80)}In this 1957 newsreel, the Salk vaccine is given to
+Dialogue: 0,0:06:37.16,0:06:39.47,Sub,,0,0,0,,{\fad(80,80)}children, including twin girls.
+Dialogue: 2,0:06:32.06,0:06:37.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:06:32.06,0:06:37.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:32.06,0:06:37.81,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SALK VACCINE BEING GIVEN
+Dialogue: 3,0:06:32.06,0:06:37.81,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}UNIVERSAL NEWSREEL · APRIL 1957
+Dialogue: 0,0:06:42.68,0:06:46.14,Sub,,0,0,0,,{\fad(80,80)}In 1961, the Communicable Disease Center, today's
+Dialogue: 0,0:06:46.16,0:06:49.19,Sub,,0,0,0,,{\fad(80,80)}CDC, filmed a polio vaccination campaign in
+Dialogue: 0,0:06:49.21,0:06:52.81,Sub,,0,0,0,,{\fad(80,80)}Columbus, Georgia, with the state and county health
+Dialogue: 0,0:06:52.83,0:06:53.66,Sub,,0,0,0,,{\fad(80,80)}departments.
+Dialogue: 2,0:06:42.93,0:06:48.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:06:42.93,0:06:48.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:42.93,0:06:48.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"BABIES AND BREADWINNERS" · COLUMBUS, GA.
+Dialogue: 3,0:06:42.93,0:06:48.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1961 · COMMUNICABLE DISEASE CENTER
+Dialogue: 0,0:06:54.13,0:06:55.90,Sub,,0,0,0,,{\fad(80,80)}Free vaccine stations went up.
+Dialogue: 0,0:06:55.92,0:06:58.40,Sub,,0,0,0,,{\fad(80,80)}Signs went up on street corners and buses.
+Dialogue: 0,0:06:58.42,0:06:59.77,Sub,,0,0,0,,{\fad(80,80)}The message was simple.
+Dialogue: 0,0:06:59.79,0:07:00.67,Sub,,0,0,0,,{\fad(80,80)}One shot, good.
+Dialogue: 0,0:07:00.69,0:07:01.74,Sub,,0,0,0,,{\fad(80,80)}Two shots, better.
+Dialogue: 0,0:07:01.76,0:07:02.81,Sub,,0,0,0,,{\fad(80,80)}Three shots, best.
+Dialogue: 0,0:07:03.28,0:07:05.87,Sub,,0,0,0,,{\fad(80,80)}Health workers went door to door with forms.
+Dialogue: 0,0:07:05.89,0:07:08.96,Sub,,0,0,0,,{\fad(80,80)}And the campaign kept score, charting how many young
+Dialogue: 0,0:07:08.98,0:07:11.69,Sub,,0,0,0,,{\fad(80,80)}children in each area had three or more shots.
+Dialogue: 2,0:07:03.53,0:07:09.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:07:03.53,0:07:09.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:03.53,0:07:09.28,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}COLUMBUS, GA. CAMPAIGN
+Dialogue: 3,0:07:03.53,0:07:09.28,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1961 · COMMUNICABLE DISEASE CENTER
+Dialogue: 0,0:07:38.63,0:07:42.16,Sub,,0,0,0,,{\fad(80,80)}Since 2000, the only polio vaccine used in the U.S.
+Dialogue: 0,0:07:42.18,0:07:45.37,Sub,,0,0,0,,{\fad(80,80)}has been the inactivated one, given as a shot.
+Dialogue: 0,0:07:45.39,0:07:48.71,Sub,,0,0,0,,{\fad(80,80)}The CDC notes that because it's made from killed
+Dialogue: 0,0:07:48.73,0:07:50.73,Sub,,0,0,0,,{\fad(80,80)}virus, it cannot cause polio.
+Dialogue: 2,0:07:38.88,0:07:44.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 870 0 l 870 132 l 0 132{\p0}
+Dialogue: 3,0:07:38.88,0:07:44.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:38.88,0:07:44.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OPERATION ALLIES WELCOME · VACCINES INCLUDED POLIO
+Dialogue: 3,0:07:38.88,0:07:44.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. NAVY IMMUNIZATION SITE · 2021
+Dialogue: 0,0:08:20.02,0:08:22.35,Sub,,0,0,0,,{\fad(80,80)}But there weren't machines to do the pushing.
+Dialogue: 0,0:08:22.37,0:08:24.71,Sub,,0,0,0,,{\fad(80,80)}So people did it by hand, squeezing a bag, in
+Dialogue: 0,0:08:24.73,0:08:26.01,Sub,,0,0,0,,{\fad(80,80)}shifts, around the clock.
+Dialogue: 0,0:08:26.03,0:08:28.63,Sub,,0,0,0,,{\fad(80,80)}Some accounts put the number of medical and dental
+Dialogue: 0,0:08:28.65,0:08:31.08,Sub,,0,0,0,,{\fad(80,80)}students who took part at more than a thousand.
+Dialogue: 2,0:08:20.27,0:08:26.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 805 0 l 805 132 l 0 132{\p0}
+Dialogue: 3,0:08:20.27,0:08:26.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:20.27,0:08:26.02,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}BAMC 2022 · VENTILATOR TRAINING, TANZANIA 2026
+Dialogue: 3,0:08:20.27,0:08:26.02,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MODERN TRAINING FOOTAGE · NOT 1952
+Dialogue: 0,0:08:41.88,0:08:45.21,Sub,,0,0,0,,{\fad(80,80)}Harvard Medical School says iron lungs eventually
+Dialogue: 0,0:08:45.23,0:08:46.30,Sub,,0,0,0,,{\fad(80,80)}became obsolete.
+Dialogue: 0,0:08:46.32,0:08:49.50,Sub,,0,0,0,,{\fad(80,80)}Today, intensive care units like these, at U.S.
+Dialogue: 0,0:08:49.52,0:08:52.77,Sub,,0,0,0,,{\fad(80,80)}Naval Hospital Guam, use mechanical ventilators.
+Dialogue: 2,0:08:42.13,0:08:47.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 717 0 l 717 132 l 0 132{\p0}
+Dialogue: 3,0:08:42.13,0:08:47.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:42.13,0:08:47.88,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. NAVAL HOSPITAL GUAM · 2026
+Dialogue: 3,0:08:42.13,0:08:47.88,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ICU VIRTUAL TOUR · EMPTY ROOMS
+Dialogue: 0,0:08:53.24,0:08:56.90,Sub,,0,0,0,,{\fad(80,80)}And here, an Air Force respiratory care practitioner
+Dialogue: 0,0:08:56.92,0:09:00.22,Sub,,0,0,0,,{\fad(80,80)}teaches Tanzanian military medical staff to use
+Dialogue: 0,0:09:00.24,0:09:03.61,Sub,,0,0,0,,{\fad(80,80)}ventilators, during a training exercise in 2026.
+Dialogue: 2,0:08:53.49,0:08:59.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:08:53.49,0:08:59.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:53.49,0:08:59.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}DAR ES SALAAM, TANZANIA · MARCH 2026
+Dialogue: 3,0:08:53.49,0:08:59.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}VENTILATOR TRAINING · JUSTIFIED ACCORD 26
+Dialogue: 0,0:09:56.38,0:09:57.94,Sub,,0,0,0,,{\fad(80,80)}Not with the iron lung.
+Dialogue: 0,0:09:57.96,0:10:00.00,Sub,,0,0,0,,{\fad(80,80)}The machine kept people alive.
+Dialogue: 0,0:10:00.02,0:10:01.93,Sub,,0,0,0,,{\fad(80,80)}It could not stop the virus.
+Dialogue: 2,0:09:56.63,0:10:02.35,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:09:56.63,0:10:02.35,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:56.63,0:10:02.35,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}IRON LUNG EVACUATION · MANILA
+Dialogue: 3,0:09:56.63,0:10:02.35,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:10:10.32,0:10:13.34,Sub,,0,0,0,,{\fad(80,80)}And the crisis the iron lung couldn't handle helped
+Dialogue: 0,0:10:13.36,0:10:15.66,Sub,,0,0,0,,{\fad(80,80)}give us the modern intensive care unit.
+Dialogue: 2,0:10:10.57,0:10:16.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 695 0 l 695 132 l 0 132{\p0}
+Dialogue: 3,0:10:10.57,0:10:16.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:10.57,0:10:16.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. NAVAL HOSPITAL GUAM · 2026
+Dialogue: 3,0:10:10.57,0:10:16.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ICU VIRTUAL TOUR · EMPTY ROOM
+Dialogue: 5,0:10:24.60,0:10:28.80,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Air Force/U.S. Army (SETAF-AF), Brooke Army Medical Center, U.S. Naval Hospital Guam, Operation Allies Welcome via DVIDS (public domain);\NU.S. Army Signal Corps \"Iron Lung Evacuation\" (1945, National Archives) and FDR Library film (Internet Archive, CC0);\N\"Unconditional Surrender\" (1956), \"Babies and Breadwinners\" (1961), Universal Newsreels (1944, 1957), public domain via Internet Archive.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH, CDC or WHO.\NFor education only. This is not medical advice.
+Dialogue: 4,0:08:20.03,0:08:25.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:25.80,0:08:31.57,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:53.23,0:08:56.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:56.97,0:09:00.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:00.70,0:09:04.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC
