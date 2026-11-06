@@ -137,6 +137,8 @@ for sh in SS.SHORTS:
     nat = []
     for k, s in enumerate(segs):
         o = f"{wd}/n{k:02d}.wav"
+        if s["src"] in set(map(str, getattr(SS, "MUTE", []))):  # interview/narrated sources: no natural sound in the Short
+            run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-f", "lavfi", "-i", f"anullsrc=r={SR}:cl=mono", "-t", f"{s['d']:.3f}", o]); nat.append(o); continue
         run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", str(s["ss"]), "-i", f"{CLIPS}/{s['src']}.mp4", "-t", f"{s['d']:.3f}",
              "-af", f"aresample={SR},pan=mono|c0=0.5*c0+0.5*c1,apad,afade=t=in:d=0.06,afade=t=out:st={max(0, s['d'] - .06):.3f}:d=0.06", "-ac", "1", "-t", f"{s['d']:.3f}", o])
         nat.append(o)

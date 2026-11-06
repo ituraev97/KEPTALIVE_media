@@ -1,0 +1,234 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:03.88,Sub,,0,0,0,,{\fad(80,80)}On the battlefield, among the wounded who could have
+Dialogue: 0,0:00:03.90,0:00:06.16,Sub,,0,0,0,,{\fad(80,80)}been saved, the leading cause of death is
+Dialogue: 0,0:00:06.18,0:00:07.17,Sub,,0,0,0,,{\fad(80,80)}hemorrhagic shock.
+Dialogue: 0,0:00:07.19,0:00:08.28,Sub,,0,0,0,,{\fad(80,80)}Shock from bleeding.
+Dialogue: 0,0:00:08.30,0:00:10.90,Sub,,0,0,0,,{\fad(80,80)}That's how one Army regimental surgeon puts it.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}HOHENFELS, GERMANY · MAY 20, 2025 · U.S. ARMY
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SIMULATED CASUALTY · COMBINED RESOLVE 25-2
+Dialogue: 0,0:00:11.37,0:00:12.49,Sub,,0,0,0,,{\fad(80,80)}The answer is blood.
+Dialogue: 0,0:00:12.51,0:00:14.19,Sub,,0,0,0,,{\fad(80,80)}But blood has to be kept cold.
+Dialogue: 0,0:00:14.21,0:00:15.77,Sub,,0,0,0,,{\fad(80,80)}It has to be the right type.
+Dialogue: 0,0:00:15.79,0:00:17.87,Sub,,0,0,0,,{\fad(80,80)}And far from a hospital, it runs out.
+Dialogue: 0,0:00:18.34,0:00:20.38,Sub,,0,0,0,,{\fad(80,80)}So the military went back to an old idea.
+Dialogue: 0,0:00:20.40,0:00:22.88,Sub,,0,0,0,,{\fad(80,80)}If you can't carry enough blood, bring the donors.
+Dialogue: 2,0:00:18.59,0:00:23.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:00:18.59,0:00:23.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:18.59,0:00:23.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOTA BELUD, MALAYSIA · JULY 17, 2026 · U.S. ARMY
+Dialogue: 3,0:00:18.59,0:00:23.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WALKING BLOOD BANK CLASS · KERIS STRIKE 26
+Dialogue: 0,0:00:23.35,0:00:26.39,Sub,,0,0,0,,{\fad(80,80)}On a remote island in the Indian Ocean, volunteers
+Dialogue: 0,0:00:26.41,0:00:28.04,Sub,,0,0,0,,{\fad(80,80)}are screened ahead of time.
+Dialogue: 0,0:00:28.06,0:00:31.16,Sub,,0,0,0,,{\fad(80,80)}If someone is badly hurt, the blood bank is already
+Dialogue: 0,0:00:31.18,0:00:32.88,Sub,,0,0,0,,{\fad(80,80)}on the base, walking around.
+Dialogue: 2,0:00:23.60,0:00:29.35,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 918 0 l 918 132 l 0 132{\p0}
+Dialogue: 3,0:00:23.60,0:00:29.35,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:23.60,0:00:29.35,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NAVY SUPPORT FACILITY DIEGO GARCIA · 2026 · U.S. NAVY
+Dialogue: 3,0:00:23.60,0:00:29.35,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WALKING BLOOD BANK SCREENING DRIVE
+Dialogue: 0,0:00:52.86,0:00:55.25,Sub,,0,0,0,,{\fad(80,80)}Whole blood is all of it, together, in one bag.
+Dialogue: 2,0:00:53.11,0:00:55.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:00:53.11,0:00:55.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:53.11,0:00:55.67,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KADENA AIR BASE, JAPAN · SEPT. 16, 2022 · U.S. NAVY
+Dialogue: 3,0:00:53.11,0:00:55.67,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LOW TITER O WHOLE BLOOD · ASBB CENTER OKINAWA
+Dialogue: 0,0:00:55.72,0:00:58.75,Sub,,0,0,0,,{\fad(80,80)}But most transfusions don't use it that way.
+Dialogue: 0,0:00:58.77,0:01:02.64,Sub,,0,0,0,,{\fad(80,80)}Donated blood is more often given as its separate parts.
+Dialogue: 0,0:01:02.66,0:01:04.65,Sub,,0,0,0,,{\fad(80,80)}Red cells. Plasma. Platelets.
+Dialogue: 2,0:00:55.97,0:01:01.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:00:55.97,0:01:01.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:55.97,0:01:01.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NORFOLK, VA. · MAY 2022 · DEFENSE HEALTH AGENCY
+Dialogue: 3,0:00:55.97,0:01:01.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMED SERVICES BLOOD PROGRAM DRIVE
+Dialogue: 0,0:01:05.12,0:01:06.46,Sub,,0,0,0,,{\fad(80,80)}And there's a catch.
+Dialogue: 0,0:01:06.48,0:01:07.89,Sub,,0,0,0,,{\fad(80,80)}Blood comes in types.
+Dialogue: 0,0:01:27.37,0:01:29.31,Sub,,0,0,0,,{\fad(80,80)}The clumping comes from antibodies.
+Dialogue: 0,0:01:29.33,0:01:31.66,Sub,,0,0,0,,{\fad(80,80)}An Army blood bank director put it simply.
+Dialogue: 2,0:01:27.62,0:01:32.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:01:27.62,0:01:32.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:27.62,0:01:32.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KELLEY BARRACKS, GERMANY · MAY 2023 · U.S. ARMY
+Dialogue: 3,0:01:27.62,0:01:32.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMED SERVICES BLOOD PROGRAM DRIVE
+Dialogue: 0,0:01:39.76,0:01:42.94,Sub,,0,0,0,,{\fad(80,80)}Type O red cells are already considered universal.
+Dialogue: 0,0:01:42.96,0:01:46.21,Sub,,0,0,0,,{\fad(80,80)}But type O donors can carry antibodies against type
+Dialogue: 0,0:01:46.23,0:01:47.42,Sub,,0,0,0,,{\fad(80,80)}A and type B blood.
+Dialogue: 0,0:01:47.44,0:01:50.62,Sub,,0,0,0,,{\fad(80,80)}So the military tests type O donors, and keeps the
+Dialogue: 0,0:01:50.64,0:01:52.29,Sub,,0,0,0,,{\fad(80,80)}ones whose levels are low.
+Dialogue: 0,0:03:24.50,0:03:28.19,Sub,,0,0,0,,{\fad(80,80)}In 1945, an Army film showed whole blood from the
+Dialogue: 0,0:03:28.21,0:03:31.14,Sub,,0,0,0,,{\fad(80,80)}home front, reaching soldiers overseas.
+Dialogue: 2,0:03:24.75,0:03:30.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:03:24.75,0:03:30.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:24.75,0:03:30.50,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY · "GI'S GET WHOLE BLOOD FROM HOME FRONT"
+Dialogue: 3,0:03:24.75,0:03:30.50,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · "COMBAT BULLETIN NO. 35"
+Dialogue: 0,0:03:31.61,0:03:34.88,Sub,,0,0,0,,{\fad(80,80)}Then came Korea, and the lesson had to be learned again.
+Dialogue: 0,0:03:34.90,0:03:36.52,Sub,,0,0,0,,{\fad(80,80)}When the war began, the U.S.
+Dialogue: 0,0:03:36.54,0:03:38.98,Sub,,0,0,0,,{\fad(80,80)}had no operational military blood program.
+Dialogue: 0,0:03:39.00,0:03:41.91,Sub,,0,0,0,,{\fad(80,80)}The first blood shipments didn't arrive until more
+Dialogue: 0,0:03:41.93,0:03:43.56,Sub,,0,0,0,,{\fad(80,80)}than two months into combat.
+Dialogue: 0,0:03:43.58,0:03:46.55,Sub,,0,0,0,,{\fad(80,80)}Long supply lines and the short shelf life of whole
+Dialogue: 0,0:03:46.57,0:03:49.60,Sub,,0,0,0,,{\fad(80,80)}blood led to significant waste, and drove innovation
+Dialogue: 0,0:03:49.62,0:03:52.59,Sub,,0,0,0,,{\fad(80,80)}in plastic blood bags, and longer red cell storage.
+Dialogue: 2,0:03:31.86,0:03:37.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:03:31.86,0:03:37.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:31.86,0:03:37.61,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"BLOOD BANK STORY, TOKYO, JAPAN" · NATIONAL ARCHIVES
+Dialogue: 3,0:03:31.86,0:03:37.61,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · DEC. 1950 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:03:53.06,0:03:56.41,Sub,,0,0,0,,{\fad(80,80)}This Army film from December 1950 shows the Army's
+Dialogue: 0,0:03:56.43,0:03:59.64,Sub,,0,0,0,,{\fad(80,80)}blood bank storage and shipment office in Tokyo,
+Dialogue: 0,0:03:59.66,0:04:01.13,Sub,,0,0,0,,{\fad(80,80)}during the Korean War.
+Dialogue: 0,0:04:37.72,0:04:40.53,Sub,,0,0,0,,{\fad(80,80)}In the 1970s, the Army moved to what's called
+Dialogue: 0,0:04:40.55,0:04:41.66,Sub,,0,0,0,,{\fad(80,80)}component therapy.
+Dialogue: 0,0:04:41.68,0:04:44.36,Sub,,0,0,0,,{\fad(80,80)}Civilian medicine made the same move in the
+Dialogue: 0,0:04:44.38,0:04:45.81,Sub,,0,0,0,,{\fad(80,80)}seventies and eighties.
+Dialogue: 2,0:04:37.97,0:04:43.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:04:37.97,0:04:43.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:37.97,0:04:43.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KADENA AIR BASE, JAPAN · SEPT. 2022 · U.S. NAVY
+Dialogue: 3,0:04:37.97,0:04:43.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BLOOD LAB · ASBB CENTER OKINAWA
+Dialogue: 0,0:05:06.41,0:05:09.55,Sub,,0,0,0,,{\fad(80,80)}And for a medic far from a hospital, components had
+Dialogue: 0,0:05:09.57,0:05:10.17,Sub,,0,0,0,,{\fad(80,80)}a problem.
+Dialogue: 0,0:05:10.19,0:05:13.20,Sub,,0,0,0,,{\fad(80,80)}Plasma has to be kept frozen, and platelets bring
+Dialogue: 0,0:05:13.22,0:05:14.43,Sub,,0,0,0,,{\fad(80,80)}their own logistics.
+Dialogue: 0,0:05:14.45,0:05:17.53,Sub,,0,0,0,,{\fad(80,80)}An Army surgeon said components are not a feasible
+Dialogue: 0,0:05:17.55,0:05:20.74,Sub,,0,0,0,,{\fad(80,80)}option for an immediate need for blood in the field.
+Dialogue: 2,0:05:06.66,0:05:12.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:05:06.66,0:05:12.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:06.66,0:05:12.41,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT DRUM, N.Y. · DEC. 11, 2025 · U.S. ARMY
+Dialogue: 3,0:05:06.66,0:05:12.41,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BLOOD TRANSFUSION TRAINING · 10TH MOUNTAIN DIVISION
+Dialogue: 0,0:05:40.80,0:05:43.05,Sub,,0,0,0,,{\fad(80,80)}According to the review, the U.S.
+Dialogue: 0,0:05:43.07,0:05:46.48,Sub,,0,0,0,,{\fad(80,80)}military re-adopted fresh whole blood from walking
+Dialogue: 0,0:05:46.50,0:05:47.86,Sub,,0,0,0,,{\fad(80,80)}blood banks in 2002.
+Dialogue: 2,0:05:41.05,0:05:46.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:05:41.05,0:05:46.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:41.05,0:05:46.80,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. CENTRAL COMMAND AREA · 2025 · U.S. ARMY
+Dialogue: 3,0:05:41.05,0:05:46.80,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WALKING BLOOD BANK TRAINING · 368TH FIELD HOSPITAL
+Dialogue: 0,0:05:48.33,0:05:51.70,Sub,,0,0,0,,{\fad(80,80)}A walking blood bank is, first of all, a list of names.
+Dialogue: 0,0:05:51.72,0:05:54.91,Sub,,0,0,0,,{\fad(80,80)}Volunteers are tested ahead of time, for blood type,
+Dialogue: 0,0:05:54.93,0:05:57.94,Sub,,0,0,0,,{\fad(80,80)}for antibody levels, and for diseases that can be
+Dialogue: 0,0:05:57.96,0:05:59.48,Sub,,0,0,0,,{\fad(80,80)}passed on by transfusion.
+Dialogue: 0,0:05:59.50,0:06:02.69,Sub,,0,0,0,,{\fad(80,80)}They're regularly retested for blood-borne diseases.
+Dialogue: 2,0:05:48.58,0:05:54.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:05:48.58,0:05:54.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:48.58,0:05:54.33,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CAMP LEJEUNE, N.C. · FEB. 25, 2026 · U.S. MARINE CORPS
+Dialogue: 3,0:05:48.58,0:05:54.33,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOINT TRAUMA SYSTEM VALKYRIE TRANSFUSION COURSE
+Dialogue: 0,0:06:11.49,0:06:14.37,Sub,,0,0,0,,{\fad(80,80)}A Navy surgeon explained why that matters.
+Dialogue: 0,0:06:14.39,0:06:16.44,Sub,,0,0,0,,{\fad(80,80)}Stored blood may need warming.
+Dialogue: 0,0:06:16.46,0:06:19.90,Sub,,0,0,0,,{\fad(80,80)}Fresh blood, he said, is already in our bodies, at
+Dialogue: 0,0:06:19.92,0:06:20.80,Sub,,0,0,0,,{\fad(80,80)}98.6 degrees.
+Dialogue: 2,0:06:11.74,0:06:17.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:06:11.74,0:06:17.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:11.74,0:06:17.49,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}1ST MEDICAL BATTALION · CAMP PENDLETON · MARCH 27, 2024
+Dialogue: 3,0:06:11.74,0:06:17.49,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}EMERGENCY FRESH WHOLE BLOOD TRAINING
+Dialogue: 0,0:06:21.27,0:06:24.39,Sub,,0,0,0,,{\fad(80,80)}In Valkyrie training, the Marine Corps says, blood
+Dialogue: 0,0:06:24.41,0:06:28.03,Sub,,0,0,0,,{\fad(80,80)}drawn from a volunteer goes back into that same volunteer.
+Dialogue: 0,0:06:58.08,0:07:01.72,Sub,,0,0,0,,{\fad(80,80)}In May 2015, the first Ranger donors were prescreened.
+Dialogue: 0,0:07:01.74,0:07:04.50,Sub,,0,0,0,,{\fad(80,80)}Months later, Rangers deployed with them.
+Dialogue: 0,0:07:04.52,0:07:07.95,Sub,,0,0,0,,{\fad(80,80)}And in March 2016, the first shipment of stored low
+Dialogue: 0,0:07:07.97,0:07:11.34,Sub,,0,0,0,,{\fad(80,80)}titer O whole blood left Joint Base Lewis-McChord,
+Dialogue: 0,0:07:11.36,0:07:13.85,Sub,,0,0,0,,{\fad(80,80)}in Washington State, for Afghanistan.
+Dialogue: 2,0:06:58.33,0:07:04.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 918 0 l 918 132 l 0 132{\p0}
+Dialogue: 3,0:06:58.33,0:07:04.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:58.33,0:07:04.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ASBP DRIVE, NORFOLK, VA. · ASBB CENTER OKINAWA · 2022
+Dialogue: 3,0:06:58.33,0:07:04.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STORED WHOLE BLOOD · ILLUSTRATIVE
+Dialogue: 0,0:07:25.20,0:07:28.59,Sub,,0,0,0,,{\fad(80,80)}In 2017, the program won one of the Army's Greatest
+Dialogue: 0,0:07:28.61,0:07:29.80,Sub,,0,0,0,,{\fad(80,80)}Innovation Awards.
+Dialogue: 0,0:07:29.82,0:07:33.28,Sub,,0,0,0,,{\fad(80,80)}That same year, a Navy surgeon, Lieutenant Commander
+Dialogue: 0,0:07:33.30,0:07:36.62,Sub,,0,0,0,,{\fad(80,80)}Russell Wier, developed a version for corpsmen and
+Dialogue: 0,0:07:36.64,0:07:38.83,Sub,,0,0,0,,{\fad(80,80)}Marines, inspired by the Rangers.
+Dialogue: 0,0:07:38.85,0:07:40.23,Sub,,0,0,0,,{\fad(80,80)}It's called Valkyrie.
+Dialogue: 2,0:07:25.45,0:07:31.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:07:25.45,0:07:31.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:25.45,0:07:31.20,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ROBERTSON BARRACKS, DARWIN · MAY 2024 · U.S. MARINE CORPS
+Dialogue: 3,0:07:25.45,0:07:31.20,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}VALKYRIE FRESH WHOLE BLOOD TRAINING · WITH AUSTRALIAN ARMY
+Dialogue: 0,0:07:40.70,0:07:43.95,Sub,,0,0,0,,{\fad(80,80)}In 2026, a Marine Corps unit hosted a Joint Trauma
+Dialogue: 0,0:07:43.97,0:07:47.35,Sub,,0,0,0,,{\fad(80,80)}System version of the course, which the Marine Corps
+Dialogue: 0,0:07:47.37,0:07:50.29,Sub,,0,0,0,,{\fad(80,80)}says implements a new Defense Department-wide
+Dialogue: 0,0:07:50.31,0:07:53.10,Sub,,0,0,0,,{\fad(80,80)}standard for fresh whole blood transfusion.
+Dialogue: 0,0:07:53.12,0:07:55.97,Sub,,0,0,0,,{\fad(80,80)}The five-day course runs from managing donor
+Dialogue: 0,0:07:55.99,0:07:58.32,Sub,,0,0,0,,{\fad(80,80)}rosters, to performing transfusions.
+Dialogue: 2,0:07:40.95,0:07:46.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:07:40.95,0:07:46.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:40.95,0:07:46.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CAMP LEJEUNE, N.C. · FEB. 2026 · U.S. MARINE CORPS
+Dialogue: 3,0:07:40.95,0:07:46.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JTS VALKYRIE PREHOSPITAL TRANSFUSION COURSE · 2ND MLG
+Dialogue: 0,0:07:58.79,0:08:01.95,Sub,,0,0,0,,{\fad(80,80)}And stored low titer O whole blood came back too.
+Dialogue: 0,0:08:01.97,0:08:04.86,Sub,,0,0,0,,{\fad(80,80)}The Rangers' first shipment went out in 2016.
+Dialogue: 0,0:08:04.88,0:08:08.22,Sub,,0,0,0,,{\fad(80,80)}The review dates the military's reintroduction of it
+Dialogue: 0,0:08:08.24,0:08:08.74,Sub,,0,0,0,,{\fad(80,80)}to 2017.
+Dialogue: 0,0:08:08.76,0:08:11.91,Sub,,0,0,0,,{\fad(80,80)}Blood centers collect it from prescreened donors,
+Dialogue: 0,0:08:11.93,0:08:14.24,Sub,,0,0,0,,{\fad(80,80)}refrigerate it, and ship it forward.
+Dialogue: 0,0:08:14.26,0:08:17.09,Sub,,0,0,0,,{\fad(80,80)}By one Army Blood Program count, more than a
+Dialogue: 0,0:08:17.11,0:08:19.10,Sub,,0,0,0,,{\fad(80,80)}thousand units had gone to U.S.
+Dialogue: 0,0:08:19.12,0:08:20.13,Sub,,0,0,0,,{\fad(80,80)}Central Command.
+Dialogue: 0,0:08:20.15,0:08:23.30,Sub,,0,0,0,,{\fad(80,80)}The Army Blood Program's director noted it can be
+Dialogue: 0,0:08:23.32,0:08:25.38,Sub,,0,0,0,,{\fad(80,80)}kept in a standard refrigerator.
+Dialogue: 0,0:08:25.40,0:08:28.68,Sub,,0,0,0,,{\fad(80,80)}And for teams close to the front, the program said,
+Dialogue: 0,0:08:28.70,0:08:31.98,Sub,,0,0,0,,{\fad(80,80)}a unit of whole blood is often their only source of
+Dialogue: 0,0:08:32.00,0:08:32.62,Sub,,0,0,0,,{\fad(80,80)}platelets.
+Dialogue: 2,0:07:59.04,0:08:04.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:07:59.04,0:08:04.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:59.04,0:08:04.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ASBB CENTER OKINAWA · KADENA AIR BASE · SEPT. 2022 · U.S. NAVY
+Dialogue: 3,0:07:59.04,0:08:04.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COLLECTING LOW TITER O WHOLE BLOOD
+Dialogue: 0,0:08:33.09,0:08:34.28,Sub,,0,0,0,,{\fad(80,80)}Why so much effort?
+Dialogue: 0,0:08:34.30,0:08:36.81,Sub,,0,0,0,,{\fad(80,80)}A Navy lab chief put it in one sentence.
+Dialogue: 2,0:08:33.34,0:08:37.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:08:33.34,0:08:37.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:33.34,0:08:37.23,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NORFOLK, VA. · MAY 2022 · DEFENSE HEALTH AGENCY
+Dialogue: 3,0:08:33.34,0:08:37.23,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BLOOD STORAGE · ASBP BLOOD DRIVE
+Dialogue: 0,0:09:23.55,0:09:26.08,Sub,,0,0,0,,{\fad(80,80)}Whole blood isn't the answer to everything.
+Dialogue: 0,0:09:26.10,0:09:28.92,Sub,,0,0,0,,{\fad(80,80)}The review describes it as a first treatment for
+Dialogue: 0,0:09:28.94,0:09:32.00,Sub,,0,0,0,,{\fad(80,80)}life-threatening bleeding, with a possible switch to
+Dialogue: 0,0:09:32.02,0:09:35.02,Sub,,0,0,0,,{\fad(80,80)}type-specific components once the bleeding is under
+Dialogue: 0,0:09:35.04,0:09:38.10,Sub,,0,0,0,,{\fad(80,80)}control, the patient is stable, or supplies run low.
+Dialogue: 2,0:09:23.80,0:09:29.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:09:23.80,0:09:29.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:23.80,0:09:29.55,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NORFOLK, VA. · MAY 2022 · DEFENSE HEALTH AGENCY
+Dialogue: 3,0:09:23.80,0:09:29.55,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BLOOD STORAGE · ASBP BLOOD DRIVE
+Dialogue: 0,0:09:38.57,0:09:40.96,Sub,,0,0,0,,{\fad(80,80)}And it has a limit no lab has solved.
+Dialogue: 0,0:09:40.98,0:09:42.78,Sub,,0,0,0,,{\fad(80,80)}Blood can't be manufactured.
+Dialogue: 0,0:09:42.80,0:09:46.09,Sub,,0,0,0,,{\fad(80,80)}Every unit, whole or in parts, starts with a donor.
+Dialogue: 2,0:09:38.82,0:09:44.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:09:38.82,0:09:44.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:38.82,0:09:44.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KELLEY BARRACKS, GERMANY · MAY 2023 · U.S. ARMY
+Dialogue: 3,0:09:38.82,0:09:44.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMED SERVICES BLOOD PROGRAM DRIVE
+Dialogue: 0,0:10:02.86,0:10:05.78,Sub,,0,0,0,,{\fad(80,80)}Robertson's ice chest became a list of names.
+Dialogue: 0,0:10:05.80,0:10:09.12,Sub,,0,0,0,,{\fad(80,80)}People who agree, ahead of time, to give blood to a
+Dialogue: 0,0:10:09.14,0:10:12.39,Sub,,0,0,0,,{\fad(80,80)}stranger on the worst day of that stranger's life.
+Dialogue: 2,0:10:03.11,0:10:08.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:10:03.11,0:10:08.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:03.11,0:10:08.86,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KERIS STRIKE 26, MALAYSIA · DIEGO GARCIA · 2026
+Dialogue: 3,0:10:03.11,0:10:08.86,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WALKING BLOOD BANK
+Dialogue: 5,0:10:22.26,0:10:26.46,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Army, U.S. Navy, U.S. Marine Corps, Defense Health Agency via DVIDS (public domain); training footage is labelled.\NArchival: \"Combat Bulletin No. 35\" (1945) and U.S. Army Signal Corps \"Blood Bank Story, Tokyo, Japan\" (1950), public domain via National Archives / Internet Archive.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH, CDC or the Armed Services Blood Program.\NFor education only. This is not medical advice.
+Dialogue: 4,0:00:00.00,0:00:05.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:05.70,0:00:11.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:11.37,0:00:14.87,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:14.87,0:00:18.33,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:18.33,0:00:20.83,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:20.83,0:00:23.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:06.40,0:05:13.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:13.80,0:05:21.20,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:40.80,0:05:44.57,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:44.57,0:05:48.33,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:48.33,0:05:55.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:55.73,0:06:03.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:11.50,0:06:16.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:16.37,0:06:21.27,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:21.27,0:06:24.90,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:24.90,0:06:28.50,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:25.20,0:07:32.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:32.97,0:07:40.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:40.70,0:07:49.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:49.73,0:07:58.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:10:02.87,0:10:07.87,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

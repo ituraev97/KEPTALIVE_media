@@ -74,3 +74,7 @@ Long steps (build/finish/encode/shorts) through nohup + polling; never let a for
   - Shorts: 08:00, 10:00, 12:00, 15:00, 18:00, 21:00 ET, type "short", same flags, title ends with "#shorts".
   - Description = `templates/description.txt` filled (summary, chapters, sources, disclaimers, footage credits).
 - Verify with getScheduledPosts that all 7 posts exist for the day. Then commit `episode.py`, `shorts_spec.py`, `sources.md`, `thumb.json`, `youtube_description.txt`, updated `used_clips.json`, `clips.json`, `topics.md` to `main` and push.
+- Shorts: `MUTE = [clip ids]` in shorts_spec.py replaces natural sound with silence for those sources (interviews, narrated archival films) — the Short otherwise mixes the clip's own audio under the narration.
+- YouTube description must stay under 5,000 characters (005 first draft was 5,024) — check `make_desc.py` output.
+- Interlaced archive.org MPEG-2 (e.g. Combat Bulletin): convert with `fieldmatch,yadif=deint=interlaced,decimate` to clean 24p; 60p archive.org MP4s of silent film (111-ADC) -> `fps=24`. Add a silent audio track (`anullsrc`) so shorts.py/finish.py can read audio.
+- Known bad frames: 963638 has a duplicated frame at ~16.67 s (motion_check REPEAT) — avoid 12.7–18.1 s; 857891 cuts at 4.9 s to a donor with a blood-filled line — keep shots before 4.6 s; 917871 ~216 s and ~89 s show red-stained dressings/tubing — avoid.
