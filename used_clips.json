@@ -346,5 +346,59 @@
   "episode": "005-whole-blood",
   "date": "2026-11-06",
   "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "1027481",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "1027887",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "767473",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "942620",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1179 (wwi_train, wwi_march, wwi_barracks, wwi_drill, wwi_rows)",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1454 (ship_deck, ship_rail, ship_lifeboats)",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1540 (rc_canteen, rc_nurses, rc_front)",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "NMHM NCP 1603 (funston)",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "NARA 165-WW-269B (masks_boston, seattle_police, seattle_rc)",
+  "episode": "006-flu-1918",
+  "date": "2026-11-07",
+  "channel": "KEPT ALIVE"
  }
 ]

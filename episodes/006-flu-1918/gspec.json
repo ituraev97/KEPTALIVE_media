@@ -1,0 +1,681 @@
+[
+ {
+  "key": "phases_d5a63f",
+  "name": "phases",
+  "opts": {
+   "kicker": "U.S. ARMY \u00b7 WORLD WAR I",
+   "title": "THE FLU VS. COMBAT",
+   "left": {
+    "label": "DIED OF INFLUENZA AND PNEUMONIA \u00b7 BY END OF 1918",
+    "num": "~45,000",
+    "desc": "AMERICAN SOLDIERS"
+   },
+   "right": {
+    "label": "COMBAT DEATHS \u00b7 WHOLE WAR",
+    "num": "53,402",
+    "desc": "AMERICANS"
+   },
+   "active": 0,
+   "footer": "SOURCE: NATIONAL GUARD BUREAU, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_36b41d",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE 1918 PANDEMIC",
+   "title": "THE MOST SEVERE IN RECENT HISTORY",
+   "cards": [
+    {
+     "h": "500M",
+     "t": "people infected",
+     "s": "ESTIMATED \u00b7 ABOUT ONE-THIRD OF THE WORLD"
+    },
+    {
+     "h": "50M+",
+     "t": "deaths worldwide",
+     "s": "ESTIMATED \u00b7 AT LEAST"
+    },
+    {
+     "h": "675,000",
+     "t": "deaths in the U.S.",
+     "s": "ABOUT",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCE: CDC, 1918 PANDEMIC (H1N1 VIRUS)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_22a4c9",
+  "name": "title",
+  "opts": {
+   "kicker": "OUTBREAK \u00b7 006",
+   "title": "THE FLU THAT<br>WENT TO <span style=\"color:#2BB3A3\">WAR</span>",
+   "sub": "1918 \u00b7 THE U.S. ARMY AND THE PANDEMIC",
+   "size": 170
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_862526",
+  "name": "chapter",
+  "opts": {
+   "case": "1918",
+   "n": "I",
+   "t": "THE CAMPS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_eccb2e",
+  "name": "map",
+  "opts": {
+   "map": {
+    "useUS": true,
+    "rings": [
+     {
+      "ll": [
+       -96.79,
+       39.06
+      ],
+      "r": 34,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -96.79,
+       39.06
+      ],
+      "name": "CAMP FUNSTON",
+      "sub": "FORT RILEY, KANSAS",
+      "d": 0.3,
+      "color": "#6CF29A"
+     }
+    ]
+   },
+   "kicker": "KANSAS \u00b7 1918",
+   "title": "A CAMP OF 56,000",
+   "footer": "SOURCE: MILITARY.COM, 2026 \u00b7 NATIONAL GUARD BUREAU, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_e06a9c",
+  "name": "stat",
+  "opts": {
+   "a": "1,100",
+   "b": "SICK WITHIN THREE WEEKS \u00b7 OF 56,222 TROOPS AT CAMP FUNSTON",
+   "c": "FIRST CASES: MARCH 1918 \u00b7 SOURCES: CDC \u00b7 NATIONAL GUARD BUREAU, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_b6f04f",
+  "name": "callcard",
+  "opts": {
+   "kicker": "ONE THEORY \u00b7 NOT SETTLED",
+   "title": "HASKELL COUNTY, KANSAS",
+   "rows": [
+    [
+     "JAN.\u2013FEB. 1918",
+     "A LOCAL DOCTOR, LORING MINER, SEES SEVERE FLU"
+    ],
+    [
+     "MARCH 1918",
+     "HE ALERTS THE U.S. PUBLIC HEALTH SERVICE"
+    ],
+    [
+     "THE LINK",
+     "YOUNG MEN FROM THE COUNTY TRAIN AT CAMP FUNSTON"
+    ]
+   ],
+   "footer": "SOURCES: CDC \u00b7 NATIONAL GUARD BUREAU, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_b67511",
+  "name": "stat",
+  "opts": {
+   "a": "84,000",
+   "b": "AMERICAN TROOPS SAILED FOR FRANCE IN MARCH 1918 ALONE",
+   "c": "15TH U.S. CAVALRY: 36 FLU CASES, 6 DEATHS ON ONE CROSSING \u00b7 SOURCE: MILITARY.COM, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_e85356",
+  "name": "chapter",
+  "opts": {
+   "case": "1918",
+   "n": "II",
+   "t": "A MISLEADING NAME"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_ef842e",
+  "name": "doc",
+  "opts": {
+   "header": "WARTIME PRESS \u00b7 1918",
+   "title": "WHY \"SPANISH\"?",
+   "body": "Warring nations suppressed news of the outbreak to protect morale. Neutral Spain reported it openly, including that King Alfonso XIII had fallen sick.",
+   "source": "SOURCES: MILITARY.COM, 2026 \u00b7 HISTORY.COM",
+   "stamp": "NEUTRAL SPAIN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_53452d",
+  "name": "quote",
+  "opts": {
+   "q": "Basically, it gets called the 'Spanish flu' because the Spanish media did their job.",
+   "w": "LORA VOGT \u00b7 NATIONAL WWI MUSEUM AND MEMORIAL \u00b7 VIA HISTORY.COM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_21cc97",
+  "name": "chapter",
+  "opts": {
+   "case": "1918",
+   "n": "III",
+   "t": "THE SECOND WAVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_505755",
+  "name": "timeline",
+  "opts": {
+   "kicker": "CDC \u00b7 THREE WAVES",
+   "title": "MARCH 1918 TO SUMMER 1919",
+   "events": [
+    {
+     "y": "SPRING 1918",
+     "t": "First wave \u00b7 Camp Funston"
+    },
+    {
+     "y": "FALL 1918",
+     "t": "Second wave \u00b7 most U.S. deaths"
+    },
+    {
+     "y": "1919",
+     "t": "Third wave \u00b7 winter and spring"
+    }
+   ],
+   "footer": "SOURCE: CDC, 1918 PANDEMIC INFLUENZA: THREE WAVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_1850b3",
+  "name": "map",
+  "opts": {
+   "map": {
+    "useUS": true,
+    "rings": [
+     {
+      "ll": [
+       -71.61,
+       42.54
+      ],
+      "r": 34,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -71.61,
+       42.54
+      ],
+      "name": "CAMP DEVENS",
+      "sub": "MASS.",
+      "d": 0.3,
+      "color": "#6CF29A"
+     }
+    ]
+   },
+   "kicker": "MASSACHUSETTS \u00b7 SEPTEMBER 1918",
+   "title": "CAMP DEVENS: 14,000 SICK BY END OF SEPT. \u00b7 757 DIED",
+   "footer": "SOURCES: NATIONAL GUARD BUREAU, 2018 \u00b7 MISSOURI MEDICINE, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_3a07fb",
+  "name": "callcard",
+  "opts": {
+   "kicker": "LONG ISLAND, N.Y. \u00b7 FALL 1918",
+   "title": "CAMP UPTON",
+   "rows": [
+    [
+     "SEPT. 13",
+     "INFLUENZA APPEARS"
+    ],
+    [
+     "RESPONSE",
+     "NO CIVILIAN VISITORS \u00b7 SOLDIERS' LEAVE ENDED"
+    ],
+    [
+     "BY OCT. 22",
+     "6,131 HOSPITALIZED \u00b7 404 DEAD"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL GUARD BUREAU, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_70d6ba",
+  "name": "callcard",
+  "opts": {
+   "kicker": "NEW YORK \u00b7 FALL 1918",
+   "title": "CAMP SYRACUSE",
+   "rows": [
+    [
+     "THE CAMP",
+     "NO HOSPITAL \u00b7 ONLY THREE AMBULANCES"
+    ],
+    [
+     "SOLDIERS",
+     "2,289 FLU CASES \u00b7 208 DIED"
+    ],
+    [
+     "THE CITY",
+     "ABOUT 900 SYRACUSE RESIDENTS DIED"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL GUARD BUREAU, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_90b1d8",
+  "name": "chapter",
+  "opts": {
+   "case": "1918",
+   "n": "IV",
+   "t": "OVER THERE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_57f651",
+  "name": "phases",
+  "opts": {
+   "kicker": "AMERICAN EXPEDITIONARY FORCES \u00b7 1918",
+   "title": "HOSPITALIZED IN EUROPE",
+   "left": {
+    "label": "FOR INFLUENZA",
+    "num": "340,000",
+    "desc": "SOLDIERS"
+   },
+   "right": {
+    "label": "FOR BATTLE WOUNDS",
+    "num": "227,000",
+    "desc": "SOLDIERS"
+   },
+   "active": 0,
+   "footer": "SOURCES: NATIONAL GUARD BUREAU, 2018 \u00b7 MILITARY.COM, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_31fa67",
+  "name": "quote",
+  "opts": {
+   "q": "The Americans are suffering severely from influenza.",
+   "w": "GEN. ERICH LUDENDORFF, ON THE AMERICANS \u00b7 OCT. 17, 1918 \u00b7 AS QUOTED BY THE NATIONAL GUARD BUREAU"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6c576d",
+  "name": "stat",
+  "opts": {
+   "a": "200+",
+   "b": "AMERICAN NURSES WHO DIED DURING THE WAR \u00b7 ESTIMATED",
+   "c": "MOSTLY INFLUENZA OR PNEUMONIA \u00b7 SOURCE: ARLINGTON NATIONAL CEMETERY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_3a0be4",
+  "name": "chapter",
+  "opts": {
+   "case": "1918",
+   "n": "V",
+   "t": "WHAT KILLED THEM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_60226c",
+  "name": "cards3",
+  "opts": {
+   "kicker": "WHO DIED \u00b7 1918",
+   "title": "A UNIQUE FEATURE",
+   "cards": [
+    {
+     "h": "&lt; 5",
+     "t": "young children",
+     "s": "HIGH MORTALITY"
+    },
+    {
+     "h": "20\u201340",
+     "t": "healthy adults",
+     "s": "UNIQUE TO THIS PANDEMIC"
+    },
+    {
+     "h": "65+",
+     "t": "older adults",
+     "s": "HIGH MORTALITY"
+    }
+   ],
+   "footer": "SOURCE: CDC, 1918 PANDEMIC (H1N1 VIRUS)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_b8a545",
+  "name": "list",
+  "opts": {
+   "kicker": "CDC \u00b7 1918",
+   "title": "WHAT DOCTORS DID NOT HAVE",
+   "items": [
+    "No flu vaccine",
+    "No antibiotics for the infections that followed",
+    "Only isolation, quarantine, hygiene, disinfectants and fewer gatherings"
+   ],
+   "footer": "SOURCE: CDC, 1918 PANDEMIC (H1N1 VIRUS)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_c4fc7f",
+  "name": "callcard",
+  "opts": {
+   "kicker": "NIH \u00b7 2008",
+   "title": "58 SOLDIERS, 90 YEARS LATER",
+   "rows": [
+    [
+     "THE SAMPLES",
+     "LUNG TISSUE FROM 58 SOLDIERS \u00b7 U.S. MILITARY BASES \u00b7 1918\u201319"
+    ],
+    [
+     "PRESERVED",
+     "IN PARAFFIN BLOCKS"
+    ],
+    [
+     "ALSO",
+     "8,398 AUTOPSIES REVIEWED \u00b7 15 COUNTRIES"
+    ]
+   ],
+   "footer": "SOURCE: NIH NEWS RELEASE, AUG. 2008 \u00b7 MORENS ET AL., J INFECT DIS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1a98a3",
+  "name": "stat",
+  "opts": {
+   "a": "MOST",
+   "b": "VICTIMS DIED OF BACTERIAL PNEUMONIA FOLLOWING THE FLU",
+   "c": "SOURCE: NIH, 2008 \u00b7 \"PREDOMINANT ROLE OF BACTERIAL PNEUMONIA\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_c41dcf",
+  "name": "list",
+  "opts": {
+   "kicker": "NIH \u00b7 2008",
+   "title": "THE LESSON FOR PLANNERS",
+   "items": [
+    "Influenza vaccines",
+    "Antiviral drugs",
+    "Stockpiles of antibiotics",
+    "Bacterial vaccines"
+   ],
+   "footer": "SOURCE: NIH NEWS RELEASE, AUG. 2008"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_515216",
+  "name": "chapter",
+  "opts": {
+   "case": "1918",
+   "n": "VI",
+   "t": "THE HOME FRONT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_5a2a07",
+  "name": "map",
+  "opts": {
+   "map": {
+    "useUS": true,
+    "rings": [
+     {
+      "ll": [
+       -90.2,
+       38.63
+      ],
+      "r": 30,
+      "n": 2,
+      "d": 0.4
+     },
+     {
+      "ll": [
+       -75.16,
+       39.95
+      ],
+      "r": 30,
+      "n": 2,
+      "d": 0.8,
+      "color": "#F2B33D"
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -90.2,
+       38.63
+      ],
+      "name": "ST. LOUIS",
+      "sub": "MEASURES WITHIN 2 DAYS",
+      "d": 0.3,
+      "color": "#6CF29A"
+     },
+     {
+      "ll": [
+       -75.16,
+       39.95
+      ],
+      "name": "PHILADELPHIA",
+      "sub": "WAITED 2+ WEEKS",
+      "d": 0.7,
+      "color": "#F2B33D"
+     }
+    ]
+   },
+   "kicker": "FALL 1918",
+   "title": "TWO CITIES",
+   "footer": "SOURCE: NIH-FUNDED STUDIES, PNAS 2007 \u00b7 VIA INFECTION CONTROL TODAY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_9db63b",
+  "name": "phases",
+  "opts": {
+   "kicker": "PEAK DEATH RATES \u00b7 1918",
+   "title": "ACTING EARLY",
+   "left": {
+    "label": "ST. LOUIS \u00b7 ACTED IN 2 DAYS",
+    "num": "1/8",
+    "desc": "OF PHILADELPHIA'S PEAK"
+   },
+   "right": {
+    "label": "EARLY CITIES VS. LATE CITIES",
+    "num": "UP TO \u00bd",
+    "desc": "LOWER PEAK WEEKLY DEATHS"
+   },
+   "active": 0,
+   "footer": "SOURCE: NIH-FUNDED STUDIES, PNAS 2007"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_23a34c",
+  "name": "stat",
+  "opts": {
+   "a": "675,000",
+   "b": "DEATHS IN THE UNITED STATES \u00b7 ABOUT",
+   "c": "SOURCE: CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_266314",
+  "name": "stat",
+  "opts": {
+   "a": "&gt; 4 WARS",
+   "b": "U.S. FLU DEATHS EXCEEDED COMBAT DEATHS IN WWI, WWII, KOREA AND VIETNAM COMBINED",
+   "c": "SOURCE: MISSOURI MEDICINE, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_a79ee6",
+  "name": "chapter",
+  "opts": {
+   "case": "1918",
+   "n": "VII",
+   "t": "WHAT CHANGED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_b36897",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. ARMY \u00b7 1941",
+   "title": "THE COMMISSION ON INFLUENZA",
+   "rows": [
+    [
+     "1941",
+     "ARMY BOARD TO INVESTIGATE AND CONTROL INFLUENZA"
+    ],
+    [
+     "LED BY",
+     "DR. THOMAS FRANCIS JR. \u00b7 UNIVERSITY OF MICHIGAN"
+    ],
+    [
+     "DAY TO DAY",
+     "JONAS SALK"
+    ]
+   ],
+   "footer": "SOURCES: MIDRP, HEALTH.MIL \u00b7 UNIVERSITY OF MICHIGAN HERITAGE PROJECT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_4ee9af",
+  "name": "stat",
+  "opts": {
+   "a": "12,500",
+   "b": "ARMY SPECIALIZED TRAINING PROGRAM PARTICIPANTS IN THE TRIAL",
+   "c": "1943\u201344 FLU SEASON \u00b7 DOUBLE-BLIND \u00b7 SOURCE: UNIVERSITY OF MICHIGAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_4e9b52",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FROM 1918 TO A VACCINE",
+   "title": "WHAT THE ARMY BUILT",
+   "events": [
+    {
+     "y": "1918",
+     "t": "No vaccine, no antibiotics"
+    },
+    {
+     "y": "1941",
+     "t": "Army influenza board"
+    },
+    {
+     "y": "1943",
+     "t": "Trial in 12,500 trainees"
+    },
+    {
+     "y": "NOV. 1945",
+     "t": "Vaccine licensed"
+    }
+   ],
+   "footer": "SOURCES: CDC \u00b7 MIDRP, HEALTH.MIL \u00b7 UNIVERSITY OF MICHIGAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_afe0e8",
+  "name": "callcard",
+  "opts": {
+   "kicker": "1961\u20131993",
+   "title": "ARMED FORCES EPIDEMIOLOGICAL BOARD",
+   "rows": [
+    [
+     "THE JOB",
+     "ADVISE ON INFLUENZA VACCINES"
+    ],
+    [
+     "1961\u20131993",
+     "53 SEPARATE RECOMMENDATIONS ON VACCINE COMPOSITION"
+    ]
+   ],
+   "footer": "SOURCE: MIDRP, HEALTH.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_71ef79",
+  "name": "stat",
+  "opts": {
+   "a": "ANNUAL",
+   "b": "CDC RECOMMENDS SEASONAL FLU VACCINATION",
+   "c": "VACCINES AVAILABLE FOR AGES 6 MONTHS AND OLDER \u00b7 SOURCE: CDC FLUVIEW, WEEK 42, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_0fb1cd",
+  "name": "stat",
+  "opts": {
+   "a": "NEXT",
+   "b": "THE TOURNIQUET: FROM FEARED TO LIFESAVER",
+   "c": "KEPT ALIVE \u00b7 HOW IT WORKS \u00b7 007"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_a26f3f",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 OUTBREAK 006",
+   "stamp": "1918"
+  },
+  "intro": 2.4
+ }
+]

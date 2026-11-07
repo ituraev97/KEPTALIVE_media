@@ -78,3 +78,8 @@ Long steps (build/finish/encode/shorts) through nohup + polling; never let a for
 - YouTube description must stay under 5,000 characters (005 first draft was 5,024) — check `make_desc.py` output.
 - Interlaced archive.org MPEG-2 (e.g. Combat Bulletin): convert with `fieldmatch,yadif=deint=interlaced,decimate` to clean 24p; 60p archive.org MP4s of silent film (111-ADC) -> `fps=24`. Add a silent audio track (`anullsrc`) so shorts.py/finish.py can read audio.
 - Known bad frames: 963638 has a duplicated frame at ~16.67 s (motion_check REPEAT) — avoid 12.7–18.1 s; 857891 cuts at 4.9 s to a donor with a blood-filled line — keep shots before 4.6 s; 917871 ~216 s and ~89 s show red-stained dressings/tubing — avoid.
+- 006 (2026-11-07): NARA silent films on archive.org (111-H-1179/1454/1540) start with a NARA slate (0–3 s) — never start a shot before ~3.5 s. 24p/29p silent film: cut short excerpts first and pre-interpolate them to 30p once (`minterpolate` at 960x720, ~11 s CPU per 1 s), then use the excerpts as 30p clips — the build is then fast and motion_check stays at 0. 29.97p DVIDS clips can carry a duplicated frame (1027481 ~16.7 s) — move the shot if motion_check reports REPEAT.
+- Photos as Shorts footage: render a 12 s push-in mp4 (`zoompan` on a 7680-wide canvas, d=360) and use it like a clip; keep shots before ~11 s (zoom reaches its max -> REPEAT).
+- Shorts credit line must stay ≤ ~70 characters (longer runs off both edges). Pyin on the final Short mix reads ~70–90 Hz because of the score; check the voice stem `shorts/sN/voice.wav` (should be ~120–135 Hz).
+- `motion_check.py` on Shorts needs `shorts/sN/timing.json` + clips.json, otherwise every cut is reported as JUMP.
+

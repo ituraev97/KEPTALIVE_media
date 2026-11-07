@@ -1,0 +1,179 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:04.64,Sub,,0,0,0,,{\fad(80,80)}By the end of 1918, influenza, and the pneumonia
+Dialogue: 0,0:00:04.66,0:00:08.52,Sub,,0,0,0,,{\fad(80,80)}that came with it, had killed about 45,000 American
+Dialogue: 0,0:00:08.54,0:00:09.20,Sub,,0,0,0,,{\fad(80,80)}soldiers.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1160 0 l 1160 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CAMP FUNSTON, KANSAS · 1918 · NATIONAL MUSEUM OF HEALTH AND MEDICINE
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}EMERGENCY HOSPITAL DURING THE INFLUENZA EPIDEMIC
+Dialogue: 0,0:00:25.61,0:00:29.15,Sub,,0,0,0,,{\fad(80,80)}And in the United States, CDC says, it was first
+Dialogue: 0,0:00:29.17,0:00:31.60,Sub,,0,0,0,,{\fad(80,80)}identified in military personnel.
+Dialogue: 2,0:00:25.86,0:00:31.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:00:25.86,0:00:31.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:25.86,0:00:31.61,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"INFANTRY TRAINING" · NATIONAL ARCHIVES 111-H-1179
+Dialogue: 3,0:00:25.86,0:00:31.61,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:00:32.07,0:00:35.18,Sub,,0,0,0,,{\fad(80,80)}This is how the deadliest flu in modern history went
+Dialogue: 0,0:00:35.20,0:00:37.71,Sub,,0,0,0,,{\fad(80,80)}to war, and what medicine learned from it.
+Dialogue: 0,0:00:45.79,0:00:48.84,Sub,,0,0,0,,{\fad(80,80)}When America entered the First World War, more than
+Dialogue: 0,0:00:48.86,0:00:50.89,Sub,,0,0,0,,{\fad(80,80)}4 million recruits were mobilized.
+Dialogue: 0,0:00:50.91,0:00:53.79,Sub,,0,0,0,,{\fad(80,80)}About thirty training camps were thrown up fast.
+Dialogue: 0,0:00:53.81,0:00:56.68,Sub,,0,0,0,,{\fad(80,80)}Some held up to 50,000 men, in crowded barracks.
+Dialogue: 2,0:00:46.04,0:00:51.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:00:46.04,0:00:51.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:46.04,0:00:51.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"INFANTRY TRAINING" · NATIONAL ARCHIVES 111-H-1179
+Dialogue: 3,0:00:46.04,0:00:51.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:01:23.63,0:01:26.82,Sub,,0,0,0,,{\fad(80,80)}In the weeks that followed, thousands of soldiers
+Dialogue: 0,0:01:26.84,0:01:29.43,Sub,,0,0,0,,{\fad(80,80)}there came down with influenza. 38 died.
+Dialogue: 2,0:01:23.88,0:01:29.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1160 0 l 1160 132 l 0 132{\p0}
+Dialogue: 3,0:01:23.88,0:01:29.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:23.88,0:01:29.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CAMP FUNSTON, KANSAS · 1918 · NATIONAL MUSEUM OF HEALTH AND MEDICINE
+Dialogue: 3,0:01:23.88,0:01:29.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}EMERGENCY HOSPITAL DURING THE INFLUENZA EPIDEMIC
+Dialogue: 0,0:01:47.76,0:01:50.99,Sub,,0,0,0,,{\fad(80,80)}CDC says the mass movement of troops helped spread
+Dialogue: 0,0:01:51.01,0:01:52.61,Sub,,0,0,0,,{\fad(80,80)}the flu around the world.
+Dialogue: 0,0:01:52.63,0:01:55.60,Sub,,0,0,0,,{\fad(80,80)}Within weeks, camps in Georgia reported cases.
+Dialogue: 0,0:01:55.62,0:01:58.91,Sub,,0,0,0,,{\fad(80,80)}By the end of April, 24 of the Army's 36 main camps
+Dialogue: 0,0:01:58.93,0:02:00.40,Sub,,0,0,0,,{\fad(80,80)}had reported outbreaks.
+Dialogue: 0,0:02:00.42,0:02:03.78,Sub,,0,0,0,,{\fad(80,80)}And influenza reached Brest, in France, a major port
+Dialogue: 0,0:02:03.80,0:02:05.08,Sub,,0,0,0,,{\fad(80,80)}for American troops.
+Dialogue: 2,0:01:48.01,0:01:53.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:01:48.01,0:01:53.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:48.01,0:01:53.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"INFANTRY TRAINING" · NATIONAL ARCHIVES 111-H-1179
+Dialogue: 3,0:01:48.01,0:01:53.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:02:18.17,0:02:19.97,Sub,,0,0,0,,{\fad(80,80)}That first wave was widespread.
+Dialogue: 0,0:02:19.99,0:02:21.80,Sub,,0,0,0,,{\fad(80,80)}But the worst was still coming.
+Dialogue: 0,0:03:44.81,0:03:47.71,Sub,,0,0,0,,{\fad(80,80)}With so many doctors and nurses serving in the
+Dialogue: 0,0:03:47.73,0:03:50.94,Sub,,0,0,0,,{\fad(80,80)}military, CDC says, there were shortages of medical
+Dialogue: 0,0:03:50.96,0:03:52.78,Sub,,0,0,0,,{\fad(80,80)}personnel across the country.
+Dialogue: 0,0:03:52.80,0:03:55.82,Sub,,0,0,0,,{\fad(80,80)}In Missouri, roughly half of the state's doctors
+Dialogue: 0,0:03:55.84,0:03:57.66,Sub,,0,0,0,,{\fad(80,80)}were serving in the military.
+Dialogue: 0,0:03:57.68,0:04:00.90,Sub,,0,0,0,,{\fad(80,80)}In October, the Army stopped taking in new draftees
+Dialogue: 0,0:04:00.92,0:04:02.48,Sub,,0,0,0,,{\fad(80,80)}until the epidemic ended.
+Dialogue: 2,0:03:45.06,0:03:50.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:03:45.06,0:03:50.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:45.06,0:03:50.81,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"INFANTRY TRAINING" · NATIONAL ARCHIVES 111-H-1179
+Dialogue: 3,0:03:45.06,0:03:50.81,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:04:02.95,0:04:04.64,Sub,,0,0,0,,{\fad(80,80)}But the war still needed men.
+Dialogue: 0,0:04:04.66,0:04:07.69,Sub,,0,0,0,,{\fad(80,80)}The Army's Surgeon General recommended halting troop
+Dialogue: 0,0:04:07.71,0:04:08.86,Sub,,0,0,0,,{\fad(80,80)}shipments to France.
+Dialogue: 0,0:04:08.88,0:04:10.39,Sub,,0,0,0,,{\fad(80,80)}President Wilson declined.
+Dialogue: 0,0:04:10.41,0:04:12.68,Sub,,0,0,0,,{\fad(80,80)}General Pershing wanted reinforcements.
+Dialogue: 0,0:04:12.70,0:04:13.62,Sub,,0,0,0,,{\fad(80,80)}And they sailed.
+Dialogue: 2,0:04:03.20,0:04:08.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:04:03.20,0:04:08.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:03.20,0:04:08.95,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"INFANTRY TRAINING" · NATIONAL ARCHIVES 111-H-1179
+Dialogue: 3,0:04:03.20,0:04:08.95,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:04:14.09,0:04:16.98,Sub,,0,0,0,,{\fad(80,80)}These Army films, from 1919, show what those
+Dialogue: 0,0:04:17.00,0:04:18.50,Sub,,0,0,0,,{\fad(80,80)}troopships looked like.
+Dialogue: 0,0:04:18.52,0:04:21.94,Sub,,0,0,0,,{\fad(80,80)}Soldiers packed shoulder to shoulder, for a crossing
+Dialogue: 0,0:04:21.96,0:04:23.07,Sub,,0,0,0,,{\fad(80,80)}of 10 to 14 days.
+Dialogue: 2,0:04:14.34,0:04:20.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:04:14.34,0:04:20.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:14.34,0:04:20.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS · NATIONAL ARCHIVES 111-H-1454
+Dialogue: 3,0:04:14.34,0:04:20.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · TROOPS BOARD TRANSPORTS, ST. NAZAIRE
+Dialogue: 0,0:04:23.54,0:04:26.60,Sub,,0,0,0,,{\fad(80,80)}Healthy soldiers often fell sick on the way.
+Dialogue: 0,0:04:26.62,0:04:30.18,Sub,,0,0,0,,{\fad(80,80)}One sailor counted 15 burials at sea, from a single
+Dialogue: 0,0:04:30.20,0:04:31.37,Sub,,0,0,0,,{\fad(80,80)}ship, in one day.
+Dialogue: 2,0:04:23.79,0:04:29.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:04:23.79,0:04:29.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:23.79,0:04:29.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS · NATIONAL ARCHIVES 111-H-1454
+Dialogue: 3,0:04:23.79,0:04:29.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · TROOPS BOARD TRANSPORTS, ST. NAZAIRE
+Dialogue: 0,0:04:48.08,0:04:51.37,Sub,,0,0,0,,{\fad(80,80)}In October, during the Meuse-Argonne offensive,
+Dialogue: 0,0:04:51.39,0:04:53.62,Sub,,0,0,0,,{\fad(80,80)}1,451 Americans died of the flu.
+Dialogue: 0,0:04:53.64,0:04:57.21,Sub,,0,0,0,,{\fad(80,80)}The Third Infantry Division evacuated more soldiers
+Dialogue: 0,0:04:57.23,0:05:01.01,Sub,,0,0,0,,{\fad(80,80)}from the front with influenza than with combat wounds.
+Dialogue: 2,0:04:48.33,0:04:54.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:04:48.33,0:04:54.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:48.33,0:04:54.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"WELFARE ACTIVITIES: RED CROSS" · NATIONAL ARCHIVES 111-H-1540
+Dialogue: 3,0:04:48.33,0:04:54.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:05:11.55,0:05:13.63,Sub,,0,0,0,,{\fad(80,80)}Much of the care fell to nurses.
+Dialogue: 0,0:05:13.65,0:05:16.90,Sub,,0,0,0,,{\fad(80,80)}By the Armistice, the Army Nurse Corps had reached
+Dialogue: 0,0:05:16.92,0:05:19.39,Sub,,0,0,0,,{\fad(80,80)}an estimated peak of more than 21,000.
+Dialogue: 2,0:05:11.80,0:05:17.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:05:11.80,0:05:17.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:11.80,0:05:17.55,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"WELFARE ACTIVITIES: RED CROSS" · NATIONAL ARCHIVES 111-H-1540
+Dialogue: 3,0:05:11.80,0:05:17.55,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:05:31.52,0:05:34.62,Sub,,0,0,0,,{\fad(80,80)}Back home, Red Cross workers made masks for soldiers
+Dialogue: 0,0:05:34.64,0:05:35.09,Sub,,0,0,0,,{\fad(80,80)}in camp.
+Dialogue: 2,0:05:31.77,0:05:35.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:05:31.77,0:05:35.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:31.77,0:05:35.51,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}BOSTON, MASS. · 1918 · NATIONAL ARCHIVES 165-WW-269B
+Dialogue: 3,0:05:31.77,0:05:35.51,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RED CROSS WORKERS MAKE MASKS FOR SOLDIERS IN CAMP
+Dialogue: 0,0:05:54.63,0:05:57.90,Sub,,0,0,0,,{\fad(80,80)}And the camps were full of young men, an age group
+Dialogue: 0,0:05:57.92,0:06:00.40,Sub,,0,0,0,,{\fad(80,80)}usually less affected by seasonal flu.
+Dialogue: 2,0:05:54.88,0:06:00.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:05:54.88,0:06:00.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:54.88,0:06:00.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"INFANTRY TRAINING" · NATIONAL ARCHIVES 111-H-1179
+Dialogue: 3,0:05:54.88,0:06:00.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 0,0:06:58.07,0:07:01.56,Sub,,0,0,0,,{\fad(80,80)}CDC lists what they had. Isolation. Quarantine.
+Dialogue: 0,0:07:01.58,0:07:02.54,Sub,,0,0,0,,{\fad(80,80)}Good hygiene.
+Dialogue: 0,0:07:02.56,0:07:03.58,Sub,,0,0,0,,{\fad(80,80)}Disinfectants.
+Dialogue: 0,0:07:03.60,0:07:05.98,Sub,,0,0,0,,{\fad(80,80)}And limits on public gatherings.
+Dialogue: 0,0:07:06.00,0:07:08.00,Sub,,0,0,0,,{\fad(80,80)}They were applied unevenly.
+Dialogue: 2,0:06:58.32,0:07:04.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:06:58.32,0:07:04.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:58.32,0:07:04.07,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SEATTLE, WASH. · DEC. 1918 · NATIONAL ARCHIVES 165-WW-269B
+Dialogue: 3,0:06:58.32,0:07:04.07,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RED CROSS WORKROOM, WITH INFLUENZA MASKS ON FACES
+Dialogue: 0,0:07:08.47,0:07:11.55,Sub,,0,0,0,,{\fad(80,80)}In Seattle, police officers wore masks made by the
+Dialogue: 0,0:07:11.57,0:07:13.04,Sub,,0,0,0,,{\fad(80,80)}local Red Cross chapter.
+Dialogue: 2,0:07:08.72,0:07:13.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:07:08.72,0:07:13.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:08.72,0:07:13.46,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SEATTLE, WASH. · DEC. 1918 · NATIONAL ARCHIVES 165-WW-269B
+Dialogue: 3,0:07:08.72,0:07:13.46,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}POLICE IN MASKS MADE BY THE SEATTLE RED CROSS
+Dialogue: 0,0:07:43.87,0:07:47.36,Sub,,0,0,0,,{\fad(80,80)}And then came a third wave, in the winter and spring
+Dialogue: 0,0:07:47.38,0:07:49.65,Sub,,0,0,0,,{\fad(80,80)}of 1919, adding to the death toll.
+Dialogue: 0,0:07:49.67,0:07:53.03,Sub,,0,0,0,,{\fad(80,80)}CDC says the pandemic had subsided by that summer.
+Dialogue: 2,0:07:44.12,0:07:49.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:07:44.12,0:07:49.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:44.12,0:07:49.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SEATTLE, WASH. · DEC. 1918 · NATIONAL ARCHIVES 165-WW-269B
+Dialogue: 3,0:07:44.12,0:07:49.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}POLICE IN MASKS MADE BY THE SEATTLE RED CROSS
+Dialogue: 0,0:09:06.13,0:09:08.93,Sub,,0,0,0,,{\fad(80,80)}Today, flu shots are an annual requirement for
+Dialogue: 0,0:09:08.95,0:09:09.97,Sub,,0,0,0,,{\fad(80,80)}military members.
+Dialogue: 2,0:09:06.38,0:09:10.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:09:06.38,0:09:10.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:06.38,0:09:10.39,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OCT. 26, 2026 · AFN DAEGU VIA DVIDS
+Dialogue: 3,0:09:06.38,0:09:10.39,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FLU DRIVE · CAMP CARROLL, REPUBLIC OF KOREA
+Dialogue: 0,0:09:10.44,0:09:13.73,Sub,,0,0,0,,{\fad(80,80)}And military labs, like this Air Force epidemiology
+Dialogue: 0,0:09:13.75,0:09:16.91,Sub,,0,0,0,,{\fad(80,80)}lab, test samples sent in from military treatment
+Dialogue: 0,0:09:16.93,0:09:18.72,Sub,,0,0,0,,{\fad(80,80)}facilities around the world.
+Dialogue: 2,0:09:10.69,0:09:16.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:09:10.69,0:09:16.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:10.69,0:09:16.44,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WRIGHT-PATTERSON AFB, OHIO · AUG. 2020 · U.S. AIR FORCE
+Dialogue: 3,0:09:10.69,0:09:16.44,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}EPIDEMIOLOGY LABORATORY · USAF SCHOOL OF AEROSPACE MEDICINE
+Dialogue: 0,0:09:19.19,0:09:21.52,Sub,,0,0,0,,{\fad(80,80)}This fall, flu activity rose early.
+Dialogue: 0,0:09:21.54,0:09:24.21,Sub,,0,0,0,,{\fad(80,80)}In late October, CDC said the weekly flu
+Dialogue: 0,0:09:24.23,0:09:27.57,Sub,,0,0,0,,{\fad(80,80)}hospitalization rate was the highest for that week
+Dialogue: 0,0:09:27.59,0:09:29.25,Sub,,0,0,0,,{\fad(80,80)}since the 2010-11 season.
+Dialogue: 0,0:09:29.27,0:09:31.33,Sub,,0,0,0,,{\fad(80,80)}Activity was still low overall.
+Dialogue: 2,0:09:19.44,0:09:25.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:09:19.44,0:09:25.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:19.44,0:09:25.19,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MCAS IWAKUNI, JAPAN · OCT. 6, 2026 · AFN IWAKUNI VIA DVIDS
+Dialogue: 3,0:09:19.44,0:09:25.19,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SHOTEX FLU VACCINATION EVENT
+Dialogue: 0,0:09:39.80,0:09:43.33,Sub,,0,0,0,,{\fad(80,80)}In 1918, flu and pneumonia killed almost as many
+Dialogue: 0,0:09:43.35,0:09:45.69,Sub,,0,0,0,,{\fad(80,80)}American soldiers as combat did.
+Dialogue: 0,0:09:45.71,0:09:49.24,Sub,,0,0,0,,{\fad(80,80)}There was no vaccine, and no antibiotics for the
+Dialogue: 0,0:09:49.26,0:09:51.01,Sub,,0,0,0,,{\fad(80,80)}pneumonia that followed.
+Dialogue: 0,0:09:51.03,0:09:54.78,Sub,,0,0,0,,{\fad(80,80)}27 years later, the first of those answers arrived.
+Dialogue: 0,0:09:54.80,0:09:58.55,Sub,,0,0,0,,{\fad(80,80)}A licensed flu vaccine, built with the Army's help.
+Dialogue: 2,0:09:40.05,0:09:45.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:09:40.05,0:09:45.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:40.05,0:09:45.80,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"INFANTRY TRAINING" · NATIONAL ARCHIVES 111-H-1179
+Dialogue: 3,0:09:40.05,0:09:45.80,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL FILM · 1918–1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 5,0:10:08.61,0:10:12.81,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Army, U.S. Marine Corps / AFN, U.S. Air Force via DVIDS (public domain). Archival: U.S. Army Signal Corps films (1918–1919), National Archives / Internet Archive.\NPhotos: National Archives (165-WW-269B) and National Museum of Health and Medicine (NCP 1603), public domain.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH or CDC.\NFor education only. This is not medical advice.
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

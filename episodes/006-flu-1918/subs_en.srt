@@ -1,0 +1,843 @@
+1
+00:00:01,000 --> 00:00:04,656
+By the end of 1918, influenza, and the pneumonia
+
+2
+00:00:04,656 --> 00:00:08,540
+that came with it, had killed about 45,000 American
+
+3
+00:00:08,540 --> 00:00:09,225
+soldiers.
+
+4
+00:00:09,675 --> 00:00:15,147
+American combat deaths in the entire war were 53,402.
+
+5
+00:00:15,847 --> 00:00:19,767
+CDC calls it the most severe pandemic in recent history.
+
+6
+00:00:19,767 --> 00:00:22,636
+An estimated 500 million people infected.
+
+7
+00:00:22,636 --> 00:00:25,155
+At least 50 million dead, worldwide.
+
+8
+00:00:25,605 --> 00:00:29,168
+And in the United States, CDC says, it was first
+
+9
+00:00:29,168 --> 00:00:31,617
+identified in military personnel.
+
+10
+00:00:32,067 --> 00:00:35,199
+This is how the deadliest flu in modern history went
+
+11
+00:00:35,199 --> 00:00:37,728
+to war, and what medicine learned from it.
+
+12
+00:00:38,328 --> 00:00:39,655
+The flu that went to war.
+
+13
+00:00:42,255 --> 00:00:44,691
+It started with an army being built in a hurry.
+
+14
+00:00:45,791 --> 00:00:48,865
+When America entered the First World War, more than
+
+15
+00:00:48,865 --> 00:00:50,914
+4 million recruits were mobilized.
+
+16
+00:00:50,914 --> 00:00:53,807
+About thirty training camps were thrown up fast.
+
+17
+00:00:53,807 --> 00:00:56,700
+Some held up to 50,000 men, in crowded barracks.
+
+18
+00:00:57,150 --> 00:01:00,579
+One of them was Camp Funston, at Fort Riley, Kansas.
+
+19
+00:01:00,579 --> 00:01:03,810
+At its peak, it processed nearly 56,000 troops on
+
+20
+00:01:03,810 --> 00:01:05,129
+their way to France.
+
+21
+00:01:05,579 --> 00:01:10,257
+In early March, 1918, the first influenza cases were
+
+22
+00:01:10,257 --> 00:01:11,786
+identified there.
+
+23
+00:01:11,786 --> 00:01:14,575
+CDC counts more than 100 cases.
+
+24
+00:01:14,575 --> 00:01:19,073
+Within three weeks, a National Guard history says,
+
+25
+00:01:19,073 --> 00:01:23,031
+1,100 of the camp's 56,222 troops were sick.
+
+26
+00:01:23,631 --> 00:01:26,836
+In the weeks that followed, thousands of soldiers
+
+27
+00:01:26,836 --> 00:01:29,452
+there came down with influenza. 38 died.
+
+28
+00:01:29,902 --> 00:01:32,705
+Where the virus came from is still debated.
+
+29
+00:01:32,705 --> 00:01:35,379
+CDC says there is no universal consensus.
+
+30
+00:01:35,379 --> 00:01:38,769
+One theory, from medical historians, points to rural
+
+31
+00:01:38,769 --> 00:01:41,638
+Haskell County, Kansas, where a local doctor
+
+32
+00:01:41,638 --> 00:01:43,985
+reported severe flu early that year.
+
+33
+00:01:43,985 --> 00:01:47,311
+Young men from that county trained at Camp Funston.
+
+34
+00:01:47,761 --> 00:01:51,007
+CDC says the mass movement of troops helped spread
+
+35
+00:01:51,007 --> 00:01:52,630
+the flu around the world.
+
+36
+00:01:52,630 --> 00:01:55,616
+Within weeks, camps in Georgia reported cases.
+
+37
+00:01:55,616 --> 00:01:58,928
+By the end of April, 24 of the Army's 36 main camps
+
+38
+00:01:58,928 --> 00:02:00,421
+had reported outbreaks.
+
+39
+00:02:00,421 --> 00:02:03,797
+And influenza reached Brest, in France, a major port
+
+40
+00:02:03,797 --> 00:02:05,095
+for American troops.
+
+41
+00:02:05,545 --> 00:02:07,490
+And the troops kept moving.
+
+42
+00:02:07,490 --> 00:02:11,163
+In March alone, 84,000 American soldiers sailed for
+
+43
+00:02:11,163 --> 00:02:11,668
+France.
+
+44
+00:02:11,668 --> 00:02:15,341
+On one Atlantic crossing, the 15th Cavalry reported
+
+45
+00:02:15,341 --> 00:02:17,718
+36 influenza cases, and 6 deaths.
+
+46
+00:02:18,168 --> 00:02:19,994
+That first wave was widespread.
+
+47
+00:02:19,994 --> 00:02:21,820
+But the worst was still coming.
+
+48
+00:02:22,520 --> 00:02:24,620
+The world would call it the Spanish flu.
+
+49
+00:02:24,620 --> 00:02:25,828
+The name is a misnomer.
+
+50
+00:02:26,928 --> 00:02:30,181
+Nations fighting the war suppressed press coverage
+
+51
+00:02:30,181 --> 00:02:32,458
+of the outbreak, to protect morale.
+
+52
+00:02:32,458 --> 00:02:33,629
+Spain was neutral.
+
+53
+00:02:33,629 --> 00:02:36,426
+Its newspapers reported the illness freely,
+
+54
+00:02:36,426 --> 00:02:39,614
+including that King Alfonso XIII had fallen sick.
+
+55
+00:02:39,614 --> 00:02:42,802
+So it looked as if the flu had started, or was at
+
+56
+00:02:42,802 --> 00:02:44,103
+its worst, in Spain.
+
+57
+00:02:44,553 --> 00:02:47,638
+Basically, it gets called the Spanish flu because
+
+58
+00:02:47,638 --> 00:02:49,653
+the Spanish media did their job.
+
+59
+00:02:50,453 --> 00:02:53,069
+In the fall of 1918, the flu came back.
+
+60
+00:02:54,169 --> 00:02:57,010
+CDC says this highly fatal second wave was
+
+61
+00:02:57,010 --> 00:03:00,392
+responsible for most of the American deaths in the
+
+62
+00:03:00,392 --> 00:03:01,001
+pandemic.
+
+63
+00:03:01,451 --> 00:03:05,255
+At Camp Devens, Massachusetts, influenza appeared in
+
+64
+00:03:05,255 --> 00:03:05,987
+September.
+
+65
+00:03:05,987 --> 00:03:10,156
+By the end of the month, 14,000 soldiers there were sick.
+
+66
+00:03:10,156 --> 00:03:10,815
+757 died.
+
+67
+00:03:11,265 --> 00:03:15,107
+At Camp Upton, on Long Island, the commander shut
+
+68
+00:03:15,107 --> 00:03:19,577
+the camp to civilian visitors, and ended soldiers' leave.
+
+69
+00:03:19,577 --> 00:03:23,654
+By the time the epidemic there ended, on October 22,
+
+70
+00:03:23,654 --> 00:03:27,653
+6,131 soldiers had been hospitalized. 404 had died.
+
+71
+00:03:28,103 --> 00:03:32,377
+In upstate New York, Camp Syracuse had no hospital,
+
+72
+00:03:32,377 --> 00:03:34,220
+and only 3 ambulances.
+
+73
+00:03:34,220 --> 00:03:36,482
+It counted 2,289 flu cases.
+
+74
+00:03:36,482 --> 00:03:37,990
+208 soldiers died.
+
+75
+00:03:37,990 --> 00:03:42,347
+In the city of Syracuse, about 900 residents died by
+
+76
+00:03:42,347 --> 00:03:44,358
+the end of the epidemic.
+
+77
+00:03:44,808 --> 00:03:47,726
+With so many doctors and nurses serving in the
+
+78
+00:03:47,726 --> 00:03:50,960
+military, CDC says, there were shortages of medical
+
+79
+00:03:50,960 --> 00:03:52,800
+personnel across the country.
+
+80
+00:03:52,800 --> 00:03:55,844
+In Missouri, roughly half of the state's doctors
+
+81
+00:03:55,844 --> 00:03:57,683
+were serving in the military.
+
+82
+00:03:57,683 --> 00:04:00,918
+In October, the Army stopped taking in new draftees
+
+83
+00:04:00,918 --> 00:04:02,504
+until the epidemic ended.
+
+84
+00:04:02,954 --> 00:04:04,656
+But the war still needed men.
+
+85
+00:04:04,656 --> 00:04:07,709
+The Army's Surgeon General recommended halting troop
+
+86
+00:04:07,709 --> 00:04:08,884
+shipments to France.
+
+87
+00:04:08,884 --> 00:04:10,410
+President Wilson declined.
+
+88
+00:04:10,410 --> 00:04:12,700
+General Pershing wanted reinforcements.
+
+89
+00:04:12,700 --> 00:04:13,639
+And they sailed.
+
+90
+00:04:14,089 --> 00:04:17,000
+These Army films, from 1919, show what those
+
+91
+00:04:17,000 --> 00:04:18,521
+troopships looked like.
+
+92
+00:04:18,521 --> 00:04:21,961
+Soldiers packed shoulder to shoulder, for a crossing
+
+93
+00:04:21,961 --> 00:04:23,086
+of 10 to 14 days.
+
+94
+00:04:23,536 --> 00:04:26,622
+Healthy soldiers often fell sick on the way.
+
+95
+00:04:26,622 --> 00:04:30,200
+One sailor counted 15 burials at sea, from a single
+
+96
+00:04:30,200 --> 00:04:31,392
+ship, in one day.
+
+97
+00:04:32,192 --> 00:04:33,727
+In France, the flu met the war.
+
+98
+00:04:34,827 --> 00:04:38,964
+In 1918, the American Expeditionary Forces
+
+99
+00:04:38,964 --> 00:04:43,298
+hospitalized 340,000 soldiers for influenza.
+
+100
+00:04:43,298 --> 00:04:47,633
+227,000 were hospitalized for battle wounds.
+
+101
+00:04:48,083 --> 00:04:51,390
+In October, during the Meuse-Argonne offensive,
+
+102
+00:04:51,390 --> 00:04:53,641
+1,451 Americans died of the flu.
+
+103
+00:04:53,641 --> 00:04:57,230
+The Third Infantry Division evacuated more soldiers
+
+104
+00:04:57,230 --> 00:05:01,029
+from the front with influenza than with combat wounds.
+
+105
+00:05:01,479 --> 00:05:03,169
+The other side noticed.
+
+106
+00:05:03,169 --> 00:05:06,843
+On October 17, the German general Erich Ludendorff
+
+107
+00:05:06,843 --> 00:05:11,105
+said the Americans were suffering severely from influenza.
+
+108
+00:05:11,555 --> 00:05:13,649
+Much of the care fell to nurses.
+
+109
+00:05:13,649 --> 00:05:16,921
+By the Armistice, the Army Nurse Corps had reached
+
+110
+00:05:16,921 --> 00:05:19,408
+an estimated peak of more than 21,000.
+
+111
+00:05:19,858 --> 00:05:23,258
+Historians estimate that more than 200 American
+
+112
+00:05:23,258 --> 00:05:25,211
+nurses died during the war.
+
+113
+00:05:25,211 --> 00:05:28,973
+Most of those deaths are attributed to influenza, or
+
+114
+00:05:28,973 --> 00:05:31,071
+complications like pneumonia.
+
+115
+00:05:31,521 --> 00:05:34,636
+Back home, Red Cross workers made masks for soldiers
+
+116
+00:05:34,636 --> 00:05:35,115
+in camp.
+
+117
+00:05:35,815 --> 00:05:39,033
+And doctors noticed something strange about who was dying.
+
+118
+00:05:40,133 --> 00:05:43,965
+CDC says mortality was high in children under 5, in
+
+119
+00:05:43,965 --> 00:05:47,271
+adults 20 to 40, and in people 65 and older.
+
+120
+00:05:47,271 --> 00:05:51,103
+The high death rate among healthy people aged 20 to
+
+121
+00:05:51,103 --> 00:05:54,184
+40 was a unique feature of this pandemic.
+
+122
+00:05:54,634 --> 00:05:57,921
+And the camps were full of young men, an age group
+
+123
+00:05:57,921 --> 00:06:00,419
+usually less affected by seasonal flu.
+
+124
+00:06:00,869 --> 00:06:04,484
+And in 1918, there was no vaccine against influenza,
+
+125
+00:06:04,484 --> 00:06:08,099
+and no antibiotics to treat the bacterial infections
+
+126
+00:06:08,099 --> 00:06:09,072
+that followed.
+
+127
+00:06:09,522 --> 00:06:13,591
+90 years later, NIH scientists examined lung tissue
+
+128
+00:06:13,591 --> 00:06:17,260
+from 58 soldiers who died of influenza at U.S.
+
+129
+00:06:17,260 --> 00:06:19,813
+military bases in 1918 and 1919.
+
+130
+00:06:19,813 --> 00:06:23,722
+The tissue had been preserved in paraffin blocks.
+
+131
+00:06:23,722 --> 00:06:27,790
+They also reviewed more than 8,000 autopsy reports.
+
+132
+00:06:28,240 --> 00:06:29,427
+Their conclusion.
+
+133
+00:06:29,427 --> 00:06:32,988
+Most victims died of bacterial pneumonia, following
+
+134
+00:06:32,988 --> 00:06:35,433
+infection with the influenza virus.
+
+135
+00:06:35,433 --> 00:06:38,924
+The virus damaged the lungs, and bacteria did much
+
+136
+00:06:38,924 --> 00:06:39,972
+of the killing.
+
+137
+00:06:40,772 --> 00:06:43,634
+The researchers drew a lesson for the future.
+
+138
+00:06:43,634 --> 00:06:46,433
+Pandemic planning, they said, should include
+
+139
+00:06:46,433 --> 00:06:49,551
+stockpiles of antibiotics and bacterial vaccines,
+
+140
+00:06:49,551 --> 00:06:52,286
+alongside flu vaccines and antiviral drugs.
+
+141
+00:06:52,986 --> 00:06:56,220
+At home, cities had to fight it without a vaccine or
+
+142
+00:06:56,220 --> 00:06:56,966
+antibiotics.
+
+143
+00:06:58,066 --> 00:07:01,583
+CDC lists what they had. Isolation. Quarantine.
+
+144
+00:07:01,583 --> 00:07:02,556
+Good hygiene.
+
+145
+00:07:02,556 --> 00:07:03,604
+Disinfectants.
+
+146
+00:07:03,604 --> 00:07:05,999
+And limits on public gatherings.
+
+147
+00:07:05,999 --> 00:07:08,019
+They were applied unevenly.
+
+148
+00:07:08,469 --> 00:07:11,573
+In Seattle, police officers wore masks made by the
+
+149
+00:07:11,573 --> 00:07:13,063
+local Red Cross chapter.
+
+150
+00:07:13,513 --> 00:07:14,641
+Timing mattered.
+
+151
+00:07:14,641 --> 00:07:18,237
+Two NIH-funded studies, published in 2007, compared
+
+152
+00:07:18,237 --> 00:07:19,647
+American cities. St.
+
+153
+00:07:19,647 --> 00:07:23,242
+Louis brought in a broad set of measures within two
+
+154
+00:07:23,242 --> 00:07:25,569
+days of its first reported cases.
+
+155
+00:07:25,569 --> 00:07:29,094
+Philadelphia waited more than two weeks, and let a
+
+156
+00:07:29,094 --> 00:07:31,350
+city-wide parade go ahead first.
+
+157
+00:07:31,800 --> 00:07:33,143
+Peak death rates in St.
+
+158
+00:07:33,143 --> 00:07:35,478
+Louis were one-eighth of Philadelphia's.
+
+159
+00:07:35,478 --> 00:07:38,455
+Across the cities studied, cities that acted within
+
+160
+00:07:38,455 --> 00:07:41,315
+a few days had peak weekly death rates up to half
+
+161
+00:07:41,315 --> 00:07:43,416
+lower than cities that waited weeks.
+
+162
+00:07:43,866 --> 00:07:47,376
+And then came a third wave, in the winter and spring
+
+163
+00:07:47,376 --> 00:07:49,671
+of 1919, adding to the death toll.
+
+164
+00:07:49,671 --> 00:07:53,045
+CDC says the pandemic had subsided by that summer.
+
+165
+00:07:53,495 --> 00:07:58,577
+Across the United States, about 675,000 people died.
+
+166
+00:07:59,477 --> 00:08:03,166
+A review in the journal Missouri Medicine notes that
+
+167
+00:08:03,166 --> 00:08:06,856
+the American toll was greater than the combat deaths
+
+168
+00:08:06,856 --> 00:08:07,636
+of the U.S.
+
+169
+00:08:07,636 --> 00:08:11,751
+military in both World Wars, Korea, and Vietnam, combined.
+
+170
+00:08:12,651 --> 00:08:14,004
+The Army did not forget.
+
+171
+00:08:15,104 --> 00:08:18,267
+In 1941, it set up a board to investigate and
+
+172
+00:08:18,267 --> 00:08:21,501
+control influenza and other epidemic diseases.
+
+173
+00:08:21,501 --> 00:08:24,665
+Its Commission on Influenza was led by Thomas
+
+174
+00:08:24,665 --> 00:08:27,688
+Francis Jr., at the University of Michigan.
+
+175
+00:08:27,688 --> 00:08:30,992
+A young researcher, Jonas Salk, ran much of the
+
+176
+00:08:30,992 --> 00:08:32,117
+day-to-day work.
+
+177
+00:08:32,567 --> 00:08:35,620
+They built an inactivated flu vaccine.
+
+178
+00:08:35,620 --> 00:08:39,397
+It was studied in military recruits and college
+
+179
+00:08:39,397 --> 00:08:43,575
+students, including 12,500 Army trainees, in the flu
+
+180
+00:08:43,575 --> 00:08:45,021
+season of 1943-44.
+
+181
+00:08:45,471 --> 00:08:48,709
+The Army ordered every soldier vaccinated in the
+
+182
+00:08:48,709 --> 00:08:49,586
+fall of 1945.
+
+183
+00:08:49,586 --> 00:08:52,284
+That November, the vaccine was licensed.
+
+184
+00:08:52,734 --> 00:08:55,858
+And the military kept watching the virus.
+
+185
+00:08:55,858 --> 00:08:58,829
+Between 1961 and 1993, the Armed Forces
+
+186
+00:08:58,829 --> 00:09:01,723
+Epidemiological Board made 53 separate
+
+187
+00:09:01,723 --> 00:09:05,685
+recommendations on what should go into flu vaccines.
+
+188
+00:09:06,135 --> 00:09:08,951
+Today, flu shots are an annual requirement for
+
+189
+00:09:08,951 --> 00:09:09,991
+military members.
+
+190
+00:09:10,441 --> 00:09:13,749
+And military labs, like this Air Force epidemiology
+
+191
+00:09:13,749 --> 00:09:16,927
+lab, test samples sent in from military treatment
+
+192
+00:09:16,927 --> 00:09:18,742
+facilities around the world.
+
+193
+00:09:19,192 --> 00:09:21,544
+This fall, flu activity rose early.
+
+194
+00:09:21,544 --> 00:09:24,232
+In late October, CDC said the weekly flu
+
+195
+00:09:24,232 --> 00:09:27,591
+hospitalization rate was the highest for that week
+
+196
+00:09:27,591 --> 00:09:29,271
+since the 2010-11 season.
+
+197
+00:09:29,271 --> 00:09:31,354
+Activity was still low overall.
+
+198
+00:09:31,804 --> 00:09:34,683
+CDC recommends annual flu vaccination.
+
+199
+00:09:34,683 --> 00:09:39,001
+Flu vaccines are available for people 6 months and older.
+
+200
+00:09:39,801 --> 00:09:43,348
+In 1918, flu and pneumonia killed almost as many
+
+201
+00:09:43,348 --> 00:09:45,713
+American soldiers as combat did.
+
+202
+00:09:45,713 --> 00:09:49,259
+There was no vaccine, and no antibiotics for the
+
+203
+00:09:49,259 --> 00:09:51,033
+pneumonia that followed.
+
+204
+00:09:51,033 --> 00:09:54,801
+27 years later, the first of those answers arrived.
+
+205
+00:09:54,801 --> 00:09:58,570
+A licensed flu vaccine, built with the Army's help.
+
+206
+00:09:59,470 --> 00:10:01,077
+Next time on KEPT ALIVE.
+
+207
+00:10:01,077 --> 00:10:02,082
+The tourniquet.
+
+208
+00:10:02,082 --> 00:10:03,823
+From feared, to lifesaver.
+
+209
+00:10:04,623 --> 00:10:05,764
+For education only.
+
+210
+00:10:05,764 --> 00:10:07,385
+This is not medical advice.
+
+211
+00:10:07,385 --> 00:10:10,206
+If you have a health concern, talk to a doctor.

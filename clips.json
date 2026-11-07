@@ -2811,5 +2811,166 @@
    1139.847,
    1148.064
   ]
+ },
+ "wwi_train": {
+  "cuts": [
+   12.4
+  ],
+  "note": "111-H-1179 excerpt, pre-interpolated to 30p"
+ },
+ "wwi_march": {
+  "cuts": [
+   11.367
+  ],
+  "note": "111-H-1179 excerpt, pre-interpolated to 30p"
+ },
+ "wwi_barracks": {
+  "cuts": [
+   5.333,
+   10.9
+  ],
+  "note": "111-H-1179 excerpt, pre-interpolated to 30p"
+ },
+ "wwi_drill": {
+  "cuts": [
+   2.167,
+   9.533
+  ],
+  "note": "111-H-1179 excerpt, pre-interpolated to 30p"
+ },
+ "wwi_rows": {
+  "cuts": [
+   0.567
+  ],
+  "note": "111-H-1179 excerpt, pre-interpolated to 30p"
+ },
+ "rc_canteen": {
+  "cuts": [
+   2.0,
+   2.067
+  ],
+  "note": "111-H-1540 excerpt, pre-interpolated to 30p"
+ },
+ "rc_nurses": {
+  "cuts": [
+   5.067,
+   5.133
+  ],
+  "note": "111-H-1540 excerpt, pre-interpolated to 30p"
+ },
+ "rc_front": {
+  "cuts": [
+   2.233
+  ],
+  "note": "111-H-1540 excerpt, pre-interpolated to 30p"
+ },
+ "ship_deck": {
+  "cuts": [],
+  "note": "111-H-1454 excerpt, pre-interpolated to 30p"
+ },
+ "ship_rail": {
+  "cuts": [
+   11.4
+  ],
+  "note": "111-H-1454 excerpt, pre-interpolated to 30p"
+ },
+ "ship_depart": {
+  "cuts": [
+   7.633,
+   7.667,
+   7.7
+  ],
+  "note": "111-H-1454 excerpt, pre-interpolated to 30p"
+ },
+ "ship_lifeboats": {
+  "cuts": [
+   1.833,
+   21.733,
+   21.9
+  ],
+  "note": "111-H-1454 excerpt, pre-interpolated to 30p"
+ },
+ "1027887": {
+  "cuts": [
+   3.67,
+   7.04,
+   11.144,
+   13.814,
+   17.784,
+   22.256,
+   29.096,
+   33.133,
+   38.472
+  ]
+ },
+ "767473": {
+  "cuts": [
+   15.649,
+   19.219,
+   22.656,
+   26.226,
+   28.195,
+   32.199,
+   34.701,
+   37.938,
+   41.341,
+   48.882,
+   51.952,
+   54.454,
+   58.492,
+   61.395,
+   65.799,
+   70.304,
+   75.976,
+   81.114,
+   87.688,
+   91.892,
+   94.861,
+   97.764,
+   100.2,
+   105.706,
+   110.444,
+   117.084,
+   118.885,
+   122.422,
+   125.459,
+   127.828,
+   130.263,
+   134.635,
+   140.407,
+   144.277,
+   154.521,
+   159.76,
+   163.096,
+   167.1,
+   172.906,
+   177.878,
+   182.416,
+   186.086,
+   189.122,
+   192.059,
+   195.729,
+   199.199,
+   205.972,
+   211.478,
+   214.948,
+   221.488,
+   225.992,
+   231.765,
+   237.27,
+   239.739
+  ]
+ },
+ "funston_kb": {
+  "cuts": []
+ },
+ "seattle_police_kb": {
+  "cuts": []
+ },
+ "masks_boston_kb": {
+  "cuts": []
+ },
+ "seattle_rc_kb": {
+  "cuts": []
  }
 }
