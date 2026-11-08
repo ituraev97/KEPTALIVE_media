@@ -1,0 +1,248 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:04.36,Sub,,0,0,0,,{\fad(80,80)}A tourniquet works by squeezing an arm or a leg so
+Dialogue: 0,0:00:04.38,0:00:07.67,Sub,,0,0,0,,{\fad(80,80)}hard that the main artery inside is pressed shut.
+Dialogue: 0,0:00:07.69,0:00:09.90,Sub,,0,0,0,,{\fad(80,80)}Blood can no longer flow past it.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}REGIONAL COMMAND SOUTHWEST, AFGHANISTAN · 2011 · U.S. MARINE CORPS
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MARINES DEMONSTRATE THE COMBAT APPLICATION TOURNIQUET
+Dialogue: 0,0:00:10.37,0:00:12.85,Sub,,0,0,0,,{\fad(80,80)}It's one of the simplest devices in medicine.
+Dialogue: 0,0:00:12.87,0:00:15.47,Sub,,0,0,0,,{\fad(80,80)}And for most of the twentieth century, military
+Dialogue: 0,0:00:15.49,0:00:17.19,Sub,,0,0,0,,{\fad(80,80)}doctors were taught to fear it.
+Dialogue: 2,0:00:10.62,0:00:16.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1682 0 l 1682 132 l 0 132{\p0}
+Dialogue: 3,0:00:10.62,0:00:16.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:10.62,0:00:16.37,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WAR DEPARTMENT TRAINING FILM NO. 71 · LISTED AS 1925 · NATIONAL ARCHIVES 111-M-489
+Dialogue: 3,0:00:10.62,0:00:16.37,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL ARMY TRAINING FILM · "THE MEDICAL SERVICE WITH INFANTRY IN COMBAT"
+Dialogue: 0,0:00:40.50,0:00:43.77,Sub,,0,0,0,,{\fad(80,80)}This is how a strap and a stick went from feared, to
+Dialogue: 0,0:00:43.79,0:00:45.93,Sub,,0,0,0,,{\fad(80,80)}standard gear for American troops.
+Dialogue: 0,0:00:45.95,0:00:47.01,Sub,,0,0,0,,{\fad(80,80)}And how it works.
+Dialogue: 2,0:00:40.75,0:00:46.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1047 0 l 1047 132 l 0 132{\p0}
+Dialogue: 3,0:00:40.75,0:00:46.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:40.75,0:00:46.50,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT JACKSON, S.C. · 2023 · U.S. ARMY TRAINING SUPPORT CENTER
+Dialogue: 3,0:00:40.75,0:00:46.50,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TOURNIQUET TRAINING · BASIC COMBAT TRAINING
+Dialogue: 0,0:01:26.45,0:01:29.66,Sub,,0,0,0,,{\fad(80,80)}In 1873, the German surgeon Friedrich von Esmarch
+Dialogue: 0,0:01:29.68,0:01:32.96,Sub,,0,0,0,,{\fad(80,80)}reported a rubber bandage wrapped around the limb,
+Dialogue: 0,0:01:32.98,0:01:36.07,Sub,,0,0,0,,{\fad(80,80)}that shut the arteries and controlled bleeding.
+Dialogue: 2,0:01:26.70,0:01:32.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1531 0 l 1531 132 l 0 132{\p0}
+Dialogue: 3,0:01:26.70,0:01:32.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:26.70,0:01:32.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FIGS. 10–11 · NATIONAL LIBRARY OF MEDICINE COPY
+Dialogue: 3,0:01:26.70,0:01:32.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"EARLY AID IN INJURIES AND ACCIDENTS" · FRIEDRICH VON ESMARCH · 1883
+Dialogue: 0,0:01:36.54,0:01:39.27,Sub,,0,0,0,,{\fad(80,80)}His first aid lectures, published in English in
+Dialogue: 0,0:01:39.29,0:01:41.49,Sub,,0,0,0,,{\fad(80,80)}1883, described an improvised version.
+Dialogue: 0,0:01:41.51,0:01:44.48,Sub,,0,0,0,,{\fad(80,80)}A handkerchief tied loosely around the limb, with a
+Dialogue: 0,0:01:44.50,0:01:46.12,Sub,,0,0,0,,{\fad(80,80)}short stick pushed under it.
+Dialogue: 0,0:01:46.14,0:01:49.39,Sub,,0,0,0,,{\fad(80,80)}A walking stick, a door key, even a sword in its sheath.
+Dialogue: 0,0:01:49.41,0:01:51.97,Sub,,0,0,0,,{\fad(80,80)}The stick was then twisted, round and round.
+Dialogue: 2,0:01:36.79,0:01:42.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1531 0 l 1531 132 l 0 132{\p0}
+Dialogue: 3,0:01:36.79,0:01:42.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:36.79,0:01:42.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FIGS. 10–11 · NATIONAL LIBRARY OF MEDICINE COPY
+Dialogue: 3,0:01:36.79,0:01:42.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"EARLY AID IN INJURIES AND ACCIDENTS" · FRIEDRICH VON ESMARCH · 1883
+Dialogue: 0,0:01:52.44,0:01:55.81,Sub,,0,0,0,,{\fad(80,80)}That twisting stick is the same idea inside a modern
+Dialogue: 0,0:01:55.83,0:01:56.53,Sub,,0,0,0,,{\fad(80,80)}tourniquet.
+Dialogue: 0,0:01:56.55,0:01:58.55,Sub,,0,0,0,,{\fad(80,80)}Today it's called the windlass.
+Dialogue: 2,0:01:52.69,0:01:58.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:01:52.69,0:01:58.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:52.69,0:01:58.44,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}REGIONAL COMMAND SOUTHWEST, AFGHANISTAN · 2011 · U.S. MARINE CORPS
+Dialogue: 3,0:01:52.69,0:01:58.44,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MARINES DEMONSTRATE THE COMBAT APPLICATION TOURNIQUET
+Dialogue: 0,0:02:02.42,0:02:04.45,Sub,,0,0,0,,{\fad(80,80)}The complaint was always the same.
+Dialogue: 0,0:02:04.47,0:02:07.89,Sub,,0,0,0,,{\fad(80,80)}Troops used them too often, too loosely, or for too long.
+Dialogue: 0,0:02:07.91,0:02:10.66,Sub,,0,0,0,,{\fad(80,80)}During the American Civil War, the Confederate
+Dialogue: 0,0:02:10.68,0:02:13.74,Sub,,0,0,0,,{\fad(80,80)}surgeon Julian Chisholm noted that troops too often
+Dialogue: 0,0:02:13.76,0:02:15.42,Sub,,0,0,0,,{\fad(80,80)}used tourniquets needlessly.
+Dialogue: 2,0:02:02.67,0:02:08.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1682 0 l 1682 132 l 0 132{\p0}
+Dialogue: 3,0:02:02.67,0:02:08.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:02.67,0:02:08.42,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WAR DEPARTMENT TRAINING FILM NO. 71 · LISTED AS 1925 · NATIONAL ARCHIVES 111-M-489
+Dialogue: 3,0:02:02.67,0:02:08.42,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL ARMY TRAINING FILM · "THE MEDICAL SERVICE WITH INFANTRY IN COMBAT"
+Dialogue: 0,0:02:31.48,0:02:34.21,Sub,,0,0,0,,{\fad(80,80)}Around the Second World War, the British surgeon
+Dialogue: 0,0:02:34.23,0:02:35.81,Sub,,0,0,0,,{\fad(80,80)}Watson-Jones put it bluntly.
+Dialogue: 2,0:02:31.73,0:02:36.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1682 0 l 1682 132 l 0 132{\p0}
+Dialogue: 3,0:02:31.73,0:02:36.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:31.73,0:02:36.23,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WAR DEPARTMENT TRAINING FILM NO. 71 · LISTED AS 1925 · NATIONAL ARCHIVES 111-M-489
+Dialogue: 3,0:02:31.73,0:02:36.23,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL ARMY TRAINING FILM · "THE MEDICAL SERVICE WITH INFANTRY IN COMBAT"
+Dialogue: 0,0:02:40.86,0:02:42.16,Sub,,0,0,0,,{\fad(80,80)}Not everyone agreed.
+Dialogue: 0,0:02:42.18,0:02:45.38,Sub,,0,0,0,,{\fad(80,80)}Late in the same war, two Army doctors, Wolff and
+Dialogue: 0,0:02:45.40,0:02:48.34,Sub,,0,0,0,,{\fad(80,80)}Adkins, reported on about 200 wounded service
+Dialogue: 0,0:02:48.36,0:02:50.18,Sub,,0,0,0,,{\fad(80,80)}members who had tourniquets.
+Dialogue: 0,0:02:50.20,0:02:53.41,Sub,,0,0,0,,{\fad(80,80)}They reported no gangrene, clots, or nerve damage
+Dialogue: 0,0:02:53.43,0:02:55.78,Sub,,0,0,0,,{\fad(80,80)}they could attribute to the devices.
+Dialogue: 0,0:02:55.80,0:02:57.29,Sub,,0,0,0,,{\fad(80,80)}The fear stayed anyway.
+Dialogue: 2,0:02:41.11,0:02:46.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1682 0 l 1682 132 l 0 132{\p0}
+Dialogue: 3,0:02:41.11,0:02:46.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:41.11,0:02:46.86,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WAR DEPARTMENT TRAINING FILM NO. 71 · LISTED AS 1925 · NATIONAL ARCHIVES 111-M-489
+Dialogue: 3,0:02:41.11,0:02:46.86,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL ARMY TRAINING FILM · "THE MEDICAL SERVICE WITH INFANTRY IN COMBAT"
+Dialogue: 0,0:03:42.13,0:03:44.81,Sub,,0,0,0,,{\fad(80,80)}Bleeding from a limb is the kind of bleeding a
+Dialogue: 0,0:03:44.83,0:03:45.99,Sub,,0,0,0,,{\fad(80,80)}tourniquet can stop.
+Dialogue: 2,0:03:42.38,0:03:46.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1682 0 l 1682 132 l 0 132{\p0}
+Dialogue: 3,0:03:42.38,0:03:46.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:42.38,0:03:46.41,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WAR DEPARTMENT TRAINING FILM NO. 71 · LISTED AS 1925 · NATIONAL ARCHIVES 111-M-489
+Dialogue: 3,0:03:42.38,0:03:46.41,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL ARMY TRAINING FILM · "THE MEDICAL SERVICE WITH INFANTRY IN COMBAT"
+Dialogue: 0,0:04:23.21,0:04:24.65,Sub,,0,0,0,,{\fad(80,80)}It split care into phases.
+Dialogue: 0,0:04:24.67,0:04:25.55,Sub,,0,0,0,,{\fad(80,80)}Care under fire.
+Dialogue: 0,0:04:25.57,0:04:26.67,Sub,,0,0,0,,{\fad(80,80)}Tactical field care.
+Dialogue: 0,0:04:26.69,0:04:27.51,Sub,,0,0,0,,{\fad(80,80)}And evacuation.
+Dialogue: 0,0:04:27.53,0:04:30.32,Sub,,0,0,0,,{\fad(80,80)}And it put the tourniquet back at the front of the
+Dialogue: 0,0:04:30.34,0:04:33.02,Sub,,0,0,0,,{\fad(80,80)}line, for life-threatening bleeding from a limb.
+Dialogue: 2,0:04:23.46,0:04:29.21,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 824 0 l 824 132 l 0 132{\p0}
+Dialogue: 3,0:04:23.46,0:04:29.21,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:23.46,0:04:29.21,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}GILA BEND, ARIZ. · 2023 · 944TH FIGHTER WING
+Dialogue: 3,0:04:23.46,0:04:29.21,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TACTICAL COMBAT CASUALTY CARE CLASS
+Dialogue: 0,0:05:04.10,0:05:07.30,Sub,,0,0,0,,{\fad(80,80)}In 2003, the Army Surgeon General recommended a
+Dialogue: 0,0:05:07.32,0:05:10.86,Sub,,0,0,0,,{\fad(80,80)}tourniquet called the Combat Application Tourniquet,
+Dialogue: 0,0:05:10.88,0:05:12.10,Sub,,0,0,0,,{\fad(80,80)}as standard issue.
+Dialogue: 2,0:05:04.35,0:05:10.10,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 824 0 l 824 132 l 0 132{\p0}
+Dialogue: 3,0:05:04.35,0:05:10.10,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:04.35,0:05:10.10,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}GILA BEND, ARIZ. · 2023 · 944TH FIGHTER WING
+Dialogue: 3,0:05:04.35,0:05:10.10,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TACTICAL COMBAT CASUALTY CARE CLASS
+Dialogue: 0,0:05:29.53,0:05:33.57,Sub,,0,0,0,,{\fad(80,80)}In 2005 and 2006, tourniquet use spread rapidly
+Dialogue: 0,0:05:33.59,0:05:36.25,Sub,,0,0,0,,{\fad(80,80)}across the whole U.S. military.
+Dialogue: 2,0:05:29.78,0:05:35.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1047 0 l 1047 132 l 0 132{\p0}
+Dialogue: 3,0:05:29.78,0:05:35.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:29.78,0:05:35.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT JACKSON, S.C. · 2023 · U.S. ARMY TRAINING SUPPORT CENTER
+Dialogue: 3,0:05:29.78,0:05:35.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TOURNIQUET TRAINING · BASIC COMBAT TRAINING
+Dialogue: 0,0:06:11.57,0:06:13.63,Sub,,0,0,0,,{\fad(80,80)}And the old fear did not hold up.
+Dialogue: 0,0:06:13.65,0:06:16.77,Sub,,0,0,0,,{\fad(80,80)}In that study, no amputations resulted solely from
+Dialogue: 0,0:06:16.79,0:06:17.71,Sub,,0,0,0,,{\fad(80,80)}tourniquet use.
+Dialogue: 0,0:06:17.73,0:06:20.29,Sub,,0,0,0,,{\fad(80,80)}4 patients had a temporary nerve problem.
+Dialogue: 2,0:06:11.82,0:06:17.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 918 0 l 918 132 l 0 132{\p0}
+Dialogue: 3,0:06:11.82,0:06:17.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:11.82,0:06:17.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CHIÈVRES AIR BASE, BELGIUM · MARCH 2026 · AFN BENELUX
+Dialogue: 3,0:06:11.82,0:06:17.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TACTICAL COMBAT CASUALTY CARE CLASS
+Dialogue: 0,0:07:15.40,0:07:18.04,Sub,,0,0,0,,{\fad(80,80)}Your heart pushes blood out through the arteries
+Dialogue: 0,0:07:18.06,0:07:18.87,Sub,,0,0,0,,{\fad(80,80)}under pressure.
+Dialogue: 0,0:07:18.89,0:07:21.75,Sub,,0,0,0,,{\fad(80,80)}When a major artery in a limb is torn, that pressure
+Dialogue: 0,0:07:21.77,0:07:23.08,Sub,,0,0,0,,{\fad(80,80)}keeps pushing blood out.
+Dialogue: 2,0:07:15.65,0:07:21.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 918 0 l 918 132 l 0 132{\p0}
+Dialogue: 3,0:07:15.65,0:07:21.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:15.65,0:07:21.40,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CHIÈVRES AIR BASE, BELGIUM · MARCH 2026 · AFN BENELUX
+Dialogue: 3,0:07:15.65,0:07:21.40,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TACTICAL COMBAT CASUALTY CARE CLASS
+Dialogue: 0,0:07:35.30,0:07:38.04,Sub,,0,0,0,,{\fad(80,80)}The Combat Application Tourniquet adds a rod, the
+Dialogue: 0,0:07:38.06,0:07:38.55,Sub,,0,0,0,,{\fad(80,80)}windlass.
+Dialogue: 0,0:07:38.57,0:07:41.31,Sub,,0,0,0,,{\fad(80,80)}Twisting it tightens the strap further, until the
+Dialogue: 0,0:07:41.33,0:07:42.16,Sub,,0,0,0,,{\fad(80,80)}artery is shut.
+Dialogue: 0,0:07:42.18,0:07:45.09,Sub,,0,0,0,,{\fad(80,80)}Then the rod is locked in place, so it can't unwind.
+Dialogue: 2,0:07:35.55,0:07:41.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:07:35.55,0:07:41.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:35.55,0:07:41.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}REGIONAL COMMAND SOUTHWEST, AFGHANISTAN · 2011 · U.S. MARINE CORPS
+Dialogue: 3,0:07:35.55,0:07:41.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MARINES DEMONSTRATE THE COMBAT APPLICATION TOURNIQUET
+Dialogue: 0,0:07:45.56,0:07:48.31,Sub,,0,0,0,,{\fad(80,80)}And there's a strap marked time, to record when the
+Dialogue: 0,0:07:48.33,0:07:49.35,Sub,,0,0,0,,{\fad(80,80)}tourniquet went on.
+Dialogue: 2,0:07:45.81,0:07:49.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:07:45.81,0:07:49.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:45.81,0:07:49.77,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}REGIONAL COMMAND SOUTHWEST, AFGHANISTAN · 2011 · U.S. MARINE CORPS
+Dialogue: 3,0:07:45.81,0:07:49.77,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MARINES DEMONSTRATE THE COMBAT APPLICATION TOURNIQUET
+Dialogue: 0,0:08:00.42,0:08:02.71,Sub,,0,0,0,,{\fad(80,80)}That's why the old complaint had a point.
+Dialogue: 0,0:08:02.73,0:08:05.53,Sub,,0,0,0,,{\fad(80,80)}A tourniquet that's too loose can fail to stop the
+Dialogue: 0,0:08:05.55,0:08:06.04,Sub,,0,0,0,,{\fad(80,80)}bleeding.
+Dialogue: 0,0:08:06.06,0:08:08.69,Sub,,0,0,0,,{\fad(80,80)}The same review says the concept is simple, but
+Dialogue: 0,0:08:08.71,0:08:11.29,Sub,,0,0,0,,{\fad(80,80)}technique matters, and usually needs training.
+Dialogue: 2,0:08:00.67,0:08:06.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1047 0 l 1047 132 l 0 132{\p0}
+Dialogue: 3,0:08:00.67,0:08:06.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:00.67,0:08:06.42,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT JACKSON, S.C. · 2023 · U.S. ARMY TRAINING SUPPORT CENTER
+Dialogue: 3,0:08:00.67,0:08:06.42,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TOURNIQUET TRAINING · BASIC COMBAT TRAINING
+Dialogue: 0,0:08:11.76,0:08:13.70,Sub,,0,0,0,,{\fad(80,80)}So soldiers drill it, over and over.
+Dialogue: 2,0:08:12.01,0:08:14.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1047 0 l 1047 132 l 0 132{\p0}
+Dialogue: 3,0:08:12.01,0:08:14.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:12.01,0:08:14.12,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT JACKSON, S.C. · 2023 · U.S. ARMY TRAINING SUPPORT CENTER
+Dialogue: 3,0:08:12.01,0:08:14.12,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TOURNIQUET TRAINING · BASIC COMBAT TRAINING
+Dialogue: 0,0:08:14.17,0:08:16.20,Sub,,0,0,0,,{\fad(80,80)}Air Force recruits learn it too.
+Dialogue: 0,0:08:16.22,0:08:19.35,Sub,,0,0,0,,{\fad(80,80)}In 2020, Basic Military Training added a Tactical
+Dialogue: 0,0:08:19.37,0:08:22.10,Sub,,0,0,0,,{\fad(80,80)}Combat Casualty Care course for all Airmen.
+Dialogue: 0,0:08:22.12,0:08:25.63,Sub,,0,0,0,,{\fad(80,80)}Tourniquet application is one of the skills it teaches.
+Dialogue: 2,0:08:14.42,0:08:20.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:08:14.42,0:08:20.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:14.42,0:08:20.17,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JOINT BASE SAN ANTONIO-LACKLAND, TEXAS · 2020 · U.S. AIR FORCE
+Dialogue: 3,0:08:14.42,0:08:20.17,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TCCC COURSE · BASIC MILITARY TRAINING
+Dialogue: 0,0:08:29.84,0:08:33.00,Sub,,0,0,0,,{\fad(80,80)}After the Sandy Hook school shooting in 2012, the
+Dialogue: 0,0:08:33.02,0:08:36.77,Sub,,0,0,0,,{\fad(80,80)}surgeon Lenworth Jacobs brought together national experts.
+Dialogue: 0,0:08:36.79,0:08:40.02,Sub,,0,0,0,,{\fad(80,80)}Their recommendations became known as the Hartford
+Dialogue: 0,0:08:40.04,0:08:40.67,Sub,,0,0,0,,{\fad(80,80)}Consensus.
+Dialogue: 0,0:08:40.69,0:08:43.47,Sub,,0,0,0,,{\fad(80,80)}The goal was to improve survival after mass
+Dialogue: 0,0:08:43.49,0:08:46.46,Sub,,0,0,0,,{\fad(80,80)}shootings and other mass violence, by training
+Dialogue: 0,0:08:46.48,0:08:47.63,Sub,,0,0,0,,{\fad(80,80)}bystanders to act.
+Dialogue: 2,0:08:30.09,0:08:35.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 966 0 l 966 132 l 0 132{\p0}
+Dialogue: 3,0:08:30.09,0:08:35.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:30.09,0:08:35.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TYNDALL AIR FORCE BASE, FLA. · 2022 · 325TH FIGHTER WING
+Dialogue: 3,0:08:30.09,0:08:35.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STOP THE BLEED COURSE
+Dialogue: 0,0:09:03.99,0:09:07.37,Sub,,0,0,0,,{\fad(80,80)}In October 2015, the White House launched a campaign
+Dialogue: 0,0:09:07.39,0:09:08.81,Sub,,0,0,0,,{\fad(80,80)}called Stop the Bleed.
+Dialogue: 0,0:09:08.83,0:09:11.75,Sub,,0,0,0,,{\fad(80,80)}It is led by the American College of Surgeons
+Dialogue: 0,0:09:11.77,0:09:15.03,Sub,,0,0,0,,{\fad(80,80)}Committee on Trauma, and it runs under a licensing
+Dialogue: 0,0:09:15.05,0:09:17.71,Sub,,0,0,0,,{\fad(80,80)}agreement with the Department of Defense.
+Dialogue: 2,0:09:04.24,0:09:09.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:09:04.24,0:09:09.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:04.24,0:09:09.99,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LAS VEGAS · 2018 · 99TH MEDICAL GROUP, NELLIS AFB
+Dialogue: 3,0:09:04.24,0:09:09.99,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STOP THE BLEED COURSES FOR THE PUBLIC
+Dialogue: 0,0:09:18.18,0:09:21.18,Sub,,0,0,0,,{\fad(80,80)}The courses teach ordinary people what military
+Dialogue: 0,0:09:21.20,0:09:23.42,Sub,,0,0,0,,{\fad(80,80)}medics learned. Students. Teachers.
+Dialogue: 0,0:09:23.44,0:09:25.03,Sub,,0,0,0,,{\fad(80,80)}Even members of Congress.
+Dialogue: 0,0:09:25.05,0:09:27.85,Sub,,0,0,0,,{\fad(80,80)}By late August 2019, the American College of
+Dialogue: 0,0:09:27.87,0:09:31.58,Sub,,0,0,0,,{\fad(80,80)}Surgeons said more than 1 million people had been trained.
+Dialogue: 2,0:09:18.43,0:09:24.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 966 0 l 966 132 l 0 132{\p0}
+Dialogue: 3,0:09:18.43,0:09:24.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:18.43,0:09:24.18,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TYNDALL AIR FORCE BASE, FLA. · 2022 · 325TH FIGHTER WING
+Dialogue: 3,0:09:18.43,0:09:24.18,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STOP THE BLEED COURSE
+Dialogue: 0,0:09:32.05,0:09:33.88,Sub,,0,0,0,,{\fad(80,80)}This video is not that training.
+Dialogue: 0,0:09:33.90,0:09:36.76,Sub,,0,0,0,,{\fad(80,80)}It explains the history, and how the device works.
+Dialogue: 0,0:09:36.78,0:09:39.71,Sub,,0,0,0,,{\fad(80,80)}Hands-on courses are where people learn to use one.
+Dialogue: 2,0:09:32.30,0:09:38.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 966 0 l 966 132 l 0 132{\p0}
+Dialogue: 3,0:09:32.30,0:09:38.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:32.30,0:09:38.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TYNDALL AIR FORCE BASE, FLA. · 2022 · 325TH FIGHTER WING
+Dialogue: 3,0:09:32.30,0:09:38.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STOP THE BLEED COURSE
+Dialogue: 0,0:09:40.43,0:09:43.54,Sub,,0,0,0,,{\fad(80,80)}For most of a century, the tourniquet was a last
+Dialogue: 0,0:09:43.56,0:09:45.50,Sub,,0,0,0,,{\fad(80,80)}resort, blamed for lost limbs.
+Dialogue: 2,0:09:40.68,0:09:45.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1682 0 l 1682 132 l 0 132{\p0}
+Dialogue: 3,0:09:40.68,0:09:45.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:40.68,0:09:45.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WAR DEPARTMENT TRAINING FILM NO. 71 · LISTED AS 1925 · NATIONAL ARCHIVES 111-M-489
+Dialogue: 3,0:09:40.68,0:09:45.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARCHIVAL ARMY TRAINING FILM · "THE MEDICAL SERVICE WITH INFANTRY IN COMBAT"
+Dialogue: 0,0:09:45.97,0:09:49.65,Sub,,0,0,0,,{\fad(80,80)}Then special operations doctors rewrote the rules,
+Dialogue: 0,0:09:49.67,0:09:53.34,Sub,,0,0,0,,{\fad(80,80)}Army researchers counted the survivors, and troops
+Dialogue: 0,0:09:53.36,0:09:55.64,Sub,,0,0,0,,{\fad(80,80)}heading to war were issued one.
+Dialogue: 0,0:09:55.66,0:09:58.89,Sub,,0,0,0,,{\fad(80,80)}The idea Esmarch drew in 1883, a strap and a
+Dialogue: 0,0:09:58.91,0:10:02.51,Sub,,0,0,0,,{\fad(80,80)}twisting stick, is now in first aid kits far from
+Dialogue: 0,0:10:02.53,0:10:03.70,Sub,,0,0,0,,{\fad(80,80)}any battlefield.
+Dialogue: 5,0:10:13.48,0:10:17.68,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Marine Corps, U.S. Army, U.S. Air Force / AFN via DVIDS (public domain) — all training footage.\NArchival: War Department Training Film No. 71, National Archives 111-M-489 / Internet Archive. Illustration: Esmarch, 1883, National Library of Medicine copy.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH or CDC.\NFor education only. This is not medical advice.
+Dialogue: 4,0:00:00.00,0:00:05.20,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:05.20,0:00:10.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:00:40.50,0:00:47.53,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:01:52.43,0:01:59.27,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:23.20,0:04:28.33,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:28.33,0:04:33.50,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:04.10,0:05:08.33,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:08.33,0:05:12.57,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:29.53,0:05:33.27,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:33.27,0:05:36.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:11.57,0:06:20.77,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:15.40,0:07:23.53,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:35.30,0:07:40.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:40.43,0:07:45.57,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:45.57,0:07:49.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:00.40,0:08:11.77,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:11.77,0:08:12.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:12.97,0:08:14.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:14.17,0:08:20.27,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:20.27,0:08:26.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:29.83,0:08:48.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:04.00,0:09:11.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:11.10,0:09:18.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:18.17,0:09:25.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:25.10,0:09:32.03,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:32.03,0:09:40.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:55.30,0:10:04.60,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

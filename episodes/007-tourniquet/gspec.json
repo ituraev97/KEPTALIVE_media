@@ -1,0 +1,452 @@
+[
+ {
+  "key": "quote_4208f0",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026inclined to think that tourniquets are an invention of the Evil One.",
+   "w": "MAJOR BLACKWOOD \u00b7 ROYAL ARMY MEDICAL CORPS \u00b7 1916 \u00b7 AS QUOTED BY KRAGH ET AL., 2012"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_5a93ce",
+  "name": "phases",
+  "opts": {
+   "kicker": "BAGHDAD \u00b7 2006 \u00b7 U.S. ARMY STUDY",
+   "title": "WHEN A TOURNIQUET WAS NEEDED",
+   "left": {
+    "label": "GOT A TOURNIQUET",
+    "num": "87%",
+    "desc": "SURVIVED"
+   },
+   "right": {
+    "label": "NEEDED ONE \u00b7 DID NOT GET IT (5 CASUALTIES)",
+    "num": "0%",
+    "desc": "SURVIVED"
+   },
+   "active": 0,
+   "footer": "SOURCE: KRAGH ET AL., ANNALS OF SURGERY, 2009"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_8168d5",
+  "name": "title",
+  "opts": {
+   "kicker": "HOW IT WORKS \u00b7 007",
+   "title": "THE <span style=\"color:#2BB3A3\">TOURNIQUET</span>",
+   "sub": "FROM FEARED TO LIFESAVER",
+   "size": 170
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_f553d6",
+  "name": "chapter",
+  "opts": {
+   "case": "1674\u20131883",
+   "n": "I",
+   "t": "TO TURN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_b37219",
+  "name": "doc",
+  "opts": {
+   "header": "ANCIENT ROME",
+   "title": "BRONZE STRAPS",
+   "body": "Romans used narrow bronze straps around the limb. Galen criticized tourniquets as forcing more blood from a wound.",
+   "source": "SOURCE: MAHER, JMVH, 2020",
+   "stamp": "ANTIQUITY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_675c34",
+  "name": "timeline",
+  "opts": {
+   "kicker": "A SHORT HISTORY",
+   "title": "EARLY TOURNIQUETS",
+   "events": [
+    {
+     "y": "1674",
+     "t": "Morel \u00b7 siege of Besan\u00e7on"
+    },
+    {
+     "y": "1718",
+     "t": "Petit \u00b7 a screw device"
+    },
+    {
+     "y": "1873",
+     "t": "Esmarch \u00b7 a rubber bandage"
+    }
+   ],
+   "footer": "SOURCE: KRAGH ET AL., AMERICAN JOURNAL OF SURGERY, 2012"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_d92da0",
+  "name": "doc",
+  "opts": {
+   "header": "PARIS \u00b7 1718",
+   "title": "TOURNER: TO TURN",
+   "body": "Jean-Louis Petit describes a screw device that tightens a strap around the limb, and coins the word tourniquet.",
+   "source": "SOURCES: KRAGH ET AL., 2012 \u00b7 MAHER, JMVH, 2020",
+   "stamp": "1718"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_1f248e",
+  "name": "chapter",
+  "opts": {
+   "case": "1861\u20131980s",
+   "n": "II",
+   "t": "FEARED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_a73b7a",
+  "name": "callcard",
+  "opts": {
+   "kicker": "AMERICAN CIVIL WAR",
+   "title": "A CIVIL WAR DEBATE",
+   "rows": [
+    [
+     "1861",
+     "CHISHOLM: TROOPS USE THEM NEEDLESSLY"
+    ],
+    [
+     "1862",
+     "GROSS: ISSUE A TOURNIQUET-LIKE DEVICE TO SOLDIERS"
+    ],
+    [
+     "THE PROBLEM",
+     "TRAINING GAPS \u00b7 SLOW TRANSPORT"
+    ]
+   ],
+   "footer": "SOURCES: KRAGH ET AL., 2012 \u00b7 MAHER, JMVH, 2020"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_941228",
+  "name": "quote",
+  "opts": {
+   "q": "More limbs have been lost by the use of tourniquets than have been saved.",
+   "w": "WATSON-JONES \u00b7 AS QUOTED BY KRAGH ET AL., 2012"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_fb53d3",
+  "name": "doc",
+  "opts": {
+   "header": "EMERGENCY WAR SURGERY \u00b7 U.S. MILITARY TEXTBOOK",
+   "title": "A LAST RESORT",
+   "body": "\"Tourniquets are rarely needed for the control of haemorrhage and should be used only when all other methods fail.\"",
+   "source": "SOURCE: MAHER, JMVH, 2020",
+   "stamp": "LAST RESORT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_bd3566",
+  "name": "stat",
+  "opts": {
+   "a": "~2,600",
+   "b": "LIVES THAT MIGHT HAVE BEEN SAVED WITH BETTER PREHOSPITAL CARE \u00b7 VIETNAM",
+   "c": "ABOUT 7.4% OF THOSE KILLED IN ACTION \u00b7 ESTIMATE \u00b7 MAUGHON, 1970 \u00b7 VIA KRAGH ET AL., 2012 \u00b7 ESTIMATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_930a0a",
+  "name": "stat",
+  "opts": {
+   "a": "3 OF 143",
+   "b": "DIED \u00b7 EACH DEATH INVOLVED BLEEDING FROM A LIMB",
+   "c": "U.S. ARMY HOSPITALS \u00b7 OPERATION DESERT STORM, 1991 \u00b7 SOURCE: MAHER, JMVH, 2020"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_c67698",
+  "name": "chapter",
+  "opts": {
+   "case": "1993\u20132005",
+   "n": "III",
+   "t": "THE REVERSAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_66a6ed",
+  "name": "callcard",
+  "opts": {
+   "kicker": "SPECIAL OPERATIONS \u00b7 1993\u20131996",
+   "title": "TACTICAL COMBAT CASUALTY CARE",
+   "rows": [
+    [
+     "THE AUTHOR",
+     "FRANK BUTLER \u00b7 FORMER NAVY SEAL, EYE SURGEON"
+    ],
+    [
+     "1993",
+     "THE WORK BEGINS"
+    ],
+    [
+     "1996",
+     "PUBLISHED IN MILITARY MEDICINE"
+    ]
+   ],
+   "footer": "SOURCES: BUTLER, JSOM, 2015 \u00b7 MAHER, JMVH, 2020"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_911d44",
+  "name": "stat",
+  "opts": {
+   "a": "12 OF 82",
+   "b": "SPECIAL OPERATIONS DEATHS, 2001\u20132004, JUDGED POTENTIALLY SURVIVABLE",
+   "c": "SOME INVOLVED LIMB BLEEDING A TOURNIQUET COULD HAVE CONTROLLED \u00b7 SOURCE: HOLCOMB ET AL., ANNALS OF SURGERY, 2007"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d45806",
+  "name": "stat",
+  "opts": {
+   "a": "67",
+   "b": "TOURNIQUET USES IN SPECIAL OPERATIONS UNITS \u00b7 NO LIMBS LOST TO TOURNIQUET ISCHEMIA",
+   "c": "TCCC TRANSITION INITIATIVE \u00b7 SOURCE: BUTLER, JOURNAL OF SPECIAL OPERATIONS MEDICINE, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_164e42",
+  "name": "doc",
+  "opts": {
+   "header": "ARMY NEWS \u00b7 JULY 2005",
+   "title": "ISSUED TO ALL SOLDIERS",
+   "body": "The SOF Tactical Tourniquet \"is being issued to all Soldiers serving in Iraq and Afghanistan.\" Designed for one-handed application, so a soldier can apply it to himself if need be.",
+   "source": "SOURCE: DVIDS, JULY 2005",
+   "stamp": "2005"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_8d64d6",
+  "name": "chapter",
+  "opts": {
+   "case": "BAGHDAD \u00b7 2006",
+   "n": "IV",
+   "t": "THE PROOF"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_34f213",
+  "name": "callcard",
+  "opts": {
+   "kicker": "COMBAT SUPPORT HOSPITAL \u00b7 BAGHDAD \u00b7 2006",
+   "title": "THE KRAGH STUDY",
+   "rows": [
+    [
+     "7 MONTHS",
+     "PROSPECTIVE SURVEY \u00b7 2006"
+    ],
+    [
+     "2,838",
+     "CASUALTIES WITH MAJOR LIMB TRAUMA"
+    ],
+    [
+     "232",
+     "RECEIVED TOURNIQUETS \u00b7 428 APPLIED TO 309 LIMBS"
+    ]
+   ],
+   "footer": "SOURCE: KRAGH ET AL., ANNALS OF SURGERY, 2009"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_1e879d",
+  "name": "phases",
+  "opts": {
+   "kicker": "KRAGH ET AL. \u00b7 2009",
+   "title": "WHERE THE TOURNIQUET WENT ON",
+   "left": {
+    "label": "BEFORE THE HOSPITAL",
+    "num": "11%",
+    "desc": "DIED \u00b7 22 OF 194"
+   },
+   "right": {
+    "label": "IN THE EMERGENCY DEPARTMENT",
+    "num": "24%",
+    "desc": "DIED \u00b7 9 OF 38"
+   },
+   "active": 0,
+   "footer": "SOURCE: KRAGH ET AL., ANNALS OF SURGERY, 2009"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_b0b371",
+  "name": "cards3",
+  "opts": {
+   "kicker": "DEATH ON THE BATTLEFIELD \u00b7 2001\u20132011",
+   "title": "WHERE AND WHY",
+   "cards": [
+    {
+     "h": "4,596",
+     "t": "deaths reviewed",
+     "s": "U.S. BATTLEFIELD FATALITIES"
+    },
+    {
+     "h": "87.3%",
+     "t": "before a medical facility",
+     "s": "PREHOSPITAL"
+    },
+    {
+     "h": "90.9%",
+     "t": "linked to bleeding",
+     "s": "OF POTENTIALLY SURVIVABLE PREHOSPITAL DEATHS"
+    }
+   ],
+   "footer": "SOURCE: EASTRIDGE ET AL., J TRAUMA ACUTE CARE SURG, 2012"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_7ff4cc",
+  "name": "phases",
+  "opts": {
+   "kicker": "POTENTIALLY PREVENTABLE DEATHS FROM LIMB BLEEDING",
+   "title": "AN EARLIER STUDY VS. A LATER REVIEW",
+   "left": {
+    "label": "EARLIER STUDY (KELLY ET AL., 2008)",
+    "num": "7.8%",
+    "desc": "OF COMBAT DEATHS REVIEWED"
+   },
+   "right": {
+    "label": "EASTRIDGE ET AL., 2012",
+    "num": "2.6%",
+    "desc": "OF COMBAT DEATHS REVIEWED \u00b7 \u221267%"
+   },
+   "active": 1,
+   "footer": "SOURCE: BUTLER, JOURNAL OF SPECIAL OPERATIONS MEDICINE, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_c25f62",
+  "name": "stat",
+  "opts": {
+   "a": "1,000\u20132,000",
+   "b": "LIVES SAVED BY TOURNIQUETS IN IRAQ AND AFGHANISTAN \u00b7 ESTIMATED",
+   "c": "BASED ON THE WORK OF COL. JOHN KRAGH ET AL. \u00b7 SOURCE: BUTLER, JSOM, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_3d7d0d",
+  "name": "chapter",
+  "opts": {
+   "case": "THE DEVICE",
+   "n": "V",
+   "t": "HOW IT WORKS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_4edd5e",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE PARTS",
+   "title": "STOPPING THE FLOW",
+   "items": [
+    [
+     "STRAP",
+     "Goes around the limb, above the wound"
+    ],
+    [
+     "WINDLASS",
+     "A rod that twists to tighten it"
+    ],
+    [
+     "OCCLUSION",
+     "The artery is pressed shut"
+    ]
+   ],
+   "footer": "SOURCES: KRAGH ET AL., 2012 \u00b7 WALL ET AL., JSOM, 2019"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_fd457e",
+  "name": "stat",
+  "opts": {
+   "a": "250\u2013428",
+   "b": "MMHG \u00b7 PRESSURE CITED FOR ARTERIAL OCCLUSION ON NORMOTENSIVE ADULT THIGHS",
+   "c": "COMBAT APPLICATION TOURNIQUET \u00b7 SOURCE: WALL ET AL., JOURNAL OF SPECIAL OPERATIONS MEDICINE, 2019"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_9f3c39",
+  "name": "chapter",
+  "opts": {
+   "case": "2012\u20132019",
+   "n": "VI",
+   "t": "COMING HOME"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_68bd19",
+  "name": "callcard",
+  "opts": {
+   "kicker": "BOSTON MARATHON \u00b7 2013",
+   "title": "THE MARATHON BOMBING",
+   "rows": [
+    [
+     "27",
+     "TOURNIQUETS USED"
+    ],
+    [
+     "ALL",
+     "MAKESHIFT \u00b7 NONE COMMERCIALLY MADE"
+    ],
+    [
+     "THE VERDICT",
+     "\"IMPROVISED AND RARELY EFFECTIVE\""
+    ]
+   ],
+   "footer": "SOURCES: KING ET AL., J TRAUMA ACUTE CARE SURG, 2015 \u00b7 STAT VIA PBS NEWSHOUR, 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_dfa423",
+  "name": "stat",
+  "opts": {
+   "a": "NEXT",
+   "b": "PENICILLIN: THE MOLD THAT WENT TO WAR",
+   "c": "KEPT ALIVE \u00b7 FIRST \u00b7 008"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_45836f",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 HOW IT WORKS 007",
+   "stamp": "TOURNIQUET"
+  },
+  "intro": 2.4
+ }
+]

@@ -1,0 +1,875 @@
+1
+00:00:01,000 --> 00:00:04,378
+A tourniquet works by squeezing an arm or a leg so
+
+2
+00:00:04,378 --> 00:00:07,688
+hard that the main artery inside is pressed shut.
+
+3
+00:00:07,688 --> 00:00:09,917
+Blood can no longer flow past it.
+
+4
+00:00:10,367 --> 00:00:12,871
+It's one of the simplest devices in medicine.
+
+5
+00:00:12,871 --> 00:00:15,487
+And for most of the twentieth century, military
+
+6
+00:00:15,487 --> 00:00:17,212
+doctors were taught to fear it.
+
+7
+00:00:17,662 --> 00:00:21,050
+In 1916, a British army surgeon wrote that he was
+
+8
+00:00:21,050 --> 00:00:24,507
+inclined to think tourniquets were an invention of
+
+9
+00:00:24,507 --> 00:00:25,406
+the Evil One.
+
+10
+00:00:26,006 --> 00:00:29,069
+90 years later, in a Baghdad hospital, Army
+
+11
+00:00:29,069 --> 00:00:31,206
+researchers counted who lived.
+
+12
+00:00:31,206 --> 00:00:34,625
+Among casualties who needed a tourniquet, 87% of
+
+13
+00:00:34,625 --> 00:00:36,548
+those who got one survived.
+
+14
+00:00:36,548 --> 00:00:39,895
+Of the five who did not get one, none survived.
+
+15
+00:00:40,495 --> 00:00:43,794
+This is how a strap and a stick went from feared, to
+
+16
+00:00:43,794 --> 00:00:45,951
+standard gear for American troops.
+
+17
+00:00:45,951 --> 00:00:47,029
+And how it works.
+
+18
+00:00:47,529 --> 00:00:48,678
+The tourniquet.
+
+19
+00:00:48,678 --> 00:00:50,669
+From feared, to lifesaver.
+
+20
+00:00:53,269 --> 00:00:54,268
+The idea is old.
+
+21
+00:00:54,268 --> 00:00:56,390
+The name comes from a French verb.
+
+22
+00:00:57,490 --> 00:00:59,978
+Roman surgeons used narrow bronze straps.
+
+23
+00:00:59,978 --> 00:01:01,798
+And the arguments began early.
+
+24
+00:01:01,798 --> 00:01:04,771
+The Greek physician Galen criticized tourniquets,
+
+25
+00:01:04,771 --> 00:01:07,501
+saying they forced more blood from the wound.
+
+26
+00:01:07,951 --> 00:01:11,778
+In 1674, a French army surgeon named Morel described
+
+27
+00:01:11,778 --> 00:01:14,943
+a tourniquet used at the siege of Besançon.
+
+28
+00:01:15,393 --> 00:01:18,774
+In 1718, the Paris surgeon Jean-Louis Petit built a
+
+29
+00:01:18,774 --> 00:01:21,824
+screw device to tighten a strap around a limb.
+
+30
+00:01:21,824 --> 00:01:25,470
+He coined the word tourniquet, from the French tourner.
+
+31
+00:01:25,470 --> 00:01:26,000
+To turn.
+
+32
+00:01:26,450 --> 00:01:29,684
+In 1873, the German surgeon Friedrich von Esmarch
+
+33
+00:01:29,684 --> 00:01:32,983
+reported a rubber bandage wrapped around the limb,
+
+34
+00:01:32,983 --> 00:01:36,085
+that shut the arteries and controlled bleeding.
+
+35
+00:01:36,535 --> 00:01:39,286
+His first aid lectures, published in English in
+
+36
+00:01:39,286 --> 00:01:41,511
+1883, described an improvised version.
+
+37
+00:01:41,511 --> 00:01:44,496
+A handkerchief tied loosely around the limb, with a
+
+38
+00:01:44,496 --> 00:01:46,136
+short stick pushed under it.
+
+39
+00:01:46,136 --> 00:01:49,414
+A walking stick, a door key, even a sword in its sheath.
+
+40
+00:01:49,414 --> 00:01:51,990
+The stick was then twisted, round and round.
+
+41
+00:01:52,440 --> 00:01:55,833
+That twisting stick is the same idea inside a modern
+
+42
+00:01:55,833 --> 00:01:56,551
+tourniquet.
+
+43
+00:01:56,551 --> 00:01:58,574
+Today it's called the windlass.
+
+44
+00:01:59,274 --> 00:02:01,324
+So why did doctors turn against it?
+
+45
+00:02:02,424 --> 00:02:04,473
+The complaint was always the same.
+
+46
+00:02:04,473 --> 00:02:07,909
+Troops used them too often, too loosely, or for too long.
+
+47
+00:02:07,909 --> 00:02:10,682
+During the American Civil War, the Confederate
+
+48
+00:02:10,682 --> 00:02:13,756
+surgeon Julian Chisholm noted that troops too often
+
+49
+00:02:13,756 --> 00:02:15,444
+used tourniquets needlessly.
+
+50
+00:02:15,894 --> 00:02:19,310
+In 1862, according to one review, the Union surgeon
+
+51
+00:02:19,310 --> 00:02:22,727
+Samuel Gross made the first recorded recommendation
+
+52
+00:02:22,727 --> 00:02:25,809
+to issue a tourniquet-like device to soldiers.
+
+53
+00:02:25,809 --> 00:02:29,159
+Critics pushed back, often over poor training, and
+
+54
+00:02:29,159 --> 00:02:31,035
+slow transport to a surgeon.
+
+55
+00:02:31,485 --> 00:02:34,232
+Around the Second World War, the British surgeon
+
+56
+00:02:34,232 --> 00:02:35,834
+Watson-Jones put it bluntly.
+
+57
+00:02:36,284 --> 00:02:39,100
+More limbs have been lost by the use of tourniquets
+
+58
+00:02:39,100 --> 00:02:40,259
+than have been saved.
+
+59
+00:02:40,859 --> 00:02:42,175
+Not everyone agreed.
+
+60
+00:02:42,175 --> 00:02:45,400
+Late in the same war, two Army doctors, Wolff and
+
+61
+00:02:45,400 --> 00:02:48,361
+Adkins, reported on about 200 wounded service
+
+62
+00:02:48,361 --> 00:02:50,204
+members who had tourniquets.
+
+63
+00:02:50,204 --> 00:02:53,428
+They reported no gangrene, clots, or nerve damage
+
+64
+00:02:53,428 --> 00:02:55,797
+they could attribute to the devices.
+
+65
+00:02:55,797 --> 00:02:57,311
+The fear stayed anyway.
+
+66
+00:02:57,761 --> 00:03:00,456
+And the American army absorbed that fear.
+
+67
+00:03:00,456 --> 00:03:03,677
+In the 1970s and early eighties, Army medics were
+
+68
+00:03:03,677 --> 00:03:06,898
+taught that in almost all cases, amputation would
+
+69
+00:03:06,898 --> 00:03:08,344
+follow tourniquet use.
+
+70
+00:03:08,344 --> 00:03:11,433
+A standard military surgery text, Emergency War
+
+71
+00:03:11,433 --> 00:03:14,654
+Surgery, said tourniquets were rarely needed, and
+
+72
+00:03:14,654 --> 00:03:17,809
+should be used only when all other methods fail.
+
+73
+00:03:18,259 --> 00:03:20,788
+But Vietnam told a different story.
+
+74
+00:03:20,788 --> 00:03:24,329
+Bleeding from wounds to the arms and legs was the
+
+75
+00:03:24,329 --> 00:03:27,942
+leading cause of potentially preventable deaths on
+
+76
+00:03:27,942 --> 00:03:29,098
+the battlefield.
+
+77
+00:03:29,098 --> 00:03:32,421
+One surgeon's study of those killed in action,
+
+78
+00:03:32,421 --> 00:03:36,034
+published in 1970, estimated that roughly 2,600 of
+
+79
+00:03:36,034 --> 00:03:39,719
+them, about 7.4%, might have been saved with better
+
+80
+00:03:39,719 --> 00:03:41,526
+care before the hospital.
+
+81
+00:03:42,126 --> 00:03:44,832
+Bleeding from a limb is the kind of bleeding a
+
+82
+00:03:44,832 --> 00:03:46,008
+tourniquet can stop.
+
+83
+00:03:46,708 --> 00:03:49,390
+And the lesson came back in 1991.
+
+84
+00:03:49,390 --> 00:03:54,103
+In Operation Desert Storm, of 143 soldiers treated in U.S.
+
+85
+00:03:54,103 --> 00:03:57,434
+Army hospitals in one report, three died.
+
+86
+00:03:57,434 --> 00:04:01,579
+Each of those deaths involved bleeding from a limb.
+
+87
+00:04:02,179 --> 00:04:04,313
+The turn came from special operations.
+
+88
+00:04:05,413 --> 00:04:08,361
+Frank Butler was a former Navy SEAL platoon
+
+89
+00:04:08,361 --> 00:04:10,897
+commander, who became an eye surgeon.
+
+90
+00:04:10,897 --> 00:04:14,256
+Starting in 1993, he and his colleagues rethought
+
+91
+00:04:14,256 --> 00:04:16,792
+care on the battlefield from scratch.
+
+92
+00:04:16,792 --> 00:04:20,083
+In 1996, they published Tactical Combat Casualty
+
+93
+00:04:20,083 --> 00:04:22,756
+Care, in the journal Military Medicine.
+
+94
+00:04:23,206 --> 00:04:24,667
+It split care into phases.
+
+95
+00:04:24,667 --> 00:04:25,565
+Care under fire.
+
+96
+00:04:25,565 --> 00:04:26,689
+Tactical field care.
+
+97
+00:04:26,689 --> 00:04:27,531
+And evacuation.
+
+98
+00:04:27,531 --> 00:04:30,340
+And it put the tourniquet back at the front of the
+
+99
+00:04:30,340 --> 00:04:33,036
+line, for life-threatening bleeding from a limb.
+
+100
+00:04:33,486 --> 00:04:36,539
+Then came the wars in Afghanistan and Iraq.
+
+101
+00:04:36,539 --> 00:04:40,089
+A study of 82 special operations deaths, from late
+
+102
+00:04:40,089 --> 00:04:43,496
+2001 through 2004, judged 12 of them potentially
+
+103
+00:04:43,496 --> 00:04:44,277
+survivable.
+
+104
+00:04:44,277 --> 00:04:47,827
+Some of those involved bleeding from a limb that a
+
+105
+00:04:47,827 --> 00:04:50,169
+tourniquet could have controlled.
+
+106
+00:04:50,619 --> 00:04:54,099
+Special operations units that adopted the new rules
+
+107
+00:04:54,099 --> 00:04:55,395
+early kept records.
+
+108
+00:04:55,395 --> 00:04:58,807
+One program documented 67 uses of tourniquets, and
+
+109
+00:04:58,807 --> 00:05:02,355
+not a single limb lost to the tourniquet cutting off
+
+110
+00:05:02,355 --> 00:05:03,651
+blood for too long.
+
+111
+00:05:04,101 --> 00:05:07,320
+In 2003, the Army Surgeon General recommended a
+
+112
+00:05:07,320 --> 00:05:10,882
+tourniquet called the Combat Application Tourniquet,
+
+113
+00:05:10,882 --> 00:05:12,115
+as standard issue.
+
+114
+00:05:12,565 --> 00:05:15,979
+In July 2005, an Army news story said another new
+
+115
+00:05:15,979 --> 00:05:19,463
+tourniquet, the SOF Tactical Tourniquet, was being
+
+116
+00:05:19,463 --> 00:05:23,295
+issued to all soldiers serving in Iraq and Afghanistan.
+
+117
+00:05:23,295 --> 00:05:26,639
+It was designed for one-handed use, so a soldier
+
+118
+00:05:26,639 --> 00:05:29,077
+could put it on himself if need be.
+
+119
+00:05:29,527 --> 00:05:33,592
+In 2005 and 2006, tourniquet use spread rapidly
+
+120
+00:05:33,592 --> 00:05:36,273
+across the whole U.S. military.
+
+121
+00:05:36,973 --> 00:05:38,062
+But did it work?
+
+122
+00:05:38,062 --> 00:05:40,377
+Army researchers decided to count.
+
+123
+00:05:41,477 --> 00:05:45,496
+Army Colonel John Kragh and his colleagues ran a
+
+124
+00:05:45,496 --> 00:05:49,849
+study at a combat support hospital in Baghdad, for 7
+
+125
+00:05:49,849 --> 00:05:51,105
+months in 2006.
+
+126
+00:05:51,105 --> 00:05:55,626
+It included 2,838 casualties with major limb injuries.
+
+127
+00:05:55,626 --> 00:05:58,556
+232 of them had tourniquets put on.
+
+128
+00:05:59,006 --> 00:06:01,048
+Timing was linked to survival.
+
+129
+00:06:01,048 --> 00:06:04,519
+Among patients whose tourniquet went on before they
+
+130
+00:06:04,519 --> 00:06:07,445
+reached the emergency department, 11% died.
+
+131
+00:06:07,445 --> 00:06:11,120
+When it went on in the emergency department, 24% died.
+
+132
+00:06:11,570 --> 00:06:13,645
+And the old fear did not hold up.
+
+133
+00:06:13,645 --> 00:06:16,790
+In that study, no amputations resulted solely from
+
+134
+00:06:16,790 --> 00:06:17,733
+tourniquet use.
+
+135
+00:06:17,733 --> 00:06:20,312
+4 patients had a temporary nerve problem.
+
+136
+00:06:20,762 --> 00:06:24,106
+Later, a review of 4,596 American battlefield
+
+137
+00:06:24,106 --> 00:06:27,822
+deaths, from 2001 to 2011, found that 87% happened
+
+138
+00:06:27,822 --> 00:06:31,314
+before the casualty reached a medical facility.
+
+139
+00:06:31,314 --> 00:06:34,956
+Of the deaths before a medical facility that were
+
+140
+00:06:34,956 --> 00:06:38,523
+judged potentially survivable, about nine in ten
+
+141
+00:06:38,523 --> 00:06:40,752
+were associated with bleeding.
+
+142
+00:06:40,752 --> 00:06:44,320
+Most of that bleeding was in the torso, or where
+
+143
+00:06:44,320 --> 00:06:47,961
+limbs meet the body, beyond a tourniquet's reach.
+
+144
+00:06:48,411 --> 00:06:52,193
+And potentially preventable deaths from limb
+
+145
+00:06:52,193 --> 00:06:56,576
+bleeding fell, from 7.8% of the combat deaths in an
+
+146
+00:06:56,576 --> 00:07:00,272
+earlier study, to 2.6% in the later review.
+
+147
+00:07:00,272 --> 00:07:01,475
+A drop of 67%.
+
+148
+00:07:01,925 --> 00:07:05,614
+Based on Kragh's work, the number of lives saved by
+
+149
+00:07:05,614 --> 00:07:09,013
+tourniquets in those wars has been estimated at
+
+150
+00:07:09,013 --> 00:07:10,749
+between 1,000 and 2,000.
+
+151
+00:07:11,649 --> 00:07:14,305
+So what exactly is happening, inside that strap?
+
+152
+00:07:15,405 --> 00:07:18,061
+Your heart pushes blood out through the arteries
+
+153
+00:07:18,061 --> 00:07:18,891
+under pressure.
+
+154
+00:07:18,891 --> 00:07:21,769
+When a major artery in a limb is torn, that pressure
+
+155
+00:07:21,769 --> 00:07:23,097
+keeps pushing blood out.
+
+156
+00:07:23,547 --> 00:07:26,592
+A tourniquet goes around the limb, above the injury.
+
+157
+00:07:26,592 --> 00:07:29,402
+Tightened enough, it squeezes the limb until the
+
+158
+00:07:29,402 --> 00:07:32,681
+artery inside is pressed flat, and flow beyond it stops.
+
+159
+00:07:32,681 --> 00:07:34,848
+Doctors call this arterial occlusion.
+
+160
+00:07:35,298 --> 00:07:38,061
+The Combat Application Tourniquet adds a rod, the
+
+161
+00:07:38,061 --> 00:07:38,568
+windlass.
+
+162
+00:07:38,568 --> 00:07:41,331
+Twisting it tightens the strap further, until the
+
+163
+00:07:41,331 --> 00:07:42,176
+artery is shut.
+
+164
+00:07:42,176 --> 00:07:45,108
+Then the rod is locked in place, so it can't unwind.
+
+165
+00:07:45,558 --> 00:07:48,332
+And there's a strap marked time, to record when the
+
+166
+00:07:48,332 --> 00:07:49,366
+tourniquet went on.
+
+167
+00:07:49,816 --> 00:07:51,440
+It takes real force.
+
+168
+00:07:51,440 --> 00:07:55,662
+One review cites pressures of 250 to 428 millimeters
+
+169
+00:07:55,662 --> 00:07:59,966
+of mercury, to shut off the artery in an adult thigh.
+
+170
+00:08:00,416 --> 00:08:02,729
+That's why the old complaint had a point.
+
+171
+00:08:02,729 --> 00:08:05,551
+A tourniquet that's too loose can fail to stop the
+
+172
+00:08:05,551 --> 00:08:06,059
+bleeding.
+
+173
+00:08:06,059 --> 00:08:08,711
+The same review says the concept is simple, but
+
+174
+00:08:08,711 --> 00:08:11,306
+technique matters, and usually needs training.
+
+175
+00:08:11,756 --> 00:08:13,718
+So soldiers drill it, over and over.
+
+176
+00:08:14,168 --> 00:08:16,222
+Air Force recruits learn it too.
+
+177
+00:08:16,222 --> 00:08:19,365
+In 2020, Basic Military Training added a Tactical
+
+178
+00:08:19,365 --> 00:08:22,124
+Combat Casualty Care course for all Airmen.
+
+179
+00:08:22,124 --> 00:08:25,653
+Tourniquet application is one of the skills it teaches.
+
+180
+00:08:26,353 --> 00:08:28,739
+Then the lessons of the battlefield came home.
+
+181
+00:08:29,839 --> 00:08:33,024
+After the Sandy Hook school shooting in 2012, the
+
+182
+00:08:33,024 --> 00:08:36,794
+surgeon Lenworth Jacobs brought together national experts.
+
+183
+00:08:36,794 --> 00:08:40,044
+Their recommendations became known as the Hartford
+
+184
+00:08:40,044 --> 00:08:40,694
+Consensus.
+
+185
+00:08:40,694 --> 00:08:43,489
+The goal was to improve survival after mass
+
+186
+00:08:43,489 --> 00:08:46,479
+shootings and other mass violence, by training
+
+187
+00:08:46,479 --> 00:08:47,649
+bystanders to act.
+
+188
+00:08:48,099 --> 00:08:51,227
+Then, in 2013, came the Boston Marathon bombing.
+
+189
+00:08:51,227 --> 00:08:53,703
+Tourniquets were used in the response.
+
+190
+00:08:53,703 --> 00:08:57,091
+But a later study found that all 27 tourniquets used
+
+191
+00:08:57,091 --> 00:08:59,632
+were makeshift, not commercial devices.
+
+192
+00:08:59,632 --> 00:09:02,889
+Its lead author called them improvised, and rarely
+
+193
+00:09:02,889 --> 00:09:03,541
+effective.
+
+194
+00:09:03,991 --> 00:09:07,392
+In October 2015, the White House launched a campaign
+
+195
+00:09:07,392 --> 00:09:08,831
+called Stop the Bleed.
+
+196
+00:09:08,831 --> 00:09:11,775
+It is led by the American College of Surgeons
+
+197
+00:09:11,775 --> 00:09:15,046
+Committee on Trauma, and it runs under a licensing
+
+198
+00:09:15,046 --> 00:09:17,727
+agreement with the Department of Defense.
+
+199
+00:09:18,177 --> 00:09:21,195
+The courses teach ordinary people what military
+
+200
+00:09:21,195 --> 00:09:23,443
+medics learned. Students. Teachers.
+
+201
+00:09:23,443 --> 00:09:25,048
+Even members of Congress.
+
+202
+00:09:25,048 --> 00:09:27,874
+By late August 2019, the American College of
+
+203
+00:09:27,874 --> 00:09:31,598
+Surgeons said more than 1 million people had been trained.
+
+204
+00:09:32,048 --> 00:09:33,895
+This video is not that training.
+
+205
+00:09:33,895 --> 00:09:36,781
+It explains the history, and how the device works.
+
+206
+00:09:36,781 --> 00:09:39,725
+Hands-on courses are where people learn to use one.
+
+207
+00:09:40,425 --> 00:09:43,560
+For most of a century, the tourniquet was a last
+
+208
+00:09:43,560 --> 00:09:45,519
+resort, blamed for lost limbs.
+
+209
+00:09:45,969 --> 00:09:49,666
+Then special operations doctors rewrote the rules,
+
+210
+00:09:49,666 --> 00:09:53,364
+Army researchers counted the survivors, and troops
+
+211
+00:09:53,364 --> 00:09:55,656
+heading to war were issued one.
+
+212
+00:09:55,656 --> 00:09:58,909
+The idea Esmarch drew in 1883, a strap and a
+
+213
+00:09:58,909 --> 00:10:02,532
+twisting stick, is now in first aid kits far from
+
+214
+00:10:02,532 --> 00:10:03,716
+any battlefield.
+
+215
+00:10:04,616 --> 00:10:06,986
+Next time on KEPT ALIVE. Penicillin.
+
+216
+00:10:06,986 --> 00:10:08,698
+The mold that went to war.
+
+217
+00:10:09,498 --> 00:10:10,639
+For education only.
+
+218
+00:10:10,639 --> 00:10:12,260
+This is not medical advice.
+
+219
+00:10:12,260 --> 00:10:15,081
+If you have a health concern, talk to a doctor.

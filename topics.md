@@ -7,7 +7,7 @@ Rotate formats; check every fact before writing. Mark `[x] YYYY-MM-DD` when publ
 - [x] 2026-11-05 004 FIRST — The Iron Lung and the End of Polio (archive.org films, DVIDS ventilator/ICU, CDC/WHO/Harvard sources)
 - [x] 2026-11-06 005 HOW IT WORKS — Whole Blood and the Walking Blood Bank (DVIDS blood training)
 - [x] 2026-11-07 006 OUTBREAK — 1918: The Flu That Went to War (published as "How the Deadliest Flu in Modern History Hit the U.S. Army") (archive.org, NLM, CDC 1918 pages)
-- [ ] 007 HOW IT WORKS — The Tourniquet: From Feared to Lifesaver (DVIDS Stop the Bleed / TCCC training)
+- [x] 2026-11-08 007 HOW IT WORKS — The Tourniquet: From Feared to Lifesaver (published as "How a Tourniquet Works — and Why the Army Once Feared It") (DVIDS TCCC/Stop the Bleed training, NARA 111-M-489, Esmarch 1883)
 - [ ] 008 FIRST — Penicillin: The Mold That Went to War (archive.org WWII films, NLM)
 - [ ] 009 THE SAVE — Fighting Ebola in Liberia, 2014 (DVIDS Operation United Assistance)
 - [ ] 010 FIRST — Ether Day: The First Public Surgery Without Pain (NLM, archive.org)
