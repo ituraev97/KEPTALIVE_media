@@ -15,7 +15,7 @@ out[0] = (0, "Cold open: 87% vs 0%")
 chapters = "\n".join(f"{mmss(t)} {n}" for t, n in out)
 desc = f"""How does a tourniquet work, and why did military doctors fear it for most of the 20th century? A tourniquet squeezes an arm or leg until the artery inside is pressed shut. This medical history documentary follows the tourniquet from the siege of Besançon and Esmarch's 1883 first aid book to the U.S. Army.
 
-In 1916 a British army surgeon called it "an invention of the Evil One," and for decades Army medics were taught it was a last resort. Then Tactical Combat Casualty Care (TCCC), the Combat Application Tourniquet and a 2006 Army study in Baghdad changed military medicine, and the Stop the Bleed campaign brought bleeding control to the public. This video explains history and how the device works; it is not training.
+In 1916 a British army surgeon wrote that he was "inclined to think" tourniquets were "an invention of the Evil One," and for decades Army medics were taught it was a last resort. Then Tactical Combat Casualty Care (TCCC), the Combat Application Tourniquet and a 2006 Army study in Baghdad changed military medicine, and the Stop the Bleed campaign brought bleeding control to the public. This video explains history and how the device works; it is not training.
 
 Chapters:
 {chapters}
