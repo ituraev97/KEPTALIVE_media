@@ -1,0 +1,686 @@
+[
+ {
+  "key": "stat_2e9ca7",
+  "name": "stat",
+  "opts": {
+   "a": "AWAKE",
+   "b": "SURGERY BEFORE ANESTHESIA",
+   "c": "PATIENTS WERE CONSCIOUS \u00b7 SOURCE: SCIENCE MUSEUM, LONDON"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_302a0e",
+  "name": "quote",
+  "opts": {
+   "q": "Gentlemen, this is no humbug.",
+   "w": "JOHN COLLINS WARREN \u00b7 OCTOBER 16, 1846 \u00b7 AS REPORTED \u2014 FIRST PRINTED IN 1859"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_122a42",
+  "name": "title",
+  "opts": {
+   "kicker": "FIRST \u00b7 008",
+   "title": "ETHER <span style=\"color:#2BB3A3\">DAY</span>",
+   "sub": "THE DAY SURGERY STOPPED HURTING",
+   "size": 210
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_c5b1b7",
+  "name": "chapter",
+  "opts": {
+   "case": "BEFORE 1846",
+   "n": "I",
+   "t": "AWAKE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_c223fe",
+  "name": "cards3",
+  "opts": {
+   "kicker": "SURGERY BEFORE 1846",
+   "title": "THREE DANGERS",
+   "cards": [
+    {
+     "h": "PAIN",
+     "t": "The patient was awake"
+    },
+    {
+     "h": "BLOOD LOSS",
+     "t": "Could be fatal",
+     "size": 96
+    },
+    {
+     "h": "INFECTION",
+     "t": "No antiseptics yet",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCES: SCIENCE MUSEUM, LONDON \u00b7 S. J. SNOW, OUPBLOG, 2009"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_ee75e2",
+  "name": "list",
+  "opts": {
+   "kicker": "BEFORE ANESTHESIA",
+   "title": "WHAT DOCTORS HAD",
+   "items": [
+    "Alcohol",
+    "Opium",
+    "Plants such as henbane",
+    "Rum, for sailors facing an amputation"
+   ],
+   "footer": "SOURCES: SCIENCE MUSEUM, LONDON \u00b7 BRITANNICA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_b970b6",
+  "name": "stat",
+  "opts": {
+   "a": "SPEED",
+   "b": "THE SURGEON'S BEST DEFENSE AGAINST PAIN",
+   "c": "SOURCE: SCIENCE MUSEUM, LONDON"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_da9fe2",
+  "name": "doc",
+  "opts": {
+   "header": "LONDON \u00b7 1830s\u20131840s",
+   "title": "ROBERT LISTON",
+   "body": "Famous for \"the speed and decisiveness with which he could amputate a limb before the discovery of anaesthetics.\"",
+   "source": "SOURCE: UCL BLOOMSBURY PROJECT",
+   "stamp": "FASTEST KNIFE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_94d971",
+  "name": "phases",
+  "opts": {
+   "kicker": "ROBERT LISTON \u00b7 1835\u20131840",
+   "title": "HIS AMPUTATION RECORD",
+   "left": {
+    "label": "AMPUTATIONS",
+    "num": "66",
+    "desc": "PERFORMED"
+   },
+   "right": {
+    "label": "PATIENTS WHO DIED",
+    "num": "10",
+    "desc": "ABOUT 15%"
+   },
+   "active": 1,
+   "footer": "SOURCE: HEKTOEN INTERNATIONAL, 2019"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1b5173",
+  "name": "stat",
+  "opts": {
+   "a": "MYTH",
+   "b": "THE \"300% MORTALITY\" OPERATION",
+   "c": "CALLED APOCRYPHAL \u00b7 SOURCE: AMERICAN COLLEGE OF SURGEONS POSTER, 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_20bf20",
+  "name": "doc",
+  "opts": {
+   "header": "PARIS \u00b7 SEPTEMBER 30, 1811",
+   "title": "A PATIENT'S LETTER",
+   "body": "An operation without anesthesia. Only a wine cordial was given beforehand. She wrote about it months later, in a letter to her sister.",
+   "source": "SOURCES: BC MEDICAL JOURNAL, 2013 \u00b7 OUPBLOG, 2009"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_8ea01d",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026my room, without previous message, was entered by 7 Men in black\u2026 the glitter of polished Steel.",
+   "w": "LETTER, 1812 \u00b7 VIA NYU MEDICAL HUMANITIES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_1abfa1",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026a terror that surpasses all description\u2026 I dare not revise, nor read, the recollection is still so painful.",
+   "w": "LETTER, 1812 \u00b7 QUOTED IN S. J. SNOW, OUPBLOG, 2009"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_bdb014",
+  "name": "chapter",
+  "opts": {
+   "case": "1800\u20131845",
+   "n": "II",
+   "t": "LAUGHING GAS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_f0d8e6",
+  "name": "quote",
+  "opts": {
+   "q": "As nitrous oxide in its extensive operation appears capable of destroying physical pain\u2026",
+   "w": "HUMPHRY DAVY \u00b7 1800 \u00b7 VIA THE WOOD LIBRARY-MUSEUM OF ANESTHESIOLOGY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_1db18d",
+  "name": "doc",
+  "opts": {
+   "header": "1800s \u00b7 PUBLIC ENTERTAINMENT",
+   "title": "LAUGHING GAS",
+   "body": "Nitrous oxide was passed around in bladders and inhaled at shows and parties.",
+   "source": "SOURCES: BRITANNICA \u00b7 WOOD LIBRARY-MUSEUM",
+   "stamp": "SHOWTIME"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_9b553b",
+  "name": "stat",
+  "opts": {
+   "a": "46",
+   "b": "YEARS FROM DAVY'S SUGGESTION TO ETHER DAY",
+   "c": "1800 \u2192 1846 \u00b7 SOURCES: WOOD LIBRARY-MUSEUM \u00b7 BRITANNICA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_8802fd",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE RACE TO ANESTHESIA",
+   "title": "EARLY ATTEMPTS",
+   "events": [
+    {
+     "y": "1800",
+     "t": "Davy: nitrous oxide may stop pain"
+    },
+    {
+     "y": "1842",
+     "t": "Long: ether in Georgia"
+    },
+    {
+     "y": "1844",
+     "t": "Wells: laughing gas, Hartford"
+    },
+    {
+     "y": "1846",
+     "t": "Morton: ether in Boston"
+    }
+   ],
+   "footer": "SOURCES: WOOD LIBRARY-MUSEUM \u00b7 BRITANNICA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1f320d",
+  "name": "stat",
+  "opts": {
+   "a": "MARCH 30",
+   "b": "NATIONAL DOCTORS' DAY",
+   "c": "HONORS CRAWFORD LONG'S 1842 ETHER ANESTHETIC \u00b7 SOURCE: WOOD LIBRARY-MUSEUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_2bec26",
+  "name": "doc",
+  "opts": {
+   "header": "HARTFORD \u00b7 DECEMBER 1844",
+   "title": "A PAINLESS EXTRACTION",
+   "body": "Wells inhaled nitrous oxide while a dental colleague extracted one of his own teeth.",
+   "source": "SOURCE: WOOD LIBRARY-MUSEUM OF ANESTHESIOLOGY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_51f27b",
+  "name": "stat",
+  "opts": {
+   "a": "HUMBUG",
+   "b": "WELLS' BOSTON DEMONSTRATION \u00b7 JANUARY 1845",
+   "c": "JUDGED A FAILURE \u00b7 SOURCES: WOOD LIBRARY-MUSEUM \u00b7 BRITANNICA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_ffa706",
+  "name": "timeline",
+  "opts": {
+   "kicker": "CLOSE, BUT NOT YET",
+   "title": "BEFORE ETHER DAY",
+   "events": [
+    {
+     "y": "1800",
+     "t": "Davy suggests nitrous oxide"
+    },
+    {
+     "y": "1842",
+     "t": "Long uses ether, doesn't publish"
+    },
+    {
+     "y": "1844",
+     "t": "Wells: laughing gas"
+    },
+    {
+     "y": "1846",
+     "t": "?"
+    }
+   ],
+   "footer": "SOURCES: WOOD LIBRARY-MUSEUM \u00b7 BRITANNICA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_888b73",
+  "name": "chapter",
+  "opts": {
+   "case": "OCTOBER 16, 1846",
+   "n": "III",
+   "t": "NO HUMBUG"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_3d975d",
+  "name": "callcard",
+  "opts": {
+   "kicker": "MASSACHUSETTS GENERAL HOSPITAL \u00b7 BOSTON",
+   "title": "OCTOBER 16, 1846",
+   "rows": [
+    [
+     "10:00 A.M.",
+     "Operation in the surgical amphitheater"
+    ],
+    [
+     "SURGEON",
+     "John Collins Warren"
+    ],
+    [
+     "ETHER GIVEN BY",
+     "William T. G. Morton, dentist"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL PARK SERVICE, NATIONAL HISTORIC LANDMARK NOMINATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_51828c",
+  "name": "steps",
+  "opts": {
+   "kicker": "OCTOBER 16, 1846",
+   "title": "WHAT HAPPENED",
+   "items": [
+    [
+     "BREATHE",
+     "Ether vapor"
+    ],
+    [
+     "SLEEP",
+     "About five minutes"
+    ],
+    [
+     "OPERATE",
+     "Growth removed from the neck"
+    ],
+    [
+     "WAKE",
+     "\"Scraped\" \u2014 but no pain"
+    ]
+   ],
+   "footer": "SOURCES: NATIONAL PARK SERVICE \u00b7 PAUL S. RUSSELL, MD MUSEUM, MGH"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_aa0df6",
+  "name": "stat",
+  "opts": {
+   "a": "&#8203;1965",
+   "b": "THE ETHER DOME \u00b7 NATIONAL HISTORIC LANDMARK",
+   "c": "STILL USED FOR MEETINGS AND LECTURES \u00b7 SOURCES: MGH \u00b7 PAUL S. RUSSELL, MD MUSEUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_7a72c7",
+  "name": "chapter",
+  "opts": {
+   "case": "1846\u20131868",
+   "n": "IV",
+   "t": "THE FIGHT FOR CREDIT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_a76db0",
+  "name": "timeline",
+  "opts": {
+   "kicker": "AFTER ETHER DAY",
+   "title": "1846",
+   "events": [
+    {
+     "y": "OCT 16",
+     "t": "Ether Day, Boston"
+    },
+    {
+     "y": "NOV 12",
+     "t": "Patent issued: \"Letheon\""
+    },
+    {
+     "y": "NOV 18",
+     "t": "Bigelow publishes"
+    },
+    {
+     "y": "DEC 21",
+     "t": "Liston, London"
+    }
+   ],
+   "footer": "SOURCES: HEKTOEN INTERNATIONAL \u00b7 SMITHSONIAN \u00b7 UCLH"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_09bd3a",
+  "name": "stat",
+  "opts": {
+   "a": "ANAESTHESIA",
+   "b": "A NEW WORD \u00b7 OLIVER WENDELL HOLMES \u00b7 NOVEMBER 1846",
+   "c": "SOURCES: WOOD LIBRARY-MUSEUM \u00b7 HEKTOEN INTERNATIONAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_ab07ba",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. PATENT NO. 4,848 \u00b7 NOVEMBER 12, 1846",
+   "title": "\"LETHEON\"",
+   "body": "Morton disguised ether under a new name. The patent was later revoked; he never received royalties.",
+   "source": "SOURCES: SMITHSONIAN \u00b7 SCIENCE MUSEUM GROUP",
+   "stamp": "REVOKED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_43b721",
+  "name": "doc",
+  "opts": {
+   "header": "LONDON \u00b7 DECEMBER 21, 1846",
+   "title": "ETHER REACHES EUROPE",
+   "body": "The first recorded major operation under ether in Europe, at University College Hospital.",
+   "source": "SOURCE: UNIVERSITY COLLEGE LONDON HOSPITALS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_6a7556",
+  "name": "quote",
+  "opts": {
+   "q": "This Yankee dodge beats mesmerism hollow.",
+   "w": "ROBERT LISTON \u00b7 LONDON \u00b7 DECEMBER 21, 1846 \u00b7 AS REPORTED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_7091f0",
+  "name": "stat",
+  "opts": {
+   "a": "&#8203;1847",
+   "b": "CHLOROFORM \u00b7 JAMES YOUNG SIMPSON",
+   "c": "SOURCES: WOOD LIBRARY-MUSEUM \u00b7 BRITANNICA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_fc842e",
+  "name": "cards3",
+  "opts": {
+   "kicker": "WHO DISCOVERED ANESTHESIA?",
+   "title": "THE CLAIMANTS",
+   "cards": [
+    {
+     "h": "LONG",
+     "t": "Ether \u00b7 1842 \u00b7 published 1849"
+    },
+    {
+     "h": "WELLS",
+     "t": "Nitrous oxide \u00b7 1844"
+    },
+    {
+     "h": "MORTON",
+     "t": "Ether \u00b7 public demonstration, 1846"
+    }
+   ],
+   "footer": "DISPUTE \"NEVER CLEARLY RESOLVED\" \u00b7 SOURCE: SMITHSONIAN NMAH ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_d42c66",
+  "name": "chapter",
+  "opts": {
+   "case": "1847\u2013TODAY",
+   "n": "V",
+   "t": "TO THE BATTLEFIELD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_4d38de",
+  "name": "doc",
+  "opts": {
+   "header": "VERACRUZ, MEXICO \u00b7 MARCH 1847",
+   "title": "ETHER GOES TO WAR",
+   "body": "Dr. Edward Barton administers ether for an amputation during the Mexican-American War.",
+   "source": "SOURCE: GACETA M\u00c9DICA DE M\u00c9XICO, 1997"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_3c2420",
+  "name": "stat",
+  "opts": {
+   "a": "MYTH",
+   "b": "\"BITE THE BULLET\"",
+   "c": "SOURCE: AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_b978d2",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION ARMY \u00b7 1861\u20131865",
+   "title": "SURGERY IN THE CIVIL WAR",
+   "left": {
+    "label": "WITH ANESTHESIA",
+    "num": "80,000+",
+    "desc": "OPERATIONS"
+   },
+   "right": {
+    "label": "RECORDED WITHOUT",
+    "num": "254",
+    "desc": "OPERATIONS"
+   },
+   "active": 0,
+   "footer": "SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_e53eaa",
+  "name": "callcard",
+  "opts": {
+   "kicker": "NATIONAL MUSEUM OF CIVIL WAR MEDICINE",
+   "title": "ANESTHESIA, 1861\u20131865",
+   "rows": [
+    [
+     "CHLOROFORM",
+     "Used most often in the field"
+    ],
+    [
+     "ETHER",
+     "About 14% of cases"
+    ],
+    [
+     "W. T. G. MORTON",
+     "Gave anesthesia in Union field hospitals"
+    ]
+   ],
+   "footer": "SOURCE: CIVILWARMED.ORG"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_e3df22",
+  "name": "doc",
+  "opts": {
+   "header": "FRANCE \u00b7 WORLD WAR I",
+   "title": "SOPHIE WINTON",
+   "body": "Nurse anesthetist assigned to Mobile Hospital No. 1, in the Ch\u00e2teau-Thierry area.",
+   "source": "SOURCES: AANA ARCHIVES \u00b7 J CLIN ANESTH, 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_eb8d46",
+  "name": "phases",
+  "opts": {
+   "kicker": "U.S. ARMY \u00b7 WORLD WAR II",
+   "title": "NURSE ANESTHETISTS",
+   "left": {
+    "label": "NEEDED (ESTIMATED)",
+    "num": "2,495",
+    "desc": "FOR ARMY UNITS"
+   },
+   "right": {
+    "label": "ON DUTY",
+    "num": "273",
+    "desc": "REPORTED"
+   },
+   "active": 1,
+   "footer": "SOURCE: ARMY MEDICAL DEPARTMENT, OFFICE OF MEDICAL HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_bdccbd",
+  "name": "doc",
+  "opts": {
+   "header": "HAWAII \u00b7 DECEMBER 7, 1941",
+   "title": "MILDRED CLARK",
+   "body": "Nurse anesthetist at Schofield Barracks during Pearl Harbor; later the first nurse anesthetist appointed Chief of the Army Nurse Corps.",
+   "source": "SOURCE: AANA ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_89bbad",
+  "name": "stat",
+  "opts": {
+   "a": "ROLE 3",
+   "b": "NATO MULTINATIONAL MEDICAL UNIT \u00b7 KANDAHAR",
+   "c": "2015 \u00b7 PHYSICIAN ANESTHESIOLOGISTS \u00b7 SOURCE: DVIDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_5dc9fc",
+  "name": "chapter",
+  "opts": {
+   "case": "TODAY",
+   "n": "VI",
+   "t": "UNDER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_0fd3dd",
+  "name": "steps",
+  "opts": {
+   "kicker": "MEDLINEPLUS \u00b7 NATIONAL LIBRARY OF MEDICINE",
+   "title": "TYPES OF ANESTHESIA",
+   "items": [
+    [
+     "LOCAL",
+     "A small area, like a tooth"
+    ],
+    [
+     "REGIONAL",
+     "A larger area, like an arm or leg"
+    ],
+    [
+     "GENERAL",
+     "The whole body"
+    ],
+    [
+     "SEDATION",
+     "Relaxed or sleepy"
+    ]
+   ],
+   "footer": "SOURCE: MEDLINEPLUS.GOV/ANESTHESIA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_2c86ca",
+  "name": "stat",
+  "opts": {
+   "a": "SAFER",
+   "b": "THAN EVER BEFORE",
+   "c": "SOURCE: AMERICAN SOCIETY OF ANESTHESIOLOGISTS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_bce473",
+  "name": "stat",
+  "opts": {
+   "a": "180",
+   "b": "YEARS SINCE ETHER DAY \u00b7 OCTOBER 16, 1846",
+   "c": "WORLD ANAESTHESIA DAY \u00b7 SOURCE: WORLD FEDERATION OF SOCIETIES OF ANAESTHESIOLOGISTS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_e38377",
+  "name": "stat",
+  "opts": {
+   "a": "NEXT",
+   "b": "PENICILLIN: THE MOLD THAT WENT TO WAR",
+   "c": "KEPT ALIVE \u00b7 FIRST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_e8283b",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 FIRST 008",
+   "stamp": "ETHER DAY"
+  },
+  "intro": 2.4
+ }
+]

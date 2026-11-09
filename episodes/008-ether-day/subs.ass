@@ -1,0 +1,184 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.67,0:00:12.04,Sub,,0,0,0,,{\fad(80,80)}Then, on a Friday morning in October, 1846, in a
+Dialogue: 0,0:00:12.06,0:00:15.71,Sub,,0,0,0,,{\fad(80,80)}Boston hospital, a dentist named William Morton gave
+Dialogue: 0,0:00:15.73,0:00:18.04,Sub,,0,0,0,,{\fad(80,80)}a patient ether vapor to breathe.
+Dialogue: 2,0:00:08.92,0:00:14.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:00:08.92,0:00:14.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:08.92,0:00:14.67,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · "THE SEMI-CENTENNIAL OF ANAESTHESIA" · 1897
+Dialogue: 3,0:00:08.92,0:00:14.67,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MASSACHUSETTS GENERAL HOSPITAL, BOSTON · 1846–47
+Dialogue: 0,0:00:18.51,0:00:21.09,Sub,,0,0,0,,{\fad(80,80)}After about 5 minutes, the patient was asleep.
+Dialogue: 0,0:00:21.11,0:00:23.53,Sub,,0,0,0,,{\fad(80,80)}The surgeon removed a growth from his neck.
+Dialogue: 0,0:00:23.55,0:00:26.36,Sub,,0,0,0,,{\fad(80,80)}Afterward, the patient said it felt as if his neck
+Dialogue: 0,0:00:26.38,0:00:27.32,Sub,,0,0,0,,{\fad(80,80)}had been scraped.
+Dialogue: 0,0:00:27.34,0:00:28.39,Sub,,0,0,0,,{\fad(80,80)}But it hadn't hurt.
+Dialogue: 2,0:00:18.76,0:00:24.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:00:18.76,0:00:24.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:18.76,0:00:24.51,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ILLUSTRATION BY A. J. KELLER · PUBLISHED 1897 · MGH
+Dialogue: 3,0:00:18.76,0:00:24.51,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"THE FIRST PUBLIC DEMONSTRATION OF SURGICAL ANAESTHESIA"
+Dialogue: 0,0:00:28.86,0:00:31.56,Sub,,0,0,0,,{\fad(80,80)}The surgeon turned to the doctors watching, and,
+Dialogue: 0,0:00:31.58,0:00:34.49,Sub,,0,0,0,,{\fad(80,80)}according to an account published years later, said:
+Dialogue: 2,0:00:29.11,0:00:34.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:00:29.11,0:00:34.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:29.11,0:00:34.86,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORTRAIT · "THE SEMI-CENTENNIAL OF ANAESTHESIA" · 1897
+Dialogue: 3,0:00:29.11,0:00:34.86,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN COLLINS WARREN · SURGEON
+Dialogue: 0,0:00:37.32,0:00:40.23,Sub,,0,0,0,,{\fad(80,80)}This is the story of how surgery stopped hurting.
+Dialogue: 0,0:00:40.25,0:00:41.43,Sub,,0,0,0,,{\fad(80,80)}Why it took so long.
+Dialogue: 0,0:00:41.45,0:00:43.05,Sub,,0,0,0,,{\fad(80,80)}Who fought over the credit.
+Dialogue: 0,0:00:43.07,0:00:45.14,Sub,,0,0,0,,{\fad(80,80)}And how it reached the battlefield.
+Dialogue: 2,0:00:37.57,0:00:43.32,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:00:37.57,0:00:43.32,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:37.57,0:00:43.32,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ILLUSTRATION BY A. J. KELLER · PUBLISHED 1897 · MGH
+Dialogue: 3,0:00:37.57,0:00:43.32,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"THE FIRST PUBLIC DEMONSTRATION OF SURGICAL ANAESTHESIA"
+Dialogue: 0,0:03:24.82,0:03:27.71,Sub,,0,0,0,,{\fad(80,80)}In December 1844, a dentist in Hartford,
+Dialogue: 0,0:03:27.73,0:03:31.35,Sub,,0,0,0,,{\fad(80,80)}Connecticut, named Horace Wells went to a laughing
+Dialogue: 0,0:03:31.37,0:03:32.01,Sub,,0,0,0,,{\fad(80,80)}gas show.
+Dialogue: 2,0:03:25.07,0:03:30.82,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 805 0 l 805 132 l 0 132{\p0}
+Dialogue: 3,0:03:25.07,0:03:30.82,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:25.07,0:03:30.82,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TITLE PAGE · NATIONAL LIBRARY OF MEDICINE COPY
+Dialogue: 3,0:03:25.07,0:03:30.82,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HORACE WELLS · HARTFORD · 1847
+Dialogue: 0,0:03:51.76,0:03:54.94,Sub,,0,0,0,,{\fad(80,80)}One man who knew Wells well was his former partner.
+Dialogue: 0,0:03:54.96,0:03:56.88,Sub,,0,0,0,,{\fad(80,80)}A dentist named William Morton.
+Dialogue: 2,0:03:52.01,0:03:57.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:03:52.01,0:03:57.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:52.01,0:03:57.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · "THE SEMI-CENTENNIAL OF ANAESTHESIA" · 1897
+Dialogue: 3,0:03:52.01,0:03:57.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MASSACHUSETTS GENERAL HOSPITAL, BOSTON · 1846–47
+Dialogue: 0,0:04:28.49,0:04:31.51,Sub,,0,0,0,,{\fad(80,80)}Morton went to the patient, took his hand, and told
+Dialogue: 0,0:04:31.53,0:04:33.05,Sub,,0,0,0,,{\fad(80,80)}him he would feel no pain.
+Dialogue: 2,0:04:28.74,0:04:33.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:04:28.74,0:04:33.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:28.74,0:04:33.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ILLUSTRATION BY A. J. KELLER · PUBLISHED 1897 · MGH
+Dialogue: 3,0:04:28.74,0:04:33.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"THE FIRST PUBLIC DEMONSTRATION OF SURGICAL ANAESTHESIA"
+Dialogue: 0,0:04:39.53,0:04:42.26,Sub,,0,0,0,,{\fad(80,80)}When it was over, the patient said he had felt his
+Dialogue: 0,0:04:42.28,0:04:43.30,Sub,,0,0,0,,{\fad(80,80)}neck being scraped.
+Dialogue: 0,0:04:43.32,0:04:44.34,Sub,,0,0,0,,{\fad(80,80)}But it hadn't hurt.
+Dialogue: 2,0:04:39.78,0:04:44.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:04:39.78,0:04:44.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:39.78,0:04:44.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ILLUSTRATION BY A. J. KELLER · PUBLISHED 1897 · MGH
+Dialogue: 3,0:04:39.78,0:04:44.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"THE FIRST PUBLIC DEMONSTRATION OF SURGICAL ANAESTHESIA"
+Dialogue: 0,0:04:44.81,0:04:47.35,Sub,,0,0,0,,{\fad(80,80)}Warren, the story goes, turned to the room.
+Dialogue: 0,0:04:47.37,0:04:49.07,Sub,,0,0,0,,{\fad(80,80)}Gentlemen, this is no humbug.
+Dialogue: 0,0:04:49.09,0:04:51.33,Sub,,0,0,0,,{\fad(80,80)}Some historians doubt he ever said it.
+Dialogue: 0,0:04:51.35,0:04:53.65,Sub,,0,0,0,,{\fad(80,80)}But the room had seen what it had seen.
+Dialogue: 2,0:04:45.06,0:04:50.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:04:45.06,0:04:50.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:45.06,0:04:50.81,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORTRAIT · "THE SEMI-CENTENNIAL OF ANAESTHESIA" · 1897
+Dialogue: 3,0:04:45.06,0:04:50.81,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN COLLINS WARREN · SURGEON
+Dialogue: 0,0:04:54.47,0:04:56.09,Sub,,0,0,0,,{\fad(80,80)}The room still exists.
+Dialogue: 0,0:04:56.11,0:04:59.74,Sub,,0,0,0,,{\fad(80,80)}It was the hospital's operating amphitheater from
+Dialogue: 0,0:04:59.76,0:05:00.71,Sub,,0,0,0,,{\fad(80,80)}1821 to 1867.
+Dialogue: 0,0:05:00.73,0:05:03.17,Sub,,0,0,0,,{\fad(80,80)}Today it's called the Ether Dome.
+Dialogue: 2,0:04:54.72,0:05:00.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:04:54.72,0:05:00.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:54.72,0:05:00.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · "THE SEMI-CENTENNIAL OF ANAESTHESIA" · 1897
+Dialogue: 3,0:04:54.72,0:05:00.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MASSACHUSETTS GENERAL HOSPITAL, BOSTON · 1846–47
+Dialogue: 0,0:06:25.21,0:06:27.88,Sub,,0,0,0,,{\fad(80,80)}Back in America, a bitter fight began over who
+Dialogue: 0,0:06:27.90,0:06:29.51,Sub,,0,0,0,,{\fad(80,80)}deserved the credit. Morton.
+Dialogue: 0,0:06:29.53,0:06:31.44,Sub,,0,0,0,,{\fad(80,80)}His former partner, Horace Wells.
+Dialogue: 0,0:06:31.46,0:06:34.71,Sub,,0,0,0,,{\fad(80,80)}The chemist Charles Jackson, who shared Morton's patent.
+Dialogue: 0,0:06:34.73,0:06:36.46,Sub,,0,0,0,,{\fad(80,80)}And Crawford Long, in Georgia.
+Dialogue: 2,0:06:25.46,0:06:31.21,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 931 0 l 931 132 l 0 132{\p0}
+Dialogue: 3,0:06:25.46,0:06:31.21,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:25.46,0:06:31.21,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TITLE PAGE · LIBRARY OF CONGRESS COPY
+Dialogue: 3,0:06:25.46,0:06:31.21,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MORTON'S CLAIM TO THE U.S. SENATE · 1853
+Dialogue: 0,0:06:45.87,0:06:50.47,Sub,,0,0,0,,{\fad(80,80)}Morton spent his last years in controversy and lawsuits.
+Dialogue: 0,0:06:50.49,0:06:53.27,Sub,,0,0,0,,{\fad(80,80)}He died in 1868, at the age of 48.
+Dialogue: 2,0:06:46.12,0:06:51.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 931 0 l 931 132 l 0 132{\p0}
+Dialogue: 3,0:06:46.12,0:06:51.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:46.12,0:06:51.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TITLE PAGE · LIBRARY OF CONGRESS COPY
+Dialogue: 3,0:06:46.12,0:06:51.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MORTON'S CLAIM TO THE U.S. SENATE · 1853
+Dialogue: 0,0:08:23.37,0:08:26.74,Sub,,0,0,0,,{\fad(80,80)}Today, the Army trains its own nurse anesthetists,
+Dialogue: 0,0:08:26.76,0:08:27.49,Sub,,0,0,0,,{\fad(80,80)}in the U.S.
+Dialogue: 0,0:08:27.51,0:08:31.42,Sub,,0,0,0,,{\fad(80,80)}Army Graduate Program in Anesthesia Nursing. In 2011, U.S.
+Dialogue: 0,0:08:31.44,0:08:34.55,Sub,,0,0,0,,{\fad(80,80)}News and World Report ranked it the best nurse
+Dialogue: 0,0:08:34.57,0:08:36.85,Sub,,0,0,0,,{\fad(80,80)}anesthesia program in the country.
+Dialogue: 2,0:08:23.62,0:08:29.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:08:23.62,0:08:29.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:23.62,0:08:29.37,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIMULATION TRAINING · U.S. ARMY MEDICAL DEPARTMENT · 2016
+Dialogue: 3,0:08:23.62,0:08:29.37,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY GRADUATE PROGRAM IN ANESTHESIA NURSING
+Dialogue: 0,0:08:37.32,0:08:41.25,Sub,,0,0,0,,{\fad(80,80)}Military anesthesiologists work in combat hospitals.
+Dialogue: 0,0:08:41.27,0:08:44.81,Sub,,0,0,0,,{\fad(80,80)}This team was at the NATO hospital in Kandahar,
+Dialogue: 0,0:08:44.83,0:08:46.41,Sub,,0,0,0,,{\fad(80,80)}Afghanistan, in 2015.
+Dialogue: 2,0:08:37.57,0:08:43.32,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:08:37.57,0:08:43.32,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:37.57,0:08:43.32,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KANDAHAR, AFGHANISTAN · 2015
+Dialogue: 3,0:08:37.57,0:08:43.32,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PHYSICIAN ANESTHESIOLOGISTS · NATO ROLE 3 HOSPITAL
+Dialogue: 0,0:08:46.88,0:08:50.10,Sub,,0,0,0,,{\fad(80,80)}And in 2020, aboard the Navy hospital ship Comfort
+Dialogue: 0,0:08:50.12,0:08:52.96,Sub,,0,0,0,,{\fad(80,80)}in New York, a recovery unit stood ready for
+Dialogue: 0,0:08:52.98,0:08:55.10,Sub,,0,0,0,,{\fad(80,80)}patients waking up after surgery.
+Dialogue: 2,0:08:47.13,0:08:52.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 931 0 l 931 132 l 0 132{\p0}
+Dialogue: 3,0:08:47.13,0:08:52.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:47.13,0:08:52.88,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEW YORK CITY · MARCH 2020 · U.S. NAVY
+Dialogue: 3,0:08:47.13,0:08:52.88,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}POST-ANESTHESIA CARE UNIT · USNS COMFORT
+Dialogue: 0,0:08:59.30,0:09:02.03,Sub,,0,0,0,,{\fad(80,80)}According to the National Library of Medicine,
+Dialogue: 0,0:09:02.05,0:09:05.07,Sub,,0,0,0,,{\fad(80,80)}general anesthesia puts you into a deep, sleep-like
+Dialogue: 0,0:09:05.09,0:09:08.06,Sub,,0,0,0,,{\fad(80,80)}state, so you do not feel pain during surgery, and
+Dialogue: 0,0:09:08.08,0:09:10.03,Sub,,0,0,0,,{\fad(80,80)}you don't remember the procedure.
+Dialogue: 2,0:08:59.55,0:09:05.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:08:59.55,0:09:05.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:59.55,0:09:05.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WRIGHT-PATTERSON AFB, OHIO · 2017 · 88TH MEDICAL GROUP
+Dialogue: 3,0:08:59.55,0:09:05.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OPERATING ROOM TEAM TRAINING
+Dialogue: 0,0:09:22.21,0:09:25.49,Sub,,0,0,0,,{\fad(80,80)}During general anesthesia, blood pressure, pulse and
+Dialogue: 0,0:09:25.51,0:09:27.84,Sub,,0,0,0,,{\fad(80,80)}breathing are monitored continuously.
+Dialogue: 0,0:09:27.86,0:09:30.82,Sub,,0,0,0,,{\fad(80,80)}Most often, the anesthesia is given by a doctor
+Dialogue: 0,0:09:30.84,0:09:32.53,Sub,,0,0,0,,{\fad(80,80)}called an anesthesiologist.
+Dialogue: 0,0:09:32.55,0:09:34.68,Sub,,0,0,0,,{\fad(80,80)}Sometimes, by a nurse anesthetist.
+Dialogue: 2,0:09:22.46,0:09:28.21,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:09:22.46,0:09:28.21,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:22.46,0:09:28.21,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIMULATION TRAINING · U.S. ARMY MEDICAL DEPARTMENT · 2016
+Dialogue: 3,0:09:22.46,0:09:28.21,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY GRADUATE PROGRAM IN ANESTHESIA NURSING
+Dialogue: 0,0:09:35.15,0:09:36.45,Sub,,0,0,0,,{\fad(80,80)}Training never stops.
+Dialogue: 0,0:09:36.47,0:09:39.70,Sub,,0,0,0,,{\fad(80,80)}Operating teams rehearse and review together, so the
+Dialogue: 0,0:09:39.72,0:09:40.95,Sub,,0,0,0,,{\fad(80,80)}real day goes right.
+Dialogue: 2,0:09:35.40,0:09:41.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:09:35.40,0:09:41.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:35.40,0:09:41.15,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}BROOKE ARMY MEDICAL CENTER, TEXAS · OCT. 2026
+Dialogue: 3,0:09:35.40,0:09:41.15,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OPERATING ROOM TRAINING DAY
+Dialogue: 0,0:09:49.51,0:09:53.19,Sub,,0,0,0,,{\fad(80,80)}Before 1846, a surgeon raced the patient's pain, and
+Dialogue: 0,0:09:53.21,0:09:55.96,Sub,,0,0,0,,{\fad(80,80)}the patient was awake for every second.
+Dialogue: 2,0:09:49.76,0:09:55.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:09:49.76,0:09:55.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:49.76,0:09:55.51,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ILLUSTRATION BY A. J. KELLER · PUBLISHED 1897 · MGH
+Dialogue: 3,0:09:49.76,0:09:55.51,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"THE FIRST PUBLIC DEMONSTRATION OF SURGICAL ANAESTHESIA"
+Dialogue: 0,0:09:56.43,0:10:00.22,Sub,,0,0,0,,{\fad(80,80)}After one Friday morning in Boston, patients could sleep.
+Dialogue: 0,0:10:00.24,0:10:03.43,Sub,,0,0,0,,{\fad(80,80)}And today, surgical teams like this one can take
+Dialogue: 0,0:10:03.45,0:10:04.16,Sub,,0,0,0,,{\fad(80,80)}their time.
+Dialogue: 2,0:09:56.68,0:10:02.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1079 0 l 1079 132 l 0 132{\p0}
+Dialogue: 3,0:09:56.68,0:10:02.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:56.68,0:10:02.43,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PACIFIC PARTNERSHIP 2024-1 · SOLOMON ISLANDS · 2023 · U.S. NAVY
+Dialogue: 3,0:09:56.68,0:10:02.43,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SURGICAL TEAM ABOARD USNS MERCY
+Dialogue: 0,0:10:04.63,0:10:07.64,Sub,,0,0,0,,{\fad(80,80)}Within a year, the news had crossed an ocean.
+Dialogue: 0,0:10:07.66,0:10:11.08,Sub,,0,0,0,,{\fad(80,80)}Within 15 years, it was in field hospitals across a
+Dialogue: 0,0:10:11.10,0:10:12.02,Sub,,0,0,0,,{\fad(80,80)}nation at war.
+Dialogue: 0,0:10:12.04,0:10:15.05,Sub,,0,0,0,,{\fad(80,80)}And it began with a dentist, a surgeon, and a
+Dialogue: 0,0:10:15.07,0:10:17.20,Sub,,0,0,0,,{\fad(80,80)}patient who said it didn't hurt.
+Dialogue: 2,0:10:04.88,0:10:10.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:10:04.88,0:10:10.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:04.88,0:10:10.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · "THE SEMI-CENTENNIAL OF ANAESTHESIA" · 1897
+Dialogue: 3,0:10:04.88,0:10:10.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MASSACHUSETTS GENERAL HOSPITAL, BOSTON · 1846–47
+Dialogue: 5,0:10:41.28,0:10:45.48,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Army, U.S. Air Force, U.S. Navy via DVIDS (public domain); training footage marked TRAINING.\NIllustrations: \"The Semi-Centennial of Anaesthesia\" (MGH, 1897); Wells, 1847 (NLM copy); Morton, 1853 (Library of Congress copy) — via Internet Archive.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH or CDC.\NFor education only. This is not medical advice.
+Dialogue: 4,0:08:23.37,0:08:30.33,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:30.33,0:08:37.33,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:59.30,0:09:04.90,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:04.90,0:09:10.50,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:22.20,0:09:28.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:28.70,0:09:35.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:35.17,0:09:38.30,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:38.30,0:09:41.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

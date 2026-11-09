@@ -29,7 +29,7 @@ const mark = `<svg width="52" height="52" viewBox="0 0 512 512"><rect width="512
 const grad = (p) => `<div style="position:absolute;inset:0;background:linear-gradient(90deg,rgba(10,18,20,.96) 0%,rgba(10,18,20,.85) ${p}%,rgba(10,18,20,0) ${p + 26}%)"></div>`;
 const html = {
   A: (o) => `<div class="t"><div class="ph"></div>${grad(30)}${ringSvg}
-    <div class="ro mono"><div class="dot"></div>KEPT ALIVE · REAL FOOTAGE</div>
+    <div class="ro mono"><div class="dot"></div>${cfg.badge || "KEPT ALIVE · REAL FOOTAGE"}</div>
     <div style="position:absolute;left:44px;top:118px">
       <div class="big" style="font-size:${o.size || 200}px">${hi(o.big)}</div>
       ${o.tag ? `<div class="tag" style="font-size:${o.tsize || 62}px;margin-top:22px">${o.tag}</div>` : ""}</div>

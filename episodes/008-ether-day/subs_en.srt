@@ -1,0 +1,959 @@
+1
+00:00:01,000 --> 00:00:04,232
+Before anesthesia, surgery was done on patients who
+
+2
+00:00:04,232 --> 00:00:05,245
+were wide awake.
+
+3
+00:00:05,245 --> 00:00:08,224
+A surgeon's best weapon against pain was speed.
+
+4
+00:00:08,674 --> 00:00:12,062
+Then, on a Friday morning in October, 1846, in a
+
+5
+00:00:12,062 --> 00:00:15,732
+Boston hospital, a dentist named William Morton gave
+
+6
+00:00:15,732 --> 00:00:18,062
+a patient ether vapor to breathe.
+
+7
+00:00:18,511 --> 00:00:21,114
+After about 5 minutes, the patient was asleep.
+
+8
+00:00:21,114 --> 00:00:23,547
+The surgeon removed a growth from his neck.
+
+9
+00:00:23,547 --> 00:00:26,376
+Afterward, the patient said it felt as if his neck
+
+10
+00:00:26,376 --> 00:00:27,338
+had been scraped.
+
+11
+00:00:27,338 --> 00:00:28,413
+But it hadn't hurt.
+
+12
+00:00:28,863 --> 00:00:31,575
+The surgeon turned to the doctors watching, and,
+
+13
+00:00:31,575 --> 00:00:34,513
+according to an account published years later, said:
+
+14
+00:00:34,813 --> 00:00:36,516
+Gentlemen, this is no humbug.
+
+15
+00:00:37,316 --> 00:00:40,251
+This is the story of how surgery stopped hurting.
+
+16
+00:00:40,251 --> 00:00:41,449
+Why it took so long.
+
+17
+00:00:41,449 --> 00:00:43,066
+Who fought over the credit.
+
+18
+00:00:43,066 --> 00:00:45,163
+And how it reached the battlefield.
+
+19
+00:00:45,563 --> 00:00:46,299
+Ether Day.
+
+20
+00:00:46,299 --> 00:00:48,657
+The day surgery stopped hurting.
+
+21
+00:00:51,057 --> 00:00:54,191
+To understand what changed, start with what surgery
+
+22
+00:00:54,191 --> 00:00:55,175
+was like before.
+
+23
+00:00:56,175 --> 00:00:58,205
+An operation was the last resort.
+
+24
+00:00:58,205 --> 00:01:01,281
+Surgeons had to operate on conscious patients, who
+
+25
+00:01:01,281 --> 00:01:02,942
+might be writhing in agony.
+
+26
+00:01:02,942 --> 00:01:04,973
+And pain was not the only danger.
+
+27
+00:01:04,973 --> 00:01:07,741
+Blood loss and infection made every operation
+
+28
+00:01:07,741 --> 00:01:08,787
+life-threatening.
+
+29
+00:01:09,237 --> 00:01:13,128
+Doctors had a few ways to dull the senses. Alcohol. Opium.
+
+30
+00:01:13,128 --> 00:01:15,945
+In earlier centuries, plants like henbane.
+
+31
+00:01:15,945 --> 00:01:19,299
+British sailors were given rum before an emergency
+
+32
+00:01:19,299 --> 00:01:20,037
+amputation.
+
+33
+00:01:20,487 --> 00:01:21,948
+None of it was reliable.
+
+34
+00:01:21,948 --> 00:01:24,444
+So surgeons worked as fast as they could.
+
+35
+00:01:24,944 --> 00:01:28,092
+In London, the surgeon Robert Liston was famous for
+
+36
+00:01:28,092 --> 00:01:30,931
+the speed with which he could amputate a limb.
+
+37
+00:01:30,931 --> 00:01:34,017
+Even a busy surgeon like him performed only two or
+
+38
+00:01:34,017 --> 00:01:35,560
+three operations a month.
+
+39
+00:01:36,010 --> 00:01:40,742
+Between 1835 and 1840, he performed 66 amputations.
+
+40
+00:01:40,742 --> 00:01:43,154
+10 of those patients died.
+
+41
+00:01:43,604 --> 00:01:46,591
+You may have heard that one of his operations killed
+
+42
+00:01:46,591 --> 00:01:47,797
+three people at once.
+
+43
+00:01:47,797 --> 00:01:49,979
+Historians call that story apocryphal.
+
+44
+00:01:49,979 --> 00:01:52,162
+There is no good evidence it happened.
+
+45
+00:01:52,662 --> 00:01:54,837
+Patients left their own accounts.
+
+46
+00:01:54,837 --> 00:01:58,264
+In 1811, an English writer had an operation in Paris
+
+47
+00:01:58,264 --> 00:02:00,835
+with only a wine cordial to steady her.
+
+48
+00:02:01,285 --> 00:02:02,780
+She remembered how it began.
+
+49
+00:02:02,780 --> 00:02:05,502
+Her room was entered, without warning, by seven men
+
+50
+00:02:05,502 --> 00:02:05,982
+in black.
+
+51
+00:02:05,982 --> 00:02:08,597
+And she remembered the glitter of polished steel.
+
+52
+00:02:09,047 --> 00:02:12,061
+Months later, she wrote to her sister about it.
+
+53
+00:02:12,061 --> 00:02:15,523
+She called it a terror that surpasses all description.
+
+54
+00:02:15,523 --> 00:02:16,421
+And she added:
+
+55
+00:02:16,421 --> 00:02:18,217
+I dare not revise, nor read.
+
+56
+00:02:18,217 --> 00:02:20,589
+The recollection is still so painful.
+
+57
+00:02:21,389 --> 00:02:23,373
+And yet, a clue had been there for decades.
+
+58
+00:02:24,373 --> 00:02:27,946
+In 1800, the English chemist Humphry Davy wrote that
+
+59
+00:02:27,946 --> 00:02:30,970
+nitrous oxide appeared capable of destroying
+
+60
+00:02:30,970 --> 00:02:31,932
+physical pain.
+
+61
+00:02:31,932 --> 00:02:35,848
+He suggested it might be used during surgical operations.
+
+62
+00:02:36,298 --> 00:02:38,719
+For decades, almost no one followed up.
+
+63
+00:02:38,719 --> 00:02:41,388
+Instead, nitrous oxide became laughing gas.
+
+64
+00:02:41,388 --> 00:02:44,367
+At shows and parties, people passed it around in
+
+65
+00:02:44,367 --> 00:02:46,353
+bladders and inhaled it for fun.
+
+66
+00:02:46,803 --> 00:02:47,813
+Why the delay?
+
+67
+00:02:47,813 --> 00:02:49,761
+Historians still debate it.
+
+68
+00:02:49,761 --> 00:02:51,565
+But the result was clear.
+
+69
+00:02:51,565 --> 00:02:54,884
+For nearly half a century, the implications of
+
+70
+00:02:54,884 --> 00:02:57,842
+Davy's findings for surgery were ignored.
+
+71
+00:02:58,242 --> 00:03:01,617
+In Georgia, on March 30, 1842, a country doctor
+
+72
+00:03:01,617 --> 00:03:04,848
+named Crawford Long used ether while removing
+
+73
+00:03:04,848 --> 00:03:07,002
+growths from a patient's neck.
+
+74
+00:03:07,452 --> 00:03:11,106
+But Long didn't publish his results until 1849.
+
+75
+00:03:11,106 --> 00:03:14,759
+Today, America's National Doctors' Day falls on
+
+76
+00:03:14,759 --> 00:03:17,636
+March 30, in honor of that operation.
+
+77
+00:03:17,636 --> 00:03:21,445
+It was first observed in Georgia in 1933, and was
+
+78
+00:03:21,445 --> 00:03:24,321
+first recognized by Congress in 1990.
+
+79
+00:03:24,821 --> 00:03:27,733
+In December 1844, a dentist in Hartford,
+
+80
+00:03:27,733 --> 00:03:31,372
+Connecticut, named Horace Wells went to a laughing
+
+81
+00:03:31,372 --> 00:03:32,028
+gas show.
+
+82
+00:03:32,478 --> 00:03:35,568
+The next day, he breathed the gas himself, while a
+
+83
+00:03:35,568 --> 00:03:37,669
+colleague pulled one of his teeth.
+
+84
+00:03:37,669 --> 00:03:38,658
+He felt no pain.
+
+85
+00:03:39,108 --> 00:03:42,430
+In January 1845, Wells tried a demonstration in
+
+86
+00:03:42,430 --> 00:03:46,246
+Boston, arranged with the surgeon John Collins Warren.
+
+87
+00:03:46,246 --> 00:03:47,801
+The patient cried out.
+
+88
+00:03:47,801 --> 00:03:51,264
+The demonstration was judged a failure. A humbug.
+
+89
+00:03:51,764 --> 00:03:54,957
+One man who knew Wells well was his former partner.
+
+90
+00:03:54,957 --> 00:03:56,897
+A dentist named William Morton.
+
+91
+00:03:57,497 --> 00:03:59,509
+Remember those names.
+
+92
+00:03:59,509 --> 00:04:00,850
+Davy, in 1800.
+
+93
+00:04:00,850 --> 00:04:02,192
+Long, in 1842.
+
+94
+00:04:02,192 --> 00:04:03,629
+Wells, in 1844.
+
+95
+00:04:03,629 --> 00:04:05,162
+Each came close.
+
+96
+00:04:05,162 --> 00:04:10,144
+Each, for different reasons, did not change surgery.
+
+97
+00:04:10,144 --> 00:04:11,964
+The next man would.
+
+98
+00:04:12,564 --> 00:04:15,231
+Morton turned to a different chemical. Ether.
+
+99
+00:04:16,231 --> 00:04:19,877
+On Friday, October 16, 1846, Morton was invited to
+
+100
+00:04:19,877 --> 00:04:22,940
+an operation at ten in the morning, in the
+
+101
+00:04:22,940 --> 00:04:25,419
+hospital's operating amphitheater.
+
+102
+00:04:25,419 --> 00:04:28,044
+The surgeon was John Collins Warren.
+
+103
+00:04:28,494 --> 00:04:31,527
+Morton went to the patient, took his hand, and told
+
+104
+00:04:31,527 --> 00:04:33,073
+him he would feel no pain.
+
+105
+00:04:33,523 --> 00:04:35,322
+The patient breathed in the vapor.
+
+106
+00:04:35,322 --> 00:04:37,121
+In about 5 minutes, he was asleep.
+
+107
+00:04:37,121 --> 00:04:39,079
+Warren operated to remove the growth.
+
+108
+00:04:39,529 --> 00:04:42,276
+When it was over, the patient said he had felt his
+
+109
+00:04:42,276 --> 00:04:43,319
+neck being scraped.
+
+110
+00:04:43,319 --> 00:04:44,363
+But it hadn't hurt.
+
+111
+00:04:44,813 --> 00:04:47,370
+Warren, the story goes, turned to the room.
+
+112
+00:04:47,370 --> 00:04:49,094
+Gentlemen, this is no humbug.
+
+113
+00:04:49,094 --> 00:04:51,353
+Some historians doubt he ever said it.
+
+114
+00:04:51,353 --> 00:04:53,671
+But the room had seen what it had seen.
+
+115
+00:04:54,471 --> 00:04:56,111
+The room still exists.
+
+116
+00:04:56,111 --> 00:04:59,763
+It was the hospital's operating amphitheater from
+
+117
+00:04:59,763 --> 00:05:00,732
+1821 to 1867.
+
+118
+00:05:00,732 --> 00:05:03,191
+Today it's called the Ether Dome.
+
+119
+00:05:03,641 --> 00:05:06,601
+It sits on the fourth floor of the hospital's
+
+120
+00:05:06,601 --> 00:05:07,784
+Bulfinch Building.
+
+121
+00:05:07,784 --> 00:05:11,073
+It was named a National Historic Landmark in 1965,
+
+122
+00:05:11,073 --> 00:05:14,098
+and it's still used for meetings and lectures.
+
+123
+00:05:14,698 --> 00:05:16,014
+The news spread fast.
+
+124
+00:05:16,014 --> 00:05:17,582
+And so did the arguments.
+
+125
+00:05:18,582 --> 00:05:22,099
+On November 18, 1846, the surgeon Henry Jacob
+
+126
+00:05:22,099 --> 00:05:25,694
+Bigelow published an account of Morton's work.
+
+127
+00:05:26,144 --> 00:05:29,598
+A few days later, the physician and writer Oliver
+
+128
+00:05:29,598 --> 00:05:33,123
+Wendell Holmes suggested, in a letter to Morton, a
+
+129
+00:05:33,123 --> 00:05:35,660
+word for the new state. Anaesthesia.
+
+130
+00:05:35,660 --> 00:05:38,762
+And an adjective to go with it: anaesthetic.
+
+131
+00:05:39,212 --> 00:05:41,259
+Morton had tried to keep his secret.
+
+132
+00:05:41,259 --> 00:05:43,704
+At first, he would not even reveal what his
+
+133
+00:05:43,704 --> 00:05:44,500
+substance was.
+
+134
+00:05:44,500 --> 00:05:47,684
+He called it Letheon, and he was granted a patent on it.
+
+135
+00:05:47,684 --> 00:05:50,583
+The patent was later revoked, and he never received
+
+136
+00:05:50,583 --> 00:05:51,379
+any royalties.
+
+137
+00:05:51,829 --> 00:05:53,997
+The news crossed the Atlantic.
+
+138
+00:05:53,997 --> 00:05:57,756
+On December 21, 1846, at University College Hospital
+
+139
+00:05:57,756 --> 00:06:00,935
+in London, Robert Liston performed the first
+
+140
+00:06:00,935 --> 00:06:04,332
+recorded major operation under ether in Europe.
+
+141
+00:06:04,782 --> 00:06:07,917
+Liston, the fastest knife in London, asked the
+
+142
+00:06:07,917 --> 00:06:11,393
+audience to time him, even with his patient asleep.
+
+143
+00:06:11,393 --> 00:06:14,051
+Afterward, he reportedly told the room:
+
+144
+00:06:14,051 --> 00:06:16,845
+This Yankee dodge beats mesmerism hollow.
+
+145
+00:06:17,295 --> 00:06:20,725
+A year later, in Scotland, the obstetrician James
+
+146
+00:06:20,725 --> 00:06:24,715
+Young Simpson began using another anesthetic. Chloroform.
+
+147
+00:06:25,215 --> 00:06:27,900
+Back in America, a bitter fight began over who
+
+148
+00:06:27,900 --> 00:06:29,535
+deserved the credit. Morton.
+
+149
+00:06:29,535 --> 00:06:31,461
+His former partner, Horace Wells.
+
+150
+00:06:31,461 --> 00:06:34,731
+The chemist Charles Jackson, who shared Morton's patent.
+
+151
+00:06:34,731 --> 00:06:36,482
+And Crawford Long, in Georgia.
+
+152
+00:06:36,932 --> 00:06:40,114
+Boston physicians petitioned Congress to reward the
+
+153
+00:06:40,114 --> 00:06:40,800
+discoverer.
+
+154
+00:06:40,800 --> 00:06:42,983
+Bills were introduced. None passed.
+
+155
+00:06:42,983 --> 00:06:45,416
+The dispute was never clearly resolved.
+
+156
+00:06:45,866 --> 00:06:50,487
+Morton spent his last years in controversy and lawsuits.
+
+157
+00:06:50,487 --> 00:06:53,293
+He died in 1868, at the age of 48.
+
+158
+00:06:54,093 --> 00:06:56,757
+Anesthesia didn't stay in the hospital for long.
+
+159
+00:06:57,757 --> 00:07:01,289
+Within six months of Ether Day, it had gone to war.
+
+160
+00:07:01,289 --> 00:07:04,753
+In March 1847, during the Mexican-American War, an
+
+161
+00:07:04,753 --> 00:07:08,285
+American surgeon named Edward Barton gave ether for
+
+162
+00:07:08,285 --> 00:07:10,086
+an amputation at Veracruz.
+
+163
+00:07:10,536 --> 00:07:12,446
+14 years later came the Civil War.
+
+164
+00:07:12,446 --> 00:07:14,861
+And with it, a myth that lasts to this day.
+
+165
+00:07:14,861 --> 00:07:17,669
+That wounded soldiers bit a bullet, or were simply
+
+166
+00:07:17,669 --> 00:07:20,253
+given alcohol, because there was nothing else.
+
+167
+00:07:20,703 --> 00:07:23,964
+The Union army's own medical records tell a
+
+168
+00:07:23,964 --> 00:07:25,177
+different story.
+
+169
+00:07:25,177 --> 00:07:29,196
+At least 80,000 operations were done with anesthesia.
+
+170
+00:07:29,196 --> 00:07:31,775
+Only 254 were recorded without it.
+
+171
+00:07:32,225 --> 00:07:35,341
+In the field, chloroform was used most often.
+
+172
+00:07:35,341 --> 00:07:37,349
+Ether, in about 14% of cases.
+
+173
+00:07:37,349 --> 00:07:40,672
+And William Morton himself served in Union field
+
+174
+00:07:40,672 --> 00:07:43,788
+hospitals, as one of the war's only dedicated
+
+175
+00:07:43,788 --> 00:07:44,688
+anesthetists.
+
+176
+00:07:45,188 --> 00:07:48,182
+The World Wars made one specialist essential.
+
+177
+00:07:48,182 --> 00:07:49,646
+The nurse anesthetist.
+
+178
+00:07:49,646 --> 00:07:52,906
+In World War One, nurse anesthetist Sophie Winton
+
+179
+00:07:52,906 --> 00:07:55,833
+served with Mobile Hospital No. 1 in France.
+
+180
+00:07:56,283 --> 00:08:00,543
+In World War Two, the Army estimated it needed 2,495
+
+181
+00:08:00,543 --> 00:08:02,099
+nurse anesthetists.
+
+182
+00:08:02,099 --> 00:08:03,901
+Only 273 were on duty.
+
+183
+00:08:03,901 --> 00:08:07,669
+More than 2,000 would have to be recruited, or
+
+184
+00:08:07,669 --> 00:08:10,209
+trained in new 6-month courses.
+
+185
+00:08:10,659 --> 00:08:13,647
+One Army nurse anesthetist, Mildred Clark, was at
+
+186
+00:08:13,647 --> 00:08:16,636
+Schofield Barracks in Hawaii during the attack on
+
+187
+00:08:16,636 --> 00:08:17,429
+Pearl Harbor.
+
+188
+00:08:17,429 --> 00:08:20,479
+She later became the first nurse anesthetist to be
+
+189
+00:08:20,479 --> 00:08:22,918
+appointed Chief of the Army Nurse Corps.
+
+190
+00:08:23,368 --> 00:08:26,762
+Today, the Army trains its own nurse anesthetists,
+
+191
+00:08:26,762 --> 00:08:27,508
+in the U.S.
+
+192
+00:08:27,508 --> 00:08:31,445
+Army Graduate Program in Anesthesia Nursing. In 2011, U.S.
+
+193
+00:08:31,445 --> 00:08:34,567
+News and World Report ranked it the best nurse
+
+194
+00:08:34,567 --> 00:08:36,874
+anesthesia program in the country.
+
+195
+00:08:37,324 --> 00:08:41,269
+Military anesthesiologists work in combat hospitals.
+
+196
+00:08:41,269 --> 00:08:44,834
+This team was at the NATO hospital in Kandahar,
+
+197
+00:08:44,834 --> 00:08:46,427
+Afghanistan, in 2015.
+
+198
+00:08:46,877 --> 00:08:50,121
+And in 2020, aboard the Navy hospital ship Comfort
+
+199
+00:08:50,121 --> 00:08:52,976
+in New York, a recovery unit stood ready for
+
+200
+00:08:52,976 --> 00:08:55,117
+patients waking up after surgery.
+
+201
+00:08:55,717 --> 00:08:58,301
+So what does anesthesia actually do today?
+
+202
+00:08:59,301 --> 00:09:02,048
+According to the National Library of Medicine,
+
+203
+00:09:02,048 --> 00:09:05,093
+general anesthesia puts you into a deep, sleep-like
+
+204
+00:09:05,093 --> 00:09:08,079
+state, so you do not feel pain during surgery, and
+
+205
+00:09:08,079 --> 00:09:10,050
+you don't remember the procedure.
+
+206
+00:09:10,500 --> 00:09:11,924
+It's not the only kind.
+
+207
+00:09:11,924 --> 00:09:15,018
+Local anesthesia numbs a small area, like a tooth.
+
+208
+00:09:15,018 --> 00:09:18,237
+Regional anesthesia numbs a larger area, like an arm
+
+209
+00:09:18,237 --> 00:09:18,794
+or a leg.
+
+210
+00:09:18,794 --> 00:09:21,765
+And sedation makes a patient relaxed, or sleepy.
+
+211
+00:09:22,215 --> 00:09:25,511
+During general anesthesia, blood pressure, pulse and
+
+212
+00:09:25,511 --> 00:09:27,857
+breathing are monitored continuously.
+
+213
+00:09:27,857 --> 00:09:30,836
+Most often, the anesthesia is given by a doctor
+
+214
+00:09:30,836 --> 00:09:32,548
+called an anesthesiologist.
+
+215
+00:09:32,548 --> 00:09:34,703
+Sometimes, by a nurse anesthetist.
+
+216
+00:09:35,153 --> 00:09:36,467
+Training never stops.
+
+217
+00:09:36,467 --> 00:09:39,721
+Operating teams rehearse and review together, so the
+
+218
+00:09:39,721 --> 00:09:40,972
+real day goes right.
+
+219
+00:09:41,422 --> 00:09:44,798
+The American Society of Anesthesiologists says
+
+220
+00:09:44,798 --> 00:09:48,908
+surgery and anesthesia are safer today than ever before.
+
+221
+00:09:49,508 --> 00:09:53,206
+Before 1846, a surgeon raced the patient's pain, and
+
+222
+00:09:53,206 --> 00:09:55,979
+the patient was awake for every second.
+
+223
+00:09:56,429 --> 00:10:00,238
+After one Friday morning in Boston, patients could sleep.
+
+224
+00:10:00,238 --> 00:10:03,445
+And today, surgical teams like this one can take
+
+225
+00:10:03,445 --> 00:10:04,180
+their time.
+
+226
+00:10:04,630 --> 00:10:07,661
+Within a year, the news had crossed an ocean.
+
+227
+00:10:07,661 --> 00:10:11,096
+Within 15 years, it was in field hospitals across a
+
+228
+00:10:11,096 --> 00:10:12,039
+nation at war.
+
+229
+00:10:12,039 --> 00:10:15,070
+And it began with a dentist, a surgeon, and a
+
+230
+00:10:15,070 --> 00:10:17,225
+patient who said it didn't hurt.
+
+231
+00:10:17,825 --> 00:10:21,582
+Every year on October 16, the anniversary of Ether
+
+232
+00:10:21,582 --> 00:10:25,339
+Day, anesthesiologists around the world mark World
+
+233
+00:10:25,339 --> 00:10:26,541
+Anaesthesia Day.
+
+234
+00:10:26,541 --> 00:10:29,472
+This October was the 180th anniversary.
+
+235
+00:10:30,372 --> 00:10:32,737
+If this story surprised you, subscribe.
+
+236
+00:10:32,737 --> 00:10:34,921
+Next time on KEPT ALIVE: penicillin.
+
+237
+00:10:34,921 --> 00:10:36,498
+The mold that went to war.
+
+238
+00:10:37,298 --> 00:10:38,438
+For education only.
+
+239
+00:10:38,438 --> 00:10:40,059
+This is not medical advice.
+
+240
+00:10:40,059 --> 00:10:42,880
+If you have a health concern, talk to a doctor.
