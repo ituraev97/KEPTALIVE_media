@@ -1,0 +1,821 @@
+[
+ {
+  "key": "doc_0104c5",
+  "name": "doc",
+  "opts": {
+   "header": "MONROVIA, LIBERIA \u00b7 SEPTEMBER 2014",
+   "title": "NO BEDS",
+   "body": "Taxis filled with entire families searched the city for a treatment bed for Ebola.",
+   "source": "SOURCE: WORLD HEALTH ORGANIZATION, 2015",
+   "stamp": "EBOLA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_12228c",
+  "name": "stat",
+  "opts": {
+   "a": "300\u2013400",
+   "b": "NEW EBOLA CASES EVERY WEEK \u00b7 LIBERIA",
+   "c": "AUG.\u2013SEPT. 2014 \u00b7 SOURCE: WORLD HEALTH ORGANIZATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ed14a8",
+  "name": "stat",
+  "opts": {
+   "a": "1.4 MILLION",
+   "b": "CASES BY JAN. 2015 \u00b7 IF NOTHING CHANGED",
+   "c": "CDC MODEL, SEPT. 2014 \u00b7 NO NEW INTERVENTIONS \u00b7 CORRECTED FOR UNDERREPORTING \u00b7 AN ESTIMATE, NOT A COUNT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_bfb532",
+  "name": "title",
+  "opts": {
+   "kicker": "THE SAVE \u00b7 009",
+   "title": "STOPPING <span style=\"color:#2BB3A3\">EBOLA</span>",
+   "sub": "LIBERIA \u00b7 2014\u20132015",
+   "size": 200
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_4bf7da",
+  "name": "chapter",
+  "opts": {
+   "case": "1976\u20132014",
+   "n": "I",
+   "t": "CONTACT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_2d0e0e",
+  "name": "stat",
+  "opts": {
+   "a": "&#8203;1976",
+   "b": "EBOLA VIRUSES DISCOVERED",
+   "c": "DEMOCRATIC REPUBLIC OF THE CONGO \u00b7 SOURCE: CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_9efa4d",
+  "name": "cards3",
+  "opts": {
+   "kicker": "HOW EBOLA SPREADS \u00b7 CDC",
+   "title": "CONTACT, NOT AIR",
+   "cards": [
+    {
+     "h": "FLUIDS",
+     "t": "Of a person who is sick"
+    },
+    {
+     "h": "AFTER DEATH",
+     "t": "A body can still spread it",
+     "size": 96
+    },
+    {
+     "h": "NOT AIRBORNE",
+     "t": "Not like flu or COVID",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCE: CDC, EBOLA DISEASE BASICS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_c35fef",
+  "name": "stat",
+  "opts": {
+   "a": "2\u201321",
+   "b": "DAYS FROM CONTACT TO SYMPTOMS",
+   "c": "ON AVERAGE 8\u201310 DAYS \u00b7 SOURCE: CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_abd53e",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -15.5,
+      4.0
+     ],
+     [
+      -6.5,
+      12.8
+     ]
+    ],
+    "highlight": {
+     "430": "#0E3A35",
+     "324": "#13242A",
+     "694": "#13242A"
+    },
+    "cities": [
+     {
+      "ll": [
+       -10.13,
+       8.55
+      ],
+      "name": "GUINEA",
+      "sub": "FIRST CASE \u00b7 DEC. 2013",
+      "d": 0.3,
+      "color": "#EEF2EF"
+     },
+     {
+      "ll": [
+       -9.75,
+       8.15
+      ],
+      "name": "LOFA COUNTY",
+      "sub": "LIBERIA \u00b7 MARCH 30, 2014",
+      "d": 0.8,
+      "color": "#6CF29A",
+      "dy": 70
+     },
+     {
+      "ll": [
+       -10.8,
+       6.3
+      ],
+      "name": "MONROVIA",
+      "sub": "CAPITAL",
+      "d": 1.3,
+      "color": "#EEF2EF",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "WEST AFRICA \u00b7 2013\u20132014",
+   "title": "THE SPREAD",
+   "footer": "SOURCES: CDC \u00b7 EMERGING INFECTIOUS DISEASES, 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_431120",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -15.5,
+      4.0
+     ],
+     [
+      -6.5,
+      12.8
+     ]
+    ],
+    "highlight": {
+     "430": "#0E3A35"
+    },
+    "rings": [
+     {
+      "ll": [
+       -10.8,
+       6.3
+      ],
+      "r": 40,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -10.8,
+       6.3
+      ],
+      "name": "MONROVIA",
+      "sub": "CAPITAL OF LIBERIA",
+      "d": 0.3,
+      "color": "#6CF29A",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "LIBERIA \u00b7 2014",
+   "title": "THE CAPITAL",
+   "footer": "SOURCE: WORLD HEALTH ORGANIZATION, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_e380df",
+  "name": "chapter",
+  "opts": {
+   "case": "JULY\u2013SEPTEMBER 2014",
+   "n": "II",
+   "t": "NO BEDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_4f5608",
+  "name": "stat",
+  "opts": {
+   "a": "2",
+   "b": "EBOLA TREATMENT UNITS RUNNING IN LIBERIA",
+   "c": "MID-JULY 2014 \u00b7 20 BEDS EACH \u00b7 SOURCE: EMERGING INFECTIOUS DISEASES, 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_b6ae0c",
+  "name": "phases",
+  "opts": {
+   "kicker": "WHO ASSESSMENT \u00b7 MID-AUGUST 2014",
+   "title": "THE BED GAP",
+   "left": {
+    "label": "NEEDED (ESTIMATED)",
+    "num": "1,000",
+    "desc": "BEDS"
+   },
+   "right": {
+    "label": "AVAILABLE",
+    "num": "240",
+    "desc": "BEDS"
+   },
+   "active": 1,
+   "footer": "SOURCE: WORLD HEALTH ORGANIZATION, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_82fa3e",
+  "name": "doc",
+  "opts": {
+   "header": "MONROVIA \u00b7 AUGUST 17, 2014",
+   "title": "ELWA 3",
+   "body": "A new 120-bed Ebola center run by Doctors Without Borders (MSF). In its first week: \"already at capacity with 120 patients.\"",
+   "source": "SOURCE: MSF, AUG. 27, 2014",
+   "stamp": "FULL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_1de900",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026Ebola patients were turned away, often dying on hospital grounds, in city streets, or in their homes.",
+   "w": "NYENSWAH ET AL. \u00b7 EMERGING INFECTIOUS DISEASES (CDC) \u00b7 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_cc27fd",
+  "name": "phases",
+  "opts": {
+   "kicker": "LIBERIA \u00b7 2014\u20132015",
+   "title": "HEALTH WORKERS",
+   "left": {
+    "label": "INFECTED",
+    "num": "378",
+    "desc": "CONFIRMED"
+   },
+   "right": {
+    "label": "DIED",
+    "num": "192",
+    "desc": "8% OF DOCTORS, NURSES AND MIDWIVES LOST"
+   },
+   "active": 1,
+   "footer": "SOURCES: EMERGING INFECTIOUS DISEASES, 2016 \u00b7 CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_349e0d",
+  "name": "chapter",
+  "opts": {
+   "case": "SEPTEMBER 16, 2014",
+   "n": "III",
+   "t": "THE CALL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_a1938c",
+  "name": "quote",
+  "opts": {
+   "q": "It's spiraling out of control. It is getting worse.",
+   "w": "PRESIDENT BARACK OBAMA \u00b7 CDC, ATLANTA \u00b7 SEPT. 16, 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_a01be3",
+  "name": "callcard",
+  "opts": {
+   "kicker": "WHITE HOUSE FACT SHEET \u00b7 SEPT. 16, 2014",
+   "title": "THE U.S. RESPONSE",
+   "rows": [
+    [
+     "COMMAND",
+     "Joint Force Command, Monrovia"
+    ],
+    [
+     "FORCES",
+     "An estimated 3,000"
+    ],
+    [
+     "TRAINING",
+     "Up to 500 health care providers a week"
+    ]
+   ],
+   "footer": "SOURCE: THE WHITE HOUSE (ARCHIVED)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_2ee443",
+  "name": "quote",
+  "opts": {
+   "q": "The U.S. military will not provide direct care to Ebola patients.",
+   "w": "REAR ADM. JOHN KIRBY \u00b7 PENTAGON PRESS SECRETARY \u00b7 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_478b5b",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE MILITARY'S ROLE",
+   "title": "NO PATIENT CARE. FOUR JOBS.",
+   "items": [
+    [
+     "LIFT",
+     "Airlift and helicopters"
+    ],
+    [
+     "TEST",
+     "Mobile labs"
+    ],
+    [
+     "BUILD",
+     "Treatment units"
+    ],
+    [
+     "TRAIN",
+     "Health workers"
+    ]
+   ],
+   "footer": "SOURCES: THE WHITE HOUSE \u00b7 U.S. DEPARTMENT OF DEFENSE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_34b004",
+  "name": "stat",
+  "opts": {
+   "a": "2,800",
+   "b": "DEFENSE DEPARTMENT PERSONNEL IN WEST AFRICA",
+   "c": "AT THE PEAK \u00b7 SOURCES: DOD NEWS \u00b7 AIR & SPACE FORCES MAGAZINE, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_92bdf8",
+  "name": "chapter",
+  "opts": {
+   "case": "SEPTEMBER 2014\u2013FEBRUARY 2015",
+   "n": "IV",
+   "t": "TEST. BUILD. TRAIN."
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_a5c16b",
+  "name": "timeline",
+  "opts": {
+   "kicker": "NAVAL MEDICAL RESEARCH CENTER",
+   "title": "MOBILE LABS",
+   "events": [
+    {
+     "y": "SEPT. 29",
+     "t": "Labs land in Liberia"
+    },
+    {
+     "y": "OCT. 2",
+     "t": "Receiving samples, Monrovia"
+    },
+    {
+     "y": "OCT. 3",
+     "t": "Bong County"
+    },
+    {
+     "y": "MARCH 2015",
+     "t": "5,300+ samples"
+    }
+   ],
+   "footer": "SOURCE: NAVY MEDICINE, 2024"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_a845f0",
+  "name": "phases",
+  "opts": {
+   "kicker": "EBOLA TEST RESULTS \u00b7 LIBERIA",
+   "title": "FROM DAYS TO HOURS",
+   "left": {
+    "label": "BEFORE",
+    "num": "7",
+    "desc": "DAYS"
+   },
+   "right": {
+    "label": "WITH THE NAVY LABS",
+    "num": "<4",
+    "desc": "HOURS"
+   },
+   "active": 1,
+   "footer": "SOURCE: NAVY MEDICINE, 2024"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_ada813",
+  "name": "doc",
+  "opts": {
+   "header": "MONROVIA \u00b7 NOVEMBER 2014",
+   "title": "MONROVIA MEDICAL UNIT",
+   "body": "25 beds for health care workers. Built by Navy Seabees, soldiers and airmen. Run by the U.S. Public Health Service Commissioned Corps.",
+   "source": "SOURCES: DVIDS \u00b7 FEDERAL PRACTITIONER, 2017",
+   "stamp": "25 BEDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_0857f0",
+  "name": "stat",
+  "opts": {
+   "a": "1,500+",
+   "b": "HEALTH CARE WORKERS TRAINED",
+   "c": "BY U.S. FORCES IN LIBERIA \u00b7 SOURCE: ARMY.MIL, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_0863a0",
+  "name": "stat",
+  "opts": {
+   "a": "17",
+   "b": "TREATMENT UNITS BUILT AND SUPPORTED",
+   "c": "101ST AIRBORNE DIVISION'S COUNT \u00b7 OTHER COUNTS ARE LOWER \u00b7 SOURCE: ARMY.MIL, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_19481f",
+  "name": "chapter",
+  "opts": {
+   "case": "WHAT REALLY HAPPENED",
+   "n": "V",
+   "t": "THE TURN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_3437c0",
+  "name": "doc",
+  "opts": {
+   "header": "CDC \u00b7 MMWR \u00b7 NOVEMBER 2014",
+   "title": "ALREADY FALLING",
+   "body": "\"There has been a decrease in cases since mid-September.\"",
+   "source": "SOURCE: CDC MMWR, 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_9f21cc",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026of which 3 never opened and many remained underutilized as the epidemic waned.",
+   "w": "NYENSWAH ET AL. \u00b7 EMERGING INFECTIOUS DISEASES (CDC) \u00b7 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_92e7c5",
+  "name": "stat",
+  "opts": {
+   "a": "28",
+   "b": "EBOLA PATIENTS IN 11 U.S.-BUILT UNITS",
+   "c": "AS REPORTED BY THE NEW YORK TIMES, VIA STARS AND STRIPES, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_c433bb",
+  "name": "quote",
+  "opts": {
+   "q": "Community engagement resulted in remarkable behavior change.",
+   "w": "NYENSWAH ET AL. \u00b7 EMERGING INFECTIOUS DISEASES (CDC) \u00b7 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_55bd97",
+  "name": "phases",
+  "opts": {
+   "kicker": "LIBERIA \u00b7 2014",
+   "title": "SAFE BURIAL TEAMS",
+   "left": {
+    "label": "AUGUST",
+    "num": "<10",
+    "desc": "TEAMS"
+   },
+   "right": {
+    "label": "BY OCTOBER 5",
+    "num": "54",
+    "desc": "TRAINED AND EQUIPPED"
+   },
+   "active": 1,
+   "footer": "SOURCE: CDC MMWR, NOVEMBER 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_df4c13",
+  "name": "doc",
+  "opts": {
+   "header": "LIBERIA \u00b7 2014\u20132015",
+   "title": "CONTACT TRACING",
+   "body": "\"Contact tracing generally depended on paper and Excel \u2026 spreadsheets maintained at the county level.\"",
+   "source": "SOURCE: EMERGING INFECTIOUS DISEASES, 2016",
+   "stamp": "PAPER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_2ac1cf",
+  "name": "stat",
+  "opts": {
+   "a": "9,097",
+   "b": "CASES PREVENTED IN LIBERIA (ESTIMATED)",
+   "c": "SEPT. 23\u2013OCT. 31, 2014 \u00b7 ISOLATION IN ETUs, COMMUNITY CARE CENTERS AND SIMILAR SETTINGS \u00b7 SOURCE: CDC MMWR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_051469",
+  "name": "quote",
+  "opts": {
+   "q": "The deployment of the US military provided a logistic and psychological boost.",
+   "w": "NYENSWAH ET AL. \u00b7 EMERGING INFECTIOUS DISEASES (CDC) \u00b7 2016"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_72c61f",
+  "name": "chapter",
+  "opts": {
+   "case": "2015\u20132016",
+   "n": "VI",
+   "t": "ZERO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_1dc701",
+  "name": "phases",
+  "opts": {
+   "kicker": "NEW EBOLA CASES IN LIBERIA",
+   "title": "FROM HUNDREDS TO ALMOST NONE",
+   "left": {
+    "label": "SEPTEMBER 2014",
+    "num": "100s",
+    "desc": "A WEEK"
+   },
+   "right": {
+    "label": "MARCH 2015",
+    "num": "<2",
+    "desc": "A WEEK"
+   },
+   "active": 1,
+   "footer": "SOURCE: DEFENSE HEALTH AGENCY, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_e0b223",
+  "name": "timeline",
+  "opts": {
+   "kicker": "LIBERIA",
+   "title": "COUNTING TO ZERO",
+   "events": [
+    {
+     "y": "MAR. 28",
+     "t": "Last confirmed case buried"
+    },
+    {
+     "y": "+42 DAYS",
+     "t": "Twice the maximum incubation"
+    },
+    {
+     "y": "MAY 9",
+     "t": "WHO: free of transmission"
+    },
+    {
+     "y": "2016",
+     "t": "Final end: June 9"
+    }
+   ],
+   "footer": "SOURCES: WHO, 2015 AND 2016 \u00b7 CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_b40041",
+  "name": "stat",
+  "opts": {
+   "a": "JUNE 9",
+   "b": "LIBERIA'S LAST EBOLA OUTBREAK DECLARED OVER",
+   "c": "2016 \u00b7 SOURCE: WORLD HEALTH ORGANIZATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_d00b9a",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026the fight to get to zero Ebola cases will continue.",
+   "w": "MAJ. GEN. GARY VOLESKY \u00b7 MONROVIA \u00b7 FEBRUARY 2015 \u00b7 VIA ARMY.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_81f037",
+  "name": "phases",
+  "opts": {
+   "kicker": "WEST AFRICA \u00b7 2014\u20132016",
+   "title": "THE TOLL",
+   "left": {
+    "label": "CASES",
+    "num": "28,616",
+    "desc": "GUINEA, LIBERIA, SIERRA LEONE"
+   },
+   "right": {
+    "label": "DEATHS",
+    "num": "11,310",
+    "desc": "LIBERIA: 10,678 CASES \u00b7 4,810 DEATHS"
+   },
+   "active": 1,
+   "footer": "SOURCE: CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_cd9e11",
+  "name": "chapter",
+  "opts": {
+   "case": "2015\u2013TODAY",
+   "n": "VII",
+   "t": "AFTER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_6c3710",
+  "name": "doc",
+  "opts": {
+   "header": "GUINEA \u00b7 2015",
+   "title": "RING VACCINATION TRIAL",
+   "body": "Over 7,500 participants. Interim results published in The Lancet suggested high protection.",
+   "source": "SOURCE: LONDON SCHOOL OF HYGIENE & TROPICAL MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_86bd23",
+  "name": "cards3",
+  "opts": {
+   "kicker": "U.S. FOOD AND DRUG ADMINISTRATION",
+   "title": "APPROVED SINCE 2019",
+   "cards": [
+    {
+     "h": "ERVEBO",
+     "t": "Vaccine \u00b7 Dec. 2019"
+    },
+    {
+     "h": "INMAZEB",
+     "t": "Treatment \u00b7 Oct. 2020"
+    },
+    {
+     "h": "EBANGA",
+     "t": "Treatment \u00b7 Dec. 2020"
+    }
+   ],
+   "footer": "ALL FOR ZAIRE EBOLAVIRUS \u00b7 SOURCE: FDA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_749892",
+  "name": "stat",
+  "opts": {
+   "a": "ZAIRE",
+   "b": "THE SPECIES THESE PRODUCTS TARGET",
+   "c": "SOURCE: FDA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_e5092d",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      12.0,
+      -6.0
+     ],
+     [
+      35.0,
+      5.5
+     ]
+    ],
+    "highlight": {
+     "180": "#0E3A35",
+     "800": "#13242A"
+    },
+    "cities": [
+     {
+      "ll": [
+       30.25,
+       1.56
+      ],
+      "name": "DR CONGO + UGANDA",
+      "sub": "BUNDIBUGYO VIRUS \u00b7 DECLARED MAY 15, 2026",
+      "d": 0.3,
+      "color": "#6CF29A",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "AS OF NOV. 6, 2026 \u00b7 CDC",
+   "title": "10,910 CASES \u00b7 5,306 DEATHS (CONFIRMED)",
+   "footer": "SOURCES: CDC \u00b7 CDC MMWR, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_763738",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CDC \u00b7 2026",
+   "title": "BUNDIBUGYO VIRUS DISEASE",
+   "rows": [
+    [
+     "VACCINES",
+     "None approved"
+    ],
+    [
+     "MEDICATIONS",
+     "None approved \u00b7 supportive care"
+    ],
+    [
+     "RISK TO U.S. PUBLIC",
+     "Low, according to the CDC"
+    ]
+   ],
+   "footer": "SOURCES: CDC MMWR, JUNE 2026 \u00b7 CDC CURRENT SITUATION, NOV. 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_aa92b4",
+  "name": "quote",
+  "opts": {
+   "q": "It is a tribute to the government and people of Liberia.",
+   "w": "WORLD HEALTH ORGANIZATION \u00b7 MAY 9, 2015"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_e38377",
+  "name": "stat",
+  "opts": {
+   "a": "NEXT",
+   "b": "PENICILLIN: THE MOLD THAT WENT TO WAR",
+   "c": "KEPT ALIVE \u00b7 FIRST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_c29daf",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 THE SAVE 009",
+   "stamp": "STOPPING EBOLA"
+  },
+  "intro": 2.4
+ }
+]

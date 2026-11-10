@@ -9,7 +9,7 @@ Rotate formats; check every fact before writing. Mark `[x] YYYY-MM-DD` when publ
 - [x] 2026-11-07 006 OUTBREAK — 1918: The Flu That Went to War (published as "How the Deadliest Flu in Modern History Hit the U.S. Army") (archive.org, NLM, CDC 1918 pages)
 - [x] 2026-11-08 007 HOW IT WORKS — The Tourniquet: From Feared to Lifesaver (published as "How a Tourniquet Works — and Why the Army Once Feared It") (DVIDS TCCC/Stop the Bleed training, NARA 111-M-489, Esmarch 1883)
 - [ ] NEXT FIRST — Penicillin: The Mold That Went to War (teased at the end of 007 and 008 — next FIRST slot) (archive.org WWII films, NLM)
-- [ ] 009 THE SAVE — Fighting Ebola in Liberia, 2014 (DVIDS Operation United Assistance)
+- [x] 2026-11-10 009 THE SAVE — Fighting Ebola in Liberia, 2014 (published as "How the Largest Ebola Outbreak in History Was Stopped in Liberia") (DVIDS Operation United Assistance: MMU, Tubmanburg/Gbediah/Senje ETUs, 1st Area Medical Lab, 2-501st AVN; CDC/WHO/EID/MMWR)
 - [x] 2026-11-09 008 FIRST — Ether Day: The First Public Surgery Without Pain (queue item 010; published as "What Surgery Was Like Before Anesthesia — and the Day It Ended") (MGH 1897 "Semi-Centennial of Anaesthesia" plates, Wells 1847 / Morton 1853 title pages via Internet Archive; DVIDS anesthesia training)
 - [ ] 011 HOW IT WORKS — How a Field Hospital Is Built in 72 Hours (DVIDS)
 - [ ] 012 OUTBREAK — Cholera and the Map That Found the Pump (archive.org, NLM)

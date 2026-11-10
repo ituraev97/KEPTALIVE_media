@@ -1,0 +1,164 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:35.47,0:00:39.30,Sub,,0,0,0,,{\fad(80,80)}8 months later, on May 9, 2015, the World Health
+Dialogue: 0,0:00:39.32,0:00:43.88,Sub,,0,0,0,,{\fad(80,80)}Organization declared Liberia free of Ebola transmission.
+Dialogue: 2,0:00:35.72,0:00:41.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:00:35.72,0:00:41.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:35.72,0:00:41.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}GANTA, LIBERIA · DEC. 2014 · 2-501ST AVIATION REGIMENT
+Dialogue: 3,0:00:35.72,0:00:41.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CH-47 SUPPLY RUN TO AN EBOLA TREATMENT UNIT
+Dialogue: 0,0:00:44.30,0:00:47.62,Sub,,0,0,0,,{\fad(80,80)}So how was the largest Ebola epidemic in history
+Dialogue: 0,0:00:47.64,0:00:48.94,Sub,,0,0,0,,{\fad(80,80)}stopped in Liberia?
+Dialogue: 0,0:00:48.96,0:00:52.07,Sub,,0,0,0,,{\fad(80,80)}The answer is not the one most people expect.
+Dialogue: 2,0:00:44.55,0:00:50.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:00:44.55,0:00:50.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:44.55,0:00:50.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFFICIAL OPENING · NOV. 11, 2014 · NO PATIENTS YET
+Dialogue: 3,0:00:44.55,0:00:50.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TUBMANBURG EBOLA TREATMENT UNIT · LIBERIA
+Dialogue: 0,0:01:32.67,0:01:35.56,Sub,,0,0,0,,{\fad(80,80)}That put two kinds of work at the front line.
+Dialogue: 0,0:01:35.58,0:01:36.85,Sub,,0,0,0,,{\fad(80,80)}Caring for the sick.
+Dialogue: 0,0:01:36.87,0:01:38.21,Sub,,0,0,0,,{\fad(80,80)}And burying the dead.
+Dialogue: 2,0:01:32.92,0:01:38.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:01:32.92,0:01:38.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:32.92,0:01:38.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MOBILE TRAINING TEAM · LIBERIA · NOV. 2014
+Dialogue: 3,0:01:32.92,0:01:38.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LIBERIAN HEALTH WORKERS LEARN TO WEAR PROTECTIVE GEAR
+Dialogue: 0,0:03:28.15,0:03:31.35,Sub,,0,0,0,,{\fad(80,80)}The mission was called Operation United Assistance.
+Dialogue: 0,0:03:31.37,0:03:34.31,Sub,,0,0,0,,{\fad(80,80)}It was the Defense Department's part of a wider
+Dialogue: 0,0:03:34.33,0:03:35.76,Sub,,0,0,0,,{\fad(80,80)}effort, led by the U.S.
+Dialogue: 0,0:03:35.78,0:03:38.09,Sub,,0,0,0,,{\fad(80,80)}Agency for International Development.
+Dialogue: 2,0:03:28.40,0:03:34.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:03:28.40,0:03:34.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:28.40,0:03:34.15,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}DYESS AIR FORCE BASE, TEXAS · OCT. 29, 2014
+Dialogue: 3,0:03:28.40,0:03:34.15,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AIRMEN DEPLOY FOR OPERATION UNITED ASSISTANCE
+Dialogue: 0,0:03:38.56,0:03:39.89,Sub,,0,0,0,,{\fad(80,80)}Engineers went too.
+Dialogue: 0,0:03:39.91,0:03:43.60,Sub,,0,0,0,,{\fad(80,80)}At Fort Hood, Texas, the 36th Engineer Brigade cased
+Dialogue: 0,0:03:43.62,0:03:46.80,Sub,,0,0,0,,{\fad(80,80)}its colors and prepared to deploy to Liberia.
+Dialogue: 2,0:03:38.81,0:03:44.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:03:38.81,0:03:44.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:38.81,0:03:44.56,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT HOOD, TEXAS · OCT. 2014
+Dialogue: 3,0:03:38.81,0:03:44.56,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}36TH ENGINEER BRIGADE CASES ITS COLORS FOR LIBERIA
+Dialogue: 0,0:04:04.83,0:04:05.78,Sub,,0,0,0,,{\fad(80,80)}First, testing.
+Dialogue: 0,0:04:05.80,0:04:08.94,Sub,,0,0,0,,{\fad(80,80)}Early in the epidemic, confirming a case of Ebola
+Dialogue: 0,0:04:08.96,0:04:10.81,Sub,,0,0,0,,{\fad(80,80)}could take as long as a week.
+Dialogue: 2,0:04:05.08,0:04:10.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:04:05.08,0:04:10.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:05.08,0:04:10.83,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MOBILE EBOLA LAB · LIBERIA · FEB. 2015
+Dialogue: 3,0:04:05.08,0:04:10.83,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY 1ST AREA MEDICAL LABORATORY
+Dialogue: 0,0:04:26.45,0:04:27.89,Sub,,0,0,0,,{\fad(80,80)}Army labs joined them.
+Dialogue: 0,0:04:27.91,0:04:31.33,Sub,,0,0,0,,{\fad(80,80)}The command set up 4 Army mobile testing labs across
+Dialogue: 0,0:04:31.35,0:04:31.86,Sub,,0,0,0,,{\fad(80,80)}Liberia.
+Dialogue: 0,0:04:31.88,0:04:35.11,Sub,,0,0,0,,{\fad(80,80)}Here, soldiers of the 1st Area Medical Laboratory
+Dialogue: 0,0:04:35.13,0:04:37.63,Sub,,0,0,0,,{\fad(80,80)}pack up their lab before heading home.
+Dialogue: 2,0:04:26.70,0:04:32.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:04:26.70,0:04:32.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:26.70,0:04:32.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MOBILE EBOLA LAB · LIBERIA · FEB. 2015
+Dialogue: 3,0:04:26.70,0:04:32.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY 1ST AREA MEDICAL LABORATORY
+Dialogue: 0,0:04:38.05,0:04:39.57,Sub,,0,0,0,,{\fad(80,80)}Second, building. U.S.
+Dialogue: 0,0:04:39.59,0:04:43.01,Sub,,0,0,0,,{\fad(80,80)}Army engineers built Ebola treatment units, often
+Dialogue: 0,0:04:43.03,0:04:46.24,Sub,,0,0,0,,{\fad(80,80)}working alongside the Armed Forces of Liberia.
+Dialogue: 2,0:04:38.30,0:04:44.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:04:38.30,0:04:44.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:38.30,0:04:44.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LIBERIA · NOV. 2014 · OPERATION UNITED ASSISTANCE
+Dialogue: 3,0:04:38.30,0:04:44.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY ENGINEERS BUILD AN EBOLA TREATMENT UNIT
+Dialogue: 0,0:04:46.71,0:04:50.12,Sub,,0,0,0,,{\fad(80,80)}Near Sinje, Liberian army engineers worked with
+Dialogue: 0,0:04:50.14,0:04:53.03,Sub,,0,0,0,,{\fad(80,80)}soldiers of the 62nd Engineer Battalion.
+Dialogue: 2,0:04:46.96,0:04:52.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1231 0 l 1231 132 l 0 132{\p0}
+Dialogue: 3,0:04:46.96,0:04:52.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:46.96,0:04:52.71,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}EBOLA TREATMENT UNIT NEAR SINJE, LIBERIA · 2014
+Dialogue: 3,0:04:46.96,0:04:52.71,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMED FORCES OF LIBERIA + U.S. 62ND ENGINEER BATTALION
+Dialogue: 0,0:04:53.50,0:04:57.08,Sub,,0,0,0,,{\fad(80,80)}At Gbediah, in December, the 104th Engineer Company
+Dialogue: 0,0:04:57.10,0:05:00.18,Sub,,0,0,0,,{\fad(80,80)}built a treatment unit with Liberian troops.
+Dialogue: 2,0:04:53.75,0:04:59.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:04:53.75,0:04:59.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:53.75,0:04:59.50,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}EBOLA TREATMENT UNIT, GBEDIAH, LIBERIA · DEC. 2014
+Dialogue: 3,0:04:53.75,0:04:59.50,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMED FORCES OF LIBERIA + U.S. 104TH ENGINEER COMPANY
+Dialogue: 0,0:05:00.65,0:05:03.63,Sub,,0,0,0,,{\fad(80,80)}Some sites were so far out that Army helicopter
+Dialogue: 0,0:05:03.65,0:05:06.63,Sub,,0,0,0,,{\fad(80,80)}crews used a refueling method called Fat Cow, a
+Dialogue: 0,0:05:06.65,0:05:09.82,Sub,,0,0,0,,{\fad(80,80)}helicopter carrying fuel to the field, just to fly
+Dialogue: 0,0:05:09.84,0:05:11.41,Sub,,0,0,0,,{\fad(80,80)}far enough to reach them.
+Dialogue: 2,0:05:00.90,0:05:06.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 821 0 l 821 132 l 0 132{\p0}
+Dialogue: 3,0:05:00.90,0:05:06.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:00.90,0:05:06.65,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}2-501ST AVIATION REGIMENT · LIBERIA · DEC. 2014
+Dialogue: 3,0:05:00.90,0:05:06.65,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"FAT COW" HELICOPTER REFUELING
+Dialogue: 0,0:05:11.88,0:05:14.75,Sub,,0,0,0,,{\fad(80,80)}Chinooks flew supplies to treatment units like the
+Dialogue: 0,0:05:14.77,0:05:17.17,Sub,,0,0,0,,{\fad(80,80)}one in Ganta, near the border with Guinea.
+Dialogue: 2,0:05:12.13,0:05:17.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:05:12.13,0:05:17.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:12.13,0:05:17.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}GANTA, LIBERIA · DEC. 2014 · 2-501ST AVIATION REGIMENT
+Dialogue: 3,0:05:12.13,0:05:17.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CH-47 SUPPLY RUN TO AN EBOLA TREATMENT UNIT
+Dialogue: 0,0:05:17.64,0:05:20.87,Sub,,0,0,0,,{\fad(80,80)}On November 11, the treatment unit at Tubmanburg
+Dialogue: 0,0:05:20.89,0:05:22.09,Sub,,0,0,0,,{\fad(80,80)}officially opened.
+Dialogue: 0,0:05:22.11,0:05:25.41,Sub,,0,0,0,,{\fad(80,80)}It was built by the Armed Forces of Liberia, with
+Dialogue: 0,0:05:25.43,0:05:27.78,Sub,,0,0,0,,{\fad(80,80)}support and oversight from the U.S.
+Dialogue: 0,0:05:27.80,0:05:29.27,Sub,,0,0,0,,{\fad(80,80)}Department of Defense.
+Dialogue: 2,0:05:17.89,0:05:23.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:05:17.89,0:05:23.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:17.89,0:05:23.64,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFFICIAL OPENING · NOV. 11, 2014 · NO PATIENTS YET
+Dialogue: 3,0:05:17.89,0:05:23.64,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TUBMANBURG EBOLA TREATMENT UNIT · LIBERIA
+Dialogue: 0,0:05:29.69,0:05:31.86,Sub,,0,0,0,,{\fad(80,80)}Third, a hospital for the healers.
+Dialogue: 0,0:05:31.88,0:05:35.21,Sub,,0,0,0,,{\fad(80,80)}Navy Seabees, soldiers and airmen built the Monrovia
+Dialogue: 0,0:05:35.23,0:05:36.04,Sub,,0,0,0,,{\fad(80,80)}Medical Unit.
+Dialogue: 0,0:05:36.06,0:05:38.94,Sub,,0,0,0,,{\fad(80,80)}25 beds, for health workers who caught Ebola.
+Dialogue: 2,0:05:29.94,0:05:35.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:05:29.94,0:05:35.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:29.94,0:05:35.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NOV. 4, 2014 · BEFORE OPENING · U.S. PUBLIC HEALTH SERVICE
+Dialogue: 3,0:05:29.94,0:05:35.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MONROVIA MEDICAL UNIT · LIBERIA
+Dialogue: 0,0:05:52.68,0:05:54.11,Sub,,0,0,0,,{\fad(80,80)}Fourth, training. U.S.
+Dialogue: 0,0:05:54.13,0:05:57.28,Sub,,0,0,0,,{\fad(80,80)}trainers taught health workers how to put on and
+Dialogue: 0,0:05:57.30,0:06:00.19,Sub,,0,0,0,,{\fad(80,80)}take off protective equipment, step by step.
+Dialogue: 2,0:05:52.93,0:05:58.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:05:52.93,0:05:58.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:52.93,0:05:58.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MOBILE TRAINING TEAM · LIBERIA · NOV. 2014
+Dialogue: 3,0:05:52.93,0:05:58.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LIBERIAN HEALTH WORKERS LEARN TO WEAR PROTECTIVE GEAR
+Dialogue: 0,0:06:00.66,0:06:03.12,Sub,,0,0,0,,{\fad(80,80)}And they walked them through mock treatment wards,
+Dialogue: 0,0:06:03.14,0:06:04.22,Sub,,0,0,0,,{\fad(80,80)}before the real thing.
+Dialogue: 2,0:06:00.91,0:06:04.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:06:00.91,0:06:04.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:00.91,0:06:04.64,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LIBERIA · NOV. 2014 · U.S. ARMY AND AIR FORCE TRAINERS
+Dialogue: 3,0:06:00.91,0:06:04.64,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}EBOLA TREATMENT UNIT COURSE · MOCK WARD
+Dialogue: 0,0:07:00.97,0:07:02.99,Sub,,0,0,0,,{\fad(80,80)}So what actually turned the tide?
+Dialogue: 0,0:07:03.01,0:07:06.08,Sub,,0,0,0,,{\fad(80,80)}Researchers and health agencies point to Liberians
+Dialogue: 0,0:07:06.10,0:07:06.76,Sub,,0,0,0,,{\fad(80,80)}themselves.
+Dialogue: 2,0:07:01.22,0:07:06.97,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:07:01.22,0:07:06.97,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:01.22,0:07:06.97,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}EBOLA TREATMENT UNIT, GBEDIAH, LIBERIA · DEC. 2014
+Dialogue: 3,0:07:01.22,0:07:06.97,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMED FORCES OF LIBERIA + U.S. 104TH ENGINEER COMPANY
+Dialogue: 0,0:08:43.48,0:08:44.52,Sub,,0,0,0,,{\fad(80,80)}By then, the U.S.
+Dialogue: 0,0:08:44.54,0:08:46.13,Sub,,0,0,0,,{\fad(80,80)}troops had long gone home.
+Dialogue: 0,0:08:46.15,0:08:49.11,Sub,,0,0,0,,{\fad(80,80)}Before boarding, they went through final medical
+Dialogue: 0,0:08:49.13,0:08:49.73,Sub,,0,0,0,,{\fad(80,80)}screening.
+Dialogue: 0,0:08:49.75,0:08:52.71,Sub,,0,0,0,,{\fad(80,80)}Back in the United States, each spent 21 days in
+Dialogue: 0,0:08:52.73,0:08:54.08,Sub,,0,0,0,,{\fad(80,80)}controlled monitoring.
+Dialogue: 2,0:08:43.73,0:08:49.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1079 0 l 1079 132 l 0 132{\p0}
+Dialogue: 3,0:08:43.73,0:08:49.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:43.73,0:08:49.48,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LIBERIA · FEB. 2, 2015 · JOINT FORCES COMMAND–UNITED ASSISTANCE
+Dialogue: 3,0:08:43.73,0:08:49.48,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FINAL MEDICAL SCREENING BEFORE THE FLIGHT HOME
+Dialogue: 0,0:10:26.24,0:10:31.10,Sub,,0,0,0,,{\fad(80,80)}The tools that worked in Liberia still matter. Fast labs.
+Dialogue: 0,0:10:31.12,0:10:32.72,Sub,,0,0,0,,{\fad(80,80)}Beds. Safe burials.
+Dialogue: 0,0:10:32.74,0:10:34.09,Sub,,0,0,0,,{\fad(80,80)}Contact tracing.
+Dialogue: 0,0:10:34.11,0:10:36.57,Sub,,0,0,0,,{\fad(80,80)}And the trust of communities.
+Dialogue: 2,0:10:26.49,0:10:32.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:10:26.49,0:10:32.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:26.49,0:10:32.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NOV. 4, 2014 · BEFORE OPENING · U.S. PUBLIC HEALTH SERVICE
+Dialogue: 3,0:10:26.49,0:10:32.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MONROVIA MEDICAL UNIT · LIBERIA
+Dialogue: 5,0:10:59.97,0:11:04.17,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Army, U.S. Air Force via DVIDS (public domain); training footage marked TRAINING.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH, CDC or WHO.\NFor education only. This is not medical advice.
+Dialogue: 4,0:01:32.67,0:01:35.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:01:35.70,0:01:38.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:52.67,0:05:56.67,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:56.67,0:06:00.67,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:00.67,0:06:04.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

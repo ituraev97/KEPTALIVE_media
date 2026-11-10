@@ -1,0 +1,907 @@
+1
+00:00:01,000 --> 00:00:04,600
+In early September 2014, in Monrovia, the capital of
+
+2
+00:00:04,600 --> 00:00:08,062
+Liberia, taxis filled with entire families circled
+
+3
+00:00:08,062 --> 00:00:10,832
+the city, searching for a treatment bed.
+
+4
+00:00:11,282 --> 00:00:14,490
+Liberia was reporting 300 to 400 new Ebola cases
+
+5
+00:00:14,490 --> 00:00:15,225
+every week.
+
+6
+00:00:15,225 --> 00:00:18,500
+At one point, the World Health Organization says,
+
+7
+00:00:18,500 --> 00:00:21,708
+there were virtually no treatment beds available
+
+8
+00:00:21,708 --> 00:00:23,312
+anywhere in the country.
+
+9
+00:00:23,762 --> 00:00:27,650
+That September, a CDC model warned that, without
+
+10
+00:00:27,650 --> 00:00:31,863
+more action, Liberia and Sierra Leone could reach an
+
+11
+00:00:31,863 --> 00:00:35,022
+estimated 1.4 million cases by January.
+
+12
+00:00:35,472 --> 00:00:39,325
+8 months later, on May 9, 2015, the World Health
+
+13
+00:00:39,325 --> 00:00:43,899
+Organization declared Liberia free of Ebola transmission.
+
+14
+00:00:44,299 --> 00:00:47,636
+So how was the largest Ebola epidemic in history
+
+15
+00:00:47,636 --> 00:00:48,957
+stopped in Liberia?
+
+16
+00:00:48,957 --> 00:00:52,086
+The answer is not the one most people expect.
+
+17
+00:00:52,486 --> 00:00:54,255
+Stopping Ebola.
+
+18
+00:00:54,255 --> 00:00:55,905
+Liberia, 2014.
+
+19
+00:00:58,305 --> 00:01:00,936
+To understand how it was stopped, start with how it
+
+20
+00:01:00,936 --> 00:01:01,349
+spreads.
+
+21
+00:01:02,349 --> 00:01:06,146
+Ebola viruses were discovered in 1976, in what is
+
+22
+00:01:06,146 --> 00:01:09,323
+now the Democratic Republic of the Congo.
+
+23
+00:01:09,323 --> 00:01:12,810
+The epidemic in West Africa was caused by one
+
+24
+00:01:12,810 --> 00:01:14,825
+species, Zaire ebolavirus.
+
+25
+00:01:15,275 --> 00:01:18,108
+According to the CDC, people get Ebola through
+
+26
+00:01:18,108 --> 00:01:21,310
+contact with the body fluids of a person who is sick
+
+27
+00:01:21,310 --> 00:01:23,343
+with it, or who has died from it.
+
+28
+00:01:23,343 --> 00:01:26,607
+It does not spread through the air, the way flu does.
+
+29
+00:01:27,057 --> 00:01:30,457
+Symptoms can appear 2 to 21 days after contact.
+
+30
+00:01:30,457 --> 00:01:32,266
+On average, 8 to 10 days.
+
+31
+00:01:32,666 --> 00:01:35,579
+That put two kinds of work at the front line.
+
+32
+00:01:35,579 --> 00:01:36,875
+Caring for the sick.
+
+33
+00:01:36,875 --> 00:01:38,234
+And burying the dead.
+
+34
+00:01:38,734 --> 00:01:42,686
+According to the CDC, the first case was reported in
+
+35
+00:01:42,686 --> 00:01:44,585
+Guinea, in December 2013.
+
+36
+00:01:44,585 --> 00:01:48,537
+On March 30, 2014, Ebola was reported in Liberia, in
+
+37
+00:01:48,537 --> 00:01:49,449
+Lofa County.
+
+38
+00:01:49,899 --> 00:01:52,641
+Then it reached the capital. Monrovia.
+
+39
+00:01:53,241 --> 00:01:55,747
+And the capital had almost nowhere to put the sick.
+
+40
+00:01:56,747 --> 00:02:00,328
+By mid-July 2014, Liberia had only two Ebola
+
+41
+00:02:00,328 --> 00:02:03,421
+treatment units running. 20 beds each.
+
+42
+00:02:03,871 --> 00:02:07,403
+In mid-August, a WHO team estimated that 1,000 beds
+
+43
+00:02:07,403 --> 00:02:11,004
+were needed, just for the patients already infected.
+
+44
+00:02:11,004 --> 00:02:12,666
+Only 240 were available.
+
+45
+00:02:13,116 --> 00:02:16,977
+On August 17, Doctors Without Borders opened a new
+
+46
+00:02:16,977 --> 00:02:20,684
+120-bed Ebola center in Monrovia, called ELWA 3.
+
+47
+00:02:20,684 --> 00:02:23,695
+In its first week, it was already full.
+
+48
+00:02:24,145 --> 00:02:25,884
+Patients were turned away.
+
+49
+00:02:25,884 --> 00:02:29,228
+Many died on hospital grounds, in city streets, or
+
+50
+00:02:29,228 --> 00:02:30,231
+in their homes.
+
+51
+00:02:30,831 --> 00:02:33,588
+Health workers were hit hard.
+
+52
+00:02:33,588 --> 00:02:37,771
+In Liberia, 378 were infected, and 192 died.
+
+53
+00:02:37,771 --> 00:02:43,095
+The country lost 8% of its doctors, nurses and midwives.
+
+54
+00:02:43,695 --> 00:02:45,778
+Then, the United States made a decision.
+
+55
+00:02:46,778 --> 00:02:50,268
+On September 16, 2014, President Barack Obama spoke
+
+56
+00:02:50,268 --> 00:02:51,774
+at the CDC in Atlanta.
+
+57
+00:02:51,774 --> 00:02:54,100
+He described the epidemic bluntly.
+
+58
+00:02:54,100 --> 00:02:56,769
+It's spiraling out of control, he said.
+
+59
+00:02:56,769 --> 00:02:58,138
+It is getting worse.
+
+60
+00:02:58,588 --> 00:03:01,722
+He announced a military command center in Liberia,
+
+61
+00:03:01,722 --> 00:03:04,856
+to support civilian efforts across the region, and
+
+62
+00:03:04,856 --> 00:03:07,865
+an air bridge to get health workers and supplies
+
+63
+00:03:07,865 --> 00:03:09,369
+into West Africa faster.
+
+64
+00:03:09,369 --> 00:03:12,127
+The White House said an estimated 3,000 U.S.
+
+65
+00:03:12,127 --> 00:03:13,130
+forces would go.
+
+66
+00:03:13,580 --> 00:03:17,202
+But the Pentagon was clear about one thing. The U.S.
+
+67
+00:03:17,202 --> 00:03:21,171
+military would not provide direct care to Ebola patients.
+
+68
+00:03:21,571 --> 00:03:24,804
+Its job was the kind of work militaries do well.
+
+69
+00:03:24,804 --> 00:03:27,701
+Moving things. Testing. Building. Training.
+
+70
+00:03:28,151 --> 00:03:31,365
+The mission was called Operation United Assistance.
+
+71
+00:03:31,365 --> 00:03:34,328
+It was the Defense Department's part of a wider
+
+72
+00:03:34,328 --> 00:03:35,777
+effort, led by the U.S.
+
+73
+00:03:35,777 --> 00:03:38,110
+Agency for International Development.
+
+74
+00:03:38,560 --> 00:03:39,913
+Engineers went too.
+
+75
+00:03:39,913 --> 00:03:43,616
+At Fort Hood, Texas, the 36th Engineer Brigade cased
+
+76
+00:03:43,616 --> 00:03:46,821
+its colors and prepared to deploy to Liberia.
+
+77
+00:03:47,271 --> 00:03:50,511
+In late October, the headquarters of the 101st
+
+78
+00:03:50,511 --> 00:03:54,102
+Airborne Division took over the command in Liberia,
+
+79
+00:03:54,102 --> 00:03:56,426
+under Major General Gary Volesky.
+
+80
+00:03:56,426 --> 00:03:59,454
+At the peak, about 2,800 Defense Department
+
+81
+00:03:59,454 --> 00:04:02,201
+personnel were deployed to West Africa.
+
+82
+00:04:02,801 --> 00:04:03,832
+And they went to work.
+
+83
+00:04:04,832 --> 00:04:05,799
+First, testing.
+
+84
+00:04:05,799 --> 00:04:08,957
+Early in the epidemic, confirming a case of Ebola
+
+85
+00:04:08,957 --> 00:04:10,826
+could take as long as a week.
+
+86
+00:04:11,276 --> 00:04:14,669
+On September 29, mobile labs from the Navy's Naval
+
+87
+00:04:14,669 --> 00:04:17,519
+Medical Research Center landed in Liberia.
+
+88
+00:04:17,519 --> 00:04:21,183
+By October 2, they were receiving samples in Monrovia.
+
+89
+00:04:21,633 --> 00:04:25,099
+They cut the wait for a result from 7 days to less
+
+90
+00:04:25,099 --> 00:04:26,000
+than 4 hours.
+
+91
+00:04:26,450 --> 00:04:27,908
+Army labs joined them.
+
+92
+00:04:27,908 --> 00:04:31,354
+The command set up 4 Army mobile testing labs across
+
+93
+00:04:31,354 --> 00:04:31,884
+Liberia.
+
+94
+00:04:31,884 --> 00:04:35,131
+Here, soldiers of the 1st Area Medical Laboratory
+
+95
+00:04:35,131 --> 00:04:37,650
+pack up their lab before heading home.
+
+96
+00:04:38,050 --> 00:04:39,593
+Second, building. U.S.
+
+97
+00:04:39,593 --> 00:04:43,031
+Army engineers built Ebola treatment units, often
+
+98
+00:04:43,031 --> 00:04:46,259
+working alongside the Armed Forces of Liberia.
+
+99
+00:04:46,709 --> 00:04:50,136
+Near Sinje, Liberian army engineers worked with
+
+100
+00:04:50,136 --> 00:04:53,052
+soldiers of the 62nd Engineer Battalion.
+
+101
+00:04:53,502 --> 00:04:57,098
+At Gbediah, in December, the 104th Engineer Company
+
+102
+00:04:57,098 --> 00:05:00,200
+built a treatment unit with Liberian troops.
+
+103
+00:05:00,650 --> 00:05:03,649
+Some sites were so far out that Army helicopter
+
+104
+00:05:03,649 --> 00:05:06,648
+crews used a refueling method called Fat Cow, a
+
+105
+00:05:06,648 --> 00:05:09,838
+helicopter carrying fuel to the field, just to fly
+
+106
+00:05:09,838 --> 00:05:11,433
+far enough to reach them.
+
+107
+00:05:11,883 --> 00:05:14,766
+Chinooks flew supplies to treatment units like the
+
+108
+00:05:14,766 --> 00:05:17,187
+one in Ganta, near the border with Guinea.
+
+109
+00:05:17,637 --> 00:05:20,890
+On November 11, the treatment unit at Tubmanburg
+
+110
+00:05:20,890 --> 00:05:22,110
+officially opened.
+
+111
+00:05:22,110 --> 00:05:25,430
+It was built by the Armed Forces of Liberia, with
+
+112
+00:05:25,430 --> 00:05:27,802
+support and oversight from the U.S.
+
+113
+00:05:27,802 --> 00:05:29,292
+Department of Defense.
+
+114
+00:05:29,692 --> 00:05:31,880
+Third, a hospital for the healers.
+
+115
+00:05:31,880 --> 00:05:35,226
+Navy Seabees, soldiers and airmen built the Monrovia
+
+116
+00:05:35,226 --> 00:05:36,063
+Medical Unit.
+
+117
+00:05:36,063 --> 00:05:38,958
+25 beds, for health workers who caught Ebola.
+
+118
+00:05:39,408 --> 00:05:42,498
+It was run not by the military, but by the U.S.
+
+119
+00:05:42,498 --> 00:05:45,523
+Public Health Service Commissioned Corps, in 4
+
+120
+00:05:45,523 --> 00:05:47,035
+rotations of 70 people.
+
+121
+00:05:47,035 --> 00:05:50,060
+It was the only Ebola treatment unit in Africa
+
+122
+00:05:50,060 --> 00:05:52,230
+dedicated to health care workers.
+
+123
+00:05:52,680 --> 00:05:54,133
+Fourth, training. U.S.
+
+124
+00:05:54,133 --> 00:05:57,303
+trainers taught health workers how to put on and
+
+125
+00:05:57,303 --> 00:06:00,208
+take off protective equipment, step by step.
+
+126
+00:06:00,658 --> 00:06:03,145
+And they walked them through mock treatment wards,
+
+127
+00:06:03,145 --> 00:06:04,239
+before the real thing.
+
+128
+00:06:04,689 --> 00:06:07,678
+By the end of the mission, the division said it had
+
+129
+00:06:07,678 --> 00:06:10,902
+trained more than 1,500 health care workers in Liberia.
+
+130
+00:06:11,352 --> 00:06:14,523
+In all, the 101st said its joint force built and
+
+131
+00:06:14,523 --> 00:06:17,166
+supported 17 treatment units in Liberia.
+
+132
+00:06:17,166 --> 00:06:20,404
+Other official counts are lower, depending on who
+
+133
+00:06:20,404 --> 00:06:21,527
+built which unit.
+
+134
+00:06:22,127 --> 00:06:24,765
+And here is the part of the story that often gets
+
+135
+00:06:24,765 --> 00:06:25,249
+left out.
+
+136
+00:06:26,249 --> 00:06:29,884
+Liberia's epidemic had started to slow before most
+
+137
+00:06:29,884 --> 00:06:31,483
+of those units opened.
+
+138
+00:06:31,483 --> 00:06:34,900
+A CDC report published in November 2014 noted a
+
+139
+00:06:34,900 --> 00:06:37,662
+decrease in cases since mid-September.
+
+140
+00:06:38,112 --> 00:06:41,513
+By late September, treatment-bed capacity in Liberia
+
+141
+00:06:41,513 --> 00:06:43,999
+had overtaken the number of new cases.
+
+142
+00:06:43,999 --> 00:06:47,400
+And as the epidemic waned, many treatment units were
+
+143
+00:06:47,400 --> 00:06:49,624
+underused, and three never opened.
+
+144
+00:06:50,074 --> 00:06:54,058
+In 2015, The New York Times reported that the 11
+
+145
+00:06:54,058 --> 00:06:56,050
+treatment units the U.S.
+
+146
+00:06:56,050 --> 00:07:00,367
+built in Liberia had treated only 28 Ebola patients.
+
+147
+00:07:00,967 --> 00:07:03,009
+So what actually turned the tide?
+
+148
+00:07:03,009 --> 00:07:06,104
+Researchers and health agencies point to Liberians
+
+149
+00:07:06,104 --> 00:07:06,785
+themselves.
+
+150
+00:07:07,235 --> 00:07:10,911
+A study in the CDC's journal, Emerging Infectious
+
+151
+00:07:10,911 --> 00:07:12,787
+Diseases, puts it simply.
+
+152
+00:07:12,787 --> 00:07:16,689
+Community engagement resulted in remarkable behavior
+
+153
+00:07:16,689 --> 00:07:17,214
+change.
+
+154
+00:07:17,664 --> 00:07:18,750
+Burials changed.
+
+155
+00:07:18,750 --> 00:07:22,211
+Because a body can still spread Ebola, safe burials
+
+156
+00:07:22,211 --> 00:07:22,821
+mattered.
+
+157
+00:07:22,821 --> 00:07:26,011
+Liberia went from fewer than 10 burial teams in
+
+158
+00:07:26,011 --> 00:07:29,676
+August, to 54 trained and equipped teams by October 5.
+
+159
+00:07:30,126 --> 00:07:32,875
+Teams tried to trace everyone who had been in
+
+160
+00:07:32,875 --> 00:07:34,280
+contact with a patient.
+
+161
+00:07:34,280 --> 00:07:37,396
+The same study notes that contact tracing generally
+
+162
+00:07:37,396 --> 00:07:39,901
+depended on paper and Excel spreadsheets.
+
+163
+00:07:40,351 --> 00:07:44,112
+And isolation worked, even outside the big treatment
+
+164
+00:07:44,112 --> 00:07:44,546
+units.
+
+165
+00:07:44,546 --> 00:07:48,306
+The CDC estimated that, from September 23 to October
+
+166
+00:07:48,306 --> 00:07:52,067
+31, isolating patients in treatment units, community
+
+167
+00:07:52,067 --> 00:07:55,683
+care centers, and similar settings prevented about
+
+168
+00:07:55,683 --> 00:07:57,346
+9,000 cases in Liberia.
+
+169
+00:07:57,796 --> 00:08:00,532
+So what did the U.S. military add?
+
+170
+00:08:00,532 --> 00:08:05,119
+The Emerging Infectious Diseases study gives its verdict.
+
+171
+00:08:05,119 --> 00:08:07,211
+The deployment of the U.S.
+
+172
+00:08:07,211 --> 00:08:11,475
+military provided a logistic and psychological boost.
+
+173
+00:08:12,075 --> 00:08:13,605
+Week by week, the numbers fell.
+
+174
+00:08:14,605 --> 00:08:18,433
+By March 2015, Liberia was down to fewer than 2 new
+
+175
+00:08:18,433 --> 00:08:19,409
+cases a week.
+
+176
+00:08:19,859 --> 00:08:24,011
+The last confirmed patient was buried on March 28.
+
+177
+00:08:24,011 --> 00:08:28,247
+42 days later, twice the longest incubation period,
+
+178
+00:08:28,247 --> 00:08:32,233
+on May 9, 2015, the WHO declared Liberia free of
+
+179
+00:08:32,233 --> 00:08:33,811
+Ebola transmission.
+
+180
+00:08:34,261 --> 00:08:35,686
+It wasn't quite over.
+
+181
+00:08:35,686 --> 00:08:38,536
+The virus flared up again, more than once.
+
+182
+00:08:38,536 --> 00:08:41,997
+The WHO declared the end of Liberia's last outbreak
+
+183
+00:08:41,997 --> 00:08:43,083
+on June 9, 2016.
+
+184
+00:08:43,483 --> 00:08:44,538
+By then, the U.S.
+
+185
+00:08:44,538 --> 00:08:46,152
+troops had long gone home.
+
+186
+00:08:46,152 --> 00:08:49,132
+Before boarding, they went through final medical
+
+187
+00:08:49,132 --> 00:08:49,752
+screening.
+
+188
+00:08:49,752 --> 00:08:52,732
+Back in the United States, each spent 21 days in
+
+189
+00:08:52,732 --> 00:08:54,098
+controlled monitoring.
+
+190
+00:08:54,548 --> 00:08:59,283
+In February 2015, the 101st cased its colors in Monrovia.
+
+191
+00:08:59,283 --> 00:09:01,028
+General Volesky said:
+
+192
+00:09:01,028 --> 00:09:05,265
+the fight to get to zero Ebola cases will continue.
+
+193
+00:09:05,765 --> 00:09:10,728
+Across Guinea, Liberia and Sierra Leone, the
+
+194
+00:09:10,728 --> 00:09:16,255
+epidemic caused about 28,600 cases, and more than
+
+195
+00:09:16,255 --> 00:09:17,834
+11,300 deaths.
+
+196
+00:09:17,834 --> 00:09:23,022
+In Liberia alone, according to the CDC, 10,678
+
+197
+00:09:23,022 --> 00:09:25,729
+cases, and 4,810 deaths.
+
+198
+00:09:26,529 --> 00:09:28,236
+What changed after Liberia?
+
+199
+00:09:29,236 --> 00:09:32,411
+In 2015, a vaccine trial in Guinea tested ring
+
+200
+00:09:32,411 --> 00:09:36,070
+vaccination, vaccinating people around each new case.
+
+201
+00:09:36,070 --> 00:09:39,108
+Its first results suggested high protection.
+
+202
+00:09:39,558 --> 00:09:43,669
+In December 2019, the FDA approved Ervebo, the first
+
+203
+00:09:43,669 --> 00:09:46,119
+FDA-approved vaccine for Ebola.
+
+204
+00:09:46,119 --> 00:09:50,546
+In 2020, it approved two treatments, Inmazeb and Ebanga.
+
+205
+00:09:50,996 --> 00:09:53,866
+But all three are for one species, Zaire ebolavirus.
+
+206
+00:09:53,866 --> 00:09:56,073
+And today, a different one is spreading.
+
+207
+00:09:56,473 --> 00:10:00,765
+In May 2026, the Democratic Republic of the Congo
+
+208
+00:10:00,765 --> 00:10:05,846
+and Uganda declared outbreaks of Bundibugyo virus disease.
+
+209
+00:10:05,846 --> 00:10:10,138
+As of November 6, the CDC counts 10,910 confirmed
+
+210
+00:10:10,138 --> 00:10:14,780
+cases, and 5,306 deaths, almost all of them in Congo.
+
+211
+00:10:15,230 --> 00:10:18,664
+In June, the CDC reported that no medications or
+
+212
+00:10:18,664 --> 00:10:21,382
+vaccines against it had been approved.
+
+213
+00:10:21,382 --> 00:10:24,887
+The CDC also says the risk to the American public
+
+214
+00:10:24,887 --> 00:10:25,745
+remains low.
+
+215
+00:10:26,245 --> 00:10:31,119
+The tools that worked in Liberia still matter. Fast labs.
+
+216
+00:10:31,119 --> 00:10:32,744
+Beds. Safe burials.
+
+217
+00:10:32,744 --> 00:10:34,112
+Contact tracing.
+
+218
+00:10:34,112 --> 00:10:36,592
+And the trust of communities.
+
+219
+00:10:37,042 --> 00:10:40,516
+In 2014, the help that came from outside was real.
+
+220
+00:10:40,516 --> 00:10:44,267
+But when Liberia reached zero, the WHO put it plainly.
+
+221
+00:10:44,267 --> 00:10:48,157
+It is a tribute to the government and people of Liberia.
+
+222
+00:10:49,057 --> 00:10:51,422
+If this story surprised you, subscribe.
+
+223
+00:10:51,422 --> 00:10:53,606
+Next time on KEPT ALIVE: penicillin.
+
+224
+00:10:53,606 --> 00:10:55,183
+The mold that went to war.
+
+225
+00:10:55,983 --> 00:10:57,123
+For education only.
+
+226
+00:10:57,123 --> 00:10:58,744
+This is not medical advice.
+
+227
+00:10:58,744 --> 00:11:01,566
+If you have a health concern, talk to a doctor.
