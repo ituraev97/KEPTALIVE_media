@@ -1,0 +1,129 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.02,0:00:22.56,Sub,,0,0,0,,{\fad(80,80)}16 years later, American companies had produced 2.3
+Dialogue: 0,0:00:22.58,0:00:26.12,Sub,,0,0,0,,{\fad(80,80)}million doses of the drug first found in that mold.
+Dialogue: 0,0:00:26.14,0:00:27.37,Sub,,0,0,0,,{\fad(80,80)}In time for D-Day.
+Dialogue: 2,0:00:19.27,0:00:25.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:00:19.27,0:00:25.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:19.27,0:00:25.02,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGLAND · 1944 · U.S. COAST GUARD FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:00:19.27,0:00:25.02,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. TROOPS EMBARK FOR THE NORMANDY INVASION
+Dialogue: 0,0:00:35.40,0:00:38.25,Sub,,0,0,0,,{\fad(80,80)}This is the story of the first antibiotic to be
+Dialogue: 0,0:00:38.27,0:00:39.10,Sub,,0,0,0,,{\fad(80,80)}mass-produced.
+Dialogue: 0,0:00:39.12,0:00:42.09,Sub,,0,0,0,,{\fad(80,80)}And of the warning its discoverer gave the world.
+Dialogue: 2,0:00:35.65,0:00:41.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 966 0 l 966 132 l 0 132{\p0}
+Dialogue: 3,0:00:35.65,0:00:41.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:35.65,0:00:41.40,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LOCATION NOT IDENTIFIED · UNITED NEWS · NARA 208-UN-1008
+Dialogue: 3,0:00:35.65,0:00:41.40,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PENICILLIN MOLD CULTURES · 1944 NEWSREEL
+Dialogue: 0,0:01:43.59,0:01:46.58,Sub,,0,0,0,,{\fad(80,80)}A culture is a dish of jelly where bacteria are
+Dialogue: 0,0:01:46.60,0:01:47.67,Sub,,0,0,0,,{\fad(80,80)}grown on purpose.
+Dialogue: 0,0:01:47.69,0:01:50.87,Sub,,0,0,0,,{\fad(80,80)}This is what they look like in a lab today, at the
+Dialogue: 0,0:01:50.89,0:01:53.37,Sub,,0,0,0,,{\fad(80,80)}Walter Reed Army Institute of Research.
+Dialogue: 2,0:01:43.84,0:01:49.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:01:43.84,0:01:49.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:43.84,0:01:49.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WALTER REED ARMY INSTITUTE OF RESEARCH · 2023
+Dialogue: 3,0:01:43.84,0:01:49.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BACTERIA CULTURES IN A LAB TODAY
+Dialogue: 0,0:04:20.70,0:04:24.11,Sub,,0,0,0,,{\fad(80,80)}Until then, the mold had been grown on the surface
+Dialogue: 0,0:04:24.13,0:04:27.46,Sub,,0,0,0,,{\fad(80,80)}of liquid, in flasks and bottles, like these in a
+Dialogue: 0,0:04:27.48,0:04:28.42,Sub,,0,0,0,,{\fad(80,80)}1944 newsreel.
+Dialogue: 2,0:04:20.95,0:04:26.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 966 0 l 966 132 l 0 132{\p0}
+Dialogue: 3,0:04:20.95,0:04:26.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:20.95,0:04:26.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LOCATION NOT IDENTIFIED · UNITED NEWS · NARA 208-UN-1008
+Dialogue: 3,0:04:20.95,0:04:26.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PENICILLIN MOLD CULTURES · 1944 NEWSREEL
+Dialogue: 0,0:05:19.09,0:05:21.21,Sub,,0,0,0,,{\fad(80,80)}Norman Heatley stayed on in America.
+Dialogue: 0,0:05:21.23,0:05:24.14,Sub,,0,0,0,,{\fad(80,80)}He later worked at the drug company Merck, on the
+Dialogue: 0,0:05:24.16,0:05:26.46,Sub,,0,0,0,,{\fad(80,80)}problems of making penicillin at scale.
+Dialogue: 2,0:05:19.34,0:05:25.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1111 0 l 1111 132 l 0 132{\p0}
+Dialogue: 3,0:05:19.34,0:05:25.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:19.34,0:05:25.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLANT NOT IDENTIFIED · UNITED NEWS · NATIONAL ARCHIVES 208-UN-113
+Dialogue: 3,0:05:19.34,0:05:25.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PENICILLIN PRODUCTION · 1944 NEWSREEL
+Dialogue: 0,0:05:26.93,0:05:28.97,Sub,,0,0,0,,{\fad(80,80)}Meanwhile, drug companies joined in.
+Dialogue: 0,0:05:28.99,0:05:30.29,Sub,,0,0,0,,{\fad(80,80)}At first, four of them:
+Dialogue: 0,0:05:30.31,0:05:32.24,Sub,,0,0,0,,{\fad(80,80)}Merck, Squibb, Pfizer and Lederle.
+Dialogue: 0,0:05:32.26,0:05:34.81,Sub,,0,0,0,,{\fad(80,80)}After the attack on Pearl Harbor, 21 American
+Dialogue: 0,0:05:34.83,0:05:36.70,Sub,,0,0,0,,{\fad(80,80)}companies combined their efforts.
+Dialogue: 2,0:05:27.18,0:05:32.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1111 0 l 1111 132 l 0 132{\p0}
+Dialogue: 3,0:05:27.18,0:05:32.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:27.18,0:05:32.93,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLANT NOT IDENTIFIED · UNITED NEWS · NATIONAL ARCHIVES 208-UN-113
+Dialogue: 3,0:05:27.18,0:05:32.93,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PENICILLIN PRODUCTION · 1944 NEWSREEL
+Dialogue: 0,0:06:13.21,0:06:16.42,Sub,,0,0,0,,{\fad(80,80)}In English ports, American troops boarded landing ships.
+Dialogue: 2,0:06:13.46,0:06:16.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:06:13.46,0:06:16.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:13.46,0:06:16.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGLAND · 1944 · U.S. COAST GUARD FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:06:13.46,0:06:16.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. TROOPS EMBARK FOR THE NORMANDY INVASION
+Dialogue: 0,0:06:23.76,0:06:26.78,Sub,,0,0,0,,{\fad(80,80)}According to the American Chemical Society, most of
+Dialogue: 0,0:06:26.80,0:06:29.76,Sub,,0,0,0,,{\fad(80,80)}the penicillin that went ashore with Allied forces
+Dialogue: 0,0:06:29.78,0:06:33.10,Sub,,0,0,0,,{\fad(80,80)}on D-Day came from that converted ice plant in Brooklyn.
+Dialogue: 2,0:06:24.01,0:06:29.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:06:24.01,0:06:29.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:24.01,0:06:29.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGLAND · 1944 · U.S. COAST GUARD FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:06:24.01,0:06:29.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. TROOPS EMBARK FOR THE NORMANDY INVASION
+Dialogue: 0,0:06:33.57,0:06:37.84,Sub,,0,0,0,,{\fad(80,80)}On June 6, 1944, Allied troops landed in Normandy.
+Dialogue: 2,0:06:33.82,0:06:38.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:06:33.82,0:06:38.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:33.82,0:06:38.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JUNE 1944 · U.S. NAVY FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:06:33.82,0:06:38.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LANDING CRAFT HEAD FOR THE FRENCH COAST
+Dialogue: 0,0:06:38.31,0:06:42.02,Sub,,0,0,0,,{\fad(80,80)}Behind them came the field hospitals. This U.S.
+Dialogue: 0,0:06:42.04,0:06:45.99,Sub,,0,0,0,,{\fad(80,80)}Army hospital was set up in Normandy in July 1944.
+Dialogue: 2,0:06:38.56,0:06:44.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:06:38.56,0:06:44.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:38.56,0:06:44.31,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FRANCE · JULY 1944 · U.S. ARMY FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:06:38.56,0:06:44.31,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL IS SET UP IN NORMANDY
+Dialogue: 0,0:08:40.17,0:08:41.70,Sub,,0,0,0,,{\fad(80,80)}Some bacteria fight back.
+Dialogue: 0,0:08:41.72,0:08:44.67,Sub,,0,0,0,,{\fad(80,80)}They make an enzyme, beta-lactamase, that breaks
+Dialogue: 0,0:08:44.69,0:08:47.21,Sub,,0,0,0,,{\fad(80,80)}down part of the drug before it can work.
+Dialogue: 2,0:08:40.42,0:08:46.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:08:40.42,0:08:46.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:40.42,0:08:46.17,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WALTER REED ARMY INSTITUTE OF RESEARCH · 2023
+Dialogue: 3,0:08:40.42,0:08:46.17,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DRUG RESEARCH LABORATORY
+Dialogue: 0,0:09:13.27,0:09:15.71,Sub,,0,0,0,,{\fad(80,80)}The military tracks the problem too.
+Dialogue: 0,0:09:15.73,0:09:19.14,Sub,,0,0,0,,{\fad(80,80)}At the Walter Reed Army Institute of Research, one
+Dialogue: 0,0:09:19.16,0:09:22.50,Sub,,0,0,0,,{\fad(80,80)}network watches for antibiotic-resistant bacteria
+Dialogue: 0,0:09:22.52,0:09:24.96,Sub,,0,0,0,,{\fad(80,80)}across the Army, Navy and Air Force.
+Dialogue: 2,0:09:13.52,0:09:19.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 888 0 l 888 132 l 0 132{\p0}
+Dialogue: 3,0:09:13.52,0:09:19.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:13.52,0:09:19.27,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WALTER REED ARMY INSTITUTE OF RESEARCH · 2023
+Dialogue: 3,0:09:13.52,0:09:19.27,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TRACKING ANTIBIOTIC-RESISTANT BACTERIA
+Dialogue: 0,0:09:25.43,0:09:28.84,Sub,,0,0,0,,{\fad(80,80)}And military hospitals run their own microbiology
+Dialogue: 0,0:09:28.86,0:09:32.62,Sub,,0,0,0,,{\fad(80,80)}labs, like this one at Naval Medical Center San Diego.
+Dialogue: 2,0:09:25.68,0:09:31.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 660 0 l 660 132 l 0 132{\p0}
+Dialogue: 3,0:09:25.68,0:09:31.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:25.68,0:09:31.43,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NAVAL MEDICAL CENTER SAN DIEGO · 2021
+Dialogue: 3,0:09:25.68,0:09:31.43,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MICROBIOLOGY LABORATORY
+Dialogue: 0,0:09:56.09,0:09:59.44,Sub,,0,0,0,,{\fad(80,80)}It took a team in Oxford, a lab in Peoria, a
+Dialogue: 0,0:09:59.46,0:10:03.74,Sub,,0,0,0,,{\fad(80,80)}cantaloupe, and 21 companies to turn it into a medicine.
+Dialogue: 0,0:10:03.76,0:10:05.12,Sub,,0,0,0,,{\fad(80,80)}In time for D-Day.
+Dialogue: 2,0:09:56.34,0:10:02.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:09:56.34,0:10:02.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:56.34,0:10:02.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGLAND · 1944 · U.S. COAST GUARD FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:09:56.34,0:10:02.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. TROOPS EMBARK FOR THE NORMANDY INVASION
+Dialogue: 0,0:10:05.59,0:10:08.92,Sub,,0,0,0,,{\fad(80,80)}Today, penicillin and the antibiotics that followed
+Dialogue: 0,0:10:08.94,0:10:12.20,Sub,,0,0,0,,{\fad(80,80)}are so ordinary that it's easy to forget the world
+Dialogue: 0,0:10:12.22,0:10:12.99,Sub,,0,0,0,,{\fad(80,80)}before them.
+Dialogue: 2,0:10:05.84,0:10:11.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:10:05.84,0:10:11.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:05.84,0:10:11.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WALTER REED ARMY INSTITUTE OF RESEARCH · 2023
+Dialogue: 3,0:10:05.84,0:10:11.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BACTERIA CULTURES IN A LAB TODAY
+Dialogue: 0,0:10:13.46,0:10:16.26,Sub,,0,0,0,,{\fad(80,80)}And the man who noticed it first used his Nobel
+Dialogue: 0,0:10:16.28,0:10:18.84,Sub,,0,0,0,,{\fad(80,80)}lecture to warn that it could stop working.
+Dialogue: 2,0:10:13.71,0:10:19.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1111 0 l 1111 132 l 0 132{\p0}
+Dialogue: 3,0:10:13.71,0:10:19.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:13.71,0:10:19.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLANT NOT IDENTIFIED · UNITED NEWS · NATIONAL ARCHIVES 208-UN-113
+Dialogue: 3,0:10:13.71,0:10:19.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PENICILLIN PRODUCTION · 1944 NEWSREEL
+Dialogue: 5,0:10:30.99,0:10:35.19,Credit,,0,0,0,,{\fad(400,0)}Archival film (public domain, National Archives via Internet Archive): United News newsreels, 1944; U.S. Coast Guard, U.S. Navy and U.S. Army films, 1944.\NFootage: Walter Reed Army Institute of Research; Naval Medical Center San Diego via DVIDS (public domain).\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, NIH, CDC or WHO.\NFor education only. This is not medical advice.
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

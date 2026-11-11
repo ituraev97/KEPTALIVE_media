@@ -1,0 +1,821 @@
+[
+ {
+  "key": "stat_c4cc8f",
+  "name": "stat",
+  "opts": {
+   "a": "&#8203;1928",
+   "b": "PENICILLIN IS DISCOVERED \u2014 BY ACCIDENT",
+   "c": "ST. MARY'S HOSPITAL, LONDON \u00b7 SOURCES: AAI \u00b7 PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_93291d",
+  "name": "doc",
+  "opts": {
+   "header": "ST. MARY'S HOSPITAL \u00b7 LONDON \u00b7 SEPTEMBER 1928",
+   "title": "THE CONTAMINATED DISH",
+   "body": "A mold had landed on a culture of staphylococcus bacteria. Around it: a ring where the bacteria did not grow.",
+   "source": "SOURCES: AAI \u00b7 PBS NEWSHOUR",
+   "stamp": "CONTAMINATED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_4f9312",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FROM DISH TO D-DAY",
+   "title": "1928\u20131944",
+   "events": [
+    {
+     "y": "1928",
+     "t": "A dish in London"
+    },
+    {
+     "y": "1940",
+     "t": "A team in Oxford"
+    },
+    {
+     "y": "1943",
+     "t": "A cantaloupe in Illinois"
+    },
+    {
+     "y": "1944",
+     "t": "An ice plant in Brooklyn"
+    }
+   ],
+   "footer": "SOURCES: AAI \u00b7 SCIENCE HISTORY INSTITUTE \u00b7 USDA ARS \u00b7 AMERICAN CHEMICAL SOCIETY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_b99691",
+  "name": "title",
+  "opts": {
+   "kicker": "FIRST \u00b7 010",
+   "title": "PENICILLIN",
+   "sub": "THE MOLD THAT <span style=\"color:#2BB3A3\">WENT TO WAR</span>",
+   "size": 210
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_685d50",
+  "name": "chapter",
+  "opts": {
+   "case": "1914\u20131918",
+   "n": "I",
+   "t": "THE WOUNDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_4dbe31",
+  "name": "doc",
+  "opts": {
+   "header": "FRANCE \u00b7 WORLD WAR I",
+   "title": "CAPTAIN ALEXANDER FLEMING",
+   "body": "Royal Army Medical Corps. A field laboratory, studying wound infections.",
+   "source": "SOURCE: AMERICAN ASSOCIATION OF IMMUNOLOGISTS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_051493",
+  "name": "stat",
+  "opts": {
+   "a": "HARMFUL",
+   "b": "FIELD ANTISEPTICS IN WORLD WAR I",
+   "c": "OFTEN KILLED WHITE BLOOD CELLS MORE THAN BACTERIA \u00b7 SOURCE: AAI"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_76357c",
+  "name": "stat",
+  "opts": {
+   "a": "1 IN 3",
+   "b": "MILITARY DEATHS IN WORLD WAR I CAUSED BY DISEASE",
+   "c": "APPROXIMATELY \u00b7 SOURCE: NATIONAL WWII MUSEUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_014a2e",
+  "name": "cards3",
+  "opts": {
+   "kicker": "ALEXANDER FLEMING \u00b7 BEFORE PENICILLIN",
+   "title": "THE PATH TO 1928",
+   "cards": [
+    {
+     "h": "WWI",
+     "t": "Wound infections, France"
+    },
+    {
+     "h": "1921",
+     "t": "Discovers lysozyme"
+    },
+    {
+     "h": "1928",
+     "t": "The contaminated dish"
+    }
+   ],
+   "footer": "SOURCES: AAI \u00b7 SCIENCE HISTORY INSTITUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_514ebd",
+  "name": "chapter",
+  "opts": {
+   "case": "LONDON \u00b7 1928",
+   "n": "II",
+   "t": "THE DISH"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_4e059a",
+  "name": "doc",
+  "opts": {
+   "header": "LONDON \u00b7 SUMMER 1928",
+   "title": "A MESSY LAB BENCH",
+   "body": "Fleming returns from vacation in Scotland. Cultures of staphylococcus had been left out.",
+   "source": "SOURCES: PBS NEWSHOUR \u00b7 AAI"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_48621d",
+  "name": "steps",
+  "opts": {
+   "kicker": "SEPTEMBER 1928",
+   "title": "WHAT FLEMING SAW",
+   "items": [
+    [
+     "DISH",
+     "Staphylococcus bacteria"
+    ],
+    [
+     "MOLD",
+     "A contaminant lands"
+    ],
+    [
+     "RING",
+     "No bacteria around it"
+    ],
+    [
+     "QUESTION",
+     "What is the mold making?"
+    ]
+   ],
+   "footer": "SOURCES: AAI \u00b7 PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_a6804b",
+  "name": "stat",
+  "opts": {
+   "a": "PENICILLIUM",
+   "b": "THE MOLD",
+   "c": "PENICILLIUM NOTATUM \u00b7 SOURCES: NATIONAL WWII MUSEUM \u00b7 PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_e39b8c",
+  "name": "doc",
+  "opts": {
+   "header": "LONDON \u00b7 1929",
+   "title": "BRITISH JOURNAL OF EXPERIMENTAL PATHOLOGY",
+   "body": "Fleming publishes his findings on the mold. The paper is \"largely ignored.\"",
+   "source": "SOURCE: AAI",
+   "stamp": "IGNORED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_fc8e44",
+  "name": "stat",
+  "opts": {
+   "a": "12",
+   "b": "YEARS FLEMING KEPT THE MOLD GROWING",
+   "c": "SOURCE: NATIONAL WWII MUSEUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_f3bd6a",
+  "name": "quote",
+  "opts": {
+   "q": "I certainly didn't plan to revolutionize all medicine by discovering the world's first antibiotic\u2026",
+   "w": "ATTRIBUTED TO ALEXANDER FLEMING \u00b7 AS QUOTED BY PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_4158c0",
+  "name": "chapter",
+  "opts": {
+   "case": "OXFORD \u00b7 1938\u20131941",
+   "n": "III",
+   "t": "THE TEAM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_60f474",
+  "name": "cards3",
+  "opts": {
+   "kicker": "SIR WILLIAM DUNN SCHOOL OF PATHOLOGY \u00b7 OXFORD",
+   "title": "THE OXFORD TEAM",
+   "cards": [
+    {
+     "h": "FLOREY",
+     "t": "Pathologist \u00b7 led the work"
+    },
+    {
+     "h": "CHAIN",
+     "t": "Biochemist"
+    },
+    {
+     "h": "HEATLEY",
+     "t": "Biochemist \u00b7 grew the mold, purified the drug"
+    }
+   ],
+   "footer": "SOURCES: SCIENCE HISTORY INSTITUTE \u00b7 PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_b93f61",
+  "name": "doc",
+  "opts": {
+   "header": "OXFORD \u00b7 EARLY 1940s",
+   "title": "THE \"PENICILLIN GIRLS\"",
+   "body": "Six technicians tended the mold. It was grown \"practically everywhere, from bedpans to bathtubs.\"",
+   "source": "SOURCE: SMITHSONIAN MAGAZINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_5495ac",
+  "name": "stat",
+  "opts": {
+   "a": "MAY 25, 1940",
+   "b": "PENICILLIN CURES INFECTED MICE",
+   "c": "FLOREY'S TEAM, OXFORD \u00b7 SOURCES: NATIONAL WWII MUSEUM \u00b7 PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_5638a1",
+  "name": "doc",
+  "opts": {
+   "header": "THE LANCET \u00b7 AUGUST 24, 1940",
+   "title": "PENICILLIN AS A CHEMOTHERAPEUTIC AGENT",
+   "body": "Florey and Chain report the Oxford results. Research groups around the world take notice.",
+   "source": "SOURCE: SCIENCE HISTORY INSTITUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_3deb05",
+  "name": "doc",
+  "opts": {
+   "header": "OXFORD \u00b7 FEBRUARY 1941",
+   "title": "THE FIRST PATIENT",
+   "body": "A policeman with an infection becomes the first patient treated with the Oxford team's purified penicillin.",
+   "source": "SOURCE: SCIENCE HISTORY INSTITUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_ce74db",
+  "name": "steps",
+  "opts": {
+   "kicker": "OXFORD \u00b7 1941",
+   "title": "THE FIRST TREATMENT",
+   "items": [
+    [
+     "IMPROVED",
+     "At first"
+    ],
+    [
+     "RECOVERED",
+     "Drug reclaimed from urine"
+    ],
+    [
+     "RAN LOW",
+     "Supply almost gone"
+    ],
+    [
+     "RELAPSED",
+     "He did not survive"
+    ]
+   ],
+   "footer": "SOURCE: SCIENCE HISTORY INSTITUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_df98a5",
+  "name": "stat",
+  "opts": {
+   "a": "2,000",
+   "b": "LITERS OF MOLD FLUID FOR ONE HUMAN CASE",
+   "c": "OXFORD, EARLY 1940s \u00b7 SOURCE: PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_092ce2",
+  "name": "stat",
+  "opts": {
+   "a": "A FINGERNAIL",
+   "b": "OF PENICILLIN FROM MANY GALLONS OF MOLD BROTH",
+   "c": "EARLY PURIFICATION, OXFORD \u00b7 SOURCE: SCIENCE HISTORY INSTITUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_475cde",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FROM DISH TO DRUG",
+   "title": "THE OXFORD YEARS",
+   "events": [
+    {
+     "y": "1938",
+     "t": "Florey and Chain begin"
+    },
+    {
+     "y": "1940",
+     "t": "Mice cured \u00b7 Lancet paper"
+    },
+    {
+     "y": "FEB 1941",
+     "t": "First patient"
+    },
+    {
+     "y": "JUL 1941",
+     "t": "Florey and Heatley fly to the U.S."
+    }
+   ],
+   "footer": "SOURCES: SCIENCE HISTORY INSTITUTE \u00b7 NATIONAL WWII MUSEUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_90ec29",
+  "name": "chapter",
+  "opts": {
+   "case": "PEORIA, ILLINOIS \u00b7 1941\u20131944",
+   "n": "IV",
+   "t": "THE CANTALOUPE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_d16957",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. DEPARTMENT OF AGRICULTURE",
+   "title": "PEORIA, ILLINOIS",
+   "rows": [
+    [
+     "LAB",
+     "Northern Regional Research Laboratory"
+    ],
+    [
+     "ARRIVED",
+     "July 14, 1941"
+    ],
+    [
+     "WORK BEGAN",
+     "The very next day"
+    ]
+   ],
+   "footer": "SOURCE: USDA AGRICULTURAL RESEARCH SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_49c638",
+  "name": "steps",
+  "opts": {
+   "kicker": "USDA \u00b7 PEORIA",
+   "title": "DEEP-VAT FERMENTATION",
+   "items": [
+    [
+     "CORN",
+     "Corn steep liquor"
+    ],
+    [
+     "AIR",
+     "Pumped into the vat"
+    ],
+    [
+     "DEEP",
+     "Mold grows submerged"
+    ],
+    [
+     "MORE",
+     "Faster growth, more penicillin"
+    ]
+   ],
+   "footer": "SOURCE: USDA AGRICULTURAL RESEARCH SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_97ed07",
+  "name": "list",
+  "opts": {
+   "kicker": "USDA \u00b7 PEORIA \u00b7 1943",
+   "title": "THE MOLD HUNT",
+   "items": [
+    "Produce markets",
+    "Other local sources",
+    "Hundreds of samples tested",
+    "Looking for a better penicillin maker"
+   ],
+   "footer": "SOURCE: USDA ARS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_eb5b35",
+  "name": "stat",
+  "opts": {
+   "a": "CANTALOUPE",
+   "b": "THE PARENT OF ALL COMMERCIAL STRAINS",
+   "c": "FROM A PEORIA MARKET \u00b7 STRAIN NRRL 1951 \u00b7 SOURCE: USDA ARS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_e9c0d3",
+  "name": "doc",
+  "opts": {
+   "header": "PEORIA \u00b7 1943",
+   "title": "\"MOLDY MARY\"?",
+   "body": "Technician Mary Hunt helped collect mold samples. Who actually found the cantaloupe is uncertain.",
+   "source": "SOURCE: USDA ARS",
+   "stamp": "UNCERTAIN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d0aa50",
+  "name": "stat",
+  "opts": {
+   "a": "Q-176",
+   "b": "THE MOST PRODUCTIVE WARTIME STRAIN",
+   "c": "UNIVERSITY OF WISCONSIN\u2013MADISON \u00b7 SOURCE: UW\u2013MADISON CALS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_053eae",
+  "name": "doc",
+  "opts": {
+   "header": "NEW HAVEN, CONNECTICUT \u00b7 MARCH 1942",
+   "title": "A FIRST FOR THE U.S.",
+   "body": "A patient near death becomes the first in the U.S. successfully treated with penicillin.",
+   "source": "SOURCE: PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_a63433",
+  "name": "callcard",
+  "opts": {
+   "kicker": "BROOKLYN, NEW YORK",
+   "title": "THE ICE PLANT",
+   "rows": [
+    [
+     "BEFORE",
+     "An old ice plant"
+    ],
+    [
+     "TANKS",
+     "Fourteen, 7,500 gallons each"
+    ],
+    [
+     "OPENED",
+     "March 1, 1944"
+    ]
+   ],
+   "footer": "SOURCE: AMERICAN CHEMICAL SOCIETY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_6271dd",
+  "name": "phases",
+  "opts": {
+   "kicker": "PFIZER \u00b7 BROOKLYN",
+   "title": "ONE MONTH VS. ONE YEAR",
+   "left": {
+    "label": "ALL OF 1943",
+    "num": "1 YEAR",
+    "desc": "OF PRODUCTION"
+   },
+   "right": {
+    "label": "1944",
+    "num": "1 MONTH",
+    "desc": "MORE THAN ALL OF 1943"
+   },
+   "active": 1,
+   "footer": "SOURCE: AMERICAN CHEMICAL SOCIETY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_ce5cb8",
+  "name": "chapter",
+  "opts": {
+   "case": "NORMANDY \u00b7 1944",
+   "n": "V",
+   "t": "D-DAY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_01919c",
+  "name": "stat",
+  "opts": {
+   "a": "2,300,000",
+   "b": "DOSES OF PENICILLIN READY BEFORE D-DAY",
+   "c": "21 U.S. COMPANIES \u00b7 SOURCE: NATIONAL WWII MUSEUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_e33984",
+  "name": "phases",
+  "opts": {
+   "kicker": "THE PRICE OF A DOSE",
+   "title": "1943 VS. 1946",
+   "left": {
+    "label": "JULY 1943",
+    "num": "$20",
+    "desc": "PER DOSE"
+   },
+   "right": {
+    "label": "THREE YEARS LATER",
+    "num": "$0.55",
+    "desc": "PER DOSE"
+   },
+   "active": 1,
+   "footer": "SOURCE: USDA AGRICULTURAL RESEARCH SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_a32427",
+  "name": "phases",
+  "opts": {
+   "kicker": "U.S. PENICILLIN PRODUCTION",
+   "title": "FROM SCARCE TO MASS-PRODUCED",
+   "left": {
+    "label": "JAN.\u2013MAY 1942",
+    "num": "400 MILLION",
+    "desc": "UNITS IN TOTAL"
+   },
+   "right": {
+    "label": "END OF WWII",
+    "num": "650 BILLION",
+    "desc": "UNITS A MONTH"
+   },
+   "active": 1,
+   "footer": "SOURCE: PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_f568b2",
+  "name": "phases",
+  "opts": {
+   "kicker": "BACTERIAL PNEUMONIA",
+   "title": "DEATH RATE",
+   "left": {
+    "label": "WORLD WAR I",
+    "num": "18%",
+    "desc": "DEATH RATE"
+   },
+   "right": {
+    "label": "WORLD WAR II",
+    "num": "<1%",
+    "desc": "DEATH RATE"
+   },
+   "active": 1,
+   "footer": "SULFA DRUGS AND PENICILLIN \u00b7 SOURCE: PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_fadef5",
+  "name": "stat",
+  "opts": {
+   "a": "OVERLOOKED",
+   "b": "THE OXFORD TEAM",
+   "c": "FLOREY, CHAIN AND HEATLEY MADE IT USABLE \u00b7 SOURCE: PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_3bf6aa",
+  "name": "cards3",
+  "opts": {
+   "kicker": "NOBEL PRIZE IN PHYSIOLOGY OR MEDICINE \u00b7 1945",
+   "title": "THE PRIZE",
+   "cards": [
+    {
+     "h": "FLEMING",
+     "t": "Discovered it \u00b7 1928"
+    },
+    {
+     "h": "FLOREY",
+     "t": "Proved it works"
+    },
+    {
+     "h": "CHAIN",
+     "t": "Biochemist"
+    }
+   ],
+   "footer": "HEATLEY: HONORARY DOCTORATE, OXFORD, 1990 \u00b7 SOURCES: AAI \u00b7 PBS NEWSHOUR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_279d7d",
+  "name": "chapter",
+  "opts": {
+   "case": "1945\u2013TODAY",
+   "n": "VI",
+   "t": "THE WARNING"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_c86e39",
+  "name": "quote",
+  "opts": {
+   "q": "The time may come when penicillin can be bought by anyone in the shops.",
+   "w": "ALEXANDER FLEMING \u00b7 NOBEL LECTURE \u00b7 DECEMBER 11, 1945"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_31252d",
+  "name": "quote",
+  "opts": {
+   "q": "The time may come when penicillin can be bought by anyone in the shops.",
+   "w": "ALEXANDER FLEMING \u00b7 NOBEL LECTURE, 1945 \u00b7 VIA LIVE SCIENCE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_d4114d",
+  "name": "steps",
+  "opts": {
+   "kicker": "FLEMING'S IMAGINED CASE \u00b7 1945",
+   "title": "HOW RESISTANCE SPREADS",
+   "items": [
+    [
+     "TOO LITTLE",
+     "A man underdoses himself"
+    ],
+    [
+     "RESISTANT",
+     "His microbes survive"
+    ],
+    [
+     "SPREAD",
+     "They pass to his wife"
+    ],
+    [
+     "FAILS",
+     "Penicillin can't save her"
+    ]
+   ],
+   "footer": "A HYPOTHETICAL FROM FLEMING'S NOBEL LECTURE \u00b7 SOURCE: LIVE SCIENCE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_d7f78f",
+  "name": "doc",
+  "opts": {
+   "header": "OXFORD \u00b7 1940",
+   "title": "AN ENZYME THAT DESTROYS PENICILLIN",
+   "body": "Abraham and Chain report a bacterial enzyme able to destroy penicillin.",
+   "source": "SOURCE: NATURE 146:837 (1940)",
+   "stamp": "RESISTANT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_604b66",
+  "name": "steps",
+  "opts": {
+   "kicker": "HOW PENICILLIN WORKS",
+   "title": "BREAKING THE WALL",
+   "items": [
+    [
+     "BIND",
+     "Penicillin-binding proteins"
+    ],
+    [
+     "BLOCK",
+     "The wall can't be built"
+    ],
+    [
+     "WEAKEN",
+     "The wall breaks down"
+    ],
+    [
+     "BURST",
+     "Water pushes in"
+    ]
+   ],
+   "footer": "SOURCE: STATPEARLS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_3bb314",
+  "name": "phases",
+  "opts": {
+   "kicker": "CDC \u00b7 2019 AR THREATS REPORT",
+   "title": "ANTIMICROBIAL RESISTANCE IN THE U.S.",
+   "left": {
+    "label": "INFECTIONS",
+    "num": "2.8M+",
+    "desc": "EACH YEAR (ESTIMATED)"
+   },
+   "right": {
+    "label": "DEATHS",
+    "num": "35,000+",
+    "desc": "EACH YEAR (ESTIMATED)"
+   },
+   "active": 1,
+   "footer": "SOURCE: CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_7c610f",
+  "name": "stat",
+  "opts": {
+   "a": "1 IN 6",
+   "b": "LAB-CONFIRMED BACTERIAL INFECTIONS RESISTANT TO STANDARD ANTIBIOTICS",
+   "c": "WORLDWIDE \u00b7 WHO REPORT, OCTOBER 2025 \u00b7 VIA UN NEWS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_359a16",
+  "name": "quote",
+  "opts": {
+   "q": "AMR is no longer a future challenge; it is a global threat.",
+   "w": "WORLD HEALTH ORGANIZATION \u00b7 WORLD AMR AWARENESS WEEK \u00b7 NOV. 18\u201324, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_d0c376",
+  "name": "doc",
+  "opts": {
+   "header": "ST. MARY'S HOSPITAL \u00b7 LONDON \u00b7 1928",
+   "title": "THE CONTAMINATED DISH",
+   "body": "A mold, a ring, and a paper that was largely ignored.",
+   "source": "SOURCES: AAI \u00b7 PBS NEWSHOUR",
+   "stamp": "1928"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_61e240",
+  "name": "stat",
+  "opts": {
+   "a": "SUBSCRIBE",
+   "b": "REAL MEDICINE \u00b7 REAL FOOTAGE",
+   "c": "KEPT ALIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_c3691f",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 FIRST 010",
+   "stamp": "PENICILLIN"
+  },
+  "intro": 2.4
+ }
+]

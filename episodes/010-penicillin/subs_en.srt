@@ -1,0 +1,931 @@
+1
+00:00:01,000 --> 00:00:04,162
+How was penicillin discovered? By accident.
+
+2
+00:00:04,612 --> 00:00:07,817
+In September 1928, a London bacteriologist named
+
+3
+00:00:07,817 --> 00:00:11,157
+Alexander Fleming came back from a summer vacation
+
+4
+00:00:11,157 --> 00:00:14,429
+and found that a mold had contaminated one of his
+
+5
+00:00:14,429 --> 00:00:15,698
+dishes of bacteria.
+
+6
+00:00:15,698 --> 00:00:18,570
+Around the mold, the bacteria did not grow.
+
+7
+00:00:19,020 --> 00:00:22,579
+16 years later, American companies had produced 2.3
+
+8
+00:00:22,579 --> 00:00:26,139
+million doses of the drug first found in that mold.
+
+9
+00:00:26,139 --> 00:00:27,395
+In time for D-Day.
+
+10
+00:00:27,845 --> 00:00:30,653
+Between the dish and the beaches were a team in
+
+11
+00:00:30,653 --> 00:00:33,640
+Oxford, a moldy cantaloupe in Illinois, and an old
+
+12
+00:00:33,640 --> 00:00:34,954
+ice plant in Brooklyn.
+
+13
+00:00:35,404 --> 00:00:38,271
+This is the story of the first antibiotic to be
+
+14
+00:00:38,271 --> 00:00:39,125
+mass-produced.
+
+15
+00:00:39,125 --> 00:00:42,114
+And of the warning its discoverer gave the world.
+
+16
+00:00:42,514 --> 00:00:43,333
+Penicillin.
+
+17
+00:00:43,333 --> 00:00:45,271
+The mold that went to war.
+
+18
+00:00:47,671 --> 00:00:50,527
+To see why it mattered, start with the First World War.
+
+19
+00:00:51,527 --> 00:00:54,486
+Fleming served as a captain in the British Royal
+
+20
+00:00:54,486 --> 00:00:55,658
+Army Medical Corps.
+
+21
+00:00:55,658 --> 00:00:58,803
+He worked in a field laboratory in France, studying
+
+22
+00:00:58,803 --> 00:00:59,789
+infected wounds.
+
+23
+00:01:00,239 --> 00:01:02,986
+What he and his mentor, Almroth Wright, found was
+
+24
+00:01:02,986 --> 00:01:03,547
+troubling.
+
+25
+00:01:03,547 --> 00:01:06,462
+The antiseptics surgeons used in the field were more
+
+26
+00:01:06,462 --> 00:01:07,640
+harmful than helpful.
+
+27
+00:01:07,640 --> 00:01:10,331
+They were often better at killing the body's own
+
+28
+00:01:10,331 --> 00:01:13,414
+infection-fighting white blood cells than the bacteria.
+
+29
+00:01:13,864 --> 00:01:16,847
+Doctors had no drug that could clear a wound
+
+30
+00:01:16,847 --> 00:01:18,949
+infection from inside the body.
+
+31
+00:01:18,949 --> 00:01:22,272
+And in the Great War, disease caused about 1 in 3
+
+32
+00:01:22,272 --> 00:01:23,357
+military deaths.
+
+33
+00:01:23,957 --> 00:01:27,474
+After the war, Fleming went back to his laboratory at St.
+
+34
+00:01:27,474 --> 00:01:29,078
+Mary's Hospital in London.
+
+35
+00:01:29,078 --> 00:01:32,225
+10 years later, a mistake would eventually make him
+
+36
+00:01:32,225 --> 00:01:32,657
+famous.
+
+37
+00:01:33,157 --> 00:01:34,627
+It began with a dirty bench.
+
+38
+00:01:35,627 --> 00:01:38,892
+In the summer of 1928, Fleming went on vacation to
+
+39
+00:01:38,892 --> 00:01:39,480
+Scotland.
+
+40
+00:01:39,480 --> 00:01:43,137
+He left some of his bacterial cultures out on the bench.
+
+41
+00:01:43,587 --> 00:01:46,600
+A culture is a dish of jelly where bacteria are
+
+42
+00:01:46,600 --> 00:01:47,689
+grown on purpose.
+
+43
+00:01:47,689 --> 00:01:50,894
+This is what they look like in a lab today, at the
+
+44
+00:01:50,894 --> 00:01:53,394
+Walter Reed Army Institute of Research.
+
+45
+00:01:53,844 --> 00:01:57,070
+Fleming's dishes held staphylococcus, a common bacterium.
+
+46
+00:01:57,070 --> 00:01:58,994
+On one of them, a mold had landed.
+
+47
+00:01:58,994 --> 00:02:01,768
+And around the mold was a ring where the bacteria
+
+48
+00:02:01,768 --> 00:02:02,503
+did not grow.
+
+49
+00:02:02,953 --> 00:02:04,505
+The mold was a Penicillium.
+
+50
+00:02:04,505 --> 00:02:07,437
+The bacteria-killing substance it made became known
+
+51
+00:02:07,437 --> 00:02:08,242
+as penicillin.
+
+52
+00:02:08,692 --> 00:02:11,851
+In 1929, Fleming published his findings in the
+
+53
+00:02:11,851 --> 00:02:14,735
+British Journal of Experimental Pathology.
+
+54
+00:02:14,735 --> 00:02:16,795
+The paper was largely ignored.
+
+55
+00:02:17,245 --> 00:02:19,752
+Fleming did little more work on it.
+
+56
+00:02:19,752 --> 00:02:22,831
+But he kept his mold growing. For 12 years.
+
+57
+00:02:23,281 --> 00:02:26,242
+A line often attributed to him puts it this way:
+
+58
+00:02:26,442 --> 00:02:29,109
+I certainly didn't plan to revolutionize all
+
+59
+00:02:29,109 --> 00:02:32,321
+medicine by discovering the world's first antibiotic.
+
+60
+00:02:33,121 --> 00:02:34,101
+The mold waited.
+
+61
+00:02:34,101 --> 00:02:36,551
+Then, in Oxford, someone read the paper.
+
+62
+00:02:37,551 --> 00:02:40,814
+In 1938, the pathologist Howard Florey and the
+
+63
+00:02:40,814 --> 00:02:44,360
+biochemist Ernst Chain decided to study substances
+
+64
+00:02:44,360 --> 00:02:45,708
+that kill bacteria.
+
+65
+00:02:45,708 --> 00:02:47,623
+Penicillin was one of them.
+
+66
+00:02:48,073 --> 00:02:51,198
+A third biochemist, Norman Heatley, found ways to
+
+67
+00:02:51,198 --> 00:02:52,410
+grow and purify it.
+
+68
+00:02:52,410 --> 00:02:55,599
+The lab grew the mold practically everywhere, from
+
+69
+00:02:55,599 --> 00:02:56,874
+bedpans to bathtubs.
+
+70
+00:02:56,874 --> 00:02:59,872
+Six women technicians, nicknamed the penicillin
+
+71
+00:02:59,872 --> 00:03:00,957
+girls, tended it.
+
+72
+00:03:01,407 --> 00:03:05,548
+On May 25, 1940, Florey's team tested penicillin on
+
+73
+00:03:05,548 --> 00:03:06,684
+infected mice.
+
+74
+00:03:06,684 --> 00:03:09,445
+The mice it was given to survived.
+
+75
+00:03:09,895 --> 00:03:12,322
+That August, Florey and Chain reported their
+
+76
+00:03:12,322 --> 00:03:13,590
+findings in the Lancet.
+
+77
+00:03:13,590 --> 00:03:16,348
+Research groups around the world were electrified.
+
+78
+00:03:16,798 --> 00:03:18,490
+Next came a human patient.
+
+79
+00:03:18,490 --> 00:03:21,485
+In February 1941, a policeman became the first
+
+80
+00:03:21,485 --> 00:03:24,610
+patient with an infection to be treated with the
+
+81
+00:03:24,610 --> 00:03:26,823
+Oxford team's purified penicillin.
+
+82
+00:03:27,273 --> 00:03:28,834
+At first, he improved.
+
+83
+00:03:28,834 --> 00:03:32,310
+There was so little penicillin that the team even
+
+84
+00:03:32,310 --> 00:03:35,218
+recovered it from his urine to use again.
+
+85
+00:03:35,218 --> 00:03:36,424
+It wasn't enough.
+
+86
+00:03:36,424 --> 00:03:37,985
+He relapsed, and died.
+
+87
+00:03:38,435 --> 00:03:41,752
+Making enough penicillin for one human case took
+
+88
+00:03:41,752 --> 00:03:44,584
+about 2,000 liters of mold culture fluid.
+
+89
+00:03:44,984 --> 00:03:47,487
+Early purification was just as hard.
+
+90
+00:03:47,487 --> 00:03:50,546
+Many gallons of mold broth gave an amount of
+
+91
+00:03:50,546 --> 00:03:54,092
+penicillin just large enough to cover a fingernail.
+
+92
+00:03:54,492 --> 00:03:55,888
+Britain was at war.
+
+93
+00:03:55,888 --> 00:03:59,709
+So at the beginning of July 1941, Florey and Heatley
+
+94
+00:03:59,709 --> 00:04:03,383
+flew across the Atlantic, to ask America for help.
+
+95
+00:04:03,983 --> 00:04:04,950
+America answered.
+
+96
+00:04:04,950 --> 00:04:06,712
+In the middle of the corn belt.
+
+97
+00:04:07,712 --> 00:04:11,133
+They were sent to the Northern Regional Research
+
+98
+00:04:11,133 --> 00:04:12,700
+Laboratory of the U.S.
+
+99
+00:04:12,700 --> 00:04:16,050
+Department of Agriculture, in Peoria, Illinois.
+
+100
+00:04:16,050 --> 00:04:18,187
+They arrived on July 14, 1941.
+
+101
+00:04:18,187 --> 00:04:20,254
+Work began the very next day.
+
+102
+00:04:20,704 --> 00:04:24,128
+Until then, the mold had been grown on the surface
+
+103
+00:04:24,128 --> 00:04:27,485
+of liquid, in flasks and bottles, like these in a
+
+104
+00:04:27,485 --> 00:04:28,443
+1944 newsreel.
+
+105
+00:04:28,893 --> 00:04:31,872
+Peoria's scientists grew it submerged instead, in
+
+106
+00:04:31,872 --> 00:04:34,972
+deep vats of corn steep liquor, a byproduct of corn
+
+107
+00:04:34,972 --> 00:04:36,674
+milling, with air pumped in.
+
+108
+00:04:36,674 --> 00:04:39,167
+It grew faster, and made more penicillin.
+
+109
+00:04:39,617 --> 00:04:41,507
+They also needed a better mold.
+
+110
+00:04:41,507 --> 00:04:44,557
+Lab workers collected samples from produce markets
+
+111
+00:04:44,557 --> 00:04:46,020
+and other local sources.
+
+112
+00:04:46,470 --> 00:04:49,624
+The winner came from a moldy cantaloupe found at a
+
+113
+00:04:49,624 --> 00:04:50,507
+Peoria market.
+
+114
+00:04:50,507 --> 00:04:53,787
+Its strain became the parent of all the strains used
+
+115
+00:04:53,787 --> 00:04:54,606
+commercially.
+
+116
+00:04:55,056 --> 00:04:55,983
+Who found it?
+
+117
+00:04:55,983 --> 00:04:59,619
+A lab technician named Mary Hunt is often credited,
+
+118
+00:04:59,619 --> 00:05:02,042
+and the nickname Moldy Mary stuck.
+
+119
+00:05:02,042 --> 00:05:05,535
+But the USDA itself says the finder is uncertain.
+
+120
+00:05:05,985 --> 00:05:08,827
+Scientists then pushed the mold to change.
+
+121
+00:05:08,827 --> 00:05:12,141
+At the University of Wisconsin, ultraviolet light
+
+122
+00:05:12,141 --> 00:05:14,644
+helped produce a strain called Q-176.
+
+123
+00:05:14,644 --> 00:05:18,094
+It became the most productive strain of the wartime
+
+124
+00:05:18,094 --> 00:05:18,635
+program.
+
+125
+00:05:19,085 --> 00:05:21,233
+Norman Heatley stayed on in America.
+
+126
+00:05:21,233 --> 00:05:24,157
+He later worked at the drug company Merck, on the
+
+127
+00:05:24,157 --> 00:05:26,484
+problems of making penicillin at scale.
+
+128
+00:05:26,934 --> 00:05:28,994
+Meanwhile, drug companies joined in.
+
+129
+00:05:28,994 --> 00:05:30,310
+At first, four of them:
+
+130
+00:05:30,310 --> 00:05:32,256
+Merck, Squibb, Pfizer and Lederle.
+
+131
+00:05:32,256 --> 00:05:34,832
+After the attack on Pearl Harbor, 21 American
+
+132
+00:05:34,832 --> 00:05:36,721
+companies combined their efforts.
+
+133
+00:05:37,171 --> 00:05:40,410
+In March 1942, a woman near death in a hospital in
+
+134
+00:05:40,410 --> 00:05:43,714
+New Haven, Connecticut, became the first patient in
+
+135
+00:05:43,714 --> 00:05:47,277
+the United States successfully treated with penicillin.
+
+136
+00:05:47,727 --> 00:05:51,956
+In Brooklyn, the company Pfizer converted an old ice
+
+137
+00:05:51,956 --> 00:05:55,941
+plant into a penicillin factory, with 14 tanks of
+
+138
+00:05:55,941 --> 00:05:57,486
+7,500 gallons each.
+
+139
+00:05:57,486 --> 00:05:59,681
+It opened on March 1, 1944.
+
+140
+00:06:00,131 --> 00:06:03,562
+Soon, it was making more penicillin in one month
+
+141
+00:06:03,562 --> 00:06:06,491
+than the company had made in all of 1943.
+
+142
+00:06:07,091 --> 00:06:10,840
+By the spring of 1944, the Allies were getting ready
+
+143
+00:06:10,840 --> 00:06:12,209
+to invade Normandy.
+
+144
+00:06:13,209 --> 00:06:16,441
+In English ports, American troops boarded landing ships.
+
+145
+00:06:16,891 --> 00:06:20,806
+Ahead of D-Day, 21 American companies had produced
+
+146
+00:06:20,806 --> 00:06:23,312
+2.3 million doses of penicillin.
+
+147
+00:06:23,762 --> 00:06:26,802
+According to the American Chemical Society, most of
+
+148
+00:06:26,802 --> 00:06:29,782
+the penicillin that went ashore with Allied forces
+
+149
+00:06:29,782 --> 00:06:33,119
+on D-Day came from that converted ice plant in Brooklyn.
+
+150
+00:06:33,569 --> 00:06:37,861
+On June 6, 1944, Allied troops landed in Normandy.
+
+151
+00:06:38,311 --> 00:06:42,043
+Behind them came the field hospitals. This U.S.
+
+152
+00:06:42,043 --> 00:06:46,014
+Army hospital was set up in Normandy in July 1944.
+
+153
+00:06:46,464 --> 00:06:48,955
+The drug was getting cheaper fast.
+
+154
+00:06:48,955 --> 00:06:52,179
+In July 1943, a dose of penicillin cost $20.
+
+155
+00:06:52,179 --> 00:06:54,817
+Three years later, it cost 55 cents.
+
+156
+00:06:55,267 --> 00:06:59,220
+From January to May of 1942, 400 million units of
+
+157
+00:06:59,220 --> 00:07:01,317
+pure penicillin were made.
+
+158
+00:07:01,317 --> 00:07:05,028
+By the end of the war, American companies were
+
+159
+00:07:05,028 --> 00:07:07,932
+producing 650 billion units a month.
+
+160
+00:07:08,382 --> 00:07:09,661
+One more number.
+
+161
+00:07:09,661 --> 00:07:13,419
+In World War One, the death rate from bacterial
+
+162
+00:07:13,419 --> 00:07:14,858
+pneumonia was 18%.
+
+163
+00:07:14,858 --> 00:07:18,296
+In World War Two, with sulfa drugs and then
+
+164
+00:07:18,296 --> 00:07:20,854
+penicillin, it was less than 1%.
+
+165
+00:07:21,304 --> 00:07:23,884
+The early publicity went mostly to Fleming.
+
+166
+00:07:23,884 --> 00:07:26,824
+The Oxford group's part was largely ignored, even
+
+167
+00:07:26,824 --> 00:07:29,944
+though they were the ones who turned penicillin into
+
+168
+00:07:29,944 --> 00:07:30,604
+a medicine.
+
+169
+00:07:31,054 --> 00:07:34,927
+In 1945, Fleming, Florey and Chain shared the Nobel
+
+170
+00:07:34,927 --> 00:07:37,358
+Prize in Physiology or Medicine.
+
+171
+00:07:37,358 --> 00:07:39,485
+Norman Heatley was left out.
+
+172
+00:07:39,485 --> 00:07:43,206
+In 1990, Oxford gave him an honorary doctorate of
+
+173
+00:07:43,206 --> 00:07:43,890
+medicine.
+
+174
+00:07:44,490 --> 00:07:46,496
+But the story doesn't end with a prize.
+
+175
+00:07:47,496 --> 00:07:52,069
+On December 11, 1945, Fleming gave his Nobel lecture.
+
+176
+00:07:52,069 --> 00:07:54,399
+He ended it with a warning.
+
+177
+00:07:54,849 --> 00:07:57,637
+The time may come, he said, when penicillin can be
+
+178
+00:07:57,637 --> 00:07:59,310
+bought by anyone in the shops.
+
+179
+00:07:59,310 --> 00:08:01,930
+He feared that people who took too little of it
+
+180
+00:08:01,930 --> 00:08:03,938
+would breed microbes that resist it.
+
+181
+00:08:04,388 --> 00:08:06,843
+He even described an imagined case.
+
+182
+00:08:06,843 --> 00:08:09,229
+A man takes too little penicillin.
+
+183
+00:08:09,229 --> 00:08:11,333
+His microbes become resistant.
+
+184
+00:08:11,333 --> 00:08:13,228
+He passes them to his wife.
+
+185
+00:08:13,228 --> 00:08:17,226
+She develops pneumonia, and penicillin fails to save her.
+
+186
+00:08:17,676 --> 00:08:19,289
+He had reason to worry.
+
+187
+00:08:19,289 --> 00:08:22,864
+In 1940, Edward Abraham and Ernst Chain had already
+
+188
+00:08:22,864 --> 00:08:26,299
+described an enzyme from bacteria able to destroy
+
+189
+00:08:26,299 --> 00:08:27,070
+penicillin.
+
+190
+00:08:27,520 --> 00:08:29,203
+So how does penicillin work?
+
+191
+00:08:29,203 --> 00:08:31,668
+Many bacteria are wrapped in a cell wall.
+
+192
+00:08:31,668 --> 00:08:34,434
+Penicillin binds to the enzymes that build it,
+
+193
+00:08:34,434 --> 00:08:36,538
+called penicillin-binding proteins.
+
+194
+00:08:36,538 --> 00:08:37,560
+The wall weakens.
+
+195
+00:08:37,560 --> 00:08:38,522
+Water pushes in.
+
+196
+00:08:38,522 --> 00:08:39,724
+And the cell bursts.
+
+197
+00:08:40,174 --> 00:08:41,722
+Some bacteria fight back.
+
+198
+00:08:41,722 --> 00:08:44,694
+They make an enzyme, beta-lactamase, that breaks
+
+199
+00:08:44,694 --> 00:08:47,233
+down part of the drug before it can work.
+
+200
+00:08:47,683 --> 00:08:51,667
+The CDC estimates that more than 2.8 million
+
+201
+00:08:51,667 --> 00:08:56,374
+antimicrobial-resistant infections occur in the U.S.
+
+202
+00:08:56,374 --> 00:09:01,082
+each year, and that more than 35,000 people die as a
+
+203
+00:09:01,082 --> 00:09:01,716
+result.
+
+204
+00:09:02,166 --> 00:09:05,763
+And in 2025, the World Health Organization reported
+
+205
+00:09:05,763 --> 00:09:08,725
+that 1 in 6 laboratory-confirmed bacterial
+
+206
+00:09:08,725 --> 00:09:12,816
+infections worldwide is resistant to standard antibiotics.
+
+207
+00:09:13,266 --> 00:09:15,733
+The military tracks the problem too.
+
+208
+00:09:15,733 --> 00:09:19,159
+At the Walter Reed Army Institute of Research, one
+
+209
+00:09:19,159 --> 00:09:22,516
+network watches for antibiotic-resistant bacteria
+
+210
+00:09:22,516 --> 00:09:24,982
+across the Army, Navy and Air Force.
+
+211
+00:09:25,432 --> 00:09:28,861
+And military hospitals run their own microbiology
+
+212
+00:09:28,861 --> 00:09:32,639
+labs, like this one at Naval Medical Center San Diego.
+
+213
+00:09:33,089 --> 00:09:37,772
+World AMR Awareness Week runs from November 18 to 24.
+
+214
+00:09:37,772 --> 00:09:42,367
+The World Health Organization's message this year is
+
+215
+00:09:42,367 --> 00:09:42,898
+blunt.
+
+216
+00:09:42,898 --> 00:09:46,079
+AMR is no longer a future challenge.
+
+217
+00:09:46,079 --> 00:09:48,023
+It is a global threat.
+
+218
+00:09:48,623 --> 00:09:52,784
+In 1928, a mold landed on a dish in London, and the
+
+219
+00:09:52,784 --> 00:09:55,639
+paper about it was largely ignored.
+
+220
+00:09:56,089 --> 00:09:59,463
+It took a team in Oxford, a lab in Peoria, a
+
+221
+00:09:59,463 --> 00:10:03,758
+cantaloupe, and 21 companies to turn it into a medicine.
+
+222
+00:10:03,758 --> 00:10:05,138
+In time for D-Day.
+
+223
+00:10:05,588 --> 00:10:08,936
+Today, penicillin and the antibiotics that followed
+
+224
+00:10:08,936 --> 00:10:12,219
+are so ordinary that it's easy to forget the world
+
+225
+00:10:12,219 --> 00:10:13,006
+before them.
+
+226
+00:10:13,456 --> 00:10:16,280
+And the man who noticed it first used his Nobel
+
+227
+00:10:16,280 --> 00:10:18,863
+lecture to warn that it could stop working.
+
+228
+00:10:19,463 --> 00:10:21,750
+If this story surprised you, subscribe.
+
+229
+00:10:21,750 --> 00:10:24,564
+There are more stories on this channel about how
+
+230
+00:10:24,564 --> 00:10:26,206
+medicine keeps people alive.
+
+231
+00:10:27,006 --> 00:10:28,146
+For education only.
+
+232
+00:10:28,146 --> 00:10:29,767
+This is not medical advice.
+
+233
+00:10:29,767 --> 00:10:32,588
+If you have a health concern, talk to a doctor.
