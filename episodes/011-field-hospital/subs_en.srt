@@ -1,0 +1,903 @@
+1
+00:00:01,000 --> 00:00:04,289
+How does the Army build a hospital in 72 hours?
+
+2
+00:00:04,289 --> 00:00:06,879
+It brings the whole hospital with it.
+
+3
+00:00:07,329 --> 00:00:10,819
+In November 2017, in an Army test, hospital units
+
+4
+00:00:10,819 --> 00:00:14,380
+deployed from Fort Carson, Colorado, to Fort Polk,
+
+5
+00:00:14,380 --> 00:00:15,093
+Louisiana.
+
+6
+00:00:15,093 --> 00:00:18,796
+Within 72 hours, they had hospital care with surgery
+
+7
+00:00:18,796 --> 00:00:21,218
+and intensive care up and running.
+
+8
+00:00:21,668 --> 00:00:24,924
+Tents, beds, operating rooms, intensive care, a lab,
+
+9
+00:00:24,924 --> 00:00:26,051
+x-ray, a pharmacy.
+
+10
+00:00:26,051 --> 00:00:29,182
+All of it packed to travel by truck and container.
+
+11
+00:00:29,632 --> 00:00:32,185
+The idea is older than most people think.
+
+12
+00:00:32,185 --> 00:00:35,361
+Its most famous version had a nickname you probably
+
+13
+00:00:35,361 --> 00:00:36,668
+know from television.
+
+14
+00:00:37,068 --> 00:00:39,404
+This is how a field hospital works.
+
+15
+00:00:39,404 --> 00:00:40,940
+From the MASH to today.
+
+16
+00:00:43,340 --> 00:00:45,734
+Start with the Second World War, then Korea.
+
+17
+00:00:46,734 --> 00:00:50,391
+In World War II, the Army ran evacuation hospitals
+
+18
+00:00:50,391 --> 00:00:52,512
+in the theater of operations.
+
+19
+00:00:52,512 --> 00:00:56,022
+A 1945 War Department film shows how one worked.
+
+20
+00:00:56,472 --> 00:00:59,151
+Troops pitched the tents and built a water supply.
+
+21
+00:00:59,151 --> 00:01:01,508
+Casualties came in through a receiving tent.
+
+22
+00:01:01,508 --> 00:01:03,918
+Then patients moved on, by plane and train to
+
+23
+00:01:03,918 --> 00:01:06,704
+general hospitals, and by ship to the United States.
+
+24
+00:01:07,154 --> 00:01:10,410
+That idea, receive, treat, and move patients on, is
+
+25
+00:01:10,410 --> 00:01:12,645
+still the core of a field hospital.
+
+26
+00:01:12,645 --> 00:01:15,646
+In Korea, the Army relied on a smaller surgical
+
+27
+00:01:15,646 --> 00:01:17,945
+hospital built to follow the troops.
+
+28
+00:01:18,395 --> 00:01:20,276
+In the Korean War, the U.S.
+
+29
+00:01:20,276 --> 00:01:23,969
+Army used Mobile Army Surgical Hospitals. MASH units.
+
+30
+00:01:23,969 --> 00:01:27,453
+Small surgical hospitals that could follow an army
+
+31
+00:01:27,453 --> 00:01:28,359
+in the field.
+
+32
+00:01:28,809 --> 00:01:32,985
+This is real Army film of one of them, the 8209th
+
+33
+00:01:32,985 --> 00:01:37,075
+MASH, shot by the Signal Corps in Korea in 1951.
+
+34
+00:01:37,525 --> 00:01:41,471
+A year later, in August 1952, a photo caption placed
+
+35
+00:01:41,471 --> 00:01:45,265
+the same unit about 20 miles from the front lines.
+
+36
+00:01:45,715 --> 00:01:48,796
+In Korea, MASH units were first planned as 60-bed
+
+37
+00:01:48,796 --> 00:01:49,425
+hospitals.
+
+38
+00:01:49,425 --> 00:01:53,009
+Britannica notes that moving a MASH took 50 large trucks.
+
+39
+00:01:53,459 --> 00:01:56,740
+But the war sent them so many wounded that some MASH
+
+40
+00:01:56,740 --> 00:01:58,191
+units grew to 200 beds.
+
+41
+00:01:58,641 --> 00:02:01,533
+Casualties arrived by ambulance at a tent marked
+
+42
+00:02:01,533 --> 00:02:02,135
+receiving.
+
+43
+00:02:02,585 --> 00:02:06,029
+Inside, surgeons scrubbed in under bare bulbs, in
+
+44
+00:02:06,029 --> 00:02:06,943
+canvas tents.
+
+45
+00:02:06,943 --> 00:02:10,317
+Almost all of them were civilian doctors who had
+
+46
+00:02:10,317 --> 00:02:11,231
+been drafted.
+
+47
+00:02:11,231 --> 00:02:14,535
+By 1952, 90% of doctors in Korea were draftees.
+
+48
+00:02:14,985 --> 00:02:16,786
+And Korea added something new:
+
+49
+00:02:16,786 --> 00:02:17,687
+the helicopter.
+
+50
+00:02:17,687 --> 00:02:20,510
+Helicopters carried more than 20,000 casualties
+
+51
+00:02:20,510 --> 00:02:21,411
+during the war.
+
+52
+00:02:21,861 --> 00:02:25,288
+In 1951, 3 helicopter detachments were attached to
+
+53
+00:02:25,288 --> 00:02:26,042
+MASH units.
+
+54
+00:02:26,042 --> 00:02:29,196
+On one day that February, about 750 critically
+
+55
+00:02:29,196 --> 00:02:31,389
+wounded soldiers were evacuated.
+
+56
+00:02:31,389 --> 00:02:34,885
+The Eighth Army surgeon estimated that half of them
+
+57
+00:02:34,885 --> 00:02:38,656
+would have died if only ground transport had been used.
+
+58
+00:02:39,106 --> 00:02:42,913
+Defense Media Network reports that the death rate
+
+59
+00:02:42,913 --> 00:02:46,643
+among seriously wounded soldiers fell from about
+
+60
+00:02:46,643 --> 00:02:50,684
+4.5% in the Second World War to about 2.5% in Korea.
+
+61
+00:02:50,684 --> 00:02:54,724
+Faster evacuation and medical advances are credited.
+
+62
+00:02:55,174 --> 00:02:58,983
+One of those drafted surgeons, Richard Hornberger,
+
+63
+00:02:58,983 --> 00:03:00,963
+served in the 8055th MASH.
+
+64
+00:03:00,963 --> 00:03:04,162
+In 1968, he published a novel based on it.
+
+65
+00:03:04,162 --> 00:03:07,514
+It became the film and the TV comedy M*A*S*H
+
+66
+00:03:08,014 --> 00:03:10,937
+The MASH lasted far longer than the war that made it
+
+67
+00:03:10,937 --> 00:03:11,330
+famous.
+
+68
+00:03:12,330 --> 00:03:16,038
+Britannica notes MASH units were still in service in
+
+69
+00:03:16,038 --> 00:03:18,818
+the Persian Gulf War, in 1990 and 1991.
+
+70
+00:03:19,268 --> 00:03:23,168
+But during the Vietnam War, the Army began replacing
+
+71
+00:03:23,168 --> 00:03:26,994
+its mobile surgical and evacuation hospitals with a
+
+72
+00:03:26,994 --> 00:03:27,819
+new design:
+
+73
+00:03:27,819 --> 00:03:30,445
+the combat support hospital, or CSH
+
+74
+00:03:30,895 --> 00:03:35,180
+A full combat support hospital had 248 beds, split
+
+75
+00:03:35,180 --> 00:03:36,809
+into two companies.
+
+76
+00:03:36,809 --> 00:03:39,466
+One with 164 beds, one with 84.
+
+77
+00:03:39,916 --> 00:03:42,567
+The last MASH lasted until 2006.
+
+78
+00:03:42,567 --> 00:03:46,791
+On October 16 that year, in Germany, the 212th MASH
+
+79
+00:03:46,791 --> 00:03:49,525
+became a combat support hospital.
+
+80
+00:03:49,525 --> 00:03:52,921
+Its last deployment had been to Pakistan.
+
+81
+00:03:53,371 --> 00:03:56,757
+At the ceremony, its commander, Colonel Angel Lugo,
+
+82
+00:03:56,757 --> 00:03:58,549
+made a promise to soldiers.
+
+83
+00:03:58,999 --> 00:04:02,966
+Combat support hospitals were big, and the Army even
+
+84
+00:04:02,966 --> 00:04:05,407
+kept whole hospitals in storage.
+
+85
+00:04:05,407 --> 00:04:09,374
+In Japan, it stored and maintained the equipment for
+
+86
+00:04:09,374 --> 00:04:11,662
+a 992 bed deployable hospital.
+
+87
+00:04:11,662 --> 00:04:15,248
+In 2012, about 200 soldiers of the 325th Combat
+
+88
+00:04:15,248 --> 00:04:18,833
+Support Hospital, from Missouri, set up medical
+
+89
+00:04:18,833 --> 00:04:20,969
+tents there for an exercise.
+
+90
+00:04:21,419 --> 00:04:23,477
+And then the Army changed the design again.
+
+91
+00:04:23,877 --> 00:04:27,503
+Starting in 2017, the Army began turning its combat
+
+92
+00:04:27,503 --> 00:04:30,275
+support hospitals into field hospitals.
+
+93
+00:04:31,275 --> 00:04:33,340
+The new building block is small.
+
+94
+00:04:33,340 --> 00:04:34,502
+A 32-bed hospital.
+
+95
+00:04:34,502 --> 00:04:36,631
+In Army terms, a Role 3 hospital:
+
+96
+00:04:36,631 --> 00:04:39,986
+the level of care with surgeons, operating rooms and
+
+97
+00:04:39,986 --> 00:04:40,954
+intensive care.
+
+98
+00:04:41,404 --> 00:04:42,288
+Blocks stack.
+
+99
+00:04:42,288 --> 00:04:45,822
+Add surgical and intensive care detachments, and the
+
+100
+00:04:45,822 --> 00:04:49,288
+plan in the Army's own journal describes a hospital
+
+101
+00:04:49,288 --> 00:04:51,055
+that can grow to 240 beds.
+
+102
+00:04:51,505 --> 00:04:52,226
+Why change?
+
+103
+00:04:52,226 --> 00:04:55,571
+The Army's own journal listed problems with the old
+
+104
+00:04:55,571 --> 00:04:56,030
+design:
+
+105
+00:04:56,030 --> 00:04:59,048
+how it was organized, its medical and surgical
+
+106
+00:04:59,048 --> 00:05:02,458
+capabilities, and how hard it was to split it across
+
+107
+00:05:02,458 --> 00:05:03,770
+different locations.
+
+108
+00:05:04,220 --> 00:05:05,361
+The point is speed.
+
+109
+00:05:05,361 --> 00:05:08,483
+A small piece can go first, and the rest can follow.
+
+110
+00:05:08,933 --> 00:05:11,900
+In the 10th Field Hospital, that first piece was an
+
+111
+00:05:11,900 --> 00:05:14,052
+early-entry element with just 6 beds.
+
+112
+00:05:14,052 --> 00:05:17,193
+Four for patients, and two for damage-control surgery.
+
+113
+00:05:17,643 --> 00:05:19,820
+That 2017 test was the proof.
+
+114
+00:05:19,820 --> 00:05:23,123
+The 627th Hospital Center and the 10th Field
+
+115
+00:05:23,123 --> 00:05:26,952
+Hospital set up at Fort Polk and supported a 14-day
+
+116
+00:05:26,952 --> 00:05:27,628
+exercise.
+
+117
+00:05:28,078 --> 00:05:31,676
+Over 7 days, that training hospital received 242
+
+118
+00:05:31,676 --> 00:05:33,250
+simulated casualties.
+
+119
+00:05:33,250 --> 00:05:36,624
+And in the last 3 days, the 6-bed early-entry
+
+120
+00:05:36,624 --> 00:05:40,223
+element ran on its own, and treated more than 50
+
+121
+00:05:40,223 --> 00:05:42,697
+simulated casualties in 72 hours.
+
+122
+00:05:43,147 --> 00:05:45,611
+So what actually happens in those first hours?
+
+123
+00:05:46,611 --> 00:05:48,476
+First, people and equipment arrive.
+
+124
+00:05:48,476 --> 00:05:50,394
+By aircraft, by truck, by container.
+
+125
+00:05:50,844 --> 00:05:51,841
+Then the site.
+
+126
+00:05:51,841 --> 00:05:55,400
+Flat ground, or a building with a big empty floor.
+
+127
+00:05:55,400 --> 00:05:55,970
+A field.
+
+128
+00:05:55,970 --> 00:05:57,037
+A sports arena.
+
+129
+00:05:57,037 --> 00:05:58,461
+A convention center.
+
+130
+00:05:58,911 --> 00:06:00,285
+Then the shelters go up.
+
+131
+00:06:00,285 --> 00:06:03,263
+Soldiers unroll and stake down the tents, section by
+
+132
+00:06:03,263 --> 00:06:03,722
+section.
+
+133
+00:06:04,172 --> 00:06:06,934
+Hospital equipment comes out of its cases:
+
+134
+00:06:06,934 --> 00:06:08,578
+beds, monitors, lab gear.
+
+135
+00:06:09,028 --> 00:06:10,670
+Supplies have to come too.
+
+136
+00:06:10,670 --> 00:06:13,890
+In Puerto Rico, soldiers trucked in food and water.
+
+137
+00:06:14,340 --> 00:06:16,462
+Then it's laid out like any hospital.
+
+138
+00:06:16,462 --> 00:06:19,158
+Patients arrive at an emergency treatment area.
+
+139
+00:06:19,158 --> 00:06:21,969
+Those who need surgery go to the operating rooms.
+
+140
+00:06:21,969 --> 00:06:23,690
+After surgery, intensive care.
+
+141
+00:06:23,690 --> 00:06:26,615
+Then intermediate care wards, until patients can be
+
+142
+00:06:26,615 --> 00:06:27,132
+moved on.
+
+143
+00:06:27,582 --> 00:06:30,237
+Behind that are the parts you rarely see:
+
+144
+00:06:30,237 --> 00:06:33,605
+pharmacy, laboratory, dental, and medical logistics.
+
+145
+00:06:34,055 --> 00:06:37,492
+In that 2017 design, the hospital's own vehicles
+
+146
+00:06:37,492 --> 00:06:40,643
+could move 35% of its equipment in one trip.
+
+147
+00:06:40,643 --> 00:06:42,791
+The rest needs more transport.
+
+148
+00:06:43,241 --> 00:06:45,581
+And all of it has to be packed up again when the
+
+149
+00:06:45,581 --> 00:06:46,264
+mission moves.
+
+150
+00:06:46,764 --> 00:06:48,870
+Field hospitals aren't only for war.
+
+151
+00:06:49,870 --> 00:06:53,704
+In October 2017, after Hurricane Maria, the 14th
+
+152
+00:06:53,704 --> 00:06:58,016
+Combat Support Hospital arrived in Puerto Rico by air.
+
+153
+00:06:58,466 --> 00:07:01,171
+It set up inside the damaged Humacao Arena.
+
+154
+00:07:01,171 --> 00:07:03,939
+In less than a week, it had a full hospital:
+
+155
+00:07:03,939 --> 00:07:06,896
+emergency services, surgery, two intensive care
+
+156
+00:07:06,896 --> 00:07:07,965
+units, and x-ray.
+
+157
+00:07:08,415 --> 00:07:11,969
+After three days of operations, it had seen 164
+
+158
+00:07:11,969 --> 00:07:14,615
+patients and performed 6 surgeries.
+
+159
+00:07:15,065 --> 00:07:18,511
+It was equipped to see about 100 patients a day,
+
+160
+00:07:18,511 --> 00:07:22,029
+with 44 beds for patients needing intensive care.
+
+161
+00:07:22,029 --> 00:07:23,680
+Running 24 hours a day.
+
+162
+00:07:24,130 --> 00:07:27,952
+Then, in March 2020, during the COVID-19 pandemic,
+
+163
+00:07:27,952 --> 00:07:31,621
+Army hospital units deployed to American cities.
+
+164
+00:07:32,071 --> 00:07:35,522
+In Seattle, the 627th Hospital Center set up 250
+
+165
+00:07:35,522 --> 00:07:38,902
+beds inside the CenturyLink Field Event Center.
+
+166
+00:07:38,902 --> 00:07:42,353
+With two emergency rooms, two operating rooms, a
+
+167
+00:07:42,353 --> 00:07:44,726
+pharmacy and an x-ray department.
+
+168
+00:07:45,176 --> 00:07:47,912
+In New York, soldiers helped turn the Javits
+
+169
+00:07:47,912 --> 00:07:50,400
+Convention Center into a field hospital.
+
+170
+00:07:50,400 --> 00:07:53,634
+At first, it took patients without COVID-19, to take
+
+171
+00:07:53,634 --> 00:07:55,748
+pressure off the city's hospitals.
+
+172
+00:07:56,198 --> 00:07:59,887
+About 3,600 soldiers, sailors, airmen and marines
+
+173
+00:07:59,887 --> 00:08:03,049
+deployed to New York and Washington state.
+
+174
+00:08:03,049 --> 00:08:06,737
+Of the Seattle hospital, Lieutenant General Laura
+
+175
+00:08:06,737 --> 00:08:09,222
+Richardson, the commander of U.S.
+
+176
+00:08:09,222 --> 00:08:12,609
+Army North, said it's one of the most capable
+
+177
+00:08:12,609 --> 00:08:14,265
+hospitals in the Army.
+
+178
+00:08:14,765 --> 00:08:17,637
+Today, the Army is training field hospitals for a
+
+179
+00:08:17,637 --> 00:08:18,926
+different kind of war.
+
+180
+00:08:19,926 --> 00:08:23,511
+In February 2026, in Germany, the 512th Field
+
+181
+00:08:23,511 --> 00:08:28,132
+Hospital set up a 32-bed hospital that could expand to 48.
+
+182
+00:08:28,132 --> 00:08:31,637
+With two operating rooms and intensive care.
+
+183
+00:08:32,087 --> 00:08:33,768
+208 soldiers took part.
+
+184
+00:08:33,768 --> 00:08:37,862
+And the unit moved 100% of its own equipment, by itself.
+
+185
+00:08:38,312 --> 00:08:41,919
+They also rehearsed long-distance casualty movement,
+
+186
+00:08:41,919 --> 00:08:45,526
+by convoy and loading litters onto a train, all with
+
+187
+00:08:45,526 --> 00:08:46,982
+simulated casualties.
+
+188
+00:08:46,982 --> 00:08:50,520
+The commander of the 519th Hospital Center, Colonel
+
+189
+00:08:50,520 --> 00:08:53,086
+Crystal Belew, summed up the mission.
+
+190
+00:08:53,536 --> 00:08:56,840
+A month later, at Fort McCoy, Wisconsin, the 11th
+
+191
+00:08:56,840 --> 00:09:00,345
+Field Hospital from Fort Hood ran a 9-day collective
+
+192
+00:09:00,345 --> 00:09:03,244
+training exercise, with medical simulation.
+
+193
+00:09:03,694 --> 00:09:07,272
+One Army article argues the limit isn't clinical skill.
+
+194
+00:09:07,272 --> 00:09:07,922
+It's beds.
+
+195
+00:09:08,372 --> 00:09:11,284
+As one 2026 Army article puts it:
+
+196
+00:09:11,734 --> 00:09:13,803
+The article describes three clocks.
+
+197
+00:09:13,803 --> 00:09:16,285
+The emergency department works in minutes.
+
+198
+00:09:16,285 --> 00:09:17,940
+The operating room in hours.
+
+199
+00:09:17,940 --> 00:09:20,127
+Intensive care and ward beds in days.
+
+200
+00:09:20,127 --> 00:09:23,082
+If beds fill faster than patients can be moved on,
+
+201
+00:09:23,082 --> 00:09:26,038
+the article warns, the hospital fails as a system.
+
+202
+00:09:26,488 --> 00:09:28,305
+And drones change the picture.
+
+203
+00:09:28,305 --> 00:09:31,212
+A field hospital spread across acres of tents is
+
+204
+00:09:31,212 --> 00:09:31,999
+hard to hide.
+
+205
+00:09:32,450 --> 00:09:36,028
+In March 2026, Army medics trained inside an old
+
+206
+00:09:36,028 --> 00:09:39,233
+nuclear storage tunnel at Fort Hood, Texas.
+
+207
+00:09:39,233 --> 00:09:42,662
+An officer told Stars and Stripes that precise
+
+208
+00:09:42,662 --> 00:09:46,166
+targeting makes traditional field hospitals too
+
+209
+00:09:46,166 --> 00:09:46,986
+vulnerable.
+
+210
+00:09:47,436 --> 00:09:50,231
+The war between Russia and Ukraine, the article
+
+211
+00:09:50,231 --> 00:09:53,026
+notes, has pushed people and troops into subway
+
+212
+00:09:53,026 --> 00:09:55,345
+systems and parking garages for safety.
+
+213
+00:09:55,345 --> 00:09:58,318
+So the Army is practicing hospitals that can hide.
+
+214
+00:09:58,918 --> 00:10:02,759
+In 1951, a MASH was canvas tents, a sign by the
+
+215
+00:10:02,759 --> 00:10:05,292
+road, and a line of ambulances.
+
+216
+00:10:05,742 --> 00:10:09,841
+Today, it's a 32-bed module, designed to grow, in
+
+217
+00:10:09,841 --> 00:10:13,270
+the Army's plan, into a 240-bed hospital.
+
+218
+00:10:13,720 --> 00:10:15,440
+The goal hasn't changed.
+
+219
+00:10:15,440 --> 00:10:19,167
+Bring surgery and intensive care close to the people
+
+220
+00:10:19,167 --> 00:10:20,458
+who need it. Fast.
+
+221
+00:10:20,908 --> 00:10:22,119
+Next on KEPT ALIVE:
+
+222
+00:10:22,119 --> 00:10:25,371
+more stories about how medicine keeps people alive.
+
+223
+00:10:25,371 --> 00:10:27,476
+Subscribe so you don't miss them.
+
+224
+00:10:28,276 --> 00:10:29,416
+For education only.
+
+225
+00:10:29,416 --> 00:10:31,037
+This is not medical advice.
+
+226
+00:10:31,037 --> 00:10:33,859
+If you have a health concern, talk to a doctor.

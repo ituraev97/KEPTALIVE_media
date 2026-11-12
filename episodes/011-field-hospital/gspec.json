@@ -1,0 +1,594 @@
+[
+ {
+  "key": "stat_5e4bc0",
+  "name": "stat",
+  "opts": {
+   "a": "72",
+   "b": "HOURS TO ESTABLISH ROLE 3 HOSPITAL CARE",
+   "c": "ARMY TEST \u00b7 FORT POLK, LOUISIANA \u00b7 NOV. 2017 \u00b7 SOURCE: ARMY SUSTAINMENT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_a04629",
+  "name": "title",
+  "opts": {
+   "kicker": "HOW IT WORKS \u00b7 011",
+   "title": "FIELD HOSPITAL",
+   "sub": "FROM MASH TO <span style=\"color:#2BB3A3\">72 HOURS</span>",
+   "size": 200
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_03f746",
+  "name": "chapter",
+  "opts": {
+   "case": "1945 \u00b7 KOREA 1950\u20131953",
+   "n": "I",
+   "t": "THE MASH"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_65a99b",
+  "name": "doc",
+  "opts": {
+   "header": "WAR DEPARTMENT FILM BULLETIN 173 \u00b7 1945",
+   "title": "THE EVACUATION HOSPITAL",
+   "body": "Tents and equipment set up, a water supply built, casualties received, transfusions given, X-rays made.",
+   "source": "SOURCE: NATIONAL ARCHIVES DESCRIPTION",
+   "stamp": "1945"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_55267e",
+  "name": "steps",
+  "opts": {
+   "kicker": "WORLD WAR II \u00b7 EVACUATION HOSPITAL",
+   "title": "THE CHAIN OF CARE",
+   "items": [
+    [
+     "BUILD",
+     "Tents and a water supply"
+    ],
+    [
+     "RECEIVE",
+     "The receiving tent"
+    ],
+    [
+     "TREAT",
+     "Surgery, X-rays, labs"
+    ],
+    [
+     "MOVE ON",
+     "Plane, train, ship"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL ARCHIVES \u00b7 FILM BULLETIN 173 (1945)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_e078cc",
+  "name": "stat",
+  "opts": {
+   "a": "20",
+   "b": "MILES FROM THE FRONT LINES \u2014 THE 8209TH MASH",
+   "c": "AUGUST 1952 PHOTO CAPTION \u00b7 SOURCE: DEFENSE MEDIA NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_a09411",
+  "name": "phases",
+  "opts": {
+   "kicker": "MOBILE ARMY SURGICAL HOSPITAL",
+   "title": "BUILT TO MOVE",
+   "left": {
+    "label": "PLANNED SIZE",
+    "num": "60",
+    "desc": "BEDS"
+   },
+   "right": {
+    "label": "TO MOVE IT",
+    "num": "50",
+    "desc": "LARGE TRUCKS"
+   },
+   "active": 1,
+   "footer": "SOURCES: BRITANNICA \u00b7 DEFENSE MEDIA NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_a8f820",
+  "name": "stat",
+  "opts": {
+   "a": "200",
+   "b": "BEDS \u2014 WHAT SOME MASH UNITS GREW TO",
+   "c": "ORIGINALLY PLANNED FOR 60 \u00b7 SOURCE: DEFENSE MEDIA NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1f7a5f",
+  "name": "stat",
+  "opts": {
+   "a": "90%",
+   "b": "OF DOCTORS IN KOREA WERE DRAFTEES BY 1952",
+   "c": "SOURCE: DEFENSE MEDIA NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_759b2a",
+  "name": "stat",
+  "opts": {
+   "a": "20,000+",
+   "b": "CASUALTIES CARRIED BY HELICOPTER IN KOREA",
+   "c": "SOURCE: DEFENSE MEDIA NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ad7c6f",
+  "name": "stat",
+  "opts": {
+   "a": "750",
+   "b": "CRITICALLY WOUNDED EVACUATED ON FEB. 20, 1951",
+   "c": "EIGHTH ARMY SURGEON'S ESTIMATE: HALF WOULD HAVE DIED BY GROUND ALONE \u00b7 SOURCE: DEFENSE MEDIA NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_1a013a",
+  "name": "phases",
+  "opts": {
+   "kicker": "SERIOUSLY WOUNDED \u00b7 FATALITY RATE",
+   "title": "WORLD WAR II VS. KOREA",
+   "left": {
+    "label": "WORLD WAR II",
+    "num": "4.5%",
+    "desc": "ABOUT"
+   },
+   "right": {
+    "label": "KOREA",
+    "num": "2.5%",
+    "desc": "ABOUT"
+   },
+   "active": 1,
+   "footer": "AS REPORTED \u00b7 SOURCE: DEFENSE MEDIA NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_0ebe95",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FROM A TENT TO TELEVISION",
+   "title": "THE 8055TH MASH",
+   "events": [
+    {
+     "y": "1950s",
+     "t": "A draftee surgeon in Korea"
+    },
+    {
+     "y": "1968",
+     "t": "The novel"
+    },
+    {
+     "y": "Later",
+     "t": "The film and TV comedy"
+    }
+   ],
+   "footer": "SOURCES: DEFENSE MEDIA NETWORK \u00b7 ARMY.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_7d0b95",
+  "name": "chapter",
+  "opts": {
+   "case": "1953\u20132017",
+   "n": "II",
+   "t": "BIGGER HOSPITALS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_56a90c",
+  "name": "doc",
+  "opts": {
+   "header": "PERSIAN GULF WAR \u00b7 1990\u20131991",
+   "title": "THE MASH STILL SERVES",
+   "body": "Mobile Army Surgical Hospitals were still in service during the Gulf War.",
+   "source": "SOURCE: BRITANNICA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_7f1315",
+  "name": "doc",
+  "opts": {
+   "header": "VIETNAM WAR ERA",
+   "title": "THE COMBAT SUPPORT HOSPITAL",
+   "body": "Combat support hospitals replace mobile surgical and evacuation hospitals.",
+   "source": "SOURCE: ARMY SUSTAINMENT, 2018",
+   "stamp": "CSH"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_fa5560",
+  "name": "phases",
+  "opts": {
+   "kicker": "COMBAT SUPPORT HOSPITAL",
+   "title": "248 BEDS IN TWO PIECES",
+   "left": {
+    "label": "COMPANY A",
+    "num": "164",
+    "desc": "BEDS"
+   },
+   "right": {
+    "label": "COMPANY B",
+    "num": "84",
+    "desc": "BEDS"
+   },
+   "footer": "SOURCES: ARMY SUSTAINMENT \u00b7 ARMY.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_34ec09",
+  "name": "doc",
+  "opts": {
+   "header": "MIESAU, GERMANY \u00b7 OCT. 16, 2006",
+   "title": "THE ARMY'S LAST MASH",
+   "body": "The 212th MASH becomes the 212th Combat Support Hospital. Staff grows from about 130 to more than 250.",
+   "source": "SOURCE: ARMY.MIL",
+   "stamp": "LAST MASH"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_b8ea8a",
+  "name": "quote",
+  "opts": {
+   "q": "You can be assured that if you are wounded on the battlefield and you make it to the 212th CSH, you will live.",
+   "w": "COL. ANGEL LUGO \u00b7 212TH CSH \u00b7 OCTOBER 2006 \u00b7 VIA ARMY.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_83b1c4",
+  "name": "chapter",
+  "opts": {
+   "case": "2017\u2013TODAY",
+   "n": "III",
+   "t": "THE MODULE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_bfc285",
+  "name": "stat",
+  "opts": {
+   "a": "32",
+   "b": "BEDS \u2014 THE BUILDING BLOCK OF TODAY'S FIELD HOSPITAL",
+   "c": "ROLE 3 \u00b7 SOURCES: ARMY SUSTAINMENT \u00b7 ARMY.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_ec64f0",
+  "name": "steps",
+  "opts": {
+   "kicker": "FIELD HOSPITAL DESIGN \u00b7 2018",
+   "title": "A HOSPITAL THAT SCALES",
+   "items": [
+    [
+     "32",
+     "Beds: the base hospital"
+    ],
+    [
+     "+ SURGERY",
+     "A surgical detachment"
+    ],
+    [
+     "+ ICU",
+     "Intensive care detachments"
+    ],
+    [
+     "240",
+     "Beds: the full hospital"
+    ]
+   ],
+   "footer": "AS DESCRIBED IN ARMY SUSTAINMENT, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_4002e3",
+  "name": "cards3",
+  "opts": {
+   "kicker": "WHY THE ARMY REDESIGNED ITS HOSPITALS",
+   "title": "THREE PROBLEMS",
+   "cards": [
+    {
+     "h": "DESIGN",
+     "t": "How the unit was organized"
+    },
+    {
+     "h": "CAPABILITY",
+     "t": "Medical and surgical gaps"
+    },
+    {
+     "h": "SPLITTING",
+     "t": "Hard to run in pieces"
+    }
+   ],
+   "footer": "SOURCE: ARMY SUSTAINMENT, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_62e482",
+  "name": "phases",
+  "opts": {
+   "kicker": "10TH FIELD HOSPITAL \u00b7 EARLY-ENTRY ELEMENT",
+   "title": "6 BEDS THAT GO FIRST",
+   "left": {
+    "label": "HOSPITAL BEDS",
+    "num": "4",
+    "desc": "FOR PATIENTS"
+   },
+   "right": {
+    "label": "SURGERY",
+    "num": "2",
+    "desc": "DAMAGE-CONTROL SURGERY BEDS"
+   },
+   "footer": "SOURCE: ARMY SUSTAINMENT, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_9ef3fb",
+  "name": "doc",
+  "opts": {
+   "header": "FORT POLK, LOUISIANA \u00b7 NOVEMBER 2017",
+   "title": "PROOF OF CONCEPT",
+   "body": "627th Hospital Center and 10th Field Hospital: role 3 care established within 72 hours for a 14-day exercise.",
+   "source": "SOURCE: ARMY SUSTAINMENT, 2018",
+   "stamp": "72 HOURS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_72755d",
+  "name": "phases",
+  "opts": {
+   "kicker": "FORT POLK EXERCISE \u00b7 2017 \u00b7 SIMULATED CASUALTIES",
+   "title": "THE TEST IN NUMBERS",
+   "left": {
+    "label": "ROLE 3 HOSPITAL",
+    "num": "242",
+    "desc": "CASUALTIES IN 7 DAYS"
+   },
+   "right": {
+    "label": "6-BED ELEMENT",
+    "num": "50+",
+    "desc": "CASUALTIES IN 72 HOURS"
+   },
+   "footer": "TRAINING EXERCISE \u00b7 SOURCE: ARMY SUSTAINMENT, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_e903f9",
+  "name": "chapter",
+  "opts": {
+   "case": "DAY 1 TO DAY 3",
+   "n": "IV",
+   "t": "THE BUILD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_b088fb",
+  "name": "steps",
+  "opts": {
+   "kicker": "HOW A FIELD HOSPITAL FLOWS",
+   "title": "FROM ARRIVAL TO EVACUATION",
+   "items": [
+    [
+     "ARRIVE",
+     "Emergency treatment"
+    ],
+    [
+     "OPERATE",
+     "Operating rooms"
+    ],
+    [
+     "RECOVER",
+     "Intensive care"
+    ],
+    [
+     "MOVE ON",
+     "Intermediate care, then evacuation"
+    ]
+   ],
+   "footer": "SOURCES: ARMY.MIL \u00b7 ARMY SUSTAINMENT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ad6166",
+  "name": "stat",
+  "opts": {
+   "a": "35%",
+   "b": "OF A FIELD HOSPITAL'S EQUIPMENT ITS OWN VEHICLES CAN MOVE IN ONE LIFT",
+   "c": "SOURCE: ARMY SUSTAINMENT, 2018"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_7bcaa4",
+  "name": "chapter",
+  "opts": {
+   "case": "2017 \u00b7 2020",
+   "n": "V",
+   "t": "THE REAL CALLS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_3da946",
+  "name": "phases",
+  "opts": {
+   "kicker": "14TH CSH \u00b7 HUMACAO, PUERTO RICO \u00b7 2017",
+   "title": "THE FIRST THREE DAYS",
+   "left": {
+    "label": "PATIENTS",
+    "num": "164",
+    "desc": "SEEN"
+   },
+   "right": {
+    "label": "SURGERIES",
+    "num": "6",
+    "desc": "PERFORMED"
+   },
+   "active": 0,
+   "footer": "SOURCE: DVIDS \u00b7 24TH THEATER PUBLIC AFFAIRS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_10be93",
+  "name": "cards3",
+  "opts": {
+   "kicker": "SEATTLE \u00b7 MARCH\u2013APRIL 2020",
+   "title": "A HOSPITAL IN AN EVENT CENTER",
+   "cards": [
+    {
+     "h": "250",
+     "t": "Beds"
+    },
+    {
+     "h": "2 + 2",
+     "t": "Emergency rooms + operating rooms"
+    },
+    {
+     "h": "RX + X-RAY",
+     "t": "Pharmacy and x-ray"
+    }
+   ],
+   "footer": "SOURCE: ARMY.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_595898",
+  "name": "doc",
+  "opts": {
+   "header": "SEATTLE \u00b7 APRIL 2020",
+   "title": "ONE OF THE MOST CAPABLE HOSPITALS IN THE ARMY",
+   "body": "Lt. Gen. Laura J. Richardson, commander of U.S. Army North, on the 627th Hospital Center.",
+   "source": "AS REPORTED BY ARMY NEWS SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_2ccf99",
+  "name": "chapter",
+  "opts": {
+   "case": "2026",
+   "n": "VI",
+   "t": "THE NEXT WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_40e6af",
+  "name": "stat",
+  "opts": {
+   "a": "100%",
+   "b": "OF ITS EQUIPMENT, MOVED BY THE UNIT ITSELF",
+   "c": "512TH FIELD HOSPITAL \u00b7 FEB. 2026 \u00b7 TRAINING \u00b7 SOURCE: ARMY.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_75f490",
+  "name": "quote",
+  "opts": {
+   "q": "We are here, we will care for them, and we will get them home.",
+   "w": "COL. CRYSTAL L. BELEW \u00b7 COMMANDER, 519TH HOSPITAL CENTER \u00b7 VIA ARMY.MIL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_d3e876",
+  "name": "quote",
+  "opts": {
+   "q": "When ICU and ICW beds fill faster than they clear, the hospital's fate is sealed.",
+   "w": "TERRY DILDAY \u00b7 ARMY.MIL \u00b7 JANUARY 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_3a1b72",
+  "name": "steps",
+  "opts": {
+   "kicker": "THREE CLOCKS OF A FIELD HOSPITAL",
+   "title": "WHERE IT JAMS",
+   "items": [
+    [
+     "MINUTES",
+     "Emergency department"
+    ],
+    [
+     "HOURS",
+     "Operating room"
+    ],
+    [
+     "DAYS",
+     "ICU and ward beds"
+    ]
+   ],
+   "footer": "SOURCE: ARMY.MIL, JANUARY 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_c471fc",
+  "name": "doc",
+  "opts": {
+   "header": "WEST FORT HOOD, TEXAS \u00b7 MARCH 30, 2026",
+   "title": "A HOSPITAL UNDERGROUND",
+   "body": "Army medics train in a decommissioned nuclear storage tunnel.",
+   "source": "SOURCE: STARS AND STRIPES",
+   "stamp": "UNDERGROUND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_61e240",
+  "name": "stat",
+  "opts": {
+   "a": "SUBSCRIBE",
+   "b": "REAL MEDICINE \u00b7 REAL FOOTAGE",
+   "c": "KEPT ALIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_79e95f",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 HOW IT WORKS 011",
+   "stamp": "FIELD HOSPITAL"
+  },
+  "intro": 2.4
+ }
+]

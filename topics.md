@@ -11,7 +11,7 @@ Rotate formats; check every fact before writing. Mark `[x] YYYY-MM-DD` when publ
 - [x] 2026-11-11 010 FIRST — Penicillin: The Mold That Went to War (published as "How Penicillin Was Discovered — and Rushed to D-Day") (United News 1944 newsreels 208-UN-113/1008, USCG/Navy Normandy 1944 films, DVIDS WRAIR/NMCSD labs; AAI, PBS, WWII Museum, USDA ARS, ACS, CDC, WHO)
 - [x] 2026-11-10 009 THE SAVE — Fighting Ebola in Liberia, 2014 (published as "How the Largest Ebola Outbreak in History Was Stopped in Liberia") (DVIDS Operation United Assistance: MMU, Tubmanburg/Gbediah/Senje ETUs, 1st Area Medical Lab, 2-501st AVN; CDC/WHO/EID/MMWR)
 - [x] 2026-11-09 008 FIRST — Ether Day: The First Public Surgery Without Pain (queue item 010; published as "What Surgery Was Like Before Anesthesia — and the Day It Ended") (MGH 1897 "Semi-Centennial of Anaesthesia" plates, Wells 1847 / Morton 1853 title pages via Internet Archive; DVIDS anesthesia training)
-- [ ] 011 HOW IT WORKS — How a Field Hospital Is Built in 72 Hours (DVIDS)
+- [x] 2026-11-12 011 HOW IT WORKS — How a Field Hospital Is Built in 72 Hours (published as "How the Army Builds a Hospital in 72 Hours — From MASH to Today") (NARA 111-ADC-9535 8209th MASH 1951; DVIDS 14th CSH Puerto Rico 2017, Seattle/Javits 2020, MEDEX 2012, Reserve FH 2021, 512th FH and 11th FH 2026; Army Sustainment, army.mil, DVIDS, Britannica, Defense Media Network, Stars and Stripes)
 - [ ] 012 OUTBREAK — Cholera and the Map That Found the Pump (archive.org, NLM)
 - [ ] 013 THE SAVE — Hospital Ship Mercy: Pacific Partnership Surgeries (DVIDS, wide shots only)
 - [ ] 014 HOW IT WORKS — Hyperbaric Chambers: Medicine Under Pressure (DVIDS)

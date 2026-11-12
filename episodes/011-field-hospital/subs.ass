@@ -1,0 +1,263 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:04.27,Sub,,0,0,0,,{\fad(80,80)}How does the Army build a hospital in 72 hours?
+Dialogue: 0,0:00:04.29,0:00:06.86,Sub,,0,0,0,,{\fad(80,80)}It brings the whole hospital with it.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JAVITS CENTER · NEW YORK · APRIL 2020 · TIME-LAPSE
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS SET UP LAB, X-RAY AND PHARMACY STATIONS
+Dialogue: 0,0:00:21.67,0:00:24.90,Sub,,0,0,0,,{\fad(80,80)}Tents, beds, operating rooms, intensive care, a lab,
+Dialogue: 0,0:00:24.92,0:00:26.03,Sub,,0,0,0,,{\fad(80,80)}x-ray, a pharmacy.
+Dialogue: 0,0:00:26.05,0:00:29.16,Sub,,0,0,0,,{\fad(80,80)}All of it packed to travel by truck and container.
+Dialogue: 2,0:00:21.92,0:00:27.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:00:21.92,0:00:27.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:21.92,0:00:27.67,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CENTURYLINK FIELD EVENT CENTER · SEATTLE · MARCH 30, 2020
+Dialogue: 3,0:00:21.92,0:00:27.67,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AN ARMY HOSPITAL ARRIVES BY TRUCK AND CONTAINER
+Dialogue: 0,0:00:29.63,0:00:32.16,Sub,,0,0,0,,{\fad(80,80)}The idea is older than most people think.
+Dialogue: 0,0:00:32.18,0:00:35.34,Sub,,0,0,0,,{\fad(80,80)}Its most famous version had a nickname you probably
+Dialogue: 0,0:00:35.36,0:00:36.65,Sub,,0,0,0,,{\fad(80,80)}know from television.
+Dialogue: 2,0:00:29.88,0:00:35.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:00:29.88,0:00:35.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:29.88,0:00:35.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOREA · 1951 · U.S. ARMY SIGNAL CORPS FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:00:29.88,0:00:35.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}8209TH MOBILE ARMY SURGICAL HOSPITAL
+Dialogue: 0,0:01:07.15,0:01:10.39,Sub,,0,0,0,,{\fad(80,80)}That idea, receive, treat, and move patients on, is
+Dialogue: 0,0:01:10.41,0:01:12.63,Sub,,0,0,0,,{\fad(80,80)}still the core of a field hospital.
+Dialogue: 0,0:01:12.65,0:01:15.63,Sub,,0,0,0,,{\fad(80,80)}In Korea, the Army relied on a smaller surgical
+Dialogue: 0,0:01:15.65,0:01:17.92,Sub,,0,0,0,,{\fad(80,80)}hospital built to follow the troops.
+Dialogue: 2,0:01:07.40,0:01:13.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:01:07.40,0:01:13.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:07.40,0:01:13.15,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOREA · 1951 · U.S. ARMY SIGNAL CORPS FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:01:07.40,0:01:13.15,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}8209TH MOBILE ARMY SURGICAL HOSPITAL
+Dialogue: 0,0:01:18.39,0:01:20.26,Sub,,0,0,0,,{\fad(80,80)}In the Korean War, the U.S.
+Dialogue: 0,0:01:20.28,0:01:23.95,Sub,,0,0,0,,{\fad(80,80)}Army used Mobile Army Surgical Hospitals. MASH units.
+Dialogue: 0,0:01:23.97,0:01:27.43,Sub,,0,0,0,,{\fad(80,80)}Small surgical hospitals that could follow an army
+Dialogue: 0,0:01:27.45,0:01:28.34,Sub,,0,0,0,,{\fad(80,80)}in the field.
+Dialogue: 2,0:01:18.64,0:01:24.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:01:18.64,0:01:24.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:18.64,0:01:24.39,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOREA · 1951 · U.S. ARMY SIGNAL CORPS FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:01:18.64,0:01:24.39,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}8209TH MOBILE ARMY SURGICAL HOSPITAL
+Dialogue: 0,0:01:28.81,0:01:32.96,Sub,,0,0,0,,{\fad(80,80)}This is real Army film of one of them, the 8209th
+Dialogue: 0,0:01:32.98,0:01:37.05,Sub,,0,0,0,,{\fad(80,80)}MASH, shot by the Signal Corps in Korea in 1951.
+Dialogue: 2,0:01:29.06,0:01:34.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:01:29.06,0:01:34.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:29.06,0:01:34.81,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOREA · 1951 · U.S. ARMY SIGNAL CORPS FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:01:29.06,0:01:34.81,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}8209TH MOBILE ARMY SURGICAL HOSPITAL
+Dialogue: 0,0:01:58.64,0:02:01.51,Sub,,0,0,0,,{\fad(80,80)}Casualties arrived by ambulance at a tent marked
+Dialogue: 0,0:02:01.53,0:02:02.12,Sub,,0,0,0,,{\fad(80,80)}receiving.
+Dialogue: 2,0:01:58.89,0:02:02.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:01:58.89,0:02:02.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:58.89,0:02:02.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOREA · 1951 · U.S. ARMY SIGNAL CORPS FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:01:58.89,0:02:02.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}8209TH MOBILE ARMY SURGICAL HOSPITAL
+Dialogue: 0,0:02:02.59,0:02:06.01,Sub,,0,0,0,,{\fad(80,80)}Inside, surgeons scrubbed in under bare bulbs, in
+Dialogue: 0,0:02:06.03,0:02:06.92,Sub,,0,0,0,,{\fad(80,80)}canvas tents.
+Dialogue: 0,0:02:06.94,0:02:10.30,Sub,,0,0,0,,{\fad(80,80)}Almost all of them were civilian doctors who had
+Dialogue: 0,0:02:10.32,0:02:11.21,Sub,,0,0,0,,{\fad(80,80)}been drafted.
+Dialogue: 0,0:02:11.23,0:02:14.51,Sub,,0,0,0,,{\fad(80,80)}By 1952, 90% of doctors in Korea were draftees.
+Dialogue: 2,0:02:02.84,0:02:08.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:02:02.84,0:02:08.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:02.84,0:02:08.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOREA · 1951 · U.S. ARMY SIGNAL CORPS FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:02:02.84,0:02:08.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}8209TH MOBILE ARMY SURGICAL HOSPITAL
+Dialogue: 0,0:03:59.00,0:04:02.95,Sub,,0,0,0,,{\fad(80,80)}Combat support hospitals were big, and the Army even
+Dialogue: 0,0:04:02.97,0:04:05.39,Sub,,0,0,0,,{\fad(80,80)}kept whole hospitals in storage.
+Dialogue: 0,0:04:05.41,0:04:09.35,Sub,,0,0,0,,{\fad(80,80)}In Japan, it stored and maintained the equipment for
+Dialogue: 0,0:04:09.37,0:04:11.64,Sub,,0,0,0,,{\fad(80,80)}a 992 bed deployable hospital.
+Dialogue: 0,0:04:11.66,0:04:15.23,Sub,,0,0,0,,{\fad(80,80)}In 2012, about 200 soldiers of the 325th Combat
+Dialogue: 0,0:04:15.25,0:04:18.81,Sub,,0,0,0,,{\fad(80,80)}Support Hospital, from Missouri, set up medical
+Dialogue: 0,0:04:18.83,0:04:20.95,Sub,,0,0,0,,{\fad(80,80)}tents there for an exercise.
+Dialogue: 2,0:03:59.25,0:04:05.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:03:59.25,0:04:05.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:59.25,0:04:05.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR CAMP ZAMA, JAPAN · 2012 · MEDEX EXERCISE
+Dialogue: 3,0:03:59.25,0:04:05.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COMBAT SUPPORT HOSPITAL PUTS UP ITS TENTS
+Dialogue: 0,0:04:21.42,0:04:23.46,Sub,,0,0,0,,{\fad(80,80)}And then the Army changed the design again.
+Dialogue: 2,0:04:21.67,0:04:23.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:04:21.67,0:04:23.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:21.67,0:04:23.88,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR CAMP ZAMA, JAPAN · 2012 · MEDEX EXERCISE
+Dialogue: 3,0:04:21.67,0:04:23.88,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COMBAT SUPPORT HOSPITAL PUTS UP ITS TENTS
+Dialogue: 0,0:05:04.22,0:05:05.34,Sub,,0,0,0,,{\fad(80,80)}The point is speed.
+Dialogue: 0,0:05:05.36,0:05:08.46,Sub,,0,0,0,,{\fad(80,80)}A small piece can go first, and the rest can follow.
+Dialogue: 2,0:05:04.47,0:05:08.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:05:04.47,0:05:08.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:04.47,0:05:08.88,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY RESERVE · 2021
+Dialogue: 3,0:05:04.47,0:05:08.88,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY RESERVE FIELD HOSPITALS PRACTICE BUILDING FROM SCRATCH
+Dialogue: 0,0:05:46.61,0:05:48.46,Sub,,0,0,0,,{\fad(80,80)}First, people and equipment arrive.
+Dialogue: 0,0:05:48.48,0:05:50.37,Sub,,0,0,0,,{\fad(80,80)}By aircraft, by truck, by container.
+Dialogue: 2,0:05:46.86,0:05:50.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:05:46.86,0:05:50.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:46.86,0:05:50.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PUERTO RICO · OCTOBER 10, 2017
+Dialogue: 3,0:05:46.86,0:05:50.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}14TH COMBAT SUPPORT HOSPITAL ARRIVES AFTER HURRICANE MARIA
+Dialogue: 0,0:05:50.84,0:05:51.82,Sub,,0,0,0,,{\fad(80,80)}Then the site.
+Dialogue: 0,0:05:51.84,0:05:55.38,Sub,,0,0,0,,{\fad(80,80)}Flat ground, or a building with a big empty floor.
+Dialogue: 0,0:05:55.40,0:05:55.95,Sub,,0,0,0,,{\fad(80,80)}A field.
+Dialogue: 0,0:05:55.97,0:05:57.02,Sub,,0,0,0,,{\fad(80,80)}A sports arena.
+Dialogue: 0,0:05:57.04,0:05:58.44,Sub,,0,0,0,,{\fad(80,80)}A convention center.
+Dialogue: 2,0:05:51.09,0:05:56.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:05:51.09,0:05:56.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:51.09,0:05:56.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}HUMACAO, PUERTO RICO · OCTOBER 11, 2017
+Dialogue: 3,0:05:51.09,0:05:56.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A FIELD HOSPITAL GOES UP INSIDE THE HUMACAO ARENA
+Dialogue: 0,0:05:58.91,0:06:00.27,Sub,,0,0,0,,{\fad(80,80)}Then the shelters go up.
+Dialogue: 0,0:06:00.29,0:06:03.24,Sub,,0,0,0,,{\fad(80,80)}Soldiers unroll and stake down the tents, section by
+Dialogue: 0,0:06:03.26,0:06:03.70,Sub,,0,0,0,,{\fad(80,80)}section.
+Dialogue: 2,0:05:59.16,0:06:04.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:05:59.16,0:06:04.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:59.16,0:06:04.12,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR CAMP ZAMA, JAPAN · 2012 · MEDEX EXERCISE
+Dialogue: 3,0:05:59.16,0:06:04.12,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COMBAT SUPPORT HOSPITAL PUTS UP ITS TENTS
+Dialogue: 0,0:06:04.17,0:06:06.91,Sub,,0,0,0,,{\fad(80,80)}Hospital equipment comes out of its cases:
+Dialogue: 0,0:06:06.93,0:06:08.56,Sub,,0,0,0,,{\fad(80,80)}beds, monitors, lab gear.
+Dialogue: 2,0:06:04.42,0:06:08.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:06:04.42,0:06:08.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:04.42,0:06:08.98,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}HUMACAO, PUERTO RICO · OCTOBER 11, 2017
+Dialogue: 3,0:06:04.42,0:06:08.98,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A FIELD HOSPITAL GOES UP INSIDE THE HUMACAO ARENA
+Dialogue: 0,0:06:09.03,0:06:10.65,Sub,,0,0,0,,{\fad(80,80)}Supplies have to come too.
+Dialogue: 0,0:06:10.67,0:06:13.87,Sub,,0,0,0,,{\fad(80,80)}In Puerto Rico, soldiers trucked in food and water.
+Dialogue: 2,0:06:09.28,0:06:14.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:06:09.28,0:06:14.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:09.28,0:06:14.29,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}HUMACAO, PUERTO RICO · OCTOBER 2017
+Dialogue: 3,0:06:09.28,0:06:14.29,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS UNLOAD SUPPLIES FOR THE FIELD HOSPITAL
+Dialogue: 0,0:06:27.58,0:06:30.22,Sub,,0,0,0,,{\fad(80,80)}Behind that are the parts you rarely see:
+Dialogue: 0,0:06:30.24,0:06:33.59,Sub,,0,0,0,,{\fad(80,80)}pharmacy, laboratory, dental, and medical logistics.
+Dialogue: 2,0:06:27.83,0:06:33.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:06:27.83,0:06:33.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:27.83,0:06:33.58,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JAVITS CENTER · NEW YORK · APRIL 2020 · TIME-LAPSE
+Dialogue: 3,0:06:27.83,0:06:33.58,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS SET UP LAB, X-RAY AND PHARMACY STATIONS
+Dialogue: 0,0:06:43.24,0:06:45.56,Sub,,0,0,0,,{\fad(80,80)}And all of it has to be packed up again when the
+Dialogue: 0,0:06:45.58,0:06:46.24,Sub,,0,0,0,,{\fad(80,80)}mission moves.
+Dialogue: 2,0:06:43.49,0:06:46.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:06:43.49,0:06:46.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:43.49,0:06:46.66,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY RESERVE · 2021
+Dialogue: 3,0:06:43.49,0:06:46.66,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY RESERVE FIELD HOSPITALS PRACTICE BUILDING FROM SCRATCH
+Dialogue: 0,0:06:49.87,0:06:53.68,Sub,,0,0,0,,{\fad(80,80)}In October 2017, after Hurricane Maria, the 14th
+Dialogue: 0,0:06:53.70,0:06:58.00,Sub,,0,0,0,,{\fad(80,80)}Combat Support Hospital arrived in Puerto Rico by air.
+Dialogue: 2,0:06:50.12,0:06:55.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:06:50.12,0:06:55.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:50.12,0:06:55.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PUERTO RICO · OCTOBER 10, 2017
+Dialogue: 3,0:06:50.12,0:06:55.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}14TH COMBAT SUPPORT HOSPITAL ARRIVES AFTER HURRICANE MARIA
+Dialogue: 0,0:06:58.47,0:07:01.15,Sub,,0,0,0,,{\fad(80,80)}It set up inside the damaged Humacao Arena.
+Dialogue: 0,0:07:01.17,0:07:03.92,Sub,,0,0,0,,{\fad(80,80)}In less than a week, it had a full hospital:
+Dialogue: 0,0:07:03.94,0:07:06.88,Sub,,0,0,0,,{\fad(80,80)}emergency services, surgery, two intensive care
+Dialogue: 0,0:07:06.90,0:07:07.95,Sub,,0,0,0,,{\fad(80,80)}units, and x-ray.
+Dialogue: 2,0:06:58.72,0:07:04.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:06:58.72,0:07:04.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:58.72,0:07:04.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}HUMACAO, PUERTO RICO · OCTOBER 11, 2017
+Dialogue: 3,0:06:58.72,0:07:04.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A FIELD HOSPITAL GOES UP INSIDE THE HUMACAO ARENA
+Dialogue: 0,0:07:15.07,0:07:18.49,Sub,,0,0,0,,{\fad(80,80)}It was equipped to see about 100 patients a day,
+Dialogue: 0,0:07:18.51,0:07:22.01,Sub,,0,0,0,,{\fad(80,80)}with 44 beds for patients needing intensive care.
+Dialogue: 0,0:07:22.03,0:07:23.66,Sub,,0,0,0,,{\fad(80,80)}Running 24 hours a day.
+Dialogue: 2,0:07:15.32,0:07:21.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:07:15.32,0:07:21.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:15.32,0:07:21.07,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}HUMACAO, PUERTO RICO · OCTOBER 9, 2017
+Dialogue: 3,0:07:15.32,0:07:21.07,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}14TH CSH BEGINS SETTING UP ITS FIELD HOSPITAL
+Dialogue: 0,0:07:24.13,0:07:27.93,Sub,,0,0,0,,{\fad(80,80)}Then, in March 2020, during the COVID-19 pandemic,
+Dialogue: 0,0:07:27.95,0:07:31.60,Sub,,0,0,0,,{\fad(80,80)}Army hospital units deployed to American cities.
+Dialogue: 2,0:07:24.38,0:07:30.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:07:24.38,0:07:30.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:24.38,0:07:30.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CENTURYLINK FIELD EVENT CENTER · SEATTLE · MARCH 30, 2020
+Dialogue: 3,0:07:24.38,0:07:30.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AN ARMY HOSPITAL ARRIVES BY TRUCK AND CONTAINER
+Dialogue: 0,0:07:45.18,0:07:47.89,Sub,,0,0,0,,{\fad(80,80)}In New York, soldiers helped turn the Javits
+Dialogue: 0,0:07:47.91,0:07:50.38,Sub,,0,0,0,,{\fad(80,80)}Convention Center into a field hospital.
+Dialogue: 0,0:07:50.40,0:07:53.61,Sub,,0,0,0,,{\fad(80,80)}At first, it took patients without COVID-19, to take
+Dialogue: 0,0:07:53.63,0:07:55.73,Sub,,0,0,0,,{\fad(80,80)}pressure off the city's hospitals.
+Dialogue: 2,0:07:45.43,0:07:51.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:07:45.43,0:07:51.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:45.43,0:07:51.18,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JAVITS CENTER · NEW YORK · APRIL 2020 · TIME-LAPSE
+Dialogue: 3,0:07:45.43,0:07:51.18,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS SET UP LAB, X-RAY AND PHARMACY STATIONS
+Dialogue: 0,0:08:19.93,0:08:23.49,Sub,,0,0,0,,{\fad(80,80)}In February 2026, in Germany, the 512th Field
+Dialogue: 0,0:08:23.51,0:08:28.11,Sub,,0,0,0,,{\fad(80,80)}Hospital set up a 32-bed hospital that could expand to 48.
+Dialogue: 0,0:08:28.13,0:08:31.62,Sub,,0,0,0,,{\fad(80,80)}With two operating rooms and intensive care.
+Dialogue: 2,0:08:20.18,0:08:25.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:08:20.18,0:08:25.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:20.18,0:08:25.93,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KAISERSLAUTERN, GERMANY · FEBRUARY 2026
+Dialogue: 3,0:08:20.18,0:08:25.93,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}512TH FIELD HOSPITAL FIELD TRAINING EXERCISE
+Dialogue: 0,0:08:38.31,0:08:41.90,Sub,,0,0,0,,{\fad(80,80)}They also rehearsed long-distance casualty movement,
+Dialogue: 0,0:08:41.92,0:08:45.51,Sub,,0,0,0,,{\fad(80,80)}by convoy and loading litters onto a train, all with
+Dialogue: 0,0:08:45.53,0:08:46.96,Sub,,0,0,0,,{\fad(80,80)}simulated casualties.
+Dialogue: 0,0:08:46.98,0:08:50.50,Sub,,0,0,0,,{\fad(80,80)}The commander of the 519th Hospital Center, Colonel
+Dialogue: 0,0:08:50.52,0:08:53.07,Sub,,0,0,0,,{\fad(80,80)}Crystal Belew, summed up the mission.
+Dialogue: 2,0:08:38.56,0:08:44.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:08:38.56,0:08:44.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:38.56,0:08:44.31,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KAISERSLAUTERN, GERMANY · FEBRUARY 2026
+Dialogue: 3,0:08:38.56,0:08:44.31,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}512TH FIELD HOSPITAL FIELD TRAINING EXERCISE
+Dialogue: 0,0:08:53.54,0:08:56.82,Sub,,0,0,0,,{\fad(80,80)}A month later, at Fort McCoy, Wisconsin, the 11th
+Dialogue: 0,0:08:56.84,0:09:00.33,Sub,,0,0,0,,{\fad(80,80)}Field Hospital from Fort Hood ran a 9-day collective
+Dialogue: 0,0:09:00.35,0:09:03.22,Sub,,0,0,0,,{\fad(80,80)}training exercise, with medical simulation.
+Dialogue: 2,0:08:53.79,0:08:59.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:08:53.79,0:08:59.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:53.79,0:08:59.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT MCCOY, WISCONSIN · MARCH 2026
+Dialogue: 3,0:08:53.79,0:08:59.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}11TH FIELD HOSPITAL COLLECTIVE TRAINING
+Dialogue: 0,0:09:03.69,0:09:07.25,Sub,,0,0,0,,{\fad(80,80)}One Army article argues the limit isn't clinical skill.
+Dialogue: 0,0:09:07.27,0:09:07.90,Sub,,0,0,0,,{\fad(80,80)}It's beds.
+Dialogue: 2,0:09:03.94,0:09:08.32,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:09:03.94,0:09:08.32,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:03.94,0:09:08.32,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT MCCOY, WISCONSIN · MARCH 2026
+Dialogue: 3,0:09:03.94,0:09:08.32,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}11TH FIELD HOSPITAL COLLECTIVE TRAINING
+Dialogue: 0,0:09:26.49,0:09:28.28,Sub,,0,0,0,,{\fad(80,80)}And drones change the picture.
+Dialogue: 0,0:09:28.30,0:09:31.19,Sub,,0,0,0,,{\fad(80,80)}A field hospital spread across acres of tents is
+Dialogue: 0,0:09:31.21,0:09:31.98,Sub,,0,0,0,,{\fad(80,80)}hard to hide.
+Dialogue: 2,0:09:26.74,0:09:32.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:09:26.74,0:09:32.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:26.74,0:09:32.40,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY RESERVE · 2021
+Dialogue: 3,0:09:26.74,0:09:32.40,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY RESERVE FIELD HOSPITALS PRACTICE BUILDING FROM SCRATCH
+Dialogue: 0,0:09:47.44,0:09:50.21,Sub,,0,0,0,,{\fad(80,80)}The war between Russia and Ukraine, the article
+Dialogue: 0,0:09:50.23,0:09:53.01,Sub,,0,0,0,,{\fad(80,80)}notes, has pushed people and troops into subway
+Dialogue: 0,0:09:53.03,0:09:55.32,Sub,,0,0,0,,{\fad(80,80)}systems and parking garages for safety.
+Dialogue: 0,0:09:55.34,0:09:58.30,Sub,,0,0,0,,{\fad(80,80)}So the Army is practicing hospitals that can hide.
+Dialogue: 2,0:09:47.69,0:09:53.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:09:47.69,0:09:53.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:47.69,0:09:53.44,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY RESERVE · 2021
+Dialogue: 3,0:09:47.69,0:09:53.44,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY RESERVE FIELD HOSPITALS PRACTICE BUILDING FROM SCRATCH
+Dialogue: 0,0:09:58.92,0:10:02.74,Sub,,0,0,0,,{\fad(80,80)}In 1951, a MASH was canvas tents, a sign by the
+Dialogue: 0,0:10:02.76,0:10:05.27,Sub,,0,0,0,,{\fad(80,80)}road, and a line of ambulances.
+Dialogue: 2,0:09:59.17,0:10:04.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:09:59.17,0:10:04.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:59.17,0:10:04.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOREA · 1951 · U.S. ARMY SIGNAL CORPS FILM · NATIONAL ARCHIVES
+Dialogue: 3,0:09:59.17,0:10:04.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}8209TH MOBILE ARMY SURGICAL HOSPITAL
+Dialogue: 0,0:10:05.74,0:10:09.82,Sub,,0,0,0,,{\fad(80,80)}Today, it's a 32-bed module, designed to grow, in
+Dialogue: 0,0:10:09.84,0:10:13.25,Sub,,0,0,0,,{\fad(80,80)}the Army's plan, into a 240-bed hospital.
+Dialogue: 2,0:10:05.99,0:10:11.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:10:05.99,0:10:11.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:05.99,0:10:11.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT MCCOY, WISCONSIN · MARCH 2026
+Dialogue: 3,0:10:05.99,0:10:11.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}11TH FIELD HOSPITAL COLLECTIVE TRAINING
+Dialogue: 0,0:10:13.72,0:10:15.42,Sub,,0,0,0,,{\fad(80,80)}The goal hasn't changed.
+Dialogue: 0,0:10:15.44,0:10:19.15,Sub,,0,0,0,,{\fad(80,80)}Bring surgery and intensive care close to the people
+Dialogue: 0,0:10:19.17,0:10:20.44,Sub,,0,0,0,,{\fad(80,80)}who need it. Fast.
+Dialogue: 2,0:10:13.97,0:10:19.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:10:13.97,0:10:19.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:13.97,0:10:19.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR CAMP ZAMA, JAPAN · 2012 · MEDEX EXERCISE
+Dialogue: 3,0:10:13.97,0:10:19.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COMBAT SUPPORT HOSPITAL PUTS UP ITS TENTS
+Dialogue: 5,0:10:32.26,0:10:36.46,Credit,,0,0,0,,{\fad(400,0)}Archival film (public domain): U.S. Army Signal Corps, 8209th Mobile Army Surgical Hospital, Korea, 1951 (National Archives 111-ADC-9535).\NFootage: U.S. Department of Defense via DVIDS (public domain). Training footage is marked TRAINING.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD or any government agency.\NFor education only. This is not medical advice.
+Dialogue: 4,0:03:59.00,0:04:10.20,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:10.20,0:04:21.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:21.43,0:04:23.87,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:04.23,0:05:06.57,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:06.57,0:05:08.93,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:58.90,0:06:01.53,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:01.53,0:06:04.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:43.23,0:06:46.77,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:19.93,0:08:26.00,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:26.00,0:08:32.10,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:38.30,0:08:45.93,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:53.53,0:08:56.93,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:56.93,0:09:00.30,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:00.30,0:09:03.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:03.70,0:09:08.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:26.50,0:09:32.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:47.43,0:09:53.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:09:53.17,0:09:58.93,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:10:05.73,0:10:13.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:10:13.73,0:10:20.90,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC
