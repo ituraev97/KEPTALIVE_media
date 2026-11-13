@@ -1,8 +1,17 @@
 # KEPT ALIVE — daily production runbook
 
-One run = one long video (10–12 min, English, US audience) + 6 vertical Shorts, all for ONE publish day in America/New_York.
+One run = ONE publish day in America/New_York. **Long-video days (Mon / Wed / Fri ET):** one long story (15–18 min) + 3 Shorts. **Other days (Tue / Thu / Sat / Sun):** 3 Shorts only. See "Format v2" below — it overrides older lines in this file.
 Read the Projects doc `claude/kept-alive-bible.md` first (rules, brand, voice, formats). The pipeline is a fork of CHANNEL 16;
 `reference/ch16-a001-found/` shows the episode DSL (its colours/hex values are CHANNEL 16's — never copy them; use the KEPT ALIVE palette below).
+
+## Format v2 — owner decision 2026-11-14 (overrides anything older below)
+Why: channel data 02–10 Nov — ~13,000 of ~13,700 views came from the Shorts feed; every long video got ~3 views (no browse/suggested impressions); Shorts on war + blood, the 1918 flu, the tourniquet and smallpox got 1,000–1,400 views each, hospital-ship and polio Shorts 2–75. YouTube recommends our audience: long dramatic war documentaries (20–26 min, e.g. "They Found 250 Bodies From WWI's Lost Army", 1.2M), ER/ICU "life on a clock" stories ("SHE COULD DIE IN 2 MINUTES!", 234K), outbreaks and disasters.
+1. **Topics:** every topic has a military/war angle OR an outbreak/disaster, AND a life at stake on a clock. Institutional "how X is organised" topics (hospital ships as such, polio programmes, admin) only as background inside a story. Queue: `topics.md` (season 2 at the top).
+2. **Fresh footage first (owner rule 2026-11-14):** start every episode and every Short from the NEWEST DVIDS uploads: `https://api.dvidshub.net/search?api_key=KEY&q=<terms>&type[]=video&sort=date&sortdir=desc&from_date=<today-60d>T00:00:00Z&max_results=50` (queries rotate: medevac, medic, hospital, surgical, trauma, MEDEVAC hoist, Coast Guard medevac, CBRN, outbreak, field hospital, blood). Prefer REAL recent events (Coast Guard/Navy medevacs, hospital-ship missions, disaster responses, mass-casualty exercises) published in the last 30 days — a real save from this week can be the topic itself. Target ≥ 60 % of footage screen time from clips published in the last 60 days; archival film only for genuinely historical chapters. Log each clip's DVIDS publish date in sources.md. Never reuse a clip (`used_clips.json`).
+3. **Long video = a story, not a lecture:** one real case with a protagonist (a medic, a crew, a ship, a doctor — rescuers may be named when an official release names them; patients never) told on a clock: cold open on the most dramatic verified moment ("They had 4 minutes…") → who/where → the danger escalates → the save → what it changed (history: then vs now on fresh footage) → teaser → disclaimer. 2,300–2,700 words → 15–18 min. Titles ≤ 70 chars with stakes + a number or a clock ("He Had 4 Minutes to Stop the Bleeding", "The Outbreak That Shut Down an Army Camp"), true and sourced. Mon / Wed / Fri only, 13:00 ET.
+4. **Thumbnails (long):** 2–4 HUGE words of stakes ("4 MINUTES TO LIVE", "247 MILES OUT"), real frame close-up of a rescuer/aircraft/object (never a patient's face, never gore), red Alarm #E5383B circle and/or arrow on the key detail (`thumb.json` → `"ring":{...,"color":"alarm"}`, `"arrow":{"x1":..,"y1":..,"x2":..,"y2":..}`), `badge` with the format. Test at 168×94.
+5. **Shorts formula (from the winners):** every Short opens on a number or a contrast tied to war or an outbreak — "87% vs. 0%", "in 3 numbers", "1883 vs. now", "13 million pints", "killed more soldiers than combat". Hook text + subject on screen at 0.5 s. 20–40 s. Titles ≤ 60 chars, never two Shorts in a day with the same opening pattern. Long days: the 3 Shorts come from that story. Shorts-only days: 3 Shorts on the freshest DVIDS real events / one war-medicine or outbreak fact each, built on footage published in the last 30 days where possible.
+6. **Shorts → long video:** every Short's description says "Full story on the channel." and the run report lists, for each Short, which long video should be set as its YouTube "Related video" (the owner sets it manually in YouTube Studio — Metricool cannot).
 
 ## 0. Hard rules (medical channel)
 - Education and history only: how medicine works and how it was done. NO treatment advice, dosages, diagnoses, "cure", supplements, fear bait, "doctors hide".
@@ -28,8 +37,8 @@ mkdir -p /home/claude/clips && cp /home/claude/keptalive_media/clips.json /home/
 ```
 
 ## 2. Pick the topic and footage
-- Next topic: first unchecked line of `topics.md` (formats rotate: THE SAVE / OUTBREAK / HOW IT WORKS / FIRST). Mark it done with the date when published.
-- DVIDS API (key in the scheduled-task prompt): `https://api.dvidshub.net/search?api_key=KEY&q=<terms>&type[]=video` → `https://api.dvidshub.net/asset?api_key=KEY&id=video:ID` → download the 1920x1080 file (`files[].src`) to `/home/claude/clips/ID.mp4`. Prefer 30p/60p; 24p must be motion-interpolated (see build).
+- Next topic: first unchecked line of season 2 in `topics.md`, unless the fresh-DVIDS scan (Format v2 §2) finds a stronger real event from the last 30 days — then add it as a new line and use it. Mark it done with the date when published.
+- DVIDS API (key in the scheduled-task prompt): `https://api.dvidshub.net/search?api_key=KEY&q=<terms>&type[]=video&sort=date&sortdir=desc&from_date=<today-60d>T00:00:00Z` (newest first) → `https://api.dvidshub.net/asset?api_key=KEY&id=video:ID` → download the 1920x1080 file (`files[].src`) to `/home/claude/clips/ID.mp4`. Prefer 30p/60p; 24p must be motion-interpolated (see build).
 - archive.org public-domain films (`advancedsearch.php`, mediatype:movies) for OUTBREAK / FIRST; check each item's rights; credit "ARCHIVAL FILM · YEAR · STUDIO".
 - Never use a clip already in `used_clips.json`. Contact sheet every 3–5 s with timestamps; skip injuries/blood/patients' faces.
 - `python3 pipeline/src_cuts.py /home/claude/clips ID` (internal cuts; builder avoids flash fragments). Add `box` to `clips.json` for 4:3 sources.
@@ -37,9 +46,9 @@ mkdir -p /home/claude/clips && cp /home/claude/keptalive_media/clips.json /home/
 
 ## 3. Research + script
 - `episodes/NNN-slug/episode.py`: `LINES = [(spoken, shots, opts)]` — same DSL as the reference. opts: `kind` (calm|punch|tense|slow|drive|question), `tag` (place · date lower third), `gap`. Numbers as words in `spoken`; hard terms respelled + `DISPLAY` map.
-- 1,500–1,800 words → 10–12 min. Structure: cold open ≤ 40 s → title → 5–6 chapters → "what changed" → teaser → disclaimer line → end card.
+- 2,300–2,700 words → 15–18 min (Format v2 §3). Structure: cold open ≤ 40 s on the most dramatic verified moment → title → 5–7 chapters that escalate toward the save → "what changed" → teaser → disclaimer line → end card.
 - Graphics (`pipeline/graphics.mjs`): title, chapter, stat, callcard, steps, cards3, map, timeline, list, doc, end. Colours: Night #0A1214, Panel #13242A, Gauze #EEF2EF, Scrub #2BB3A3 (accent, ONE word), Monitor #6CF29A (numbers/data), Iodine #F2B33D (hook only), Steel #8A9AA0. Graphics animate 0–2.4 s, then hold still.
-- `shorts_spec.py`: 6 Shorts (25–55 s each), one fact or moment per Short from the day's topic, own narration, hook ≤ 1.5 s, CTA "FOLLOW FOR MORE REAL MEDICINE".
+- `shorts_spec.py`: 3 Shorts (20–40 s each), formula from Format v2 §5, own narration, hook ≤ 1.5 s, CTA "FOLLOW FOR MORE REAL MEDICINE". Shorts-only days: an episode folder `episodes/sNNN-slug/` with only shorts_spec.py + sources.md (build only the per-line TTS/graphics/clips shorts.py needs, never a long video).
 - Fact-check agent (separate) on episode.py + shorts_spec.py + sources.md → fix → only then TTS.
 
 ## 4. Build
@@ -51,7 +60,7 @@ nohup python3 $P/build_ep.py $EP $CL > $EP/build.log 2>&1 &   # long; poll the l
 python3 $P/motion_check.py $EP/video_raw.mp4 $EP/timing.json $CL/clips.json   # must report 0 issues
 python3 $P/finish.py $EP $CL             # subtitles, lower thirds, score, SFX, -14 LUFS
 bash $P/encode.sh $EP $EP/long.mp4 95    # < 100 MB for GitHub
-python3 $P/shorts.py $EP $CL             # 6 Shorts from shorts_spec.py
+python3 $P/shorts.py $EP $CL             # 3 Shorts from shorts_spec.py
 cd $P && node thumb.mjs $EP/thumb.json $EP   # thumb_A + thumb_C
 ```
 Long steps (build/finish/encode/shorts) through nohup + polling; never let a foreground command run past 10 minutes.
@@ -68,12 +77,12 @@ Long steps (build/finish/encode/shorts) through nohup + polling; never let a for
 - Avoid edited "wrap-up" montages (1-second cuts, baked-in titles) — the builder cannot place a shot inside them.
 
 ## 6. Upload + schedule
-- Branch = weekday of the ET publish date (`drop-mon` … `drop-sun`): orphan commit with ONLY that day's files (long.mp4, short1..6.mp4, thumb_A.jpg), force-push. URL `https://raw.githubusercontent.com/ituraev97/KEPTALIVE_media/drop-XXX/<file>`. Video never on `main`.
+- Branch = weekday of the ET publish date (`drop-mon` … `drop-sun`): orphan commit with ONLY that day's files (long.mp4 on long days, s1..s3.mp4, thumb_A.jpg, thumb_C.jpg), force-push. URL `https://raw.githubusercontent.com/ituraev97/KEPTALIVE_media/drop-XXX/<file>`. Video never on `main`.
 - Metricool brand **KEPT ALIVE**, blogId **7806960** (YouTube UCa7qKTXkXc0yXmKJkBTFa9Q, brand timezone Asia/Tashkent — send `publicationDate` with timezone America/New_York).
-  - Long: 13:00 ET, `youtubeData`: type "video", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags (10–15), title ≤ 70 chars.
-  - Shorts: 08:00, 10:00, 12:00, 15:00, 18:00, 21:00 ET, type "short", same flags, title ends with "#shorts".
+  - Long (Mon / Wed / Fri only): 13:00 ET, `youtubeData`: type "video", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags (10–15), title ≤ 70 chars.
+  - Shorts: 10:00, 15:00, 18:00 ET (3 per day, every day), type "short", same flags, title ends with "#shorts".
   - Description = `templates/description.txt` filled (summary, chapters, sources, disclaimers, footage credits).
-- Verify with getScheduledPosts that all 7 posts exist for the day. Then commit `episode.py`, `shorts_spec.py`, `sources.md`, `thumb.json`, `youtube_description.txt`, updated `used_clips.json`, `clips.json`, `topics.md` to `main` and push.
+- Verify with getScheduledPosts that all posts exist for the day (4 on long days, 3 on Shorts-only days). Then commit `episode.py`, `shorts_spec.py`, `sources.md`, `thumb.json`, `youtube_description.txt`, updated `used_clips.json`, `clips.json`, `topics.md` to `main` and push.
 - Shorts: `MUTE = [clip ids]` in shorts_spec.py replaces natural sound with silence for those sources (interviews, narrated archival films) — the Short otherwise mixes the clip's own audio under the narration.
 - YouTube description must stay under 5,000 characters (005 first draft was 5,024) — check `make_desc.py` output.
 - Interlaced archive.org MPEG-2 (e.g. Combat Bulletin): convert with `fieldmatch,yadif=deint=interlaced,decimate` to clean 24p; 60p archive.org MP4s of silent film (111-ADC) -> `fps=24`. Add a silent audio track (`anullsrc`) so shorts.py/finish.py can read audio.
