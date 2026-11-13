@@ -706,5 +706,149 @@
   "episode": "011-field-hospital",
   "date": "2026-11-12",
   "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "map_wide",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "map_soho",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "map_pump",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "map_brew",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "map_work",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "map_south",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "snow_title",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "table9",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "purif_micro",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "purif_plant",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "purif_bag",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "purif_test",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "purif_bag2",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "card_brew",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "card_500",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "card_61",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "card_2ft8",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "card_typh",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "card_1908",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "1020953",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "702231",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "1021069",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "671211",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "1002024",
+  "episode": "012-cholera",
+  "date": "2026-11-14",
+  "channel": "KEPT ALIVE"
  }
 ]

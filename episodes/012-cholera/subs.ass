@@ -1,0 +1,249 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:04.95,Sub,,0,0,0,,{\fad(80,80)}In 10 days in 1854, more than 500 people died of
+Dialogue: 0,0:00:04.97,0:00:07.84,Sub,,0,0,0,,{\fad(80,80)}cholera in a few streets of London.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:00:14.23,0:00:16.24,Sub,,0,0,0,,{\fad(80,80)}Most doctors of the day blamed bad air.
+Dialogue: 0,0:00:16.26,0:00:17.69,Sub,,0,0,0,,{\fad(80,80)}One doctor blamed the water.
+Dialogue: 0,0:00:17.71,0:00:19.71,Sub,,0,0,0,,{\fad(80,80)}And he went house by house to prove it.
+Dialogue: 2,0:00:14.48,0:00:20.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:00:14.48,0:00:20.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:14.48,0:00:20.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:00:14.48,0:00:20.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:00:20.18,0:00:23.22,Sub,,0,0,0,,{\fad(80,80)}The famous version of this story says a map stopped
+Dialogue: 0,0:00:23.24,0:00:24.00,Sub,,0,0,0,,{\fad(80,80)}the outbreak.
+Dialogue: 0,0:00:24.02,0:00:25.50,Sub,,0,0,0,,{\fad(80,80)}The real story is better.
+Dialogue: 2,0:00:20.43,0:00:25.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:00:20.43,0:00:25.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:20.43,0:00:25.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:00:20.43,0:00:25.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:01:13.48,0:01:16.75,Sub,,0,0,0,,{\fad(80,80)}A London doctor named John Snow did not believe it.
+Dialogue: 0,0:01:16.77,0:01:18.87,Sub,,0,0,0,,{\fad(80,80)}Snow was a pioneer of anesthesia.
+Dialogue: 0,0:01:18.89,0:01:22.10,Sub,,0,0,0,,{\fad(80,80)}In the 1850s, he gave chloroform to Queen Victoria
+Dialogue: 0,0:01:22.12,0:01:24.74,Sub,,0,0,0,,{\fad(80,80)}during the births of two of her children.
+Dialogue: 2,0:01:13.73,0:01:19.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:01:13.73,0:01:19.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:13.73,0:01:19.48,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JOHN SNOW · SECOND EDITION · LONDON, 1855
+Dialogue: 3,0:01:13.73,0:01:19.48,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ON THE MODE OF COMMUNICATION OF CHOLERA
+Dialogue: 0,0:01:37.89,0:01:41.81,Sub,,0,0,0,,{\fad(80,80)}On the night of August 31, 1854, cholera exploded in
+Dialogue: 0,0:01:41.83,0:01:45.38,Sub,,0,0,0,,{\fad(80,80)}Soho, a crowded neighborhood in central London.
+Dialogue: 2,0:01:38.14,0:01:43.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:01:38.14,0:01:43.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:38.14,0:01:43.89,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:01:38.14,0:01:43.89,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:02:01.66,0:02:04.76,Sub,,0,0,0,,{\fad(80,80)}Snow suspected the water right away, and the pump on
+Dialogue: 0,0:02:04.78,0:02:05.54,Sub,,0,0,0,,{\fad(80,80)}Broad Street.
+Dialogue: 0,0:02:05.56,0:02:09.03,Sub,,0,0,0,,{\fad(80,80)}When he first looked at its water, it seemed almost clear.
+Dialogue: 0,0:02:09.05,0:02:12.46,Sub,,0,0,0,,{\fad(80,80)}Over the next 2 days, he saw small white particles in it.
+Dialogue: 2,0:02:01.91,0:02:07.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:02:01.91,0:02:07.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:01.91,0:02:07.66,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:02:01.91,0:02:07.66,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:02:12.93,0:02:15.80,Sub,,0,0,0,,{\fad(80,80)}Clear-looking water can still carry germs.
+Dialogue: 0,0:02:15.82,0:02:19.31,Sub,,0,0,0,,{\fad(80,80)}A 1943 Army training film made the same point under
+Dialogue: 0,0:02:19.33,0:02:20.20,Sub,,0,0,0,,{\fad(80,80)}a microscope:
+Dialogue: 0,0:02:20.22,0:02:23.78,Sub,,0,0,0,,{\fad(80,80)}water that looks clean can be, quote, alive with all
+Dialogue: 0,0:02:23.80,0:02:25.37,Sub,,0,0,0,,{\fad(80,80)}sorts of living matter.
+Dialogue: 2,0:02:13.18,0:02:18.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1160 0 l 1160 132 l 0 132{\p0}
+Dialogue: 3,0:02:13.18,0:02:18.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:13.18,0:02:18.93,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1943 · WAR DEPARTMENT · NATIONAL LIBRARY OF MEDICINE
+Dialogue: 3,0:02:13.18,0:02:18.93,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY TRAINING FILM "PURIFICATION OF WATER"
+Dialogue: 0,0:02:34.30,0:02:37.22,Sub,,0,0,0,,{\fad(80,80)}Nearly all the deaths had happened a short distance
+Dialogue: 0,0:02:37.24,0:02:38.02,Sub,,0,0,0,,{\fad(80,80)}from the pump.
+Dialogue: 0,0:02:38.04,0:02:40.96,Sub,,0,0,0,,{\fad(80,80)}Only 10 were in houses clearly nearer another pump.
+Dialogue: 0,0:02:40.98,0:02:43.72,Sub,,0,0,0,,{\fad(80,80)}In 5 of those, the families told him they always
+Dialogue: 0,0:02:43.74,0:02:45.62,Sub,,0,0,0,,{\fad(80,80)}sent for water from Broad Street.
+Dialogue: 0,0:02:45.64,0:02:46.66,Sub,,0,0,0,,{\fad(80,80)}They preferred it.
+Dialogue: 0,0:02:46.68,0:02:49.77,Sub,,0,0,0,,{\fad(80,80)}3 more were children who went to school near the pump.
+Dialogue: 2,0:02:34.55,0:02:40.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:02:34.55,0:02:40.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:34.55,0:02:40.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:02:34.55,0:02:40.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:02:50.24,0:02:52.57,Sub,,0,0,0,,{\fad(80,80)}Then he looked at the people who did not get sick.
+Dialogue: 2,0:02:50.49,0:02:52.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:02:50.49,0:02:52.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:50.49,0:02:52.99,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:02:50.49,0:02:52.99,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:02:53.04,0:02:56.19,Sub,,0,0,0,,{\fad(80,80)}The workhouse on Poland Street held 535 people.
+Dialogue: 0,0:02:56.21,0:02:59.69,Sub,,0,0,0,,{\fad(80,80)}It was almost surrounded by houses where people died
+Dialogue: 0,0:02:59.71,0:03:00.43,Sub,,0,0,0,,{\fad(80,80)}of cholera.
+Dialogue: 0,0:03:00.45,0:03:02.25,Sub,,0,0,0,,{\fad(80,80)}Only 5 of its inmates died.
+Dialogue: 0,0:03:02.27,0:03:04.34,Sub,,0,0,0,,{\fad(80,80)}The workhouse had its own well.
+Dialogue: 2,0:02:53.29,0:02:59.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:02:53.29,0:02:59.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:53.29,0:02:59.04,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:02:53.29,0:02:59.04,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:03:04.81,0:03:07.58,Sub,,0,0,0,,{\fad(80,80)}A brewery on Broad Street, near the pump, had more
+Dialogue: 0,0:03:07.60,0:03:08.47,Sub,,0,0,0,,{\fad(80,80)}than 70 workmen.
+Dialogue: 0,0:03:08.49,0:03:11.37,Sub,,0,0,0,,{\fad(80,80)}None of them had cholera, at least in a severe form.
+Dialogue: 0,0:03:11.39,0:03:14.55,Sub,,0,0,0,,{\fad(80,80)}The owner told Snow his men drank malt liquor, not water.
+Dialogue: 0,0:03:14.57,0:03:16.95,Sub,,0,0,0,,{\fad(80,80)}And the brewery had a deep well of its own.
+Dialogue: 2,0:03:05.06,0:03:10.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:03:05.06,0:03:10.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:05.06,0:03:10.81,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:03:05.06,0:03:10.81,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:03:38.24,0:03:41.02,Sub,,0,0,0,,{\fad(80,80)}On the evening of Thursday, September 7, Snow
+Dialogue: 0,0:03:41.04,0:03:44.51,Sub,,0,0,0,,{\fad(80,80)}presented his evidence to the parish Board of Guardians.
+Dialogue: 2,0:03:38.49,0:03:44.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:03:38.49,0:03:44.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:38.49,0:03:44.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:03:38.49,0:03:44.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:03:56.46,0:03:58.21,Sub,,0,0,0,,{\fad(80,80)}First, the map came later.
+Dialogue: 0,0:03:58.23,0:04:01.94,Sub,,0,0,0,,{\fad(80,80)}Snow first showed a map of the deaths in December 1854.
+Dialogue: 0,0:04:01.96,0:04:04.11,Sub,,0,0,0,,{\fad(80,80)}It appeared in his book in 1855.
+Dialogue: 0,0:04:04.13,0:04:06.62,Sub,,0,0,0,,{\fad(80,80)}His suspicion of the pump came first.
+Dialogue: 2,0:03:56.71,0:04:02.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:03:56.71,0:04:02.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:56.71,0:04:02.46,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:03:56.71,0:04:02.46,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:04:07.09,0:04:10.23,Sub,,0,0,0,,{\fad(80,80)}On the map, each black bar is a death at that address.
+Dialogue: 0,0:04:10.25,0:04:13.56,Sub,,0,0,0,,{\fad(80,80)}You can see them stacked around the pump on Broad Street.
+Dialogue: 2,0:04:07.34,0:04:13.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:04:07.34,0:04:13.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:07.34,0:04:13.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:04:07.34,0:04:13.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:04:25.41,0:04:26.67,Sub,,0,0,0,,{\fad(80,80)}Many people had fled.
+Dialogue: 0,0:04:26.69,0:04:29.77,Sub,,0,0,0,,{\fad(80,80)}Snow wrote that cases had dropped so far before the
+Dialogue: 0,0:04:29.79,0:04:32.81,Sub,,0,0,0,,{\fad(80,80)}water was stopped that it was impossible to decide
+Dialogue: 0,0:04:32.83,0:04:35.42,Sub,,0,0,0,,{\fad(80,80)}whether the well still carried the disease.
+Dialogue: 2,0:04:25.66,0:04:31.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:04:25.66,0:04:31.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:25.66,0:04:31.41,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:04:25.66,0:04:31.41,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:04:48.92,0:04:52.54,Sub,,0,0,0,,{\fad(80,80)}In the spring of 1855, Whitehead found what was
+Dialogue: 0,0:04:52.56,0:04:54.24,Sub,,0,0,0,,{\fad(80,80)}likely the first case:
+Dialogue: 0,0:04:54.26,0:04:58.19,Sub,,0,0,0,,{\fad(80,80)}a 5-month-old baby at 40 Broad Street, right beside
+Dialogue: 0,0:04:58.21,0:05:00.82,Sub,,0,0,0,,{\fad(80,80)}the pump, who died on September 2.
+Dialogue: 2,0:04:49.17,0:04:54.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:04:49.17,0:04:54.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:49.17,0:04:54.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:04:49.17,0:04:54.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:05:42.44,0:05:45.67,Sub,,0,0,0,,{\fad(80,80)}In south London, two water companies ran their pipes
+Dialogue: 0,0:05:45.69,0:05:47.05,Sub,,0,0,0,,{\fad(80,80)}down the same streets.
+Dialogue: 0,0:05:47.07,0:05:50.30,Sub,,0,0,0,,{\fad(80,80)}In 1852, the Lambeth Company moved its intake up the
+Dialogue: 0,0:05:50.32,0:05:53.24,Sub,,0,0,0,,{\fad(80,80)}Thames, to Thames Ditton, getting water free of
+Dialogue: 0,0:05:53.26,0:05:54.24,Sub,,0,0,0,,{\fad(80,80)}London's sewage.
+Dialogue: 0,0:05:54.26,0:05:57.37,Sub,,0,0,0,,{\fad(80,80)}The Southwark and Vauxhall Company still drew from
+Dialogue: 0,0:05:57.39,0:05:58.87,Sub,,0,0,0,,{\fad(80,80)}the Thames at Battersea.
+Dialogue: 2,0:05:42.69,0:05:48.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:05:42.69,0:05:48.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:42.69,0:05:48.44,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}BLUE: SOUTHWARK & VAUXHALL · RED: LAMBETH · PURPLE: BOTH · 1855
+Dialogue: 3,0:05:42.69,0:05:48.44,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SNOW'S MAP OF SOUTH LONDON'S TWO WATER COMPANIES
+Dialogue: 0,0:05:59.34,0:06:02.34,Sub,,0,0,0,,{\fad(80,80)}Each company supplied rich and poor, large houses
+Dialogue: 0,0:06:02.36,0:06:02.95,Sub,,0,0,0,,{\fad(80,80)}and small.
+Dialogue: 0,0:06:02.97,0:06:06.15,Sub,,0,0,0,,{\fad(80,80)}Snow saw no difference between the two groups except
+Dialogue: 0,0:06:06.17,0:06:06.77,Sub,,0,0,0,,{\fad(80,80)}the water.
+Dialogue: 2,0:05:59.59,0:06:05.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:05:59.59,0:06:05.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:59.59,0:06:05.34,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}BLUE: SOUTHWARK & VAUXHALL · RED: LAMBETH · PURPLE: BOTH · 1855
+Dialogue: 3,0:05:59.59,0:06:05.34,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SNOW'S MAP OF SOUTH LONDON'S TWO WATER COMPANIES
+Dialogue: 0,0:06:23.87,0:06:27.33,Sub,,0,0,0,,{\fad(80,80)}Snow concluded that the death rate was between 8 and
+Dialogue: 0,0:06:27.35,0:06:29.87,Sub,,0,0,0,,{\fad(80,80)}9 times higher with the dirtier water.
+Dialogue: 2,0:06:24.12,0:06:29.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:06:24.12,0:06:29.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:24.12,0:06:29.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ON THE MODE OF COMMUNICATION OF CHOLERA · 1855
+Dialogue: 3,0:06:24.12,0:06:29.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SNOW'S TABLE IX: CHOLERA DEATHS BY WATER COMPANY
+Dialogue: 0,0:06:54.35,0:06:57.33,Sub,,0,0,0,,{\fad(80,80)}John Snow did not live to see it.
+Dialogue: 0,0:06:57.35,0:06:59.87,Sub,,0,0,0,,{\fad(80,80)}He died in June 1858, at 45.
+Dialogue: 2,0:06:54.60,0:07:00.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:06:54.60,0:07:00.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:54.60,0:07:00.29,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JOHN SNOW · SECOND EDITION · LONDON, 1855
+Dialogue: 3,0:06:54.60,0:07:00.29,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ON THE MODE OF COMMUNICATION OF CHOLERA
+Dialogue: 0,0:07:52.57,0:07:55.69,Sub,,0,0,0,,{\fad(80,80)}Cities cleaned their water by aerating, settling,
+Dialogue: 0,0:07:55.71,0:07:57.61,Sub,,0,0,0,,{\fad(80,80)}filtering and chlorinating it.
+Dialogue: 0,0:07:57.63,0:08:01.00,Sub,,0,0,0,,{\fad(80,80)}That's how the Army explained it to soldiers in 1943.
+Dialogue: 2,0:07:52.82,0:07:58.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1160 0 l 1160 132 l 0 132{\p0}
+Dialogue: 3,0:07:52.82,0:07:58.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:52.82,0:07:58.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1943 · WAR DEPARTMENT · NATIONAL LIBRARY OF MEDICINE
+Dialogue: 3,0:07:52.82,0:07:58.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY TRAINING FILM "PURIFICATION OF WATER"
+Dialogue: 0,0:08:01.47,0:08:04.77,Sub,,0,0,0,,{\fad(80,80)}Because in the field, there was no city water plant.
+Dialogue: 0,0:08:04.79,0:08:07.58,Sub,,0,0,0,,{\fad(80,80)}So soldiers hung a canvas bag from a tripod.
+Dialogue: 0,0:08:07.60,0:08:08.80,Sub,,0,0,0,,{\fad(80,80)}It held 36 gallons.
+Dialogue: 2,0:08:01.72,0:08:07.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1160 0 l 1160 132 l 0 132{\p0}
+Dialogue: 3,0:08:01.72,0:08:07.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:01.72,0:08:07.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1943 · WAR DEPARTMENT · NATIONAL LIBRARY OF MEDICINE
+Dialogue: 3,0:08:01.72,0:08:07.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY TRAINING FILM "PURIFICATION OF WATER"
+Dialogue: 0,0:08:09.27,0:08:12.00,Sub,,0,0,0,,{\fad(80,80)}They treated the water with chlorine, then tested a
+Dialogue: 0,0:08:12.02,0:08:13.79,Sub,,0,0,0,,{\fad(80,80)}sample to check there was enough.
+Dialogue: 0,0:08:13.81,0:08:16.49,Sub,,0,0,0,,{\fad(80,80)}The film says it took 30 minutes for the chemicals
+Dialogue: 0,0:08:16.51,0:08:17.25,Sub,,0,0,0,,{\fad(80,80)}to kill germs.
+Dialogue: 2,0:08:09.52,0:08:15.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1160 0 l 1160 132 l 0 132{\p0}
+Dialogue: 3,0:08:09.52,0:08:15.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:09.52,0:08:15.27,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1943 · WAR DEPARTMENT · NATIONAL LIBRARY OF MEDICINE
+Dialogue: 3,0:08:09.52,0:08:15.27,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY TRAINING FILM "PURIFICATION OF WATER"
+Dialogue: 0,0:08:17.72,0:08:20.82,Sub,,0,0,0,,{\fad(80,80)}Today, Army units still train to make their own
+Dialogue: 0,0:08:20.84,0:08:21.82,Sub,,0,0,0,,{\fad(80,80)}drinking water.
+Dialogue: 0,0:08:21.84,0:08:24.87,Sub,,0,0,0,,{\fad(80,80)}In August 2026, during field training in South
+Dialogue: 0,0:08:24.89,0:08:28.20,Sub,,0,0,0,,{\fad(80,80)}Korea, soldiers pumped water from the Imjin River,
+Dialogue: 0,0:08:28.22,0:08:31.32,Sub,,0,0,0,,{\fad(80,80)}tested it and purified it with a Tactical Water
+Dialogue: 0,0:08:31.34,0:08:32.65,Sub,,0,0,0,,{\fad(80,80)}Purification System.
+Dialogue: 2,0:08:17.97,0:08:23.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:08:17.97,0:08:23.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:17.97,0:08:23.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SOUTH KOREA · AUGUST 2026 · 2ND INFANTRY DIVISION · TRAINING
+Dialogue: 3,0:08:17.97,0:08:23.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS PURIFY WATER FROM THE IMJIN RIVER
+Dialogue: 0,0:08:33.12,0:08:36.59,Sub,,0,0,0,,{\fad(80,80)}Preventive medicine soldiers test the water troops drink.
+Dialogue: 0,0:08:36.61,0:08:39.71,Sub,,0,0,0,,{\fad(80,80)}In Kosovo, they tested water at liaison team houses
+Dialogue: 0,0:08:39.73,0:08:41.80,Sub,,0,0,0,,{\fad(80,80)}to make sure it was safe to drink.
+Dialogue: 2,0:08:33.37,0:08:39.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:08:33.37,0:08:39.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:33.37,0:08:39.12,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}KOSOVO · AUGUST 2019
+Dialogue: 3,0:08:33.37,0:08:39.12,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY PREVENTIVE MEDICINE SOLDIERS TEST DRINKING WATER
+Dialogue: 0,0:08:42.27,0:08:44.92,Sub,,0,0,0,,{\fad(80,80)}And sometimes the water goes to civilians.
+Dialogue: 0,0:08:44.94,0:08:48.04,Sub,,0,0,0,,{\fad(80,80)}During a drought in Puerto Rico in 2026, National
+Dialogue: 0,0:08:48.06,0:08:51.41,Sub,,0,0,0,,{\fad(80,80)}Guard soldiers purified and delivered drinking water.
+Dialogue: 0,0:08:51.43,0:08:54.41,Sub,,0,0,0,,{\fad(80,80)}More than a million gallons distributed so far.
+Dialogue: 2,0:08:42.52,0:08:48.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:08:42.52,0:08:48.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:42.52,0:08:48.27,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CANOVANAS, PUERTO RICO · AUGUST 2026
+Dialogue: 3,0:08:42.52,0:08:48.27,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}NATIONAL GUARD SOLDIERS PURIFY WATER DURING A DROUGHT
+Dialogue: 0,0:09:29.43,0:09:32.72,Sub,,0,0,0,,{\fad(80,80)}In 2019, after Cyclone Idai hit Mozambique, the
+Dialogue: 0,0:09:32.74,0:09:36.23,Sub,,0,0,0,,{\fad(80,80)}Defense Department took part in the effort to stop
+Dialogue: 0,0:09:36.25,0:09:39.75,Sub,,0,0,0,,{\fad(80,80)}cholera from spreading, moving relief for the U.S.
+Dialogue: 0,0:09:39.77,0:09:42.36,Sub,,0,0,0,,{\fad(80,80)}Agency for International Development.
+Dialogue: 2,0:09:29.68,0:09:35.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:09:29.68,0:09:35.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:29.68,0:09:35.43,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MOZAMBIQUE · APRIL 2019
+Dialogue: 3,0:09:29.68,0:09:35.43,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. MILITARY RELIEF FLIGHTS AFTER CYCLONE IDAI
+Dialogue: 0,0:09:42.83,0:09:45.99,Sub,,0,0,0,,{\fad(80,80)}The WHO says safe water, basic sanitation and
+Dialogue: 0,0:09:46.01,0:09:48.89,Sub,,0,0,0,,{\fad(80,80)}hygiene are essential to prevent cholera.
+Dialogue: 0,0:09:48.91,0:09:51.51,Sub,,0,0,0,,{\fad(80,80)}John Snow pointed to the water first.
+Dialogue: 2,0:09:43.08,0:09:48.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:09:43.08,0:09:48.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:43.08,0:09:48.83,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CANOVANAS, PUERTO RICO · AUGUST 2026
+Dialogue: 3,0:09:43.08,0:09:48.83,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}NATIONAL GUARD SOLDIERS PURIFY WATER DURING A DROUGHT
+Dialogue: 0,0:09:51.98,0:09:55.52,Sub,,0,0,0,,{\fad(80,80)}In 1854, a doctor counted deaths, asked where each
+Dialogue: 0,0:09:55.54,0:09:59.65,Sub,,0,0,0,,{\fad(80,80)}family got its water, and followed the evidence to a pump.
+Dialogue: 2,0:09:52.23,0:09:57.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:09:52.23,0:09:57.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:52.23,0:09:57.98,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LONDON 1854 · PUBLISHED 1855 · WELLCOME COLLECTION
+Dialogue: 3,0:09:52.23,0:09:57.98,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JOHN SNOW'S MAP OF CHOLERA DEATHS AROUND BROAD STREET
+Dialogue: 0,0:10:00.12,0:10:03.45,Sub,,0,0,0,,{\fad(80,80)}Public health teams still count cases and chart them
+Dialogue: 0,0:10:03.47,0:10:06.42,Sub,,0,0,0,,{\fad(80,80)}over time, to see when an outbreak started and
+Dialogue: 0,0:10:06.44,0:10:08.48,Sub,,0,0,0,,{\fad(80,80)}whether it is growing or fading.
+Dialogue: 2,0:10:00.37,0:10:06.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:10:00.37,0:10:06.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:00.37,0:10:06.12,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SHAPE, BELGIUM · MARCH 2026
+Dialogue: 3,0:10:00.37,0:10:06.12,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AN ARMY PUBLIC HEALTH TEAM CHARTS EPIDEMIC CURVES
+Dialogue: 5,0:10:20.31,0:10:24.51,Credit,,0,0,0,,{\fad(400,0)}Illustrations: John Snow, On the Mode of Communication of Cholera, 2nd ed., London 1855 (Wellcome Collection, public domain).\NArchival film (public domain): U.S. War Department training film \"Purification of Water\", 1943 (National Library of Medicine).\NFootage: U.S. Department of Defense via DVIDS (public domain). Training footage is marked TRAINING.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the DoD, CDC, WHO or any government agency.\NFor education only. This is not medical advice.
+Dialogue: 4,0:08:17.70,0:08:25.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:25.43,0:08:33.13,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

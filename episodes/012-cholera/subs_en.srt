@@ -1,0 +1,903 @@
+1
+00:00:01,000 --> 00:00:04,967
+In 10 days in 1854, more than 500 people died of
+
+2
+00:00:04,967 --> 00:00:07,860
+cholera in a few streets of London.
+
+3
+00:00:08,310 --> 00:00:12,008
+Almost all of them lived within about 250 yards of
+
+4
+00:00:12,008 --> 00:00:13,784
+one thing. A water pump.
+
+5
+00:00:14,234 --> 00:00:16,256
+Most doctors of the day blamed bad air.
+
+6
+00:00:16,256 --> 00:00:17,709
+One doctor blamed the water.
+
+7
+00:00:17,709 --> 00:00:19,731
+And he went house by house to prove it.
+
+8
+00:00:20,181 --> 00:00:23,240
+The famous version of this story says a map stopped
+
+9
+00:00:23,240 --> 00:00:24,020
+the outbreak.
+
+10
+00:00:24,020 --> 00:00:25,520
+The real story is better.
+
+11
+00:00:25,920 --> 00:00:28,939
+This is how John Snow traced a deadly cholera
+
+12
+00:00:28,939 --> 00:00:30,684
+outbreak to a single pump.
+
+13
+00:00:33,084 --> 00:00:34,325
+Start with the disease.
+
+14
+00:00:35,325 --> 00:00:38,359
+Cholera is caused by a bacterium, Vibrio cholerae.
+
+15
+00:00:38,359 --> 00:00:41,089
+The World Health Organization says it spreads
+
+16
+00:00:41,089 --> 00:00:43,698
+through food or water contaminated with it.
+
+17
+00:00:44,148 --> 00:00:46,810
+For most of history, nobody knew that.
+
+18
+00:00:46,810 --> 00:00:49,752
+A cholera epidemic began in India in 1817.
+
+19
+00:00:49,752 --> 00:00:53,324
+It reached Britain in 1831, and that first epidemic
+
+20
+00:00:53,324 --> 00:00:55,286
+killed around 30,000 people.
+
+21
+00:00:55,736 --> 00:00:58,202
+In 1832, it reached New York.
+
+22
+00:00:58,202 --> 00:01:01,178
+A city of more than 200,000 people.
+
+23
+00:01:01,178 --> 00:01:04,239
+About half of them fled. 3,513 died.
+
+24
+00:01:04,689 --> 00:01:05,666
+What caused it?
+
+25
+00:01:05,666 --> 00:01:07,620
+The leading theory was miasma.
+
+26
+00:01:07,620 --> 00:01:11,268
+Disease, doctors believed, came from breathing foul air:
+
+27
+00:01:11,268 --> 00:01:13,026
+the stink of filth and rot.
+
+28
+00:01:13,476 --> 00:01:16,765
+A London doctor named John Snow did not believe it.
+
+29
+00:01:16,765 --> 00:01:18,893
+Snow was a pioneer of anesthesia.
+
+30
+00:01:18,893 --> 00:01:22,117
+In the 1850s, he gave chloroform to Queen Victoria
+
+31
+00:01:22,117 --> 00:01:24,761
+during the births of two of her children.
+
+32
+00:01:25,211 --> 00:01:28,378
+In 1849, during another London epidemic, Snow
+
+33
+00:01:28,378 --> 00:01:32,247
+published his theory that cholera spread through water.
+
+34
+00:01:32,247 --> 00:01:33,795
+It was mostly ignored.
+
+35
+00:01:34,295 --> 00:01:36,894
+Five years later, he got a test he never wanted.
+
+36
+00:01:37,894 --> 00:01:41,835
+On the night of August 31, 1854, cholera exploded in
+
+37
+00:01:41,835 --> 00:01:45,396
+Soho, a crowded neighborhood in central London.
+
+38
+00:01:45,846 --> 00:01:48,832
+Snow later called it, probably, the most terrible
+
+39
+00:01:48,832 --> 00:01:51,818
+outbreak of cholera ever to occur in the kingdom.
+
+40
+00:01:52,268 --> 00:01:55,225
+On September 1 alone, 143 people were struck.
+
+41
+00:01:55,225 --> 00:01:58,642
+Within six days, the worst-hit streets had lost more
+
+42
+00:01:58,642 --> 00:02:01,206
+than three-quarters of their residents.
+
+43
+00:02:01,656 --> 00:02:04,781
+Snow suspected the water right away, and the pump on
+
+44
+00:02:04,781 --> 00:02:05,563
+Broad Street.
+
+45
+00:02:05,563 --> 00:02:09,050
+When he first looked at its water, it seemed almost clear.
+
+46
+00:02:09,050 --> 00:02:12,476
+Over the next 2 days, he saw small white particles in it.
+
+47
+00:02:12,926 --> 00:02:15,818
+Clear-looking water can still carry germs.
+
+48
+00:02:15,818 --> 00:02:19,329
+A 1943 Army training film made the same point under
+
+49
+00:02:19,329 --> 00:02:20,224
+a microscope:
+
+50
+00:02:20,224 --> 00:02:23,805
+water that looks clean can be, quote, alive with all
+
+51
+00:02:23,805 --> 00:02:25,388
+sorts of living matter.
+
+52
+00:02:25,838 --> 00:02:28,510
+So Snow got the list of cholera deaths from the
+
+53
+00:02:28,510 --> 00:02:29,874
+General Register Office.
+
+54
+00:02:29,874 --> 00:02:32,262
+83 deaths in the last 3 days of that week.
+
+55
+00:02:32,262 --> 00:02:33,854
+Then he went house by house.
+
+56
+00:02:34,304 --> 00:02:37,239
+Nearly all the deaths had happened a short distance
+
+57
+00:02:37,239 --> 00:02:38,044
+from the pump.
+
+58
+00:02:38,044 --> 00:02:40,980
+Only 10 were in houses clearly nearer another pump.
+
+59
+00:02:40,980 --> 00:02:43,742
+In 5 of those, the families told him they always
+
+60
+00:02:43,742 --> 00:02:45,641
+sent for water from Broad Street.
+
+61
+00:02:45,641 --> 00:02:46,677
+They preferred it.
+
+62
+00:02:46,677 --> 00:02:49,785
+3 more were children who went to school near the pump.
+
+63
+00:02:50,235 --> 00:02:52,592
+Then he looked at the people who did not get sick.
+
+64
+00:02:53,042 --> 00:02:56,208
+The workhouse on Poland Street held 535 people.
+
+65
+00:02:56,208 --> 00:02:59,712
+It was almost surrounded by houses where people died
+
+66
+00:02:59,712 --> 00:03:00,453
+of cholera.
+
+67
+00:03:00,453 --> 00:03:02,272
+Only 5 of its inmates died.
+
+68
+00:03:02,272 --> 00:03:04,360
+The workhouse had its own well.
+
+69
+00:03:04,810 --> 00:03:07,600
+A brewery on Broad Street, near the pump, had more
+
+70
+00:03:07,600 --> 00:03:08,493
+than 70 workmen.
+
+71
+00:03:08,493 --> 00:03:11,394
+None of them had cholera, at least in a severe form.
+
+72
+00:03:11,394 --> 00:03:14,574
+The owner told Snow his men drank malt liquor, not water.
+
+73
+00:03:14,574 --> 00:03:16,973
+And the brewery had a deep well of its own.
+
+74
+00:03:17,423 --> 00:03:19,239
+And a case far away fit too.
+
+75
+00:03:19,239 --> 00:03:22,417
+In Hampstead, a widow who had not been near Broad
+
+76
+00:03:22,417 --> 00:03:25,595
+Street for months had a large bottle of its water
+
+77
+00:03:25,595 --> 00:03:28,903
+brought to her every day, because she preferred it.
+
+78
+00:03:28,903 --> 00:03:30,200
+She died of cholera.
+
+79
+00:03:30,200 --> 00:03:33,508
+So did a niece who visited her and drank the water.
+
+80
+00:03:33,508 --> 00:03:36,881
+At the time, there was no cholera in either of their
+
+81
+00:03:36,881 --> 00:03:37,789
+neighborhoods.
+
+82
+00:03:38,239 --> 00:03:41,043
+On the evening of Thursday, September 7, Snow
+
+83
+00:03:41,043 --> 00:03:44,532
+presented his evidence to the parish Board of Guardians.
+
+84
+00:03:44,982 --> 00:03:46,630
+Snow wrote what happened next.
+
+85
+00:03:47,230 --> 00:03:49,332
+That's where the famous version ends.
+
+86
+00:03:49,332 --> 00:03:51,887
+Snow drew a map, the handle came off, and the
+
+87
+00:03:51,887 --> 00:03:52,852
+outbreak stopped.
+
+88
+00:03:52,852 --> 00:03:55,465
+Almost every part of that is more complicated.
+
+89
+00:03:56,465 --> 00:03:58,229
+First, the map came later.
+
+90
+00:03:58,229 --> 00:04:01,961
+Snow first showed a map of the deaths in December 1854.
+
+91
+00:04:01,961 --> 00:04:04,133
+It appeared in his book in 1855.
+
+92
+00:04:04,133 --> 00:04:06,643
+His suspicion of the pump came first.
+
+93
+00:04:07,093 --> 00:04:10,248
+On the map, each black bar is a death at that address.
+
+94
+00:04:10,248 --> 00:04:13,577
+You can see them stacked around the pump on Broad Street.
+
+95
+00:04:14,027 --> 00:04:16,868
+Second, the outbreak was already fading.
+
+96
+00:04:16,868 --> 00:04:18,360
+Snow said so himself.
+
+97
+00:04:18,360 --> 00:04:21,911
+New cases had fallen from 143 on September 1 to 12
+
+98
+00:04:21,911 --> 00:04:24,965
+on the 8th, the day the handle was removed.
+
+99
+00:04:25,415 --> 00:04:26,691
+Many people had fled.
+
+100
+00:04:26,691 --> 00:04:29,790
+Snow wrote that cases had dropped so far before the
+
+101
+00:04:29,790 --> 00:04:32,828
+water was stopped that it was impossible to decide
+
+102
+00:04:32,828 --> 00:04:35,441
+whether the well still carried the disease.
+
+103
+00:04:35,891 --> 00:04:37,863
+And most experts were not convinced.
+
+104
+00:04:37,863 --> 00:04:40,987
+A government Board of Health report dismissed his theory.
+
+105
+00:04:41,437 --> 00:04:44,416
+The strongest support came from a man who expected
+
+106
+00:04:44,416 --> 00:04:45,608
+to prove Snow wrong.
+
+107
+00:04:45,608 --> 00:04:48,468
+The Reverend Henry Whitehead, a local clergyman.
+
+108
+00:04:48,918 --> 00:04:52,557
+In the spring of 1855, Whitehead found what was
+
+109
+00:04:52,557 --> 00:04:54,260
+likely the first case:
+
+110
+00:04:54,260 --> 00:04:58,208
+a 5-month-old baby at 40 Broad Street, right beside
+
+111
+00:04:58,208 --> 00:05:00,840
+the pump, who died on September 2.
+
+112
+00:05:01,290 --> 00:05:03,976
+The baby's mother had soaked the soiled diapers in
+
+113
+00:05:03,976 --> 00:05:06,662
+water and emptied it into the cesspool in front of
+
+114
+00:05:06,662 --> 00:05:07,199
+the house.
+
+115
+00:05:07,649 --> 00:05:10,340
+When the surveyor dug it out, the cesspool was 2
+
+116
+00:05:10,340 --> 00:05:11,909
+feet 8 inches from the well.
+
+117
+00:05:11,909 --> 00:05:14,432
+Its decayed brickwork let waste seep into the
+
+118
+00:05:14,432 --> 00:05:15,273
+drinking water.
+
+119
+00:05:15,723 --> 00:05:18,734
+Whitehead admitted he had come, slowly and, as he
+
+120
+00:05:18,734 --> 00:05:21,807
+put it, reluctantly, to link the pump water to the
+
+121
+00:05:21,807 --> 00:05:22,360
+outbreak.
+
+122
+00:05:22,810 --> 00:05:26,046
+In August 1855, the parish committee concluded the
+
+123
+00:05:26,046 --> 00:05:29,216
+outbreak was, in some manner, attributable to the
+
+124
+00:05:29,216 --> 00:05:32,581
+use of the impure water of the well on Broad Street.
+
+125
+00:05:32,581 --> 00:05:34,264
+The vote was split evenly.
+
+126
+00:05:34,264 --> 00:05:36,593
+The chairman cast the deciding vote.
+
+127
+00:05:37,093 --> 00:05:39,464
+Snow had a second piece of evidence.
+
+128
+00:05:39,464 --> 00:05:41,440
+And it covered 300,000 people.
+
+129
+00:05:42,440 --> 00:05:45,693
+In south London, two water companies ran their pipes
+
+130
+00:05:45,693 --> 00:05:47,069
+down the same streets.
+
+131
+00:05:47,069 --> 00:05:50,322
+In 1852, the Lambeth Company moved its intake up the
+
+132
+00:05:50,322 --> 00:05:53,262
+Thames, to Thames Ditton, getting water free of
+
+133
+00:05:53,262 --> 00:05:54,263
+London's sewage.
+
+134
+00:05:54,263 --> 00:05:57,390
+The Southwark and Vauxhall Company still drew from
+
+135
+00:05:57,390 --> 00:05:58,892
+the Thames at Battersea.
+
+136
+00:05:59,342 --> 00:06:02,356
+Each company supplied rich and poor, large houses
+
+137
+00:06:02,356 --> 00:06:02,972
+and small.
+
+138
+00:06:02,972 --> 00:06:06,171
+Snow saw no difference between the two groups except
+
+139
+00:06:06,171 --> 00:06:06,786
+the water.
+
+140
+00:06:07,236 --> 00:06:09,775
+He called it an experiment on the grandest scale.
+
+141
+00:06:10,225 --> 00:06:11,439
+Then he counted.
+
+142
+00:06:11,439 --> 00:06:15,156
+In the first 7 weeks of the 1854 epidemic, houses
+
+143
+00:06:15,156 --> 00:06:18,949
+supplied by Southwark and Vauxhall had 315 cholera
+
+144
+00:06:18,949 --> 00:06:20,845
+deaths per 10,000 houses.
+
+145
+00:06:20,845 --> 00:06:23,425
+Houses supplied by Lambeth had 37.
+
+146
+00:06:23,875 --> 00:06:27,349
+Snow concluded that the death rate was between 8 and
+
+147
+00:06:27,349 --> 00:06:29,889
+9 times higher with the dirtier water.
+
+148
+00:06:30,389 --> 00:06:32,354
+But Snow never saw the germ itself.
+
+149
+00:06:33,354 --> 00:06:35,161
+Someone else already had.
+
+150
+00:06:35,161 --> 00:06:38,703
+In 1854, the Italian anatomist Filippo Pacini saw
+
+151
+00:06:38,703 --> 00:06:42,606
+and described the cholera pathogen under a microscope.
+
+152
+00:06:43,056 --> 00:06:46,193
+Then, at the end of 1883, the German scientist
+
+153
+00:06:46,193 --> 00:06:49,603
+Robert Koch traveled to Calcutta, India, during an
+
+154
+00:06:49,603 --> 00:06:50,217
+outbreak.
+
+155
+00:06:50,217 --> 00:06:53,900
+At the beginning of 1884, he identified the bacterium.
+
+156
+00:06:54,350 --> 00:06:57,345
+John Snow did not live to see it.
+
+157
+00:06:57,345 --> 00:06:59,886
+He died in June 1858, at 45.
+
+158
+00:07:00,336 --> 00:07:03,403
+That summer, London had what became known as the
+
+159
+00:07:03,403 --> 00:07:04,170
+Great Stink:
+
+160
+00:07:04,170 --> 00:07:07,045
+hot weather and sewage exposed in the Thames.
+
+161
+00:07:07,045 --> 00:07:10,240
+It pushed the city to build a modern sewer system,
+
+162
+00:07:10,240 --> 00:07:12,987
+overseen by the engineer Joseph Bazalgette.
+
+163
+00:07:13,437 --> 00:07:16,387
+London's final cholera outbreak came in 1866.
+
+164
+00:07:16,387 --> 00:07:19,796
+It hit parts of east London that drew water from the
+
+165
+00:07:19,796 --> 00:07:23,008
+Old Ford Reservoir, and were not connected to the
+
+166
+00:07:23,008 --> 00:07:23,729
+new sewers.
+
+167
+00:07:24,229 --> 00:07:26,386
+In America, the lesson became chlorine.
+
+168
+00:07:27,386 --> 00:07:30,869
+In 1908, Jersey City, New Jersey, became the first U.S.
+
+169
+00:07:30,869 --> 00:07:34,478
+city to begin routine disinfection of its drinking water.
+
+170
+00:07:34,478 --> 00:07:37,771
+Thousands of cities and towns followed over the next
+
+171
+00:07:37,771 --> 00:07:38,215
+decade.
+
+172
+00:07:38,665 --> 00:07:42,820
+The CDC says diseases like cholera and typhoid
+
+173
+00:07:42,820 --> 00:07:44,717
+dropped dramatically.
+
+174
+00:07:44,717 --> 00:07:49,324
+Typhoid fever went from about 100 cases per 100,000
+
+175
+00:07:49,324 --> 00:07:52,124
+people in 1900, to 0.1 in 2006.
+
+176
+00:07:52,574 --> 00:07:55,710
+Cities cleaned their water by aerating, settling,
+
+177
+00:07:55,710 --> 00:07:57,631
+filtering and chlorinating it.
+
+178
+00:07:57,631 --> 00:08:01,023
+That's how the Army explained it to soldiers in 1943.
+
+179
+00:08:01,473 --> 00:08:04,794
+Because in the field, there was no city water plant.
+
+180
+00:08:04,794 --> 00:08:07,604
+So soldiers hung a canvas bag from a tripod.
+
+181
+00:08:07,604 --> 00:08:08,817
+It held 36 gallons.
+
+182
+00:08:09,267 --> 00:08:12,024
+They treated the water with chlorine, then tested a
+
+183
+00:08:12,024 --> 00:08:13,807
+sample to check there was enough.
+
+184
+00:08:13,807 --> 00:08:16,510
+The film says it took 30 minutes for the chemicals
+
+185
+00:08:16,510 --> 00:08:17,267
+to kill germs.
+
+186
+00:08:17,717 --> 00:08:20,839
+Today, Army units still train to make their own
+
+187
+00:08:20,839 --> 00:08:21,836
+drinking water.
+
+188
+00:08:21,836 --> 00:08:24,893
+In August 2026, during field training in South
+
+189
+00:08:24,893 --> 00:08:28,215
+Korea, soldiers pumped water from the Imjin River,
+
+190
+00:08:28,215 --> 00:08:31,338
+tested it and purified it with a Tactical Water
+
+191
+00:08:31,338 --> 00:08:32,667
+Purification System.
+
+192
+00:08:33,117 --> 00:08:36,610
+Preventive medicine soldiers test the water troops drink.
+
+193
+00:08:36,610 --> 00:08:39,735
+In Kosovo, they tested water at liaison team houses
+
+194
+00:08:39,735 --> 00:08:41,818
+to make sure it was safe to drink.
+
+195
+00:08:42,268 --> 00:08:44,941
+And sometimes the water goes to civilians.
+
+196
+00:08:44,941 --> 00:08:48,060
+During a drought in Puerto Rico in 2026, National
+
+197
+00:08:48,060 --> 00:08:51,434
+Guard soldiers purified and delivered drinking water.
+
+198
+00:08:51,434 --> 00:08:54,426
+More than a million gallons distributed so far.
+
+199
+00:08:54,926 --> 00:08:58,797
+Today, the CDC says cholera is rare in the United States.
+
+200
+00:08:58,797 --> 00:09:02,328
+With modern water and sewer treatment systems, there
+
+201
+00:09:02,328 --> 00:09:04,501
+are typically fewer than 20 U.S.
+
+202
+00:09:04,501 --> 00:09:07,081
+cases a year, mostly linked to travel.
+
+203
+00:09:07,531 --> 00:09:10,032
+But the disease is not history.
+
+204
+00:09:10,032 --> 00:09:14,065
+Researchers cited by the World Health Organization
+
+205
+00:09:14,065 --> 00:09:18,017
+estimate 1.3 to 4 million cases a year worldwide,
+
+206
+00:09:18,017 --> 00:09:20,356
+and 21,000 to 143,000 deaths.
+
+207
+00:09:20,806 --> 00:09:24,932
+In 2025, 47 countries reported cases to the WHO, and
+
+208
+00:09:24,932 --> 00:09:28,979
+the reported death toll was the highest since 1999.
+
+209
+00:09:29,429 --> 00:09:32,736
+In 2019, after Cyclone Idai hit Mozambique, the
+
+210
+00:09:32,736 --> 00:09:36,255
+Defense Department took part in the effort to stop
+
+211
+00:09:36,255 --> 00:09:39,773
+cholera from spreading, moving relief for the U.S.
+
+212
+00:09:39,773 --> 00:09:42,377
+Agency for International Development.
+
+213
+00:09:42,827 --> 00:09:46,011
+The WHO says safe water, basic sanitation and
+
+214
+00:09:46,011 --> 00:09:48,911
+hygiene are essential to prevent cholera.
+
+215
+00:09:48,911 --> 00:09:51,529
+John Snow pointed to the water first.
+
+216
+00:09:51,979 --> 00:09:55,539
+In 1854, a doctor counted deaths, asked where each
+
+217
+00:09:55,539 --> 00:09:59,668
+family got its water, and followed the evidence to a pump.
+
+218
+00:10:00,118 --> 00:10:03,473
+Public health teams still count cases and chart them
+
+219
+00:10:03,473 --> 00:10:06,440
+over time, to see when an outbreak started and
+
+220
+00:10:06,440 --> 00:10:08,505
+whether it is growing or fading.
+
+221
+00:10:08,955 --> 00:10:10,166
+Next on KEPT ALIVE:
+
+222
+00:10:10,166 --> 00:10:13,419
+more stories about how medicine keeps people alive.
+
+223
+00:10:13,419 --> 00:10:15,523
+Subscribe so you don't miss them.
+
+224
+00:10:16,323 --> 00:10:17,464
+For education only.
+
+225
+00:10:17,464 --> 00:10:19,084
+This is not medical advice.
+
+226
+00:10:19,084 --> 00:10:21,906
+If you have a health concern, talk to a doctor.

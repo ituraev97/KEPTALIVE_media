@@ -1,0 +1,568 @@
+[
+ {
+  "key": "stat_52cb15",
+  "name": "stat",
+  "opts": {
+   "a": "500+",
+   "b": "CHOLERA DEATHS IN 10 DAYS, WITHIN ABOUT 250 YARDS OF ONE PUMP",
+   "c": "SOHO, LONDON \u00b7 1854 \u00b7 SOURCE: JOHN SNOW, 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_2383fd",
+  "name": "title",
+  "opts": {
+   "kicker": "OUTBREAK \u00b7 012",
+   "title": "CHOLERA",
+   "sub": "ONE DOCTOR \u00b7 ONE <span style=\"color:#2BB3A3\">PUMP</span>",
+   "size": 230
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_9745dd",
+  "name": "chapter",
+  "opts": {
+   "case": "1817\u20131849",
+   "n": "I",
+   "t": "A NEW KILLER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_56fd3f",
+  "name": "doc",
+  "opts": {
+   "header": "WORLD HEALTH ORGANIZATION \u00b7 CHOLERA FACT SHEET \u00b7 2026",
+   "title": "VIBRIO CHOLERAE",
+   "body": "Infection comes from food or water contaminated with the bacterium. Most people infected do not develop symptoms.",
+   "source": "SOURCE: WHO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_95e779",
+  "name": "timeline",
+  "opts": {
+   "kicker": "CHOLERA SPREADS",
+   "title": "FROM INDIA TO LONDON",
+   "events": [
+    {
+     "y": "1817",
+     "t": "Epidemic begins in India"
+    },
+    {
+     "y": "1831",
+     "t": "Reaches Britain"
+    },
+    {
+     "y": "1832",
+     "t": "About 30,000 dead in Britain"
+    },
+    {
+     "y": "1832",
+     "t": "Reaches New York"
+    }
+   ],
+   "footer": "SOURCES: LONDON MUSEUM \u00b7 HISTORY NEWS NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d56bec",
+  "name": "stat",
+  "opts": {
+   "a": "3,513",
+   "b": "CHOLERA DEATHS IN NEW YORK CITY, SUMMER 1832",
+   "c": "ABOUT HALF THE CITY FLED \u00b7 SOURCE: DANIEL S. LEVY, HISTORY NEWS NETWORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_6fc8e8",
+  "name": "doc",
+  "opts": {
+   "header": "MEDICAL CONSENSUS \u00b7 1850s",
+   "title": "MIASMA",
+   "body": "The belief that disease spread by breathing dirty, foul-smelling air.",
+   "source": "SOURCE: LONDON MUSEUM",
+   "stamp": "WRONG"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_7179e2",
+  "name": "doc",
+  "opts": {
+   "header": "LONDON \u00b7 1849",
+   "title": "ON THE MODE OF COMMUNICATION OF CHOLERA",
+   "tsize": 72,
+   "body": "John Snow argues that cholera is spread through water. Few doctors accept it.",
+   "source": "SOURCE: LONDON MUSEUM",
+   "stamp": "IGNORED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_55eede",
+  "name": "chapter",
+  "opts": {
+   "case": "AUG. 31 \u2013 SEPT. 8, 1854",
+   "n": "II",
+   "t": "BROAD STREET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_dc3355",
+  "name": "quote",
+  "opts": {
+   "q": "The most terrible outbreak of cholera which ever occurred in this kingdom, is probably that which took place in Broad Street, Golden Square\u2026",
+   "w": "JOHN SNOW \u00b7 ON THE MODE OF COMMUNICATION OF CHOLERA \u00b7 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_290f55",
+  "name": "stat",
+  "opts": {
+   "a": "143",
+   "b": "NEW CHOLERA CASES ON SEPTEMBER 1, 1854 \u2014 THE WORST DAY",
+   "c": "SOURCES: JOHN SNOW, 1855 \u00b7 UCLA JOHN SNOW ARCHIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_431ccc",
+  "name": "steps",
+  "opts": {
+   "kicker": "JOHN SNOW'S INVESTIGATION \u00b7 SEPTEMBER 1854",
+   "title": "FOLLOW THE WATER",
+   "items": [
+    [
+     "THE LIST",
+     "83 deaths, Aug. 31 \u2013 Sept. 2"
+    ],
+    [
+     "THE STREETS",
+     "Where each person lived"
+    ],
+    [
+     "THE QUESTION",
+     "Where did they get water?"
+    ],
+    [
+     "THE ANSWER",
+     "Nearly all near one pump"
+    ]
+   ],
+   "footer": "SOURCE: JOHN SNOW, 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_d4d466",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE 10 DEATHS CLOSER TO OTHER PUMPS",
+   "title": "THE EXCEPTIONS FIT TOO",
+   "cards": [
+    {
+     "h": "5",
+     "t": "Families sent to Broad Street for water"
+    },
+    {
+     "h": "3",
+     "t": "Children at school near the pump"
+    },
+    {
+     "h": "2",
+     "t": "Deaths already occurring before the outbreak"
+    }
+   ],
+   "footer": "SOURCE: JOHN SNOW, 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_84f5ba",
+  "name": "phases",
+  "opts": {
+   "kicker": "POLAND STREET WORKHOUSE \u00b7 1854",
+   "title": "ITS OWN WELL",
+   "left": {
+    "label": "INMATES",
+    "num": "535",
+    "desc": "PEOPLE"
+   },
+   "right": {
+    "label": "CHOLERA DEATHS",
+    "num": "5",
+    "desc": "INMATES"
+   },
+   "active": 1,
+   "footer": "SOURCE: JOHN SNOW, 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_30727f",
+  "name": "stat",
+  "opts": {
+   "a": "0",
+   "b": "SEVERE CHOLERA CASES AMONG 70+ BREWERY WORKERS",
+   "c": "THEY DRANK MALT LIQUOR \u00b7 THE BREWERY HAD ITS OWN WELL \u00b7 SOURCE: JOHN SNOW, 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_2204e4",
+  "name": "doc",
+  "opts": {
+   "header": "WEEKLY RETURN OF BIRTHS AND DEATHS \u00b7 SEPT. 9, 1854",
+   "title": "THE HAMPSTEAD CASE",
+   "body": "A widow who had not been near Broad Street for months drank its water, brought out by cart. She and a visiting niece died of cholera.",
+   "source": "SOURCE: JOHN SNOW, 1855",
+   "stamp": "BROAD ST. WATER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_f13166",
+  "name": "quote",
+  "opts": {
+   "q": "In consequence of what I said, the handle of the pump was removed on the following day.",
+   "w": "JOHN SNOW \u00b7 ON THE MODE OF COMMUNICATION OF CHOLERA \u00b7 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_1994b4",
+  "name": "chapter",
+  "opts": {
+   "case": "1854\u20131855",
+   "n": "III",
+   "t": "THE REAL STORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_608c95",
+  "name": "phases",
+  "opts": {
+   "kicker": "NEW CHOLERA CASES PER DAY \u00b7 1854",
+   "title": "ALREADY FALLING",
+   "left": {
+    "label": "SEPTEMBER 1",
+    "num": "143",
+    "desc": "NEW CASES"
+   },
+   "right": {
+    "label": "SEPTEMBER 8 \u00b7 HANDLE REMOVED",
+    "num": "12",
+    "desc": "NEW CASES"
+   },
+   "active": 1,
+   "footer": "SOURCE: JOHN SNOW, 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_6b40e1",
+  "name": "doc",
+  "opts": {
+   "header": "GENERAL BOARD OF HEALTH \u00b7 1855",
+   "title": "THEORY REJECTED",
+   "body": "An official report dismisses Snow's idea that the Broad Street water caused the outbreak.",
+   "source": "SOURCE: UCLA JOHN SNOW ARCHIVE",
+   "stamp": "DISMISSED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_88b110",
+  "name": "doc",
+  "opts": {
+   "header": "ST. LUKE'S, BERWICK STREET \u00b7 1855",
+   "title": "REV. HENRY WHITEHEAD",
+   "body": "A local clergyman who expected a careful investigation to disprove Snow. He interviewed residents, some households four or five times.",
+   "source": "SOURCE: UCLA JOHN SNOW ARCHIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_d13af4",
+  "name": "steps",
+  "opts": {
+   "kicker": "40 BROAD STREET \u00b7 1854",
+   "title": "HOW THE WELL WAS POISONED",
+   "items": [
+    [
+     "THE HOUSE",
+     "Next to the pump"
+    ],
+    [
+     "THE CESSPOOL",
+     "Waste emptied out front"
+    ],
+    [
+     "THE BRICKS",
+     "Decayed, leaking"
+    ],
+    [
+     "THE WELL",
+     "Under 3 feet away"
+    ]
+   ],
+   "footer": "SOURCE: UCLA JOHN SNOW ARCHIVE \u00b7 1855 SURVEYOR'S REPORT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_875c59",
+  "name": "stat",
+  "opts": {
+   "a": "2 FT 8 IN",
+   "b": "FROM THE CESSPOOL TO THE WELL",
+   "c": "SURVEYOR'S REPORT, MAY 1, 1855 \u00b7 SOURCE: UCLA JOHN SNOW ARCHIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_a3538c",
+  "name": "quote",
+  "opts": {
+   "q": "Slowly and I may add reluctantly\u2026",
+   "w": "REV. HENRY WHITEHEAD \u00b7 REPORT, JUNE 1855 \u00b7 VIA UCLA JOHN SNOW ARCHIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_fe3b37",
+  "name": "doc",
+  "opts": {
+   "header": "ST. JAMES'S PARISH \u00b7 AUGUST 9, 1855",
+   "title": "\"ATTRIBUTABLE TO THE USE OF THE IMPURE WATER\"",
+   "tsize": 78,
+   "body": "The committee's vote is split evenly. The chairman casts the deciding vote.",
+   "source": "SOURCE: UCLA JOHN SNOW ARCHIVE",
+   "stamp": "1 VOTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_66ff73",
+  "name": "chapter",
+  "opts": {
+   "case": "SOUTH LONDON \u00b7 1854",
+   "n": "IV",
+   "t": "THE EXPERIMENT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_aac9b5",
+  "name": "quote",
+  "opts": {
+   "q": "No fewer than three hundred thousand people \u2026 were divided into two groups without their choice, and, in most cases, without their knowledge.",
+   "w": "JOHN SNOW \u00b7 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_1b270c",
+  "name": "phases",
+  "opts": {
+   "kicker": "CHOLERA DEATHS PER 10,000 HOUSES \u00b7 FIRST 7 WEEKS, 1854",
+   "title": "SAME CITY, DIFFERENT WATER",
+   "left": {
+    "label": "SOUTHWARK & VAUXHALL",
+    "num": "315",
+    "desc": "SEWAGE-TAINTED THAMES WATER"
+   },
+   "right": {
+    "label": "LAMBETH",
+    "num": "37",
+    "desc": "WATER FROM UPRIVER"
+   },
+   "active": 0,
+   "footer": "SOURCE: JOHN SNOW, 1855, TABLE IX"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_4a5539",
+  "name": "chapter",
+  "opts": {
+   "case": "1854\u20131884",
+   "n": "V",
+   "t": "THE GERM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_e31cb1",
+  "name": "doc",
+  "opts": {
+   "header": "1854",
+   "title": "FILIPPO PACINI",
+   "body": "Sees and describes the cholera pathogen under a microscope.",
+   "source": "SOURCE: ROBERT KOCH INSTITUTE",
+   "stamp": "1854"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_a65b12",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FINDING THE GERM",
+   "title": "30 YEARS LATER",
+   "events": [
+    {
+     "y": "1854",
+     "t": "Pacini sees it"
+    },
+    {
+     "y": "1855",
+     "t": "Snow's book"
+    },
+    {
+     "y": "1883",
+     "t": "Koch in Calcutta"
+    },
+    {
+     "y": "1884",
+     "t": "Koch identifies it"
+    }
+   ],
+   "footer": "SOURCES: ROBERT KOCH INSTITUTE \u00b7 JOHN SNOW, 1855"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_9197b0",
+  "name": "doc",
+  "opts": {
+   "header": "LONDON \u00b7 SUMMER 1858",
+   "title": "THE GREAT STINK",
+   "body": "Hot weather exposes sewage in the River Thames. London begins a modern sewer system under engineer Joseph Bazalgette.",
+   "source": "SOURCE: LONDON MUSEUM",
+   "stamp": "1858"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_e8f56d",
+  "name": "doc",
+  "opts": {
+   "header": "EAST LONDON \u00b7 1866",
+   "title": "THE LAST LONDON OUTBREAK",
+   "body": "Areas supplied from the Old Ford Reservoir, not yet connected to Bazalgette's new sewers.",
+   "source": "SOURCE: LONDON MUSEUM",
+   "stamp": "1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_8d9062",
+  "name": "chapter",
+  "opts": {
+   "case": "1908\u2013TODAY",
+   "n": "VI",
+   "t": "WATER FIRST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_99d18f",
+  "name": "stat",
+  "opts": {
+   "a": "&#8203;1908",
+   "b": "JERSEY CITY BEGINS ROUTINE DISINFECTION OF DRINKING WATER",
+   "c": "THE FIRST U.S. CITY \u00b7 SOURCE: CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_3c4537",
+  "name": "phases",
+  "opts": {
+   "kicker": "TYPHOID FEVER IN THE UNITED STATES \u00b7 CASES PER 100,000",
+   "title": "WHAT CLEAN WATER DID",
+   "left": {
+    "label": "1900",
+    "num": "~100",
+    "desc": "CASES PER 100,000"
+   },
+   "right": {
+    "label": "2006",
+    "num": "0.1",
+    "desc": "CASES PER 100,000"
+   },
+   "active": 1,
+   "footer": "CREDITED TO WATER TREATMENT, CLEANER SOURCES AND SANITATION \u00b7 SOURCE: CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6c0280",
+  "name": "stat",
+  "opts": {
+   "a": "&lt;20",
+   "b": "U.S. CHOLERA CASES IN A TYPICAL YEAR",
+   "c": "MOSTLY LINKED TO TRAVEL \u00b7 SOURCE: CDC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_496c22",
+  "name": "phases",
+  "opts": {
+   "kicker": "CHOLERA WORLDWIDE \u00b7 ESTIMATED PER YEAR \u00b7 CITED BY WHO",
+   "title": "STILL HERE",
+   "left": {
+    "label": "CASES",
+    "num": "1.3\u20134M",
+    "desc": "ESTIMATED"
+   },
+   "right": {
+    "label": "DEATHS",
+    "num": "21\u2013143K",
+    "desc": "ESTIMATED"
+   },
+   "footer": "SOURCE: WHO FACT SHEET, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f77be0",
+  "name": "stat",
+  "opts": {
+   "a": "47",
+   "b": "COUNTRIES REPORTED CHOLERA IN 2025",
+   "c": "REPORTED DEATHS: HIGHEST SINCE 1999 \u00b7 SOURCE: WHO"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_61e240",
+  "name": "stat",
+  "opts": {
+   "a": "SUBSCRIBE",
+   "b": "REAL MEDICINE \u00b7 REAL FOOTAGE",
+   "c": "KEPT ALIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_e2d925",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 OUTBREAK 012",
+   "stamp": "CHOLERA"
+  },
+  "intro": 2.4
+ }
+]
