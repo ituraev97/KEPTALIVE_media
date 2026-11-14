@@ -11,6 +11,7 @@ Why: channel data 02–10 Nov — ~13,000 of ~13,700 views came from the Shorts 
 3. **Long video = a story, not a lecture:** one real case with a protagonist (a medic, a crew, a ship, a doctor — rescuers may be named when an official release names them; patients never) told on a clock: cold open on the most dramatic verified moment ("They had 4 minutes…") → who/where → the danger escalates → the save → what it changed (history: then vs now on fresh footage) → teaser → disclaimer. 2,300–2,700 words → 15–18 min. Titles ≤ 70 chars with stakes + a number or a clock ("He Had 4 Minutes to Stop the Bleeding", "The Outbreak That Shut Down an Army Camp"), true and sourced. Mon / Wed / Fri only, 13:00 ET.
 4. **Thumbnails (long):** 2–4 HUGE words of stakes ("4 MINUTES TO LIVE", "247 MILES OUT"), real frame close-up of a rescuer/aircraft/object (never a patient's face, never gore), red Alarm #E5383B circle and/or arrow on the key detail (`thumb.json` → `"ring":{...,"color":"alarm"}`, `"arrow":{"x1":..,"y1":..,"x2":..,"y2":..}`), `badge` with the format. Test at 168×94.
 5. **Shorts formula (from the winners):** every Short opens on a number or a contrast tied to war or an outbreak — "87% vs. 0%", "in 3 numbers", "1883 vs. now", "13 million pints", "killed more soldiers than combat". Hook text + subject on screen at 0.5 s. 20–40 s. Titles ≤ 60 chars, never two Shorts in a day with the same opening pattern. Long days: the 3 Shorts come from that story. Shorts-only days: 3 Shorts on the freshest DVIDS real events / one war-medicine or outbreak fact each, built on footage published in the last 30 days where possible.
+7. **A/B/C test on every long video (owner rule 2026-11-14):** make THREE thumbnails — `thumb.json` keys A, B, C (A = stakes words left + yellow tag; B = text right + red underline, `<em>` = red word; C = kicker + headline), each from a DIFFERENT real frame and with a DIFFERENT promise (number / emotion / question) — and THREE titles (A = the published one). Metricool gets title A + thumb_A. The drop branch carries thumb_A/B/C.jpg; `research/YYYY-MM-DD.md` and the run report list titles B and C and the thumb files so the owner can start YouTube Studio → Test & Compare (thumbnails, and titles where the channel has title testing). All three titles and texts must be true and sourced. Back catalogue A/B/C for 001–012: `ab_tests/2026-11-14/`.
 6. **Shorts → long video:** every Short's description says "Full story on the channel." and the run report lists, for each Short, which long video should be set as its YouTube "Related video" (the owner sets it manually in YouTube Studio — Metricool cannot).
 
 ## 0. Hard rules (medical channel)
@@ -61,7 +62,7 @@ python3 $P/motion_check.py $EP/video_raw.mp4 $EP/timing.json $CL/clips.json   # 
 python3 $P/finish.py $EP $CL             # subtitles, lower thirds, score, SFX, -14 LUFS
 bash $P/encode.sh $EP $EP/long.mp4 95    # < 100 MB for GitHub
 python3 $P/shorts.py $EP $CL             # 3 Shorts from shorts_spec.py
-cd $P && node thumb.mjs $EP/thumb.json $EP   # thumb_A + thumb_C
+cd $P && node thumb.mjs $EP/thumb.json $EP   # thumb_A + thumb_B + thumb_C (Format v2 §7)
 ```
 Long steps (build/finish/encode/shorts) through nohup + polling; never let a foreground command run past 10 minutes.
 
@@ -77,7 +78,7 @@ Long steps (build/finish/encode/shorts) through nohup + polling; never let a for
 - Avoid edited "wrap-up" montages (1-second cuts, baked-in titles) — the builder cannot place a shot inside them.
 
 ## 6. Upload + schedule
-- Branch = weekday of the ET publish date (`drop-mon` … `drop-sun`): orphan commit with ONLY that day's files (long.mp4 on long days, s1..s3.mp4, thumb_A.jpg, thumb_C.jpg), force-push. URL `https://raw.githubusercontent.com/ituraev97/KEPTALIVE_media/drop-XXX/<file>`. Video never on `main`.
+- Branch = weekday of the ET publish date (`drop-mon` … `drop-sun`): orphan commit with ONLY that day's files (long.mp4 + thumb_A/B/C.jpg on long days, s1..s3.mp4), force-push. URL `https://raw.githubusercontent.com/ituraev97/KEPTALIVE_media/drop-XXX/<file>`. Video never on `main`.
 - Metricool brand **KEPT ALIVE**, blogId **7806960** (YouTube UCa7qKTXkXc0yXmKJkBTFa9Q, brand timezone Asia/Tashkent — send `publicationDate` with timezone America/New_York).
   - Long (Mon / Wed / Fri only): 13:00 ET, `youtubeData`: type "video", madeForKids false, category "EDUCATION", isAiGeneratedContent false, tags (10–15), title ≤ 70 chars.
   - Shorts: 10:00, 15:00, 18:00 ET (3 per day, every day), type "short", same flags, title ends with "#shorts".
