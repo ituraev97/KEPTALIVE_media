@@ -16,3 +16,5 @@ episodes/*/thumb/
 episodes/*/vo/
 episodes/*/vo_old/
 episodes/*/qa/
+episodes/*/thumbtest/
+episodes/*/cards/*.jpg
