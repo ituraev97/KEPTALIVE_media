@@ -1,0 +1,355 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:04.89,Sub,,0,0,0,,{\fad(80,80)}50 miles off the coast of Alabama, a 90-foot fishing
+Dialogue: 0,0:00:04.91,0:00:06.09,Sub,,0,0,0,,{\fad(80,80)}boat is on fire.
+Dialogue: 0,0:00:06.11,0:00:07.81,Sub,,0,0,0,,{\fad(80,80)}Four people are aboard.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF DAUPHIN ISLAND, ALABAMA · NIGHT OF OCT. 13–14, 2026
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COAST GUARD INFRARED VIDEO OF THE BURNING BOAT
+Dialogue: 0,0:00:08.28,0:00:10.22,Sub,,0,0,0,,{\fad(80,80)}Out here, there is no fire truck.
+Dialogue: 0,0:00:10.24,0:00:11.53,Sub,,0,0,0,,{\fad(80,80)}There is no ambulance.
+Dialogue: 0,0:00:11.55,0:00:12.54,Sub,,0,0,0,,{\fad(80,80)}There is no road.
+Dialogue: 2,0:00:08.53,0:00:12.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:00:08.53,0:00:12.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:08.53,0:00:12.96,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF DAUPHIN ISLAND, ALABAMA · NIGHT OF OCT. 13–14, 2026
+Dialogue: 3,0:00:08.53,0:00:12.96,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COAST GUARD INFRARED VIDEO OF THE BURNING BOAT
+Dialogue: 0,0:00:13.01,0:00:15.69,Sub,,0,0,0,,{\fad(80,80)}What comes is a Coast Guard airplane, and then a
+Dialogue: 0,0:00:15.71,0:00:16.98,Sub,,0,0,0,,{\fad(80,80)}Coast Guard helicopter.
+Dialogue: 2,0:00:13.26,0:00:17.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:00:13.26,0:00:17.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:13.26,0:00:17.40,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF DAUPHIN ISLAND, ALABAMA · NIGHT OF OCT. 13–14, 2026
+Dialogue: 3,0:00:13.26,0:00:17.40,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COAST GUARD INFRARED VIDEO OF THE BURNING BOAT
+Dialogue: 0,0:00:17.45,0:00:20.18,Sub,,0,0,0,,{\fad(80,80)}That same autumn, Coast Guard helicopter crews
+Dialogue: 0,0:00:20.20,0:00:23.28,Sub,,0,0,0,,{\fad(80,80)}lifted people off an oil tanker, two cruise ships, a
+Dialogue: 0,0:00:23.30,0:00:26.38,Sub,,0,0,0,,{\fad(80,80)}container ship, and a rocky shore in Alaska, where a
+Dialogue: 0,0:00:26.40,0:00:28.77,Sub,,0,0,0,,{\fad(80,80)}boater was stranded after his boat sank.
+Dialogue: 2,0:00:17.70,0:00:23.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:00:17.70,0:00:23.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:17.70,0:00:23.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TANKER, PUERTO RICO, NOV. 8 · CRUISE SHIP, N.C., NOV. 2
+Dialogue: 3,0:00:17.70,0:00:23.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}REAL COAST GUARD HOISTS, AUTUMN 2026
+Dialogue: 0,0:00:29.24,0:00:32.63,Sub,,0,0,0,,{\fad(80,80)}No ambulance can drive to a ship 100 miles out at sea.
+Dialogue: 0,0:00:32.65,0:00:36.24,Sub,,0,0,0,,{\fad(80,80)}So the Coast Guard lowers help down a cable from the sky.
+Dialogue: 2,0:00:29.49,0:00:35.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:00:29.49,0:00:35.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:29.49,0:00:35.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR MONA ISLAND, PUERTO RICO · NOV. 5, 2026 · TRAINING
+Dialogue: 3,0:00:29.49,0:00:35.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A RESCUE SWIMMER DEPLOYS FROM AN MH-60T JAYHAWK
+Dialogue: 0,0:00:36.71,0:00:39.34,Sub,,0,0,0,,{\fad(80,80)}This is how they do it, why it took a war and a
+Dialogue: 0,0:00:39.36,0:00:42.28,Sub,,0,0,0,,{\fad(80,80)}shipwreck to get here, and what happened to the four
+Dialogue: 0,0:00:42.30,0:00:43.86,Sub,,0,0,0,,{\fad(80,80)}people on that burning boat.
+Dialogue: 2,0:00:36.96,0:00:42.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:00:36.96,0:00:42.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:36.96,0:00:42.71,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ALLURE OF THE SEAS · OFF PUERTO RICO · SEPT. 24, 2026
+Dialogue: 3,0:00:36.96,0:00:42.71,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}NIGHT MEDEVAC FROM A CRUISE SHIP'S HELICOPTER PAD
+Dialogue: 0,0:01:18.26,0:01:20.51,Sub,,0,0,0,,{\fad(80,80)}A ship at anchor has no emergency room.
+Dialogue: 0,0:01:20.53,0:01:23.29,Sub,,0,0,0,,{\fad(80,80)}The hospital they needed was on the main island,
+Dialogue: 0,0:01:23.31,0:01:24.28,Sub,,0,0,0,,{\fad(80,80)}across the water.
+Dialogue: 0,0:01:24.30,0:01:27.12,Sub,,0,0,0,,{\fad(80,80)}The Coast Guard decided that a helicopter was the
+Dialogue: 0,0:01:27.14,0:01:29.38,Sub,,0,0,0,,{\fad(80,80)}best way to get the four of them there.
+Dialogue: 2,0:01:18.51,0:01:24.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:01:18.51,0:01:24.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:18.51,0:01:24.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR VIEQUES, PUERTO RICO · NOV. 8, 2026 · HOIST CAMERA
+Dialogue: 3,0:01:18.51,0:01:24.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}4 SICK MARINERS HOISTED FROM AN OIL TANKER
+Dialogue: 0,0:01:29.85,0:01:33.02,Sub,,0,0,0,,{\fad(80,80)}On Sunday morning, an MH-60T Jayhawk from Coast
+Dialogue: 0,0:01:33.04,0:01:36.22,Sub,,0,0,0,,{\fad(80,80)}Guard Air Station Borinquen reached the tanker.
+Dialogue: 2,0:01:30.10,0:01:35.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:01:30.10,0:01:35.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:30.10,0:01:35.85,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR MONA ISLAND, PUERTO RICO · NOV. 5, 2026 · TRAINING
+Dialogue: 3,0:01:30.10,0:01:35.85,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A RESCUE SWIMMER DEPLOYS FROM AN MH-60T JAYHAWK
+Dialogue: 0,0:01:43.48,0:01:45.06,Sub,,0,0,0,,{\fad(80,80)}Then came the first problem.
+Dialogue: 0,0:01:45.08,0:01:47.74,Sub,,0,0,0,,{\fad(80,80)}The crew had trouble finding a safe spot on the
+Dialogue: 0,0:01:47.76,0:01:49.63,Sub,,0,0,0,,{\fad(80,80)}tanker's deck to lower the hoist.
+Dialogue: 2,0:01:43.73,0:01:49.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:01:43.73,0:01:49.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:43.73,0:01:49.48,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR VIEQUES, PUERTO RICO · NOV. 8, 2026 · HOIST CAMERA
+Dialogue: 3,0:01:43.73,0:01:49.48,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}4 SICK MARINERS HOISTED FROM AN OIL TANKER
+Dialogue: 0,0:02:00.57,0:02:02.14,Sub,,0,0,0,,{\fad(80,80)}Then the hoist went to work.
+Dialogue: 0,0:02:02.16,0:02:05.10,Sub,,0,0,0,,{\fad(80,80)}The camera on the helicopter shows the rescue basket
+Dialogue: 0,0:02:05.12,0:02:07.88,Sub,,0,0,0,,{\fad(80,80)}going down to the deck, and coming back up, again
+Dialogue: 0,0:02:07.90,0:02:08.45,Sub,,0,0,0,,{\fad(80,80)}and again.
+Dialogue: 2,0:02:00.82,0:02:06.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:02:00.82,0:02:06.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:00.82,0:02:06.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR VIEQUES, PUERTO RICO · NOV. 8, 2026 · HOIST CAMERA
+Dialogue: 3,0:02:00.82,0:02:06.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}4 SICK MARINERS HOISTED FROM AN OIL TANKER
+Dialogue: 0,0:02:08.92,0:02:12.07,Sub,,0,0,0,,{\fad(80,80)}All four mariners were hoisted into the helicopter.
+Dialogue: 0,0:02:12.09,0:02:15.24,Sub,,0,0,0,,{\fad(80,80)}The crew flew them to San Juan's main airport, Luis
+Dialogue: 0,0:02:15.26,0:02:15.98,Sub,,0,0,0,,{\fad(80,80)}Muñoz Marín.
+Dialogue: 0,0:02:16.00,0:02:19.52,Sub,,0,0,0,,{\fad(80,80)}Medical crews met them there and took them to a hospital.
+Dialogue: 2,0:02:09.17,0:02:14.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:02:09.17,0:02:14.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:09.17,0:02:14.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR VIEQUES, PUERTO RICO · NOV. 8, 2026 · HOIST CAMERA
+Dialogue: 3,0:02:09.17,0:02:14.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}4 SICK MARINERS HOISTED FROM AN OIL TANKER
+Dialogue: 0,0:02:44.26,0:02:47.34,Sub,,0,0,0,,{\fad(80,80)}By Monday, the Daibelli was under way again, headed
+Dialogue: 0,0:02:47.36,0:02:48.07,Sub,,0,0,0,,{\fad(80,80)}for the U.S.
+Dialogue: 0,0:02:48.09,0:02:50.99,Sub,,0,0,0,,{\fad(80,80)}Virgin Islands, back on her usual run around the
+Dialogue: 0,0:02:51.01,0:02:51.60,Sub,,0,0,0,,{\fad(80,80)}Caribbean.
+Dialogue: 2,0:02:44.51,0:02:50.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:02:44.51,0:02:50.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:44.51,0:02:50.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR VIEQUES, PUERTO RICO · NOV. 8, 2026 · HOIST CAMERA
+Dialogue: 3,0:02:44.51,0:02:50.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}4 SICK MARINERS HOISTED FROM AN OIL TANKER
+Dialogue: 0,0:02:52.07,0:02:54.45,Sub,,0,0,0,,{\fad(80,80)}Customs and Border Protection, the U.S.
+Dialogue: 0,0:02:54.47,0:02:57.46,Sub,,0,0,0,,{\fad(80,80)}Public Health Service and Puerto Rico's emergency
+Dialogue: 0,0:02:57.48,0:02:59.43,Sub,,0,0,0,,{\fad(80,80)}medical services all had a part.
+Dialogue: 0,0:02:59.45,0:03:02.63,Sub,,0,0,0,,{\fad(80,80)}The Coast Guard does not say how the four are doing.
+Dialogue: 0,0:03:02.65,0:03:04.29,Sub,,0,0,0,,{\fad(80,80)}Their privacy stays theirs.
+Dialogue: 0,0:03:04.31,0:03:06.19,Sub,,0,0,0,,{\fad(80,80)}What it does show is the hoist.
+Dialogue: 2,0:02:52.32,0:02:58.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:02:52.32,0:02:58.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:52.32,0:02:58.07,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR VIEQUES, PUERTO RICO · NOV. 8, 2026 · HOIST CAMERA
+Dialogue: 3,0:02:52.32,0:02:58.07,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}4 SICK MARINERS HOISTED FROM AN OIL TANKER
+Dialogue: 0,0:03:10.37,0:03:13.42,Sub,,0,0,0,,{\fad(80,80)}A sick sailor far from shore waited for port, or for
+Dialogue: 0,0:03:13.44,0:03:14.19,Sub,,0,0,0,,{\fad(80,80)}another ship.
+Dialogue: 0,0:03:14.21,0:03:17.19,Sub,,0,0,0,,{\fad(80,80)}Then, in the middle of a world war, came a disaster
+Dialogue: 0,0:03:17.21,0:03:19.02,Sub,,0,0,0,,{\fad(80,80)}at the door of New York Harbor.
+Dialogue: 2,0:03:10.62,0:03:16.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:03:10.62,0:03:16.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:10.62,0:03:16.37,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1947 · U.S. NAVY · NOT THE 1944 FLIGHT
+Dialogue: 3,0:03:10.62,0:03:16.37,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A NAVY SIKORSKY HELICOPTER ON FLOATS
+Dialogue: 0,0:03:52.51,0:03:54.31,Sub,,0,0,0,,{\fad(80,80)}Except one kind of aircraft.
+Dialogue: 0,0:03:54.33,0:03:57.50,Sub,,0,0,0,,{\fad(80,80)}At Floyd Bennett Field in Brooklyn, a Coast Guard
+Dialogue: 0,0:03:57.52,0:04:00.88,Sub,,0,0,0,,{\fad(80,80)}pilot named Frank Erickson, an early champion of the
+Dialogue: 0,0:04:00.90,0:04:03.03,Sub,,0,0,0,,{\fad(80,80)}helicopter, had a Sikorsky HNS-1.
+Dialogue: 2,0:03:52.76,0:03:58.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:03:52.76,0:03:58.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:52.76,0:03:58.51,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1947 · U.S. NAVY · NOT THE 1944 FLIGHT
+Dialogue: 3,0:03:52.76,0:03:58.51,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A NAVY SIKORSKY HELICOPTER ON FLOATS
+Dialogue: 0,0:04:51.00,0:04:53.96,Sub,,0,0,0,,{\fad(80,80)}At 10:20, with Ensign Walter Bolton beside him,
+Dialogue: 0,0:04:53.98,0:04:57.52,Sub,,0,0,0,,{\fad(80,80)}Erickson lifted off into swirling snow and gusting wind.
+Dialogue: 0,0:04:57.54,0:05:00.75,Sub,,0,0,0,,{\fad(80,80)}Visibility was so low that, he said later, they had
+Dialogue: 0,0:05:00.77,0:05:03.67,Sub,,0,0,0,,{\fad(80,80)}to feel their way around the ships in the bay.
+Dialogue: 2,0:04:51.25,0:04:57.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:04:51.25,0:04:57.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:51.25,0:04:57.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1947 · U.S. NAVY · NOT THE 1944 FLIGHT
+Dialogue: 3,0:04:51.25,0:04:57.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A NAVY SIKORSKY HELICOPTER ON FLOATS
+Dialogue: 0,0:06:45.77,0:06:49.11,Sub,,0,0,0,,{\fad(80,80)}The helicopter that flew to the tanker, the MH-60T
+Dialogue: 0,0:06:49.13,0:06:52.26,Sub,,0,0,0,,{\fad(80,80)}Jayhawk, is what the Coast Guard calls a medium
+Dialogue: 0,0:06:52.28,0:06:54.01,Sub,,0,0,0,,{\fad(80,80)}range recovery helicopter.
+Dialogue: 0,0:06:54.03,0:06:56.96,Sub,,0,0,0,,{\fad(80,80)}Its hoist raises and lowers rescue swimmers,
+Dialogue: 0,0:06:56.98,0:06:58.57,Sub,,0,0,0,,{\fad(80,80)}survivors and equipment.
+Dialogue: 2,0:06:46.02,0:06:51.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:06:46.02,0:06:51.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:46.02,0:06:51.77,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR MONA ISLAND, PUERTO RICO · NOV. 5, 2026 · TRAINING
+Dialogue: 3,0:06:46.02,0:06:51.77,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A RESCUE SWIMMER DEPLOYS FROM AN MH-60T JAYHAWK
+Dialogue: 0,0:07:08.99,0:07:10.53,Sub,,0,0,0,,{\fad(80,80)}Those numbers are the clock.
+Dialogue: 0,0:07:10.55,0:07:12.20,Sub,,0,0,0,,{\fad(80,80)}Every mile out is a mile back.
+Dialogue: 0,0:07:12.22,0:07:15.03,Sub,,0,0,0,,{\fad(80,80)}Every minute spent hovering over a ship is fuel the
+Dialogue: 0,0:07:15.05,0:07:16.53,Sub,,0,0,0,,{\fad(80,80)}crew will need to get home.
+Dialogue: 2,0:07:09.24,0:07:14.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:07:09.24,0:07:14.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:09.24,0:07:14.99,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR MONA ISLAND, PUERTO RICO · NOV. 5, 2026 · TRAINING
+Dialogue: 3,0:07:09.24,0:07:14.99,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A RESCUE SWIMMER DEPLOYS FROM AN MH-60T JAYHAWK
+Dialogue: 0,0:07:29.93,0:07:32.44,Sub,,0,0,0,,{\fad(80,80)}Infrared video shows the ship's deck.
+Dialogue: 0,0:07:32.46,0:07:35.93,Sub,,0,0,0,,{\fad(80,80)}The crew hoisted a 46-year-old mariner and flew him
+Dialogue: 0,0:07:35.95,0:07:39.34,Sub,,0,0,0,,{\fad(80,80)}to the Centro Médico trauma center in San Juan for
+Dialogue: 0,0:07:39.36,0:07:41.19,Sub,,0,0,0,,{\fad(80,80)}emergency specialized care.
+Dialogue: 2,0:07:30.18,0:07:35.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1224 0 l 1224 132 l 0 132{\p0}
+Dialogue: 3,0:07:30.18,0:07:35.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:30.18,0:07:35.93,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ABOUT 100 NAUTICAL MILES EAST OF ST. MAARTEN · SEPT. 19, 2026 · INFRARED
+Dialogue: 3,0:07:30.18,0:07:35.93,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LONG-RANGE MEDEVAC FROM A COMMERCIAL SHIP
+Dialogue: 0,0:07:41.66,0:07:45.30,Sub,,0,0,0,,{\fad(80,80)}On Halloween, off San Francisco, the job went to
+Dialogue: 0,0:07:45.32,0:07:49.04,Sub,,0,0,0,,{\fad(80,80)}another Coast Guard helicopter, an MH-65 Dolphin.
+Dialogue: 0,0:07:49.06,0:07:52.70,Sub,,0,0,0,,{\fad(80,80)}The patient was a 53-year-old man on a container
+Dialogue: 0,0:07:52.72,0:07:54.15,Sub,,0,0,0,,{\fad(80,80)}ship, 34 miles out.
+Dialogue: 2,0:07:41.91,0:07:47.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:07:41.91,0:07:47.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:41.91,0:07:47.66,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}34 MILES NORTHWEST OF SAN FRANCISCO · OCT. 31, 2026
+Dialogue: 3,0:07:41.91,0:07:47.66,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MH-65 DOLPHIN MEDEVAC FROM A CONTAINER SHIP
+Dialogue: 0,0:07:54.62,0:07:58.02,Sub,,0,0,0,,{\fad(80,80)}Overhead, a C-27 Spartan airplane from Air Station
+Dialogue: 0,0:07:58.04,0:08:01.58,Sub,,0,0,0,,{\fad(80,80)}Sacramento provided coordination and overwatch while
+Dialogue: 0,0:08:01.60,0:08:03.42,Sub,,0,0,0,,{\fad(80,80)}the Dolphin made the hoist.
+Dialogue: 2,0:07:54.87,0:08:00.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:07:54.87,0:08:00.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:54.87,0:08:00.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}34 MILES NORTHWEST OF SAN FRANCISCO · OCT. 31, 2026
+Dialogue: 3,0:07:54.87,0:08:00.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MH-65 DOLPHIN MEDEVAC FROM A CONTAINER SHIP
+Dialogue: 0,0:08:03.89,0:08:05.42,Sub,,0,0,0,,{\fad(80,80)}Often, that is the pattern.
+Dialogue: 0,0:08:05.44,0:08:08.52,Sub,,0,0,0,,{\fad(80,80)}One aircraft to search, guide and watch. One to hoist.
+Dialogue: 0,0:08:08.54,0:08:11.79,Sub,,0,0,0,,{\fad(80,80)}And on the end of the cable, a human being from the crew.
+Dialogue: 2,0:08:04.14,0:08:09.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:08:04.14,0:08:09.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:04.14,0:08:09.89,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR MONA ISLAND, PUERTO RICO · NOV. 5, 2026 · TRAINING
+Dialogue: 3,0:08:04.14,0:08:09.89,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A RESCUE SWIMMER DEPLOYS FROM AN MH-60T JAYHAWK
+Dialogue: 0,0:10:05.87,0:10:08.51,Sub,,0,0,0,,{\fad(80,80)}This is what that program looks like today.
+Dialogue: 0,0:10:08.53,0:10:11.65,Sub,,0,0,0,,{\fad(80,80)}On November 5, in training near Mona Island, Puerto
+Dialogue: 0,0:10:11.67,0:10:14.67,Sub,,0,0,0,,{\fad(80,80)}Rico, a rescue swimmer from Air Station Borinquen
+Dialogue: 0,0:10:14.69,0:10:17.70,Sub,,0,0,0,,{\fad(80,80)}rode the hoist from a Jayhawk all the way down to
+Dialogue: 0,0:10:17.72,0:10:19.79,Sub,,0,0,0,,{\fad(80,80)}the sea, then back up to the door.
+Dialogue: 2,0:10:06.12,0:10:11.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:10:06.12,0:10:11.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:06.12,0:10:11.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR MONA ISLAND, PUERTO RICO · NOV. 5, 2026 · TRAINING
+Dialogue: 3,0:10:06.12,0:10:11.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A RESCUE SWIMMER DEPLOYS FROM AN MH-60T JAYHAWK
+Dialogue: 0,0:10:41.74,0:10:44.65,Sub,,0,0,0,,{\fad(80,80)}Norwegian Bliss carries about 4,000 guests.
+Dialogue: 0,0:10:44.67,0:10:47.91,Sub,,0,0,0,,{\fad(80,80)}On November 2, she was about 32 miles off Oregon
+Dialogue: 0,0:10:47.93,0:10:51.39,Sub,,0,0,0,,{\fad(80,80)}Inlet, North Carolina, on a cruise from New York to
+Dialogue: 0,0:10:51.41,0:10:52.20,Sub,,0,0,0,,{\fad(80,80)}the Bahamas.
+Dialogue: 0,0:10:52.22,0:10:55.54,Sub,,0,0,0,,{\fad(80,80)}The ship reported that a passenger needed medical
+Dialogue: 0,0:10:55.56,0:10:56.22,Sub,,0,0,0,,{\fad(80,80)}attention.
+Dialogue: 2,0:10:41.99,0:10:47.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:10:41.99,0:10:47.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:41.99,0:10:47.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF OREGON INLET, NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:10:41.99,0:10:47.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COAST GUARD CREW MEMBER RIDES THE HOIST TO A CRUISE SHIP
+Dialogue: 0,0:10:56.69,0:10:59.72,Sub,,0,0,0,,{\fad(80,80)}The ship had left New York the day before, on an
+Dialogue: 0,0:10:59.74,0:11:01.18,Sub,,0,0,0,,{\fad(80,80)}eight-night round trip.
+Dialogue: 0,0:11:01.20,0:11:02.77,Sub,,0,0,0,,{\fad(80,80)}November 2 was a sea day.
+Dialogue: 0,0:11:02.79,0:11:06.45,Sub,,0,0,0,,{\fad(80,80)}No hospital, no port, only open water off the Outer Banks.
+Dialogue: 2,0:10:56.94,0:11:02.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:10:56.94,0:11:02.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:56.94,0:11:02.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF OREGON INLET, NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:10:56.94,0:11:02.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COAST GUARD CREW MEMBER RIDES THE HOIST TO A CRUISE SHIP
+Dialogue: 0,0:11:06.92,0:11:09.79,Sub,,0,0,0,,{\fad(80,80)}An aircrew from Air Station Elizabeth City flew out.
+Dialogue: 0,0:11:09.81,0:11:12.06,Sub,,0,0,0,,{\fad(80,80)}This is the view from a camera inside the
+Dialogue: 0,0:11:12.08,0:11:13.06,Sub,,0,0,0,,{\fad(80,80)}helicopter's door.
+Dialogue: 2,0:11:07.17,0:11:12.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:11:07.17,0:11:12.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:07.17,0:11:12.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF OREGON INLET, NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:11:07.17,0:11:12.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COAST GUARD CREW MEMBER RIDES THE HOIST TO A CRUISE SHIP
+Dialogue: 0,0:11:13.53,0:11:16.15,Sub,,0,0,0,,{\fad(80,80)}Inside, the crew wear helmets marked USCG.
+Dialogue: 0,0:11:16.17,0:11:17.22,Sub,,0,0,0,,{\fad(80,80)}The door is open.
+Dialogue: 0,0:11:17.24,0:11:20.48,Sub,,0,0,0,,{\fad(80,80)}Below them is the top deck of a cruise ship, and the
+Dialogue: 0,0:11:20.50,0:11:21.36,Sub,,0,0,0,,{\fad(80,80)}sea beyond it.
+Dialogue: 2,0:11:13.78,0:11:19.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:11:13.78,0:11:19.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:13.78,0:11:19.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF OREGON INLET, NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:11:13.78,0:11:19.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COAST GUARD CREW MEMBER RIDES THE HOIST TO A CRUISE SHIP
+Dialogue: 0,0:11:21.83,0:11:24.62,Sub,,0,0,0,,{\fad(80,80)}A crew member rides the hoist down to the ship's deck.
+Dialogue: 0,0:11:24.64,0:11:27.59,Sub,,0,0,0,,{\fad(80,80)}The yellow circle below is the spot marked for the winch.
+Dialogue: 2,0:11:22.08,0:11:27.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:11:22.08,0:11:27.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:22.08,0:11:27.83,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF OREGON INLET, NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:11:22.08,0:11:27.83,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COAST GUARD CREW MEMBER RIDES THE HOIST TO A CRUISE SHIP
+Dialogue: 0,0:11:28.06,0:11:30.95,Sub,,0,0,0,,{\fad(80,80)}Then the patient comes up, strapped into a rescue
+Dialogue: 0,0:11:30.97,0:11:33.97,Sub,,0,0,0,,{\fad(80,80)}litter, turning slowly on the cable, until the crew
+Dialogue: 0,0:11:33.99,0:11:35.87,Sub,,0,0,0,,{\fad(80,80)}can pull it in through the door.
+Dialogue: 2,0:11:28.31,0:11:34.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1253 0 l 1253 132 l 0 132{\p0}
+Dialogue: 3,0:11:28.31,0:11:34.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:28.31,0:11:34.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NORWEGIAN BLISS · OFF NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:11:28.31,0:11:34.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE HOIST BRINGS A RESCUE LITTER UP INTO THE HELICOPTER
+Dialogue: 0,0:11:36.34,0:11:39.34,Sub,,0,0,0,,{\fad(80,80)}The Coast Guard hoisted an onboard nurse as well.
+Dialogue: 0,0:11:39.36,0:11:42.31,Sub,,0,0,0,,{\fad(80,80)}The aircrew flew both of them to Sentara Norfolk
+Dialogue: 0,0:11:42.33,0:11:44.66,Sub,,0,0,0,,{\fad(80,80)}General Hospital in Norfolk, Virginia.
+Dialogue: 2,0:11:36.59,0:11:42.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:11:36.59,0:11:42.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:36.59,0:11:42.34,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF OREGON INLET, NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:11:36.59,0:11:42.34,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COAST GUARD CREW MEMBER RIDES THE HOIST TO A CRUISE SHIP
+Dialogue: 0,0:11:45.13,0:11:47.86,Sub,,0,0,0,,{\fad(80,80)}Officials said the passenger was transferred in
+Dialogue: 0,0:11:47.88,0:11:48.85,Sub,,0,0,0,,{\fad(80,80)}stable condition.
+Dialogue: 0,0:11:48.87,0:11:51.01,Sub,,0,0,0,,{\fad(80,80)}No change to the cruise was reported.
+Dialogue: 2,0:11:45.38,0:11:51.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:11:45.38,0:11:51.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:45.38,0:11:51.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF OREGON INLET, NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:11:45.38,0:11:51.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COAST GUARD CREW MEMBER RIDES THE HOIST TO A CRUISE SHIP
+Dialogue: 0,0:11:51.48,0:11:54.71,Sub,,0,0,0,,{\fad(80,80)}In September, a Borinquen crew did the same job in
+Dialogue: 0,0:11:54.73,0:11:58.09,Sub,,0,0,0,,{\fad(80,80)}the dark, over the helicopter pad of the cruise ship
+Dialogue: 0,0:11:58.11,0:12:00.43,Sub,,0,0,0,,{\fad(80,80)}Allure of the Seas, off Puerto Rico.
+Dialogue: 0,0:12:00.45,0:12:03.74,Sub,,0,0,0,,{\fad(80,80)}The patient, a crew member, was taken to a hospital
+Dialogue: 0,0:12:03.76,0:12:04.59,Sub,,0,0,0,,{\fad(80,80)}in Aguadilla.
+Dialogue: 2,0:11:51.73,0:11:57.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:11:51.73,0:11:57.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:51.73,0:11:57.48,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ALLURE OF THE SEAS · OFF PUERTO RICO · SEPT. 24, 2026
+Dialogue: 3,0:11:51.73,0:11:57.48,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}NIGHT MEDEVAC FROM A CRUISE SHIP'S HELICOPTER PAD
+Dialogue: 0,0:12:07.73,0:12:11.11,Sub,,0,0,0,,{\fad(80,80)}On October 13, a 90-foot fishing vessel caught fire
+Dialogue: 0,0:12:11.13,0:12:13.98,Sub,,0,0,0,,{\fad(80,80)}about 50 miles off Dauphin Island, Alabama.
+Dialogue: 0,0:12:14.00,0:12:15.57,Sub,,0,0,0,,{\fad(80,80)}Four people were aboard.
+Dialogue: 0,0:12:15.59,0:12:18.91,Sub,,0,0,0,,{\fad(80,80)}This video, released by the Coast Guard, shows the
+Dialogue: 0,0:12:18.93,0:12:19.84,Sub,,0,0,0,,{\fad(80,80)}fire up close.
+Dialogue: 2,0:12:07.98,0:12:13.73,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1253 0 l 1253 132 l 0 132{\p0}
+Dialogue: 3,0:12:07.98,0:12:13.73,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:07.98,0:12:13.73,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF DAUPHIN ISLAND, ALABAMA · OCT. 13, 2026 · U.S. COAST GUARD VIDEO
+Dialogue: 3,0:12:07.98,0:12:13.73,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A 90-FOOT FISHING BOAT ON FIRE, ABOUT 50 MILES OFFSHORE
+Dialogue: 0,0:12:48.87,0:12:51.83,Sub,,0,0,0,,{\fad(80,80)}On infrared, the fire shows up as a blaze of white
+Dialogue: 0,0:12:51.85,0:12:53.02,Sub,,0,0,0,,{\fad(80,80)}heat on a black sea.
+Dialogue: 0,0:12:53.04,0:12:56.12,Sub,,0,0,0,,{\fad(80,80)}The plane found the boat, then guided a Jayhawk from
+Dialogue: 0,0:12:56.14,0:12:57.91,Sub,,0,0,0,,{\fad(80,80)}Air Station New Orleans to it.
+Dialogue: 2,0:12:49.12,0:12:54.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:12:49.12,0:12:54.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:49.12,0:12:54.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF DAUPHIN ISLAND, ALABAMA · NIGHT OF OCT. 13–14, 2026
+Dialogue: 3,0:12:49.12,0:12:54.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COAST GUARD INFRARED VIDEO OF THE BURNING BOAT
+Dialogue: 0,0:12:58.38,0:13:00.76,Sub,,0,0,0,,{\fad(80,80)}The boat kept burning while the helicopter worked.
+Dialogue: 2,0:12:58.63,0:13:01.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:12:58.63,0:13:01.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:58.63,0:13:01.18,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF DAUPHIN ISLAND, ALABAMA · NIGHT OF OCT. 13–14, 2026
+Dialogue: 3,0:12:58.63,0:13:01.18,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COAST GUARD INFRARED VIDEO OF THE BURNING BOAT
+Dialogue: 0,0:13:11.68,0:13:12.62,Sub,,0,0,0,,{\fad(80,80)}Four people.
+Dialogue: 0,0:13:12.64,0:13:14.22,Sub,,0,0,0,,{\fad(80,80)}50 miles from shore.
+Dialogue: 0,0:13:14.24,0:13:15.42,Sub,,0,0,0,,{\fad(80,80)}A boat on fire.
+Dialogue: 0,0:13:15.44,0:13:18.87,Sub,,0,0,0,,{\fad(80,80)}And a crew that came down out of the night.
+Dialogue: 2,0:13:11.93,0:13:17.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:13:11.93,0:13:17.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:11.93,0:13:17.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF DAUPHIN ISLAND, ALABAMA · NIGHT OF OCT. 13–14, 2026
+Dialogue: 3,0:13:11.93,0:13:17.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COAST GUARD INFRARED VIDEO OF THE BURNING BOAT
+Dialogue: 0,0:13:22.01,0:13:24.56,Sub,,0,0,0,,{\fad(80,80)}Off Alaska in September, near Murder Cove on
+Dialogue: 0,0:13:24.58,0:13:27.42,Sub,,0,0,0,,{\fad(80,80)}Admiralty Island, a Jayhawk crew from Air Station
+Dialogue: 0,0:13:27.44,0:13:30.40,Sub,,0,0,0,,{\fad(80,80)}Sitka found a boater whose fishing vessel had sunk.
+Dialogue: 0,0:13:30.42,0:13:32.74,Sub,,0,0,0,,{\fad(80,80)}His life raft had begun taking on water.
+Dialogue: 0,0:13:32.76,0:13:35.72,Sub,,0,0,0,,{\fad(80,80)}The crew lowered the hoist to the rocks and brought
+Dialogue: 0,0:13:35.74,0:13:36.13,Sub,,0,0,0,,{\fad(80,80)}him up.
+Dialogue: 2,0:13:22.26,0:13:28.01,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:13:22.26,0:13:28.01,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:22.26,0:13:28.01,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR MURDER COVE, ALASKA · SEPT. 28, 2026
+Dialogue: 3,0:13:22.26,0:13:28.01,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A BOATER HOISTED AFTER HIS FISHING VESSEL SANK
+Dialogue: 0,0:13:36.60,0:13:39.57,Sub,,0,0,0,,{\fad(80,80)}On Lake Michigan in November, near Green Island,
+Dialogue: 0,0:13:39.59,0:13:42.55,Sub,,0,0,0,,{\fad(80,80)}Wisconsin, a crew from Air Station Traverse City
+Dialogue: 0,0:13:42.57,0:13:45.61,Sub,,0,0,0,,{\fad(80,80)}hoisted a man from a sailboat that had lost power
+Dialogue: 0,0:13:45.63,0:13:46.60,Sub,,0,0,0,,{\fad(80,80)}and run aground.
+Dialogue: 0,0:13:46.62,0:13:49.65,Sub,,0,0,0,,{\fad(80,80)}A Coast Guard response boat from Station Sturgeon
+Dialogue: 0,0:13:49.67,0:13:52.51,Sub,,0,0,0,,{\fad(80,80)}Bay also came, but shallow water kept it back.
+Dialogue: 2,0:13:36.85,0:13:42.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 888 0 l 888 132 l 0 132{\p0}
+Dialogue: 3,0:13:36.85,0:13:42.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:36.85,0:13:42.60,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LAKE MICHIGAN · NIGHT OF NOV. 7, 2026 · INFRARED
+Dialogue: 3,0:13:36.85,0:13:42.60,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A MAN HOISTED FROM A GROUNDED SAILBOAT
+Dialogue: 0,0:13:52.98,0:13:56.44,Sub,,0,0,0,,{\fad(80,80)}In South Carolina, a crew from Air Station Savannah
+Dialogue: 0,0:13:56.46,0:13:59.99,Sub,,0,0,0,,{\fad(80,80)}hoisted six people from a grounded 18-foot boat near
+Dialogue: 0,0:14:00.01,0:14:03.26,Sub,,0,0,0,,{\fad(80,80)}Turtle Island, at night, and flew them to Hunter
+Dialogue: 0,0:14:03.28,0:14:04.21,Sub,,0,0,0,,{\fad(80,80)}Army Airfield.
+Dialogue: 0,0:14:04.23,0:14:05.30,Sub,,0,0,0,,{\fad(80,80)}No one was hurt.
+Dialogue: 0,0:14:05.32,0:14:08.37,Sub,,0,0,0,,{\fad(80,80)}Off Hawaii, a Dolphin crew from Barbers Point
+Dialogue: 0,0:14:08.39,0:14:11.57,Sub,,0,0,0,,{\fad(80,80)}medevaced a man with a medical condition from a
+Dialogue: 0,0:14:11.59,0:14:14.91,Sub,,0,0,0,,{\fad(80,80)}cargo ship 86 miles out, and flew him to Hilo for
+Dialogue: 0,0:14:14.93,0:14:16.28,Sub,,0,0,0,,{\fad(80,80)}higher medical care.
+Dialogue: 2,0:13:53.23,0:13:58.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:13:53.23,0:13:58.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:53.23,0:13:58.98,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JASPER COUNTY, SOUTH CAROLINA · NOV. 4, 2026
+Dialogue: 3,0:13:53.23,0:13:58.98,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SIX PEOPLE HOISTED FROM A GROUNDED BOAT AT NIGHT
+Dialogue: 0,0:14:21.76,0:14:25.70,Sub,,0,0,0,,{\fad(80,80)}In 1944, one helicopter carried two cases of plasma
+Dialogue: 0,0:14:25.72,0:14:28.42,Sub,,0,0,0,,{\fad(80,80)}for 14 minutes, and it was history.
+Dialogue: 2,0:14:22.01,0:14:27.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:14:22.01,0:14:27.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:22.01,0:14:27.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1947 · U.S. NAVY · NOT THE 1944 FLIGHT
+Dialogue: 3,0:14:22.01,0:14:27.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A NAVY SIKORSKY HELICOPTER ON FLOATS
+Dialogue: 0,0:14:56.65,0:14:59.75,Sub,,0,0,0,,{\fad(80,80)}Today, a crew of four flies out 100 miles, lowers
+Dialogue: 0,0:14:59.77,0:15:03.07,Sub,,0,0,0,,{\fad(80,80)}one of its own onto a ship's deck, and brings people
+Dialogue: 0,0:15:03.09,0:15:04.28,Sub,,0,0,0,,{\fad(80,80)}back to a hospital.
+Dialogue: 2,0:14:56.90,0:15:02.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:14:56.90,0:15:02.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:56.90,0:15:02.65,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}NEAR MURDER COVE, ALASKA · SEPT. 28, 2026
+Dialogue: 3,0:14:56.90,0:15:02.65,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A BOATER HOISTED AFTER HIS FISHING VESSEL SANK
+Dialogue: 0,0:15:04.75,0:15:07.10,Sub,,0,0,0,,{\fad(80,80)}No ambulance can reach them out there.
+Dialogue: 0,0:15:07.12,0:15:09.71,Sub,,0,0,0,,{\fad(80,80)}So the Coast Guard sends one down a cable.
+Dialogue: 2,0:15:05.00,0:15:10.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:15:05.00,0:15:10.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:05.00,0:15:10.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}OFF OREGON INLET, NORTH CAROLINA · NOV. 2, 2026
+Dialogue: 3,0:15:05.00,0:15:10.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COAST GUARD CREW MEMBER RIDES THE HOIST TO A CRUISE SHIP
+Dialogue: 5,0:15:18.58,0:15:22.78,Credit,,0,0,0,,{\fad(400,0)}Footage: U.S. Coast Guard via DVIDS (public domain). Training footage is marked TRAINING.\NArchival film (public domain): U.S. Navy, Naval Photographic Center film 3017, 1947 (National Archives) — not the 1944 flight.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the U.S. Coast Guard, DoD or any government agency.\NFor education only. This is not medical advice.
+Dialogue: 4,0:00:29.23,0:00:36.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:01:29.87,0:01:36.70,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:06:45.77,0:06:59.03,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:07:09.00,0:07:17.00,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:08:03.90,0:08:12.40,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:10:05.87,0:10:13.07,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:10:13.07,0:10:20.27,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

@@ -1,0 +1,1032 @@
+[
+ {
+  "key": "title_068c25",
+  "name": "title",
+  "opts": {
+   "kicker": "THE SAVE \u00b7 101",
+   "title": "THE HOIST",
+   "sub": "NO AMBULANCE AT <span style=\"color:#2BB3A3\">SEA</span>",
+   "size": 250
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_6841bd",
+  "name": "chapter",
+  "opts": {
+   "case": "NOV. 7\u20138, 2026",
+   "n": "I",
+   "t": "FOUR SICK MARINERS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_42168b",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -67.4,
+      17.8
+     ],
+     [
+      -64.6,
+      18.7
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       -65.45,
+       18.08
+      ],
+      "name": "VIEQUES",
+      "sub": "TANKER DAIBELLI AT ANCHOR",
+      "d": 0.5
+     },
+     {
+      "ll": [
+       -66.07,
+       18.45
+      ],
+      "name": "SAN JUAN",
+      "sub": "AIRPORT \u00b7 HOSPITAL",
+      "anchor": "end",
+      "d": 0.9
+     },
+     {
+      "ll": [
+       -67.13,
+       18.5
+      ],
+      "name": "AIR STATION BORINQUEN",
+      "d": 1.2,
+      "size": 30
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       -65.45,
+       18.08
+      ],
+      "r": 34,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "arcs": [
+     {
+      "from": [
+       -67.13,
+       18.5
+      ],
+      "to": [
+       -65.45,
+       18.08
+      ],
+      "d": 1.4,
+      "color": "#6CF29A"
+     }
+    ]
+   },
+   "kicker": "PUERTO RICO \u00b7 NOVEMBER 2026",
+   "title": "A TANKER AT ANCHOR",
+   "footer": "SOURCES: U.S. COAST GUARD VIA DVIDS \u00b7 MARINE INSIGHT \u00b7 MARITIME EXECUTIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_b21722",
+  "name": "callcard",
+  "opts": {
+   "kicker": "RESCUE SUB-CENTER SAN JUAN \u00b7 SATURDAY NIGHT",
+   "title": "THE CALL",
+   "rows": [
+    [
+     "VESSEL",
+     "Oil tanker Daibelli \u00b7 Cyprus flag \u00b7 328 ft"
+    ],
+    [
+     "POSITION",
+     "At anchor off Vieques"
+    ],
+    [
+     "PATIENTS",
+     "4 crew members"
+    ],
+    [
+     "SUSPECTED",
+     "Food poisoning"
+    ]
+   ],
+   "footer": "SOURCES: U.S. COAST GUARD VIA DVIDS \u00b7 MARINE INSIGHT, NOV. 10, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_3ad116",
+  "name": "cards3",
+  "opts": {
+   "kicker": "MH-60T JAYHAWK \u00b7 STANDARD CREW",
+   "title": "FOUR PEOPLE ABOARD",
+   "cards": [
+    {
+     "h": "2",
+     "t": "Pilots",
+     "s": "Pilot and co-pilot"
+    },
+    {
+     "h": "1",
+     "t": "Flight mechanic",
+     "s": ""
+    },
+    {
+     "h": "1",
+     "t": "Rescue swimmer",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: U.S. COAST GUARD COMMUNITY BRIEF, NAVAL AIR TRAINING COMMAND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_d7d4f6",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026a challenging hoisting environment\u2026 the safest and most effective location.",
+   "w": "LT. STAN RAYMOND \u00b7 CO-PILOT, AIR STATION BORINQUEN \u00b7 VIA MARITIME EXECUTIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_ab0da1",
+  "name": "quote",
+  "opts": {
+   "q": "I'm grateful our crew was able to safely evacuate all four mariners and get them to a higher level of medical care.",
+   "w": "LT. STAN RAYMOND \u00b7 U.S. COAST GUARD \u00b7 VIA MARITIME EXECUTIVE, NOV. 9, 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_4832ea",
+  "name": "callcard",
+  "opts": {
+   "kicker": "LUIS MU\u00d1OZ MAR\u00cdN INTERNATIONAL AIRPORT \u00b7 NOV. 8, 2026",
+   "title": "WAITING ON THE GROUND",
+   "rows": [
+    [
+     "FOR THE PATIENTS",
+     "Emergency medical staff, then a regional hospital"
+    ],
+    [
+     "FOR THE HELICOPTER",
+     "Fuel"
+    ],
+    [
+     "ARRANGED BY",
+     "Coast Guard Sector San Juan"
+    ]
+   ],
+   "footer": "SOURCE: MARINE INSIGHT, NOV. 10, 2026, CITING LT. STAN RAYMOND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_6d7b64",
+  "name": "chapter",
+  "opts": {
+   "case": "JAN. 3, 1944",
+   "n": "II",
+   "t": "PLASMA IN A STORM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_02491a",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -74.12,
+      40.4
+     ],
+     [
+      -73.74,
+      40.74
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       -73.831,
+       40.459
+      ],
+      "name": "AMBROSE LIGHT",
+      "sub": "USS TURNER",
+      "d": 0.4
+     },
+     {
+      "ll": [
+       -73.89,
+       40.591
+      ],
+      "name": "FLOYD BENNETT FIELD",
+      "d": 0.7,
+      "size": 32
+     },
+     {
+      "ll": [
+       -74.017,
+       40.703
+      ],
+      "name": "BATTERY PARK",
+      "anchor": "end",
+      "d": 1.0,
+      "size": 32
+     },
+     {
+      "ll": [
+       -74.003,
+       40.466
+      ],
+      "name": "SANDY HOOK",
+      "sub": "HOSPITAL \u00b7 COAST GUARD STATION",
+      "anchor": "end",
+      "d": 1.3,
+      "size": 32
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       -73.831,
+       40.459
+      ],
+      "r": 30,
+      "n": 3,
+      "d": 0.4,
+      "color": "#E5383B"
+     }
+    ],
+    "topPad": 140
+   },
+   "kicker": "NEW YORK HARBOR \u00b7 JANUARY 3, 1944",
+   "title": "A DESTROYER EXPLODES",
+   "footer": "SOURCES: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 U.S. COAST GUARD HISTORIAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_710d07",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. NAVY \u00b7 DESTROYER DD-648 \u00b7 JANUARY 3, 1944",
+   "title": "USS TURNER",
+   "body": "Explosions rip the ship apart while she is at anchor. Fires set off her ammunition. A second explosion, 47 minutes later, sinks her.",
+   "source": "SOURCES: NHHC \u00b7 U.S. COAST GUARD HISTORIAN'S OFFICE",
+   "stamp": "SUNK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_9808ad",
+  "name": "stat",
+  "opts": {
+   "a": "PLASMA",
+   "b": "WHAT THE WOUNDED AT SANDY HOOK URGENTLY NEEDED",
+   "c": "JANUARY 3, 1944 \u00b7 SOURCE: NAVAL HISTORY AND HERITAGE COMMAND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_a10755",
+  "name": "list",
+  "opts": {
+   "kicker": "NEW YORK \u00b7 MORNING OF JANUARY 3, 1944",
+   "title": "THE WEATHER",
+   "items": [
+    "A nor'easter: high winds, snow squalls, sleet",
+    "Airfields closed",
+    "All aircraft grounded",
+    "Plasma needed at Sandy Hook"
+   ],
+   "footer": "SOURCES: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 U.S. COAST GUARD HISTORIAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_21907f",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. COAST GUARD \u00b7 AVIATOR",
+   "title": "FRANK A. ERICKSON",
+   "body": "Born near Portland, Oregon. Navy enlisted, then midshipman. Coast Guard Academy, commissioned 1931. Served on cutters. In Honolulu, witnessed the Pearl Harbor attack, Dec. 7, 1941.",
+   "source": "SOURCE: NAVAL HISTORY AND HERITAGE COMMAND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_b0b638",
+  "name": "list",
+  "opts": {
+   "kicker": "FRANK ERICKSON \u00b7 U.S. COAST GUARD",
+   "title": "HIS IDEA FOR THE HELICOPTER",
+   "items": [
+    "Search and rescue",
+    "Protecting convoys against submarines"
+   ],
+   "footer": "SOURCE: U.S. COAST GUARD HISTORIAN'S OFFICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_c7a918",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. COAST GUARD \u00b7 NEW YORK \u00b7 ABOUT 10:00 A.M.",
+   "title": "THE REQUEST",
+   "body": "Can a helicopter fly plasma from Manhattan to Sandy Hook? Erickson agrees at once, though he has never flown in such conditions.",
+   "source": "SOURCE: U.S. COAST GUARD HISTORIAN'S OFFICE, THE LONG BLUE LINE",
+   "stamp": "APPROVED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_d10fdc",
+  "name": "callcard",
+  "opts": {
+   "kicker": "BATTERY PARK, MANHATTAN \u00b7 JANUARY 3, 1944",
+   "title": "THE CARGO",
+   "rows": [
+    [
+     "10:20 A.M.",
+     "Lift-off from Floyd Bennett Field"
+    ],
+    [
+     "LOADED",
+     "2 cases of blood plasma"
+    ],
+    [
+     "STOWED",
+     "Lashed to the floats"
+    ],
+    [
+     "CREW",
+     "Erickson alone"
+    ]
+   ],
+   "footer": "SOURCES: NHHC \u00b7 U.S. COAST GUARD HISTORIAN'S OFFICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_0150e8",
+  "name": "steps",
+  "opts": {
+   "kicker": "JANUARY 3, 1944 \u00b7 THE FLIGHT",
+   "title": "FROM BROOKLYN TO SANDY HOOK",
+   "items": [
+    [
+     "10:20",
+     "Lift-off, Floyd Bennett Field"
+    ],
+    [
+     "Battery Park",
+     "Plasma lashed to floats"
+    ],
+    [
+     "Trees",
+     "Backs out"
+    ],
+    [
+     "~10:55",
+     "Rises straight up"
+    ],
+    [
+     "11:09",
+     "Lands at Sandy Hook"
+    ]
+   ],
+   "footer": "SOURCE: U.S. COAST GUARD HISTORIAN'S OFFICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_36e782",
+  "name": "stat",
+  "opts": {
+   "a": "14 MIN",
+   "b": "BATTERY PARK TO SANDY HOOK, THROUGH A NOR'EASTER",
+   "c": "ABOUT 10:55 TO 11:09 A.M. \u00b7 JAN. 3, 1944 \u00b7 SOURCE: U.S. COAST GUARD HISTORIAN'S OFFICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_0a11fe",
+  "name": "quote",
+  "opts": {
+   "q": "Weather conditions were such that this flight could not have been made in any other type of aircraft.",
+   "w": "FRANK A. ERICKSON, U.S. COAST GUARD PILOT \u00b7 VIA NAVAL HISTORY AND HERITAGE COMMAND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_141749",
+  "name": "doc",
+  "opts": {
+   "header": "NAVAL HISTORY AND HERITAGE COMMAND",
+   "title": "THE FIRST HELICOPTER LIFESAVING OPERATION",
+   "tsize": 80,
+   "body": "January 3, 1944. Cargo: two cases of blood plasma, lashed to the floats. Pilot: Frank A. Erickson, U.S. Coast Guard.",
+   "source": "SOURCE: NHHC \u00b7 U.S. COAST GUARD HISTORIAN'S OFFICE",
+   "stamp": "FIRST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_85ab26",
+  "name": "doc",
+  "opts": {
+   "header": "PENFIELD REEF \u00b7 FAIRFIELD, CONNECTICUT \u00b7 NOVEMBER 1945",
+   "title": "A BARGE ON THE REEF",
+   "body": "Storm, rain and snow. An oil barge breaking up on the reef. Two men trapped. Rescue boats cannot reach them.",
+   "source": "SOURCES: LOCKHEED MARTIN / SIKORSKY HISTORY, 2026 \u00b7 VERTICAL FLIGHT SOCIETY",
+   "stamp": "TRAPPED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_d6b3dc",
+  "name": "callcard",
+  "opts": {
+   "kicker": "SIKORSKY R-5 \u00b7 NOVEMBER 1945",
+   "title": "WIDELY REGARDED AS THE FIRST HOIST RESCUE OVER WATER",
+   "rows": [
+    [
+     "PILOTS",
+     "Jimmy Viner \u00b7 Jackson Beighle"
+    ],
+    [
+     "EQUIPMENT",
+     "Hoist + lifting harness"
+    ],
+    [
+     "TESTED",
+     "Only a few feet above the ground"
+    ],
+    [
+     "WIND",
+     "Close to 60 mph"
+    ]
+   ],
+   "footer": "SOURCE: LOCKHEED MARTIN, \"THE RESCUE THAT CHANGED SEARCH AND RESCUE FOREVER\", 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_cbc692",
+  "name": "stat",
+  "opts": {
+   "a": "&#8203;1945",
+   "b": "WIDELY REGARDED AS THE FIRST HELICOPTER HOIST RESCUE OVER WATER",
+   "c": "PENFIELD REEF, CONNECTICUT \u00b7 VERTICAL FLIGHT SOCIETY HERITAGE SITE \u00b7 SOURCE: LOCKHEED MARTIN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_af841c",
+  "name": "chapter",
+  "opts": {
+   "case": "2026",
+   "n": "III",
+   "t": "THE CLOCK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_0246e8",
+  "name": "cards3",
+  "opts": {
+   "kicker": "MH-60T JAYHAWK \u00b7 U.S. COAST GUARD FACT SHEET",
+   "title": "THE NUMBERS THAT SET THE CLOCK",
+   "cards": [
+    {
+     "h": "700",
+     "t": "Nautical miles",
+     "s": "Range"
+    },
+    {
+     "h": "170",
+     "t": "Knots",
+     "s": "Top speed"
+    },
+    {
+     "h": "6.5",
+     "t": "Hours",
+     "s": "Endurance"
+    }
+   ],
+   "footer": "SOURCE: U.S. COAST GUARD ACQUISITION DIRECTORATE, MH-60T FACT SHEET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_b5fd89",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -68.0,
+      16.9
+     ],
+     [
+      -60.6,
+      19.4
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       -67.13,
+       18.5
+      ],
+      "name": "BORINQUEN",
+      "d": 0.4,
+      "anchor": "end",
+      "size": 32
+     },
+     {
+      "ll": [
+       -66.07,
+       18.45
+      ],
+      "name": "SAN JUAN",
+      "sub": "CENTRO M\u00c9DICO",
+      "d": 1.6,
+      "dy": 40,
+      "size": 32
+     },
+     {
+      "ll": [
+       -63.05,
+       18.04
+      ],
+      "name": "ST. MAARTEN",
+      "d": 0.7,
+      "size": 32,
+      "dy": 50
+     },
+     {
+      "ll": [
+       -61.3,
+       18.04
+      ],
+      "name": "SHIP",
+      "sub": "~100 NM EAST OF ST. MAARTEN",
+      "d": 1.0,
+      "anchor": "end",
+      "dy": 70
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       -61.3,
+       18.04
+      ],
+      "r": 30,
+      "n": 3,
+      "d": 1.0
+     }
+    ],
+    "arcs": [
+     {
+      "from": [
+       -61.3,
+       18.04
+      ],
+      "to": [
+       -66.07,
+       18.45
+      ],
+      "d": 1.5,
+      "color": "#6CF29A"
+     }
+    ],
+    "topPad": 120
+   },
+   "kicker": "CARIBBEAN \u00b7 SEPTEMBER 19, 2026",
+   "title": "A LONG-RANGE MEDEVAC",
+   "footer": "SOURCE: U.S. COAST GUARD VIA DVIDS \u00b7 POSITIONS APPROXIMATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_5cb93e",
+  "name": "chapter",
+  "opts": {
+   "case": "FEB. 12, 1983",
+   "n": "IV",
+   "t": "37 DEGREES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_1f17b2",
+  "name": "doc",
+  "opts": {
+   "header": "ATLANTIC OCEAN \u00b7 FEBRUARY 12, 1983",
+   "title": "SS MARINE ELECTRIC",
+   "body": "605-foot cargo ship \u00b7 34 crew \u00b7 capsizes about 30 miles off Chincoteague, Virginia. First distress call: 2:51 a.m.",
+   "source": "SOURCES: U.S. COAST GUARD \u00b7 SEAPOWER MAGAZINE",
+   "stamp": "CAPSIZED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_5b6144",
+  "name": "stat",
+  "opts": {
+   "a": "37\u00b0F",
+   "b": "THE WATER TEMPERATURE THE CREW FACED",
+   "c": "FEBRUARY 12, 1983 \u00b7 SOURCE: U.S. COAST GUARD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_3c6b6c",
+  "name": "callcard",
+  "opts": {
+   "kicker": "MARINE ELECTRIC \u00b7 FEBRUARY 12, 1983",
+   "title": "THE THREE WHO LIVED",
+   "rows": [
+    [
+     "LIFE RAFT",
+     "Hoisted into a Coast Guard helicopter in a basket"
+    ],
+    [
+     "LIFE RING",
+     "Retrieved by the same helicopter crew"
+    ],
+    [
+     "LIFEBOAT",
+     "Spotted by the Norwegian ship Berganger, lifted in a basket"
+    ]
+   ],
+   "footer": "SOURCE: U.S. COAST GUARD, \"THE SHIPWRECK THAT CHANGED THE COAST GUARD FOREVER\", 2025"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_1db601",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. COAST GUARD \u00b7 1983",
+   "title": "RESCUE SWIMMERS",
+   "body": "At that time the Coast Guard did not have any rescue swimmers.",
+   "source": "SOURCE: SEAPOWER MAGAZINE (NAVY LEAGUE)",
+   "stamp": "NONE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_180ebf",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. NAVY \u00b7 NAVAL AIR STATION OCEANA \u00b7 1983",
+   "title": "PO2 JAMES McCANN",
+   "body": "Navy rescue swimmer. The Navy had rescue swimmers in 1983. The Coast Guard did not.",
+   "source": "SOURCES: U.S. COAST GUARD \u00b7 SEAPOWER MAGAZINE",
+   "stamp": "NAVY SWIMMER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ed580b",
+  "name": "stat",
+  "opts": {
+   "a": "5",
+   "b": "UNRESPONSIVE SAILORS RECOVERED BY ONE RESCUE SWIMMER BEFORE HYPOTHERMIA STOPPED HIM",
+   "c": "FEBRUARY 12, 1983 \u00b7 SOURCE: U.S. COAST GUARD, 2025"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_b3f9a9",
+  "name": "stat",
+  "opts": {
+   "a": "3 OF 34",
+   "b": "SURVIVED THE SINKING OF THE MARINE ELECTRIC",
+   "c": "31 DIED \u00b7 7 NEVER FOUND \u00b7 SOURCE: U.S. COAST GUARD, 2025"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_1e34ee",
+  "name": "doc",
+  "opts": {
+   "header": "MARINE BOARD OF INQUIRY \u00b7 MARINE ELECTRIC",
+   "title": "THE FINDINGS",
+   "body": "Inspectors missed several discrepancies despite recent inspections. Most likely cause: inadequate cargo hatches and deck plating let waves flood the forward spaces.",
+   "source": "SOURCE: U.S. COAST GUARD, 2025",
+   "stamp": "MISSED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_e0f2a9",
+  "name": "list",
+  "opts": {
+   "kicker": "AFTER THE MARINE ELECTRIC",
+   "title": "WHAT CHANGED ON SHIPS",
+   "items": [
+    "Cold water survival suits",
+    "Enclosed lifeboats and launching systems",
+    "Flooding alarms in unmanned spaces",
+    "Tighter inspections of ships 20+ years old"
+   ],
+   "footer": "70 WWII-ERA VESSELS SCRAPPED \u00b7 SOURCE: U.S. COAST GUARD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_3dff19",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. CONGRESS \u00b7 1984",
+   "title": "COAST GUARD AUTHORIZATION ACT OF 1984",
+   "tsize": 78,
+   "body": "Funding for a Coast Guard rescue swimmer program.",
+   "source": "SOURCE: SEAPOWER MAGAZINE (NAVY LEAGUE)",
+   "stamp": "FUNDED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_dbe905",
+  "name": "timeline",
+  "opts": {
+   "kicker": "FROM ONE FLIGHT TO A SYSTEM",
+   "title": "HOW THE HOIST GOT A SWIMMER",
+   "events": [
+    {
+     "y": "1944",
+     "t": "Erickson flies plasma in a storm"
+    },
+    {
+     "y": "1945",
+     "t": "First hoist rescue over water"
+    },
+    {
+     "y": "1983",
+     "t": "Marine Electric: 31 of 34 die"
+    },
+    {
+     "y": "1984",
+     "t": "Rescue swimmer program funded"
+    },
+    {
+     "y": "1985",
+     "t": "First swimmers: Elizabeth City"
+    },
+    {
+     "y": "1991",
+     "t": "Swimmers at 23 bases"
+    }
+   ],
+   "footer": "SOURCES: U.S. COAST GUARD \u00b7 NHHC \u00b7 SEAPOWER MAGAZINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_44ceb8",
+  "name": "chapter",
+  "opts": {
+   "case": "NOV. 2, 2026",
+   "n": "V",
+   "t": "DOWN THE WIRE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_a3d39e",
+  "name": "chapter",
+  "opts": {
+   "case": "OCT. 13, 2026",
+   "n": "VI",
+   "t": "FIFTY MILES OUT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_3cc9f8",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -89.6,
+      29.0
+     ],
+     [
+      -87.2,
+      30.9
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       -88.11,
+       30.25
+      ],
+      "name": "DAUPHIN ISLAND",
+      "d": 0.4,
+      "size": 32
+     },
+     {
+      "ll": [
+       -88.07,
+       30.69
+      ],
+      "name": "MOBILE",
+      "sub": "AVIATION TRAINING CENTER",
+      "d": 0.7,
+      "size": 32
+     },
+     {
+      "ll": [
+       -90.03,
+       29.83
+      ],
+      "name": "NEW ORLEANS",
+      "d": 0.9,
+      "size": 32
+     },
+     {
+      "ll": [
+       -88.11,
+       29.53
+      ],
+      "name": "FISHING VESSEL",
+      "sub": "ABOUT 50 MILES OFFSHORE",
+      "d": 1.1,
+      "anchor": "end",
+      "dy": 40
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       -88.11,
+       29.53
+      ],
+      "r": 30,
+      "n": 3,
+      "d": 1.1,
+      "color": "#E5383B"
+     }
+    ],
+    "arcs": [
+     {
+      "from": [
+       -89.95,
+       29.85
+      ],
+      "to": [
+       -88.11,
+       29.53
+      ],
+      "d": 1.5,
+      "color": "#6CF29A"
+     }
+    ]
+   },
+   "kicker": "GULF COAST \u00b7 OCTOBER 13, 2026",
+   "title": "A BOAT ON FIRE",
+   "footer": "SOURCE: U.S. COAST GUARD VIA DVIDS \u00b7 POSITIONS APPROXIMATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_a714c9",
+  "name": "cards3",
+  "opts": {
+   "kicker": "HC-144 OCEAN SENTRY \u00b7 U.S. COAST GUARD FACT SHEET",
+   "title": "THE AIRCRAFT THAT FINDS",
+   "cards": [
+    {
+     "h": "10+",
+     "t": "Hours",
+     "s": "Endurance"
+    },
+    {
+     "h": "2,100",
+     "t": "Nautical miles",
+     "s": "Range",
+     "size": 96
+    },
+    {
+     "h": "IR",
+     "t": "Sensors",
+     "s": "Radar + electro-optical/infrared"
+    }
+   ],
+   "footer": "SOURCE: U.S. COAST GUARD ACQUISITION DIRECTORATE, HC-144 FACT SHEET, 2025"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f0ef38",
+  "name": "stat",
+  "opts": {
+   "a": "4 OF 4",
+   "b": "RESCUED FROM THE BURNING BOAT \u00b7 NO ONE INJURED",
+   "c": "OCT. 13, 2026 \u00b7 SOURCES: U.S. COAST GUARD VIA DVIDS \u00b7 WKRG"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_7e7d28",
+  "name": "chapter",
+  "opts": {
+   "case": "SEPT.\u2013NOV. 2026",
+   "n": "VII",
+   "t": "ORDINARY WEEKS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_660c9a",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. COAST GUARD RELEASES VIA DVIDS \u00b7 SEPTEMBER\u2013NOVEMBER 2026",
+   "title": "ONE AUTUMN OF HOISTS",
+   "rows": [
+    [
+     "SEPT. 19",
+     "Mariner \u00b7 ~100 NM east of St. Maarten"
+    ],
+    [
+     "SEPT. 28",
+     "Boater \u00b7 raft taking on water \u00b7 Alaska"
+    ],
+    [
+     "OCT. 13",
+     "4 people \u00b7 burning boat \u00b7 Alabama"
+    ],
+    [
+     "NOV. 2",
+     "Passenger + nurse \u00b7 cruise ship \u00b7 N.C."
+    ],
+    [
+     "NOV. 8",
+     "4 mariners \u00b7 oil tanker \u00b7 Puerto Rico"
+    ]
+   ]
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_3184e0",
+  "name": "stat",
+  "opts": {
+   "a": "31",
+   "b": "MEN LOST WITH THE MARINE ELECTRIC, 1983",
+   "c": "THE COAST GUARD HAD NO RESCUE SWIMMERS \u00b7 SOURCES: U.S. COAST GUARD \u00b7 SEAPOWER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_8d45b4",
+  "name": "stat",
+  "opts": {
+   "a": "12,535",
+   "b": "COAST GUARD AIR RESCUES IN TWO WEEKS \u00b7 HURRICANE KATRINA",
+   "c": "2017 HURRICANE SEASON: 11,363 LIVES SAVED \u00b7 SOURCE: U.S. COAST GUARD HISTORIAN'S OFFICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_4fa8c3",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 THE SAVE \u00b7 NEXT",
+   "stamp": "NEXT SAVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_b1f229",
+  "name": "end",
+  "opts": {
+   "label": "FOR EDUCATION ONLY \u00b7 NOT MEDICAL ADVICE",
+   "stamp": "KEPT ALIVE"
+  },
+  "intro": 2.4
+ }
+]

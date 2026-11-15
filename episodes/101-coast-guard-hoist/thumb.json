@@ -1,0 +1,40 @@
+{
+ "badge": "KEPT ALIVE · THE SAVE",
+ "A": {
+  "image": "/home/claude/keptalive_media/episodes/101-coast-guard-hoist/thumb/1026608_78.jpg",
+  "pos": "23.7% 28%",
+  "zoom": 200,
+  "big": "50 MILES<br><s>OUT</s>",
+  "tag": "BOAT ON FIRE · 4 ABOARD",
+  "size": 190,
+  "tsize": 52,
+  "ring": {
+   "x": 950,
+   "y": 330,
+   "r": 150,
+   "color": "alarm"
+  }
+ },
+ "B": {
+  "image": "/home/claude/keptalive_media/episodes/101-coast-guard-hoist/thumb/1028902_20.jpg",
+  "pos": "50% 30%",
+  "zoom": 120,
+  "kicker": "REAL MEDEVAC · NOV. 2026",
+  "big": "NO AMBULANCE<br><em>AT SEA</em>",
+  "size": 140,
+  "arrow": {
+   "x1": 780,
+   "y1": 610,
+   "x2": 520,
+   "y2": 510
+  }
+ },
+ "C": {
+  "image": "/home/claude/keptalive_media/episodes/101-coast-guard-hoist/thumb/1023702_4.jpg",
+  "pos": "75% 25%",
+  "zoom": 135,
+  "kicker": "100 MILES OUT · SICK",
+  "big": "WHO <s>COMES?</s>",
+  "size": 170
+ }
+}
