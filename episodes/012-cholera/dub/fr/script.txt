@@ -1,0 +1,68 @@
+En dix jours, en mille huit cent cinquante-quatre, plus de cinq cents personnes sont mortes du choléra dans quelques rues de Londres.
+Presque toutes vivaient à environ deux cent trente mètres d'une seule chose. Une pompe à eau.
+La plupart accusaient l'air. Un médecin, l'eau. Il est allé de maison en maison le prouver.
+La version célèbre dit qu'une carte a arrêté l'épidémie. La vraie histoire est meilleure.
+Voici comment [[John Snow]] a remonté une épidémie mortelle de choléra jusqu'à une seule pompe.
+D'abord, la maladie.
+Le choléra est causé par une bactérie, Vibrio cholerae. Selon l'Organisation mondiale de la santé, il se transmet par l'eau ou des aliments contaminés.
+Pendant presque toute l'histoire, personne ne le savait. Une épidémie est partie d'Inde en mille huit cent dix-sept. Elle a atteint la Grande-Bretagne en mille huit cent trente et un, et a tué environ trente mille personnes.
+En mille huit cent trente-deux, elle a atteint [[New York]], une ville de plus de deux cent mille habitants. Près de la moitié a fui. Trois mille cinq cent treize sont morts.
+La cause ? La théorie dominante était le miasme : la maladie viendrait de l'air vicié, de la puanteur et de la pourriture.
+Un médecin londonien, [[John Snow]], n'y croyait pas. Pionnier de l'anesthésie, il a donné du chloroforme à la reine Victoria pour deux de ses accouchements, dans les années mille huit cent cinquante.
+En mille huit cent quarante-neuf, lors d'une autre épidémie à Londres, Snow a publié sa théorie : le choléra passe par l'eau. On l'a presque ignoré.
+Cinq ans plus tard, il a eu un test dont il ne voulait pas.
+Dans la nuit du trente et un août mille huit cent cinquante-quatre, le choléra a explosé à [[Soho]], un quartier surpeuplé du centre de Londres.
+Snow a parlé, sans doute, de la plus terrible épidémie de choléra jamais survenue dans le royaume.
+Le premier septembre, cent quarante-trois personnes ont été frappées. En six jours, les rues les plus touchées ont perdu plus des trois quarts de leurs habitants.
+Snow a tout de suite soupçonné l'eau, et la pompe de [[Broad Street]]. Au début, l'eau semblait presque claire. Deux jours plus tard, il y a vu de petites particules blanches.
+Une eau claire peut porter des germes. Un film de l'armée de mille neuf cent quarante-trois le montre au microscope : une eau d'apparence propre peut être pleine de vie.
+Snow a obtenu la liste des décès auprès de l'état civil. Quatre-vingt-trois morts dans les trois derniers jours de la semaine. Puis il est allé de maison en maison.
+Presque tous les décès étaient près de la pompe. Seuls dix étaient plus près d'une autre pompe. Dans cinq cas, les familles allaient toujours chercher l'eau de [[Broad Street]], qu'elles préféraient. Trois autres étaient des enfants scolarisés près de la pompe.
+Puis il a regardé ceux qui ne tombaient pas malades.
+L'hospice de [[Poland Street]] abritait cinq cent trente-cinq personnes, presque entouré de maisons touchées. Seuls cinq pensionnaires sont morts. L'hospice avait son propre puits.
+Une brasserie de [[Broad Street]], près de la pompe, comptait plus de soixante-dix ouvriers. Aucun n'a eu de choléra grave. Le patron a dit qu'ils buvaient de la bière, pas de l'eau. Et la brasserie avait son propre puits profond.
+Un cas lointain collait aussi. À [[Hampstead]], une veuve qui n'était pas venue à [[Broad Street]] depuis des mois se faisait livrer chaque jour une grande bouteille de cette eau, qu'elle préférait. Elle est morte du choléra. Sa nièce aussi, qui avait bu cette eau. Il n'y avait pas de choléra dans leurs quartiers.
+Le soir du jeudi sept septembre, Snow a présenté ses preuves au conseil de la paroisse.
+Snow a raconté la suite.
+C'est là que finit la version célèbre : une carte, la poignée retirée, l'épidémie arrêtée. Presque tout cela est plus compliqué.
+D'abord, la carte est venue après. Snow l'a présentée en décembre mille huit cent cinquante-quatre et publiée dans son livre en mille huit cent cinquante-cinq. Le soupçon sur la pompe est venu avant.
+Sur la carte, chaque barre noire est un décès à cette adresse. Elles s'empilent autour de la pompe.
+Ensuite, l'épidémie déclinait déjà. Snow l'a dit lui-même. Les nouveaux cas sont passés de cent quarante-trois le premier septembre à douze le huit, jour du retrait de la poignée.
+Beaucoup avaient fui. Snow a écrit que les cas avaient tant baissé qu'on ne pouvait dire si le puits transmettait encore la maladie.
+Et la plupart des experts n'étaient pas convaincus. Un rapport officiel de santé a rejeté sa théorie.
+Le meilleur soutien est venu d'un homme qui s'attendait à lui donner tort : le révérend [[Henry Whitehead]], un pasteur du quartier.
+Au printemps mille huit cent cinquante-cinq, Whitehead a trouvé le premier cas probable : un bébé de cinq mois au quarante [[Broad Street]], à côté de la pompe, mort le deux septembre.
+Sa mère avait trempé les couches souillées et vidé l'eau dans la fosse d'aisance devant la maison.
+La fosse était à environ quatre-vingts centimètres du puits. Ses briques abîmées laissaient les déchets s'infiltrer dans l'eau potable.
+Whitehead a reconnu être arrivé, lentement et à contrecœur, à relier l'eau de la pompe à l'épidémie.
+En août mille huit cent cinquante-cinq, le comité de la paroisse a conclu que l'épidémie était due, d'une certaine manière, à l'eau impure du puits de [[Broad Street]]. Les voix étaient partagées. Le président a tranché.
+Snow avait une seconde preuve. Elle concernait trois cent mille personnes.
+Dans le sud de Londres, deux compagnies d'eau passaient par les mêmes rues. En mille huit cent cinquante-deux, [[Lambeth]] a déplacé sa prise en amont, à [[Thames Ditton]], loin des égouts. [[Southwark and Vauxhall]] puisait toujours dans la Tamise à [[Battersea]].
+Chacune servait riches et pauvres, grandes et petites maisons. La seule différence, selon Snow, c'était l'eau.
+Il a parlé d'une expérience à très grande échelle.
+Puis il a compté. Pendant les sept premières semaines de l'épidémie de mille huit cent cinquante-quatre, les maisons de [[Southwark and Vauxhall]] ont eu trois cent quinze morts pour dix mille maisons. Celles de [[Lambeth]], trente-sept.
+Snow a conclu que la mortalité était huit à neuf fois plus élevée avec l'eau la plus sale.
+Mais Snow n'a jamais vu le germe.
+Un autre l'avait vu. En mille huit cent cinquante-quatre, l'anatomiste italien Filippo Pacini l'a décrit au microscope.
+Fin mille huit cent quatre-vingt-trois, l'Allemand Robert Koch est allé à Calcutta pendant une épidémie. Début mille huit cent quatre-vingt-quatre, il a identifié la bactérie.
+John Snow ne l'a pas vu. Il est mort en juin mille huit cent cinquante-huit, à quarante-cinq ans.
+Cet été-là, Londres a connu la Grande Puanteur : chaleur et égouts à l'air libre dans la Tamise. Cela a poussé la ville à construire un réseau d'égouts moderne, dirigé par l'ingénieur [[Joseph Bazalgette]].
+La dernière épidémie de choléra à Londres date de mille huit cent soixante-six, dans des quartiers de l'est alimentés par le réservoir d'[[Old Ford]] et non reliés aux nouveaux égouts.
+En Amérique, la leçon s'est appelée le chlore.
+En mille neuf cent huit, [[Jersey City]], dans le [[New Jersey]], a été la première ville américaine à désinfecter son eau en routine. Des milliers de villes ont suivi dans la décennie.
+Selon les [[CDC]], le choléra et la typhoïde ont fortement reculé. La typhoïde est passée d'environ cent cas pour cent mille habitants en mille neuf cent à zéro virgule un en deux mille six.
+Les villes aéraient, décantaient, filtraient et chloraient l'eau. C'est ainsi que l'armée l'expliquait aux soldats en mille neuf cent quarante-trois.
+Sur le terrain, pas de station d'eau. Les soldats suspendaient un sac de toile à un trépied. Il contenait cent trente-six litres.
+Ils traitaient l'eau au chlore, puis testaient un échantillon pour vérifier la dose. Selon le film, il fallait trente minutes pour tuer les germes.
+Aujourd'hui, l'armée s'entraîne encore à produire son eau. En août deux mille vingt-six, en Corée du Sud, des soldats ont pompé l'eau de la rivière [[Imjin]], l'ont testée et purifiée avec un système tactique.
+Des soldats de médecine préventive testent l'eau des troupes. Au Kosovo, ils l'ont vérifiée dans les maisons de liaison.
+Parfois, l'eau va aux civils. Pendant une sécheresse à Porto Rico en deux mille vingt-six, la Garde nationale a purifié et distribué de l'eau potable. Plus d'un million de gallons à ce jour.
+Aujourd'hui, selon les [[CDC]], le choléra est rare aux États-Unis. Avec l'eau et l'assainissement modernes, il y a en général moins de vingt cas par an, surtout liés aux voyages.
+Mais la maladie n'appartient pas au passé. Des chercheurs cités par l'OMS estiment entre un virgule trois et quatre millions de cas par an, et de vingt et un mille à cent quarante-trois mille morts.
+En deux mille vingt-cinq, quarante-sept pays ont signalé des cas à l'OMS, avec le plus grand nombre de morts déclarés depuis mille neuf cent quatre-vingt-dix-neuf.
+En deux mille dix-neuf, après le cyclone Idai au Mozambique, le Pentagone a aidé à freiner le choléra en transportant l'aide de l'agence américaine [[USAID]].
+Selon l'OMS, eau sûre, assainissement et hygiène sont essentiels contre le choléra. John Snow a montré l'eau en premier.
+En mille huit cent cinquante-quatre, un médecin a compté les morts, demandé d'où venait l'eau de chaque famille, et suivi les preuves jusqu'à une pompe.
+Les équipes de santé publique comptent toujours les cas dans le temps, pour voir quand une épidémie a commencé et si elle grandit ou décline.
+Prochainement sur [[KEPT ALIVE]] : d'autres histoires de la médecine qui sauve des vies. Abonnez-vous pour ne rien manquer.
+À but éducatif uniquement. Ceci n'est pas un avis médical. En cas de problème de santé, consultez un médecin.

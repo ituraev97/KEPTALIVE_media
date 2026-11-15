@@ -1,0 +1,68 @@
+En diez días de mil ochocientos cincuenta y cuatro, más de quinientas personas murieron de cólera en unas pocas calles de [[London]].
+Casi todas vivían a unos doscientos treinta metros de una sola cosa. Una bomba de agua.
+La mayoría culpaba al aire. Un médico culpó al agua, y lo probó casa por casa.
+La versión famosa dice que un mapa detuvo el brote. La historia real es mejor.
+Así rastreó [[John Snow]] un brote mortal de cólera hasta una sola bomba.
+Empecemos por la enfermedad.
+El cólera lo causa una bacteria, Vibrio cholerae. Según la Organización Mundial de la Salud, se transmite por agua o alimentos contaminados.
+Por siglos nadie lo supo. Una epidemia surgió en la India en mil ochocientos diecisiete; llegó a Gran Bretaña en mil ochocientos treinta y uno y mató a unas treinta mil personas.
+En mil ochocientos treinta y dos, en [[New York]], de más de doscientos mil habitantes, casi la mitad huyó. Murieron tres mil quinientas trece.
+¿La causa? La teoría dominante era el miasma: los médicos creían que la enfermedad venía de respirar aire podrido.
+Un médico de [[London]], [[John Snow]], no lo creía. Era pionero de la anestesia: en los años cincuenta dio cloroformo a la reina Victoria en dos de sus partos.
+En mil ochocientos cuarenta y nueve, en otra epidemia en [[London]], Snow publicó que el cólera se transmitía por el agua. Casi nadie le hizo caso.
+Cinco años después, tuvo una prueba que nunca quiso.
+La noche del treinta y uno de agosto de mil ochocientos cincuenta y cuatro, el cólera estalló en [[Soho]], un barrio abarrotado del centro de [[London]].
+Snow lo llamó, probablemente, el brote de cólera más terrible jamás ocurrido en el reino.
+El uno de septiembre enfermaron ciento cuarenta y tres personas. En seis días, las calles más afectadas perdieron más de tres cuartas partes de sus vecinos.
+Snow sospechó enseguida del agua, y de la bomba de [[Broad Street]]. Al principio el agua parecía casi limpia. En dos días vio en ella pequeñas partículas blancas.
+El agua que parece limpia puede llevar gérmenes. Una película del Ejército de mil novecientos cuarenta y tres lo mostró al microscopio: agua limpia en apariencia, llena de vida.
+Snow obtuvo la lista de muertes del registro. Ochenta y tres en los tres últimos días de la semana. Y fue casa por casa.
+Casi todas las muertes estaban cerca de la bomba. Solo diez ocurrieron en casas más cercanas a otra bomba. En cinco, las familias siempre iban por agua a [[Broad Street]], porque la preferían. Otros tres eran niños que estudiaban cerca de la bomba.
+Luego miró a los que no enfermaron.
+El asilo de [[Poland Street]] tenía quinientas treinta y cinco personas, casi rodeado de casas con muertos. Solo murieron cinco internos. El asilo tenía su propio pozo.
+Una cervecería junto a la bomba tenía más de setenta obreros. Ninguno tuvo cólera grave: bebían cerveza de malta, no agua, dijo el dueño. Y tenía pozo propio.
+Y un caso lejano también encajaba. En [[Hampstead]], una viuda que llevaba meses sin ir a [[Broad Street]] pedía cada día una gran botella de esa agua, porque la prefería. Murió de cólera. También una sobrina que la visitó y bebió esa agua. En sus barrios no había cólera.
+La noche del jueves siete de septiembre, Snow presentó sus pruebas a la junta de la parroquia.
+Snow escribió lo que pasó después.
+Ahí termina la versión famosa: Snow dibujó un mapa, quitaron la manija y el brote paró. Casi todo eso es más complicado.
+Primero, el mapa llegó después: Snow lo mostró en diciembre de mil ochocientos cincuenta y cuatro y lo publicó en mil ochocientos cincuenta y cinco.
+En el mapa, cada barra negra es una muerte en esa dirección. Se apilan alrededor de la bomba.
+Segundo, el brote ya bajaba, y Snow lo dijo. Los casos nuevos cayeron de ciento cuarenta y tres el uno de septiembre a doce el día ocho, cuando quitaron la manija.
+Mucha gente había huido. Snow escribió que los casos ya habían bajado tanto que era imposible saber si el pozo aún transmitía la enfermedad.
+La mayoría de expertos no se convenció; un informe oficial lo descartó.
+El mayor apoyo vino de un hombre que esperaba demostrar que Snow se equivocaba: el reverendo [[Henry Whitehead]], un clérigo local.
+En la primavera de mil ochocientos cincuenta y cinco, Whitehead halló el probable primer caso: una bebé de cinco meses en el número cuarenta de [[Broad Street]], junto a la bomba, que murió el dos de septiembre.
+Su madre había remojado los pañales sucios y vació esa agua en el pozo negro frente a la casa.
+El pozo negro estaba a unos ochenta centímetros del pozo de agua. Sus ladrillos podridos filtraban desechos al agua potable.
+Whitehead admitió que, despacio y a regañadientes, llegó a relacionar el agua de la bomba con el brote.
+En agosto de mil ochocientos cincuenta y cinco, el comité concluyó que el brote se debía, de algún modo, al agua impura del pozo de [[Broad Street]]. La votación quedó empatada. El presidente decidió.
+Snow tenía una segunda prueba. Y abarcaba a trescientas mil personas.
+En el sur de [[London]], dos compañías de agua tenían tuberías en las mismas calles. En mil ochocientos cincuenta y dos, [[Lambeth]] llevó su toma río arriba, a [[Thames Ditton]], lejos de las aguas negras. [[Southwark and Vauxhall]] seguía tomando agua del [[Thames]] en [[Battersea]].
+Ambas abastecían a ricos y pobres, casas grandes y pequeñas. Snow no vio otra diferencia que el agua.
+Lo llamó un experimento a gran escala.
+Luego contó. En las primeras siete semanas de la epidemia de mil ochocientos cincuenta y cuatro, las casas de [[Southwark and Vauxhall]] tuvieron trescientas quince muertes por cada diez mil casas. Las de [[Lambeth]], treinta y siete.
+Snow concluyó que la mortalidad era entre ocho y nueve veces mayor con el agua más sucia.
+Pero Snow nunca vio el germen.
+Otro ya lo había visto. En mil ochocientos cincuenta y cuatro, el anatomista italiano Filippo Pacini lo describió al microscopio.
+A fines de mil ochocientos ochenta y tres, el alemán Robert Koch viajó a Calcuta, en la India, durante un brote. A inicios de mil ochocientos ochenta y cuatro identificó la bacteria.
+John Snow no lo vio. Murió en junio de mil ochocientos cincuenta y ocho, a los cuarenta y cinco.
+Ese verano llegó el Gran Hedor: calor y aguas negras al aire en el [[Thames]]. Eso impulsó a la ciudad a construir un alcantarillado moderno, dirigido por el ingeniero [[Joseph Bazalgette]].
+El último brote de cólera en [[London]] fue en mil ochocientos sesenta y seis, en zonas del este que tomaban agua del embalse de [[Old Ford]] y no estaban conectadas al nuevo alcantarillado.
+En Estados Unidos, la lección fue el cloro.
+En mil novecientos ocho, [[Jersey City]], en [[New Jersey]], fue la primera ciudad del país en desinfectar su agua de forma rutinaria. Miles de ciudades la siguieron en la década siguiente.
+Según los [[CDC]], el cólera y la tifoidea cayeron drásticamente. La fiebre tifoidea bajó de unos cien casos por cada cien mil personas en mil novecientos a cero coma uno en dos mil seis.
+Las ciudades aireaban, decantaban, filtraban y cloraban el agua. Así lo explicó el Ejército a los soldados en mil novecientos cuarenta y tres.
+En el campo no había planta de agua. Colgaban una bolsa de lona de un trípode, de ciento treinta y seis litros.
+La cloraban y probaban una muestra para ver si bastaba. Según la película, los químicos tardaban treinta minutos en matar gérmenes.
+Hoy, las unidades del Ejército aún entrenan para producir su agua. En agosto de dos mil veintiséis, en Corea del Sur, soldados bombearon agua del río [[Imjin]], la analizaron y la purificaron con un sistema táctico.
+Los soldados de medicina preventiva analizan el agua de las tropas. En Kosovo, la revisaron en las casas de enlace para asegurar que fuera potable.
+A veces el agua va a los civiles. En una sequía en Puerto Rico en dos mil veintiséis, la Guardia Nacional purificó y repartió agua potable. Más de un millón de galones hasta ahora.
+Hoy, según los [[CDC]], el cólera es raro en Estados Unidos. Con agua y alcantarillado modernos, suele haber menos de veinte casos al año, casi todos por viajes.
+Pero la enfermedad no es historia. Investigadores citados por la OMS calculan entre uno coma tres y cuatro millones de casos al año en el mundo, y de veintiún mil a ciento cuarenta y tres mil muertes.
+En dos mil veinticinco, cuarenta y siete países reportaron casos a la OMS, y las muertes fueron las más altas desde mil novecientos noventa y nueve.
+En dos mil diecinueve, tras el ciclón Idai en Mozambique, el Departamento de Defensa ayudó a frenar el cólera, transportando ayuda para la agencia [[USAID]].
+La OMS dice que el agua segura, el saneamiento y la higiene son esenciales contra el cólera. John Snow señaló primero al agua.
+En mil ochocientos cincuenta y cuatro, un médico contó muertes, preguntó de dónde sacaba el agua cada familia y siguió las pruebas hasta una bomba.
+Los equipos de salud pública aún cuentan casos y los grafican en el tiempo, para ver cuándo empezó un brote y si crece o se apaga.
+Próximamente en [[KEPT ALIVE]]: más historias de cómo la medicina mantiene viva a la gente. Suscríbete para no perderlas.
+Solo con fines educativos. No es consejo médico. Ante dudas de salud, consulta a un médico.

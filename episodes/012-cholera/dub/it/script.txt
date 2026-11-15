@@ -1,0 +1,68 @@
+In dieci giorni del milleottocentocinquantaquattro, più di cinquecento persone morirono di colera in poche strade di Londra.
+Quasi tutte vivevano a circa duecentotrenta metri da una sola cosa. Una pompa dell'acqua.
+La maggioranza incolpava l'aria. Un medico, l'acqua: e andò casa per casa a dimostrarlo.
+La versione famosa dice che una mappa fermò l'epidemia. La storia vera è migliore.
+Ecco come [[John Snow]] ricondusse un'epidemia mortale di colera a una sola pompa.
+Partiamo dalla malattia.
+Il colera è causato da un batterio, Vibrio cholerae. Secondo l'Organizzazione Mondiale della Sanità, si diffonde con acqua o cibo contaminati.
+Per quasi tutta la storia, nessuno lo sapeva. Un'epidemia partì dall'India nel milleottocentodiciassette. Arrivò in Gran Bretagna nel milleottocentotrentuno e uccise circa trentamila persone.
+Nel milleottocentotrentadue arrivò a [[New York]], oltre duecentomila abitanti. Metà circa fuggì; ne morirono tremilacinquecentotredici.
+La causa? La teoria dominante era il miasma: la malattia veniva dall'aria fetida, dalla sporcizia e dal marcio.
+Un medico londinese, [[John Snow]], non ci credeva. Pioniere dell'anestesia, negli anni Cinquanta dell'Ottocento diede il cloroformio alla regina Vittoria in due dei suoi parti.
+Nel milleottocentoquarantanove, durante un'altra epidemia a Londra, Snow pubblicò la teoria che il colera passasse dall'acqua. Fu quasi ignorato.
+Cinque anni dopo, ebbe una prova che non avrebbe mai voluto.
+La notte del trentuno agosto milleottocentocinquantaquattro, il colera esplose a [[Soho]], un quartiere affollato nel centro di Londra.
+Snow la definì, probabilmente, l'epidemia di colera più terribile mai avvenuta nel regno.
+Solo il primo settembre si ammalarono centoquarantatré persone. In sei giorni, le strade più colpite persero oltre tre quarti dei residenti.
+Snow sospettò subito l'acqua, e la pompa di [[Broad Street]]. All'inizio l'acqua sembrava quasi limpida. In due giorni vi notò piccole particelle bianche.
+Un'acqua limpida può portare germi. Un film dell'esercito del millenovecentoquarantatré lo mostrò al microscopio: acqua pulita all'apparenza, ma piena di vita.
+Snow ottenne l'elenco dei morti dall'anagrafe. Ottantatré negli ultimi tre giorni della settimana. Poi andò casa per casa.
+Quasi tutti i morti erano vicini alla pompa. Solo dieci erano in case più vicine a un'altra pompa. In cinque, le famiglie prendevano sempre l'acqua di [[Broad Street]], che preferivano. Altri tre erano bambini che andavano a scuola vicino alla pompa.
+Poi guardò chi non si ammalava.
+L'ospizio di [[Poland Street]] ospitava cinquecentotrentacinque persone, quasi circondato da case colpite. Morirono solo cinque ospiti. L'ospizio aveva un pozzo suo.
+Un birrificio vicino alla pompa aveva oltre settanta operai. Nessuno ebbe il colera grave: bevevano birra di malto, non acqua, disse il proprietario. E il birrificio aveva un pozzo suo.
+Anche un caso lontano tornava. A [[Hampstead]], una vedova che da mesi non andava in [[Broad Street]] si faceva portare ogni giorno una grande bottiglia di quell'acqua, perché la preferiva. Morì di colera. Anche una nipote che bevve quell'acqua. Nei loro quartieri il colera non c'era.
+La sera di giovedì sette settembre, Snow presentò le prove al consiglio della parrocchia.
+Snow scrisse cosa accadde dopo.
+Qui finisce la versione famosa: una mappa, la maniglia tolta, l'epidemia fermata. Quasi tutto questo è più complicato.
+Primo, la mappa venne dopo. Snow la mostrò nel dicembre milleottocentocinquantaquattro e la pubblicò nel suo libro nel milleottocentocinquantacinque. Il sospetto sulla pompa venne prima.
+Sulla mappa, ogni barra nera è un morto a quell'indirizzo. Si ammucchiano intorno alla pompa.
+Secondo, l'epidemia stava già calando. Lo disse Snow stesso. I nuovi casi scesero da centoquarantatré il primo settembre a dodici l'otto, il giorno in cui tolsero la maniglia.
+Molti erano fuggiti. Snow scrisse che i casi erano calati tanto da rendere impossibile capire se il pozzo trasmettesse ancora la malattia.
+Gran parte degli esperti non era convinta. Un rapporto sanitario ufficiale la respinse.
+Il sostegno più forte venne da un uomo che si aspettava di dargli torto: il reverendo [[Henry Whitehead]], un pastore del quartiere.
+Nella primavera del milleottocentocinquantacinque, Whitehead trovò il probabile primo caso: una bambina di cinque mesi al numero quaranta di [[Broad Street]], accanto alla pompa, morta il due settembre.
+La madre aveva lavato i pannolini sporchi e versato l'acqua nel pozzo nero davanti a casa.
+Il pozzo nero era a circa ottanta centimetri dal pozzo. I mattoni rovinati lasciavano filtrare i rifiuti nell'acqua potabile.
+Whitehead ammise di essere arrivato, lentamente e controvoglia, a collegare l'acqua della pompa all'epidemia.
+Nell'agosto milleottocentocinquantacinque, il comitato concluse che l'epidemia era dovuta, in qualche modo, all'acqua impura del pozzo di [[Broad Street]]. I voti erano pari. Decise il presidente.
+Snow aveva una seconda prova. E riguardava trecentomila persone.
+Nel sud di Londra, due compagnie idriche avevano tubi nelle stesse strade. Nel milleottocentocinquantadue, la [[Lambeth]] spostò la presa a monte, a [[Thames Ditton]], lontano dalle fogne. La [[Southwark and Vauxhall]] attingeva ancora dal Tamigi a [[Battersea]].
+Entrambe servivano ricchi e poveri, case grandi e piccole. Per Snow, l'unica differenza era l'acqua.
+La chiamò un esperimento su vastissima scala.
+Poi contò. Nelle prime sette settimane dell'epidemia del milleottocentocinquantaquattro, le case della [[Southwark and Vauxhall]] ebbero trecentoquindici morti ogni diecimila case. Quelle della [[Lambeth]], trentasette.
+Snow concluse che la mortalità era da otto a nove volte più alta con l'acqua più sporca.
+Ma Snow non vide mai il germe.
+Qualcun altro sì. Nel milleottocentocinquantaquattro, l'anatomista italiano Filippo Pacini lo descrisse al microscopio.
+Alla fine del milleottocentottantatré, il tedesco Robert Koch andò a Calcutta, in India, durante un'epidemia. All'inizio del milleottocentottantaquattro identificò il batterio.
+John Snow non lo vide. Morì nel giugno milleottocentocinquantotto, a quarantacinque anni.
+Quell'estate, Londra ebbe il Grande Fetore: caldo e liquami esposti nel Tamigi. Questo spinse la città a costruire una rete fognaria moderna, guidata dall'ingegnere [[Joseph Bazalgette]].
+L'ultima epidemia di colera a Londra fu nel milleottocentosessantasei, nell'est, in zone servite dal bacino di [[Old Ford]] e non collegate alle nuove fogne.
+In America, la lezione fu il cloro.
+Nel millenovecentootto, [[Jersey City]], nel [[New Jersey]], fu la prima città americana a disinfettare l'acqua di routine. Migliaia di città seguirono nel decennio successivo.
+Secondo i [[CDC]], colera e tifo calarono drasticamente. La febbre tifoide passò da circa cento casi ogni centomila persone nel millenovecento a zero virgola uno nel duemilasei.
+Le città pulivano l'acqua aerandola, decantandola, filtrandola e clorandola. Così l'esercito lo spiegava ai soldati nel millenovecentoquarantatré.
+Sul campo non c'erano impianti. Appendevano a un treppiede una sacca di tela da centotrentasei litri.
+Trattavano l'acqua con il cloro e ne testavano un campione per verificare che bastasse. Secondo il film, servivano trenta minuti per uccidere i germi.
+Oggi l'esercito si addestra ancora a produrre la sua acqua. Nell'agosto duemilaventisei, in Corea del Sud, i soldati pomparono acqua dal fiume [[Imjin]], la testarono e la purificarono con un sistema tattico.
+I soldati di medicina preventiva testano l'acqua delle truppe. In Kosovo l'hanno controllata nelle case di collegamento.
+A volte l'acqua va ai civili. Durante una siccità a Porto Rico nel duemilaventisei, la Guardia Nazionale ha purificato e distribuito acqua potabile. Oltre un milione di galloni finora.
+Oggi, secondo i [[CDC]], il colera è raro negli Stati Uniti. Con acqua e fogne moderne, ci sono di solito meno di venti casi l'anno, quasi tutti legati ai viaggi.
+Ma la malattia non è storia. Ricercatori citati dall'OMS stimano da uno virgola tre a quattro milioni di casi l'anno nel mondo, e da ventunomila a centoquarantatremila morti.
+Nel duemilaventicinque, quarantasette paesi hanno segnalato casi all'OMS, con il numero di morti più alto dal millenovecentonovantanove.
+Nel duemiladiciannove, dopo il ciclone Idai in Mozambico, il Dipartimento della Difesa ha aiutato a fermare il colera, trasportando aiuti per l'agenzia americana [[USAID]].
+Secondo l'OMS, acqua sicura, servizi igienici e igiene sono essenziali contro il colera. John Snow indicò per primo l'acqua.
+Nel milleottocentocinquantaquattro, un medico contò i morti, chiese da dove ogni famiglia prendesse l'acqua e seguì le prove fino a una pompa.
+I team di sanità pubblica contano ancora i casi nel tempo, per vedere quando un'epidemia è iniziata e se cresce o si spegne.
+Prossimamente su [[KEPT ALIVE]]: altre storie su come la medicina tiene in vita le persone. Iscriviti per non perderle.
+Solo a scopo educativo. Questo non è un consiglio medico. Se hai un problema di salute, rivolgiti a un medico.
