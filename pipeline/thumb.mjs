@@ -6,6 +6,7 @@
 //   "arrow":{"x1":700,"y1":160,"x2":880,"y2":330}}      // optional red arrow pointing at the key detail
 // "B":{"kicker":"…","big":"4 MINUTES<br><em>TO LIVE</em>"} — text right, red underline; <em> = red word.
 // Any variant may override image/pos/zoom/ring/arrow (different frame per variant for Test & Compare).
+// Localized thumbnails (dubs): Cyrillic falls back to Oswald 700, Devanagari to Noto Sans Devanagari 800; "lh" sets line-height (≈1.15 for Hindi).
 // Rules: 1–5 words, real frame from the video, nothing in bottom-right (duration badge), no injuries in close-up.
 import fs from "fs"; import path from "path"; import { createRequire } from "module";
 const require = createRequire(import.meta.url); const { chromium } = require("playwright");
@@ -17,12 +18,14 @@ const C = { abyss: "#0A1214", foam: "#EEF2EF", signal: "#2BB3A3", flare: "#F2B33
 const hi = (s) => s.replace(/<s>/g, `<span style="color:${C.signal}">`).replace(/<\/s>/g, "</span>");
 const CSS = `${font("BC9", "saira-condensed/files/saira-condensed-latin-800-normal.woff2")}
 ${font("JBM", "martian-mono/files/martian-mono-latin-500-normal.woff2")}
+${fs.existsSync(`${NM}/@fontsource/oswald`) ? font("OSW", "oswald/files/oswald-cyrillic-700-normal.woff2") : ""}
+${fs.existsSync(`${NM}/@fontsource/noto-sans-devanagari`) ? font("NSD", "noto-sans-devanagari/files/noto-sans-devanagari-devanagari-800-normal.woff2") : ""}
 *{margin:0;padding:0;box-sizing:border-box}
 .t{position:relative;width:1280px;height:720px;overflow:hidden;background:${C.abyss};color:${C.foam}}
 .ph{position:absolute;inset:0;filter:contrast(1.08) saturate(1.12)}
-.big{font-family:BC9;line-height:.88;text-transform:uppercase;text-shadow:0 5px 0 rgba(0,0,0,.5),0 0 36px rgba(0,0,0,.7)}
+.big{font-family:BC9,OSW,NSD;line-height:${cfg.lh || .88};text-transform:uppercase;text-shadow:0 5px 0 rgba(0,0,0,.5),0 0 36px rgba(0,0,0,.7)}
 .mono{font-family:JBM;letter-spacing:.06em}
-.tag{display:inline-block;font-family:BC9;text-transform:uppercase;color:${C.abyss};background:${C.flare};padding:6px 18px 4px}
+.tag{display:inline-block;font-family:BC9,OSW,NSD;text-transform:uppercase;color:${C.abyss};background:${C.flare};padding:6px 18px 4px}
 .ro{position:absolute;left:44px;top:36px;font-size:26px;display:flex;align-items:center;gap:12px;background:rgba(10,18,20,.78);padding:8px 16px}
 .dot{width:16px;height:16px;border-radius:50%;background:${C.signal};box-shadow:0 0 14px ${C.signal}}
 .logo{position:absolute;left:44px;bottom:34px;display:flex;align-items:center;gap:12px;font-family:BC9;font-size:40px}`;
