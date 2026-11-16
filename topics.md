@@ -20,7 +20,7 @@ Every topic = war or outbreak/disaster + a life on a clock + a protagonist. Foot
 - [x] 2026-11-16 101 THE SAVE (published as "4 People, a Burning Boat, 50 Miles From Shore"; tanker Daibelli, Norwegian Bliss, fishing-vessel fire, Erickson 1944, Penfield Reef 1945, Marine Electric 1983) — Night hoist: Coast Guard medevacs at sea, told through this month's real DVIDS medevacs (e.g. 1029245, tanker off Vieques, 2026-11-08) — clock: fuel, weather, one hoist pass
 - [ ] 102 THE SAVE — The appendectomy on a submerged submarine, 1942 (USS Silversides, Pharmacist's Mate Wheeler Lipes) — Navy history pages; fresh DVIDS submarine/corpsman footage
 - [ ] 103 OUTBREAK — Yellow fever and the volunteers who let mosquitoes bite them (Walter Reed board, Cuba 1900) — NLM/army.mil; fresh WRAIR/entomology lab footage
-- [ ] 104 THE SAVE — Robots that find the wounded: DARPA Triage Challenge (DVIDS 1029498/1029499, Nov 2026) vs. how triage was done in 1944
+- [ ] 104 THE SAVE — Robots that find the wounded: DARPA Triage Challenge (DVIDS 1029498/1029499, Nov 2026) vs. how triage was done in 1944 — teaser Short s014 s3 (2026-11-17) used 1029281/1029282 + finals results (RoboScout $1.5M); long video must use other clips (1029279, 1029498, 1029499)
 - [ ] 105 THE SAVE — A combat medic's Medal of Honor citation, minute by minute (official citation text only); fresh TCCC training footage labelled TRAINING
 - [ ] 106 OUTBREAK — Typhoid in the 1898 Army camps: the disease that killed more soldiers than Spanish bullets (Reed–Vaughan–Shakespeare report)
 - [ ] 107 THE SAVE — The Army Burn Flight Team: an ICU that crosses the ocean in hours (USAISR / DVIDS, no injury close-ups)
