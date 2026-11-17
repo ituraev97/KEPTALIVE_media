@@ -1,0 +1,41 @@
+{
+ "badge": "KEPT ALIVE \u00b7 THE SAVE",
+ "note": "1945 NAVY FILM \u00b7 NOT SEADRAGON",
+ "A": {
+  "image": "/home/claude/keptalive_media/episodes/102-submarine-appendectomy/thumb/ss_dive_14.jpg",
+  "pos": "0% 30%",
+  "zoom": 140,
+  "big": "NO DOCTOR<br><s>120 FT DOWN</s>",
+  "tag": "5 SPOONS \u00b7 1942",
+  "size": 150,
+  "tsize": 56,
+  "ring": {
+   "x": 905,
+   "y": 200,
+   "r": 105,
+   "color": "alarm"
+  }
+ },
+ "B": {
+  "image": "/home/claude/keptalive_media/episodes/102-submarine-appendectomy/thumb/ss_crew_8.jpg",
+  "pos": "20% 50%",
+  "zoom": 125,
+  "kicker": "WWII SUBMARINE \u00b7 1942",
+  "big": "HE WAS 23.<br><em>NOT A DOCTOR</em>",
+  "size": 130
+ },
+ "C": {
+  "image": "/home/claude/keptalive_media/episodes/102-submarine-appendectomy/thumb/ss_uw_60.jpg",
+  "pos": "0% 45%",
+  "zoom": 200,
+  "kicker": "ENEMY WATERS \u00b7 1942",
+  "big": "SURGERY<br><s>DOWN HERE?</s>",
+  "size": 150,
+  "arrow": {
+   "x1": 760,
+   "y1": 600,
+   "x2": 960,
+   "y2": 430
+  }
+ }
+}

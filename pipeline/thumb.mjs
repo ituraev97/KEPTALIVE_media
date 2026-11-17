@@ -7,6 +7,7 @@
 // "B":{"kicker":"…","big":"4 MINUTES<br><em>TO LIVE</em>"} — text right, red underline; <em> = red word.
 // Any variant may override image/pos/zoom/ring/arrow (different frame per variant for Test & Compare).
 // Localized thumbnails (dubs): Cyrillic falls back to Oswald 700, Devanagari to Noto Sans Devanagari 800; "lh" sets line-height (≈1.15 for Hindi).
+// "note": small label above the logo (e.g. "1945 NAVY FILM · NOT SEADRAGON") — use whenever the frame is archival / not the event.
 // Rules: 1–5 words, real frame from the video, nothing in bottom-right (duration badge), no injuries in close-up.
 import fs from "fs"; import path from "path"; import { createRequire } from "module";
 const require = createRequire(import.meta.url); const { chromium } = require("playwright");
@@ -62,10 +63,11 @@ const html = {
       <div class="big" style="font-size:${o.size || 150}px;margin-top:14px">${hi(o.big)}</div></div>
     <div class="logo">${mark}KEPT&nbsp;<span style="color:${C.signal}">ALIVE</span></div></div>`,
 };
+const noteDiv = (o) => { const n = o.note || cfg.note; return n ? `<div class="mono" style="position:absolute;left:44px;bottom:92px;font-size:20px;color:#EEF2EF;background:rgba(10,18,20,.8);padding:5px 12px">${n}</div>` : ""; };
 const b = await chromium.launch(); const pg = await b.newPage({ viewport: { width: 1280, height: 720 } });
 for (const k of ["A", "B", "C"]) {
   if (!cfg[k]) continue;
-  await pg.setContent(`<!doctype html><html><head><meta charset="utf-8"><style>${CSS}</style></head><body>${html[k](cfg[k])}</body></html>`);
+  await pg.setContent(`<!doctype html><html><head><meta charset="utf-8"><style>${CSS}</style></head><body>${html[k](cfg[k]).replace('<div class="logo">', noteDiv(cfg[k]) + '<div class="logo">')}</body></html>`);
   await pg.evaluate(() => document.fonts.ready); await pg.waitForTimeout(150);
   await pg.screenshot({ path: path.join(out, `thumb_${k}.jpg`), type: "jpeg", quality: 92 });
   console.log("thumb", k);

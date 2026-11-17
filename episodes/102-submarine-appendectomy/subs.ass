@@ -1,0 +1,493 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:02.82,Sub,,0,0,0,,{\fad(80,80)}September 11, 1942.
+Dialogue: 0,0:00:02.84,0:00:07.85,Sub,,0,0,0,,{\fad(80,80)}An American submarine is 120 feet under the surface,
+Dialogue: 0,0:00:07.87,0:00:09.40,Sub,,0,0,0,,{\fad(80,80)}in enemy waters.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE RUNS SUBMERGED
+Dialogue: 0,0:00:09.87,0:00:12.65,Sub,,0,0,0,,{\fad(80,80)}In the officers' wardroom, the dining table has
+Dialogue: 0,0:00:12.67,0:00:14.20,Sub,,0,0,0,,{\fad(80,80)}become an operating table.
+Dialogue: 2,0:00:10.12,0:00:14.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:00:10.12,0:00:14.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:10.12,0:00:14.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:00:10.12,0:00:14.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS IN A SUBMARINE WARDROOM · USS SKATE
+Dialogue: 0,0:00:29.38,0:00:31.76,Sub,,0,0,0,,{\fad(80,80)}The patient is a 19-year-old seaman.
+Dialogue: 0,0:00:31.78,0:00:35.15,Sub,,0,0,0,,{\fad(80,80)}His appendix is inflamed, and part of it is already
+Dialogue: 0,0:00:35.17,0:00:36.09,Sub,,0,0,0,,{\fad(80,80)}turning black.
+Dialogue: 2,0:00:29.63,0:00:35.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:00:29.63,0:00:35.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:29.63,0:00:35.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:00:29.63,0:00:35.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:00:36.56,0:00:38.05,Sub,,0,0,0,,{\fad(80,80)}If they wait, it can burst.
+Dialogue: 0,0:00:38.07,0:00:40.62,Sub,,0,0,0,,{\fad(80,80)}If they operate, the man holding the knife has
+Dialogue: 0,0:00:40.64,0:00:43.30,Sub,,0,0,0,,{\fad(80,80)}helped at a few appendectomies, as an assistant.
+Dialogue: 2,0:00:36.81,0:00:42.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:00:36.81,0:00:42.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:36.81,0:00:42.56,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:00:36.81,0:00:42.56,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A U.S. FLEET SUBMARINE
+Dialogue: 0,0:00:43.77,0:00:46.63,Sub,,0,0,0,,{\fad(80,80)}This is the true story of that operation, the two
+Dialogue: 0,0:00:46.65,0:00:49.70,Sub,,0,0,0,,{\fad(80,80)}that followed it, and the Navy job it helped create.
+Dialogue: 2,0:00:44.02,0:00:49.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:00:44.02,0:00:49.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:44.02,0:00:49.77,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:00:44.02,0:00:49.77,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:01:06.23,0:01:09.96,Sub,,0,0,0,,{\fad(80,80)}On December 10, 1941, Japanese bombers struck the yard.
+Dialogue: 0,0:01:09.98,0:01:13.70,Sub,,0,0,0,,{\fad(80,80)}Seadragon was moored beside another submarine, Sealion.
+Dialogue: 2,0:01:06.48,0:01:12.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:01:06.48,0:01:12.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:06.48,0:01:12.23,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:01:06.48,0:01:12.23,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE ON THE SURFACE
+Dialogue: 0,0:01:28.59,0:01:31.54,Sub,,0,0,0,,{\fad(80,80)}Lipes was born in 1920, in New Castle, Virginia.
+Dialogue: 0,0:01:31.56,0:01:34.33,Sub,,0,0,0,,{\fad(80,80)}When the bombers came, he was aboard Sealion.
+Dialogue: 0,0:01:34.35,0:01:37.67,Sub,,0,0,0,,{\fad(80,80)}He ended up in the water and was picked up that night.
+Dialogue: 0,0:01:37.69,0:01:40.83,Sub,,0,0,0,,{\fad(80,80)}Seadragon's own pharmacist's mate had been wounded,
+Dialogue: 0,0:01:40.85,0:01:42.38,Sub,,0,0,0,,{\fad(80,80)}and Lipes took his place.
+Dialogue: 2,0:01:28.84,0:01:34.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:01:28.84,0:01:34.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:28.84,0:01:34.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:01:28.84,0:01:34.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A LONE SUBMARINE ON AN EMPTY SEA
+Dialogue: 0,0:01:42.85,0:01:46.14,Sub,,0,0,0,,{\fad(80,80)}He had joined the Navy in 1936, trained in its
+Dialogue: 0,0:01:46.16,0:01:49.67,Sub,,0,0,0,,{\fad(80,80)}hospital course in San Diego, and worked in naval
+Dialogue: 0,0:01:49.69,0:01:52.69,Sub,,0,0,0,,{\fad(80,80)}hospitals in Philadelphia and near Manila.
+Dialogue: 0,0:01:52.71,0:01:54.92,Sub,,0,0,0,,{\fad(80,80)}In 1941, he went to submarines.
+Dialogue: 2,0:01:43.10,0:01:48.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:01:43.10,0:01:48.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:43.10,0:01:48.85,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. NAVAL HOSPITAL OKINAWA · OCT. 26, 2026 · TRAINING
+Dialogue: 3,0:01:43.10,0:01:48.85,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: A NAVY HOSPITAL TRAINING DRILL
+Dialogue: 0,0:02:04.08,0:02:07.03,Sub,,0,0,0,,{\fad(80,80)}When the newspapers later described him, they called
+Dialogue: 0,0:02:07.05,0:02:09.77,Sub,,0,0,0,,{\fad(80,80)}him a lab technician who had worked 3 years in a
+Dialogue: 0,0:02:09.79,0:02:11.03,Sub,,0,0,0,,{\fad(80,80)}Philadelphia hospital.
+Dialogue: 2,0:02:04.33,0:02:10.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:02:04.33,0:02:10.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:04.33,0:02:10.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:02:04.33,0:02:10.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUBMARINE CREW AT WORK · USS SKATE
+Dialogue: 0,0:02:11.50,0:02:13.72,Sub,,0,0,0,,{\fad(80,80)}Seadragon got out of the Philippines.
+Dialogue: 0,0:02:13.74,0:02:16.64,Sub,,0,0,0,,{\fad(80,80)}By the late summer of 1942, she was sailing from
+Dialogue: 0,0:02:16.66,0:02:18.58,Sub,,0,0,0,,{\fad(80,80)}Fremantle, in Western Australia.
+Dialogue: 2,0:02:11.75,0:02:17.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:02:11.75,0:02:17.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:11.75,0:02:17.50,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:02:11.75,0:02:17.50,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A LONE SUBMARINE ON AN EMPTY SEA
+Dialogue: 0,0:02:31.49,0:02:33.38,Sub,,0,0,0,,{\fad(80,80)}Seadragon carried no doctor.
+Dialogue: 0,0:02:33.40,0:02:36.18,Sub,,0,0,0,,{\fad(80,80)}For medical care, those 55 men had Lipes.
+Dialogue: 2,0:02:31.74,0:02:36.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:02:31.74,0:02:36.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:31.74,0:02:36.60,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:02:31.74,0:02:36.60,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A U.S. FLEET SUBMARINE
+Dialogue: 0,0:02:36.65,0:02:39.72,Sub,,0,0,0,,{\fad(80,80)}A pharmacist's mate was one of the Navy's enlisted
+Dialogue: 0,0:02:39.74,0:02:41.21,Sub,,0,0,0,,{\fad(80,80)}medical men, a corpsman.
+Dialogue: 0,0:02:41.23,0:02:44.43,Sub,,0,0,0,,{\fad(80,80)}On a submarine, he was the whole medical department.
+Dialogue: 2,0:02:36.90,0:02:42.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:02:36.90,0:02:42.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:36.90,0:02:42.65,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:02:36.90,0:02:42.65,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A U.S. FLEET SUBMARINE
+Dialogue: 0,0:02:44.90,0:02:47.73,Sub,,0,0,0,,{\fad(80,80)}On September 8, a 19-year-old seaman reported
+Dialogue: 0,0:02:47.75,0:02:48.55,Sub,,0,0,0,,{\fad(80,80)}feeling sick.
+Dialogue: 0,0:02:48.57,0:02:51.53,Sub,,0,0,0,,{\fad(80,80)}Lipes later remembered finding him in the after
+Dialogue: 0,0:02:51.55,0:02:54.13,Sub,,0,0,0,,{\fad(80,80)}battery compartment, the crew's quarters.
+Dialogue: 2,0:02:45.15,0:02:50.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:02:45.15,0:02:50.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:45.15,0:02:50.90,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:02:45.15,0:02:50.90,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A U.S. FLEET SUBMARINE
+Dialogue: 0,0:03:16.25,0:03:18.66,Sub,,0,0,0,,{\fad(80,80)}And the NIH is blunt about the danger.
+Dialogue: 0,0:03:18.68,0:03:21.35,Sub,,0,0,0,,{\fad(80,80)}Untreated, an inflamed appendix can burst.
+Dialogue: 0,0:03:21.37,0:03:24.62,Sub,,0,0,0,,{\fad(80,80)}One result is peritonitis, a serious infection that
+Dialogue: 0,0:03:24.64,0:03:26.61,Sub,,0,0,0,,{\fad(80,80)}can spread through the abdomen.
+Dialogue: 2,0:03:16.50,0:03:22.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:03:16.50,0:03:22.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:16.50,0:03:22.25,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:03:16.50,0:03:22.25,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE AT SEA
+Dialogue: 0,0:03:27.08,0:03:30.31,Sub,,0,0,0,,{\fad(80,80)}Seadragon was several days and thousands of miles
+Dialogue: 0,0:03:30.33,0:03:33.10,Sub,,0,0,0,,{\fad(80,80)}out from her base at Fremantle, Australia.
+Dialogue: 2,0:03:27.33,0:03:33.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:03:27.33,0:03:33.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:27.33,0:03:33.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:03:27.33,0:03:33.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A LONE SUBMARINE ON AN EMPTY SEA
+Dialogue: 0,0:03:33.57,0:03:36.36,Sub,,0,0,0,,{\fad(80,80)}What happened next would end up in a Pulitzer
+Dialogue: 0,0:03:36.38,0:03:39.61,Sub,,0,0,0,,{\fad(80,80)}Prize-winning newspaper story, in a Hollywood movie,
+Dialogue: 0,0:03:39.63,0:03:42.23,Sub,,0,0,0,,{\fad(80,80)}and, more than 60 years later, in a medal.
+Dialogue: 2,0:03:33.82,0:03:39.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:03:33.82,0:03:39.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:33.82,0:03:39.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:03:33.82,0:03:39.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:03:45.25,0:03:47.75,Sub,,0,0,0,,{\fad(80,80)}Seadragon's commanding officer was Lieutenant
+Dialogue: 0,0:03:47.77,0:03:49.21,Sub,,0,0,0,,{\fad(80,80)}Commander William Ferrall.
+Dialogue: 0,0:03:49.23,0:03:52.40,Sub,,0,0,0,,{\fad(80,80)}He asked Lipes whether he could do the operation himself.
+Dialogue: 2,0:03:45.50,0:03:51.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:03:45.50,0:03:51.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:45.50,0:03:51.25,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:03:45.50,0:03:51.25,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS IN A SUBMARINE WARDROOM · USS SKATE
+Dialogue: 0,0:03:57.05,0:03:59.42,Sub,,0,0,0,,{\fad(80,80)}In the Navy's account, he went further.
+Dialogue: 0,0:03:59.44,0:04:01.32,Sub,,0,0,0,,{\fad(80,80)}Our chances, he said, are slim.
+Dialogue: 2,0:03:57.30,0:04:01.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:03:57.30,0:04:01.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:57.30,0:04:01.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:03:57.30,0:04:01.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS IN A SUBMARINE WARDROOM · USS SKATE
+Dialogue: 0,0:04:13.05,0:04:14.68,Sub,,0,0,0,,{\fad(80,80)}The patient had a say too.
+Dialogue: 0,0:04:14.70,0:04:17.98,Sub,,0,0,0,,{\fad(80,80)}His answer, as the Navy's historians record it, was:
+Dialogue: 0,0:04:18.00,0:04:21.53,Sub,,0,0,0,,{\fad(80,80)}"Whatever the doc feels has to be done is okay with me."
+Dialogue: 2,0:04:13.30,0:04:19.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:04:13.30,0:04:19.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:13.30,0:04:19.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:04:13.30,0:04:19.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUBMARINE CREW AT WORK · USS SKATE
+Dialogue: 0,0:04:22.00,0:04:23.54,Sub,,0,0,0,,{\fad(80,80)}Ferrall gave the order.
+Dialogue: 0,0:04:23.56,0:04:24.91,Sub,,0,0,0,,{\fad(80,80)}Lipes would operate.
+Dialogue: 2,0:04:22.25,0:04:25.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:04:22.25,0:04:25.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:22.25,0:04:25.33,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:04:22.25,0:04:25.33,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PERISCOPE SHEARS OF A U.S. FLEET SUBMARINE
+Dialogue: 0,0:04:25.38,0:04:28.44,Sub,,0,0,0,,{\fad(80,80)}First, the captain took Seadragon into relatively
+Dialogue: 0,0:04:28.46,0:04:29.13,Sub,,0,0,0,,{\fad(80,80)}safe water.
+Dialogue: 0,0:04:29.15,0:04:31.84,Sub,,0,0,0,,{\fad(80,80)}Then he dived, and leveled off at 120 feet.
+Dialogue: 2,0:04:25.63,0:04:31.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:04:25.63,0:04:31.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:25.63,0:04:31.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:04:25.63,0:04:31.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:04:45.23,0:04:48.02,Sub,,0,0,0,,{\fad(80,80)}The operating table was the wardroom mess table,
+Dialogue: 0,0:04:48.04,0:04:49.37,Sub,,0,0,0,,{\fad(80,80)}where the officers ate.
+Dialogue: 2,0:04:45.48,0:04:49.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:04:45.48,0:04:49.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:45.48,0:04:49.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:04:45.48,0:04:49.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS IN A SUBMARINE WARDROOM · USS SKATE
+Dialogue: 0,0:04:59.22,0:05:01.51,Sub,,0,0,0,,{\fad(80,80)}There was no handle for the scalpel blades.
+Dialogue: 0,0:05:01.53,0:05:03.76,Sub,,0,0,0,,{\fad(80,80)}So one of the hemostats became the handle.
+Dialogue: 2,0:04:59.47,0:05:04.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 934 0 l 934 132 l 0 132{\p0}
+Dialogue: 3,0:04:59.47,0:05:04.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:59.47,0:05:04.18,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. NAVAL HOSPITAL OKINAWA · OCT. 26, 2026 · TRAINING
+Dialogue: 3,0:04:59.47,0:05:04.18,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: A NAVY HOSPITAL TRAINING DRILL
+Dialogue: 0,0:05:11.76,0:05:14.50,Sub,,0,0,0,,{\fad(80,80)}For sponges, they used commercially sterilized
+Dialogue: 0,0:05:14.52,0:05:16.77,Sub,,0,0,0,,{\fad(80,80)}Handi-pads, in their tissue envelopes.
+Dialogue: 2,0:05:12.01,0:05:17.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:05:12.01,0:05:17.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:12.01,0:05:17.19,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:05:12.01,0:05:17.19,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUBMARINE CREW AT WORK · USS SKATE
+Dialogue: 0,0:05:17.24,0:05:18.75,Sub,,0,0,0,,{\fad(80,80)}There was no anesthesia mask.
+Dialogue: 0,0:05:18.77,0:05:21.39,Sub,,0,0,0,,{\fad(80,80)}So they covered a tea strainer with gauze and gave
+Dialogue: 0,0:05:21.41,0:05:22.61,Sub,,0,0,0,,{\fad(80,80)}the ether through that.
+Dialogue: 2,0:05:17.49,0:05:23.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:05:17.49,0:05:23.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:17.49,0:05:23.03,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:05:17.49,0:05:23.03,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A U.S. FLEET SUBMARINE
+Dialogue: 0,0:05:23.08,0:05:24.66,Sub,,0,0,0,,{\fad(80,80)}Instruments were boiled.
+Dialogue: 0,0:05:24.68,0:05:27.75,Sub,,0,0,0,,{\fad(80,80)}Gloves and pajamas were sterilized in alcohol.
+Dialogue: 0,0:05:27.77,0:05:28.82,Sub,,0,0,0,,{\fad(80,80)}Torpedo alcohol.
+Dialogue: 2,0:05:23.33,0:05:29.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:05:23.33,0:05:29.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:23.33,0:05:29.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:05:23.33,0:05:29.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUBMARINE CREW AT WORK · USS SKATE
+Dialogue: 0,0:05:29.29,0:05:32.45,Sub,,0,0,0,,{\fad(80,80)}The report even records the air inside the boat:
+Dialogue: 0,0:05:32.47,0:05:35.23,Sub,,0,0,0,,{\fad(80,80)}2 inches of mercury above normal pressure.
+Dialogue: 0,0:05:35.25,0:05:36.89,Sub,,0,0,0,,{\fad(80,80)}The stitches would be No.
+Dialogue: 0,0:05:36.91,0:05:38.55,Sub,,0,0,0,,{\fad(80,80)}0, 20-day chromic catgut.
+Dialogue: 2,0:05:29.54,0:05:35.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:05:29.54,0:05:35.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:29.54,0:05:35.29,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:05:29.54,0:05:35.29,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A U.S. FLEET SUBMARINE
+Dialogue: 0,0:05:39.02,0:05:41.81,Sub,,0,0,0,,{\fad(80,80)}Lipes ground sulfa tablets into powder, and baked
+Dialogue: 0,0:05:41.83,0:05:44.74,Sub,,0,0,0,,{\fad(80,80)}the powder in the boat's oven to kill anything that
+Dialogue: 0,0:05:44.76,0:05:46.00,Sub,,0,0,0,,{\fad(80,80)}might be living in it.
+Dialogue: 2,0:05:39.27,0:05:45.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:05:39.27,0:05:45.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:39.27,0:05:45.02,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:05:39.27,0:05:45.02,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A U.S. FLEET SUBMARINE
+Dialogue: 0,0:05:46.47,0:05:48.85,Sub,,0,0,0,,{\fad(80,80)}The anesthetist was not a doctor either.
+Dialogue: 0,0:05:48.87,0:05:51.43,Sub,,0,0,0,,{\fad(80,80)}He was Lieutenant Franz Hoskins, the boat's
+Dialogue: 0,0:05:51.45,0:05:52.81,Sub,,0,0,0,,{\fad(80,80)}communications officer.
+Dialogue: 2,0:05:46.72,0:05:52.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:05:46.72,0:05:52.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:46.72,0:05:52.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:05:46.72,0:05:52.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS IN A SUBMARINE WARDROOM · USS SKATE
+Dialogue: 0,0:05:53.28,0:05:55.90,Sub,,0,0,0,,{\fad(80,80)}And the captain stood by, writing down what he saw
+Dialogue: 0,0:05:55.92,0:05:57.70,Sub,,0,0,0,,{\fad(80,80)}every few minutes, for the record.
+Dialogue: 2,0:05:53.53,0:05:58.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 888 0 l 888 132 l 0 132{\p0}
+Dialogue: 3,0:05:53.53,0:05:58.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:53.53,0:05:58.12,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}IWAKUNI, JAPAN · OCT. 23, 2026 · TRAINING
+Dialogue: 3,0:05:53.53,0:05:58.12,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: A NAVY MEDICAL TEAM KEEPS NOTES
+Dialogue: 0,0:06:11.52,0:06:13.08,Sub,,0,0,0,,{\fad(80,80)}Here is where things stood.
+Dialogue: 0,0:06:13.10,0:06:15.12,Sub,,0,0,0,,{\fad(80,80)}A sick 19-year-old on a mess table.
+Dialogue: 0,0:06:15.14,0:06:18.16,Sub,,0,0,0,,{\fad(80,80)}A pharmacist's mate with a tea strainer, five spoons
+Dialogue: 0,0:06:18.18,0:06:19.22,Sub,,0,0,0,,{\fad(80,80)}and a pocket case.
+Dialogue: 0,0:06:19.24,0:06:21.67,Sub,,0,0,0,,{\fad(80,80)}A communications officer giving the ether.
+Dialogue: 0,0:06:21.69,0:06:23.19,Sub,,0,0,0,,{\fad(80,80)}A captain with a notebook.
+Dialogue: 0,0:06:23.21,0:06:26.12,Sub,,0,0,0,,{\fad(80,80)}And a submarine holding her depth in enemy waters.
+Dialogue: 2,0:06:11.77,0:06:17.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:06:11.77,0:06:17.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:11.77,0:06:17.52,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:06:11.77,0:06:17.52,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:06:35.68,0:06:38.59,Sub,,0,0,0,,{\fad(80,80)}All around them, the rest of the crew kept the boat
+Dialogue: 0,0:06:38.61,0:06:38.99,Sub,,0,0,0,,{\fad(80,80)}steady.
+Dialogue: 0,0:06:39.01,0:06:41.69,Sub,,0,0,0,,{\fad(80,80)}In the after torpedo room, men waited for news.
+Dialogue: 2,0:06:35.93,0:06:41.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:06:35.93,0:06:41.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:35.93,0:06:41.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:06:35.93,0:06:41.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A U.S. FLEET SUBMARINE
+Dialogue: 0,0:06:42.16,0:06:44.72,Sub,,0,0,0,,{\fad(80,80)}George Weller, the reporter who later told the
+Dialogue: 0,0:06:44.74,0:06:47.58,Sub,,0,0,0,,{\fad(80,80)}story, wrote that the order on the boat was simple.
+Dialogue: 0,0:06:47.60,0:06:48.48,Sub,,0,0,0,,{\fad(80,80)}Keep her steady.
+Dialogue: 2,0:06:42.41,0:06:48.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:06:42.41,0:06:48.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:42.41,0:06:48.16,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:06:42.41,0:06:48.16,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:06:48.95,0:06:50.59,Sub,,0,0,0,,{\fad(80,80)}Finding the appendix took time.
+Dialogue: 0,0:06:50.61,0:06:53.36,Sub,,0,0,0,,{\fad(80,80)}When Lipes found it, the end of it had turned black.
+Dialogue: 0,0:06:53.38,0:06:54.42,Sub,,0,0,0,,{\fad(80,80)}Gangrene had set in.
+Dialogue: 2,0:06:49.20,0:06:54.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:06:49.20,0:06:54.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:49.20,0:06:54.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:06:49.20,0:06:54.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE RUNS SUBMERGED
+Dialogue: 0,0:07:09.13,0:07:11.87,Sub,,0,0,0,,{\fad(80,80)}Then he closed the wound layer by layer, dusting
+Dialogue: 0,0:07:11.89,0:07:14.12,Sub,,0,0,0,,{\fad(80,80)}each layer with the baked sulfa powder.
+Dialogue: 2,0:07:09.38,0:07:14.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:07:09.38,0:07:14.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:09.38,0:07:14.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:07:09.38,0:07:14.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE RUNS SUBMERGED
+Dialogue: 0,0:07:28.75,0:07:29.21,Sub,,0,0,0,,{\fad(80,80)}He did.
+Dialogue: 0,0:07:29.23,0:07:32.64,Sub,,0,0,0,,{\fad(80,80)}The newspaper story that later made this operation
+Dialogue: 0,0:07:32.66,0:07:34.84,Sub,,0,0,0,,{\fad(80,80)}famous reported his first words.
+Dialogue: 2,0:07:29.00,0:07:34.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:07:29.00,0:07:34.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:29.00,0:07:34.75,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:07:29.00,0:07:34.75,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUBMARINE CREW AT WORK · USS SKATE
+Dialogue: 0,0:07:45.49,0:07:48.58,Sub,,0,0,0,,{\fad(80,80)}When he had trouble after the operation, a period
+Dialogue: 0,0:07:48.60,0:07:51.63,Sub,,0,0,0,,{\fad(80,80)}the report calls post-operative depression, they
+Dialogue: 0,0:07:51.65,0:07:54.30,Sub,,0,0,0,,{\fad(80,80)}gave him oxygen, and he improved markedly.
+Dialogue: 0,0:07:54.32,0:07:57.54,Sub,,0,0,0,,{\fad(80,80)}6 hours after he came round, he was drinking water.
+Dialogue: 2,0:07:45.74,0:07:51.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:07:45.74,0:07:51.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:45.74,0:07:51.49,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:07:45.74,0:07:51.49,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUBMARINE CREW AT WORK · USS SKATE
+Dialogue: 0,0:08:05.13,0:08:07.66,Sub,,0,0,0,,{\fad(80,80)}Seadragon went on with her war patrol.
+Dialogue: 0,0:08:07.68,0:08:10.81,Sub,,0,0,0,,{\fad(80,80)}On October 10, she sank the Japanese cargo ship
+Dialogue: 0,0:08:10.83,0:08:14.44,Sub,,0,0,0,,{\fad(80,80)}Shigitre Maru, 47 seconds after the first torpedo hit.
+Dialogue: 2,0:08:05.38,0:08:11.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:08:05.38,0:08:11.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:05.38,0:08:11.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:08:05.38,0:08:11.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PERISCOPE SHEARS OF A U.S. FLEET SUBMARINE
+Dialogue: 0,0:08:14.91,0:08:16.01,Sub,,0,0,0,,{\fad(80,80)}She kept fighting.
+Dialogue: 0,0:08:16.03,0:08:19.21,Sub,,0,0,0,,{\fad(80,80)}On September 22 she attacked a cruiser, and missed.
+Dialogue: 0,0:08:19.23,0:08:22.40,Sub,,0,0,0,,{\fad(80,80)}On September 30, a surface attack damaged a ship in
+Dialogue: 0,0:08:22.42,0:08:22.96,Sub,,0,0,0,,{\fad(80,80)}a convoy.
+Dialogue: 2,0:08:15.16,0:08:20.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:08:15.16,0:08:20.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:15.16,0:08:20.91,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:08:15.16,0:08:20.91,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE ON THE SURFACE
+Dialogue: 0,0:08:23.43,0:08:27.01,Sub,,0,0,0,,{\fad(80,80)}She came back to port about six weeks after the operation.
+Dialogue: 0,0:08:27.03,0:08:30.04,Sub,,0,0,0,,{\fad(80,80)}The squadron medical officer examined the patient
+Dialogue: 0,0:08:30.06,0:08:31.90,Sub,,0,0,0,,{\fad(80,80)}and found a firm, healed scar.
+Dialogue: 0,0:08:31.92,0:08:34.93,Sub,,0,0,0,,{\fad(80,80)}His conclusion, as the Navy's historians tell it:
+Dialogue: 0,0:08:34.95,0:08:38.34,Sub,,0,0,0,,{\fad(80,80)}Lipes and his shipmates had saved the young man's life.
+Dialogue: 2,0:08:23.68,0:08:29.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:08:23.68,0:08:29.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:23.68,0:08:29.43,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:08:23.68,0:08:29.43,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE ON THE SURFACE
+Dialogue: 0,0:09:06.77,0:09:09.83,Sub,,0,0,0,,{\fad(80,80)}After the patrol, a war correspondent named George
+Dialogue: 0,0:09:09.85,0:09:13.09,Sub,,0,0,0,,{\fad(80,80)}Weller met Lipes aboard the submarine tender Holland.
+Dialogue: 0,0:09:13.11,0:09:15.55,Sub,,0,0,0,,{\fad(80,80)}Weller wrote for the Chicago Daily News.
+Dialogue: 2,0:09:07.02,0:09:12.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:09:07.02,0:09:12.77,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:07.02,0:09:12.77,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:09:07.02,0:09:12.77,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:09:16.02,0:09:19.26,Sub,,0,0,0,,{\fad(80,80)}Lipes himself was back in the United States by
+Dialogue: 0,0:09:19.28,0:09:20.18,Sub,,0,0,0,,{\fad(80,80)}January 1943.
+Dialogue: 0,0:09:20.20,0:09:24.07,Sub,,0,0,0,,{\fad(80,80)}By then, his name was in newspapers across the country.
+Dialogue: 2,0:09:16.27,0:09:22.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:09:16.27,0:09:22.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:16.27,0:09:22.02,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:09:16.27,0:09:22.02,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A LONE SUBMARINE ON AN EMPTY SEA
+Dialogue: 0,0:09:46.53,0:09:48.08,Sub,,0,0,0,,{\fad(80,80)}Hollywood noticed too.
+Dialogue: 0,0:09:48.10,0:09:51.58,Sub,,0,0,0,,{\fad(80,80)}The submarine film Destination Tokyo, released in
+Dialogue: 0,0:09:51.60,0:09:55.72,Sub,,0,0,0,,{\fad(80,80)}1943 with Cary Grant, borrowed the operation for its plot.
+Dialogue: 2,0:09:46.78,0:09:52.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:09:46.78,0:09:52.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:46.78,0:09:52.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:09:46.78,0:09:52.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:10:08.54,0:10:11.69,Sub,,0,0,0,,{\fad(80,80)}15 years later, the television series The Silent
+Dialogue: 0,0:10:11.71,0:10:14.54,Sub,,0,0,0,,{\fad(80,80)}Service told it again, in an episode called
+Dialogue: 0,0:10:14.56,0:10:15.86,Sub,,0,0,0,,{\fad(80,80)}Operation Seadragon.
+Dialogue: 0,0:10:15.88,0:10:19.30,Sub,,0,0,0,,{\fad(80,80)}By then, the operation was a legend of the submarine
+Dialogue: 0,0:10:19.32,0:10:19.70,Sub,,0,0,0,,{\fad(80,80)}force.
+Dialogue: 2,0:10:08.79,0:10:14.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:10:08.79,0:10:14.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:08.79,0:10:14.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:10:08.79,0:10:14.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:10:33.33,0:10:37.12,Sub,,0,0,0,,{\fad(80,80)}Grayback had sailed from Australia on December 7,
+Dialogue: 0,0:10:37.14,0:10:40.39,Sub,,0,0,0,,{\fad(80,80)}1942, exactly one year after Pearl Harbor.
+Dialogue: 2,0:10:33.58,0:10:39.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:10:33.58,0:10:39.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:33.58,0:10:39.33,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:10:33.58,0:10:39.33,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE ON THE SURFACE
+Dialogue: 0,0:10:40.86,0:10:43.97,Sub,,0,0,0,,{\fad(80,80)}Her pharmacist's mate, Harry Roby, operated 100 feet
+Dialogue: 0,0:10:43.99,0:10:46.93,Sub,,0,0,0,,{\fad(80,80)}beneath the surface, in the Bismarck Archipelago.
+Dialogue: 0,0:10:46.95,0:10:50.25,Sub,,0,0,0,,{\fad(80,80)}His patient was back on watch by the end of the patrol.
+Dialogue: 2,0:10:41.11,0:10:46.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:10:41.11,0:10:46.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:41.11,0:10:46.86,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:10:41.11,0:10:46.86,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE RUNS SUBMERGED
+Dialogue: 0,0:10:50.72,0:10:53.34,Sub,,0,0,0,,{\fad(80,80)}Then, on Christmas Eve, aboard the submarine
+Dialogue: 0,0:10:53.36,0:10:56.47,Sub,,0,0,0,,{\fad(80,80)}Silversides, the pharmacist's mate performed another
+Dialogue: 0,0:10:56.49,0:10:57.85,Sub,,0,0,0,,{\fad(80,80)}emergency appendectomy.
+Dialogue: 0,0:10:57.87,0:11:00.86,Sub,,0,0,0,,{\fad(80,80)}It was over at 4 in the morning, on Christmas Day.
+Dialogue: 2,0:10:50.97,0:10:56.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:10:50.97,0:10:56.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:50.97,0:10:56.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:10:50.97,0:10:56.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE AT SEA
+Dialogue: 0,0:11:01.33,0:11:04.38,Sub,,0,0,0,,{\fad(80,80)}Silversides already knew what the war could cost.
+Dialogue: 0,0:11:04.40,0:11:07.63,Sub,,0,0,0,,{\fad(80,80)}In May of that year, an enemy machine-gun bullet had
+Dialogue: 0,0:11:07.65,0:11:09.57,Sub,,0,0,0,,{\fad(80,80)}killed one of her deck gunners.
+Dialogue: 2,0:11:01.58,0:11:07.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:11:01.58,0:11:07.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:01.58,0:11:07.33,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:11:01.58,0:11:07.33,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:11:19.81,0:11:23.26,Sub,,0,0,0,,{\fad(80,80)}None of the three men holding the knife was a doctor.
+Dialogue: 0,0:11:23.28,0:11:26.54,Sub,,0,0,0,,{\fad(80,80)}Each one had a crew at sea, far from any hospital,
+Dialogue: 0,0:11:26.56,0:11:29.75,Sub,,0,0,0,,{\fad(80,80)}and a shipmate who needed an emergency operation.
+Dialogue: 2,0:11:20.06,0:11:25.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:11:20.06,0:11:25.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:20.06,0:11:25.81,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:11:20.06,0:11:25.81,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE ON THE SURFACE
+Dialogue: 0,0:11:34.31,0:11:37.41,Sub,,0,0,0,,{\fad(80,80)}In 1944, the Navy identified a need for medical
+Dialogue: 0,0:11:37.43,0:11:40.67,Sub,,0,0,0,,{\fad(80,80)}personnel who could work where no medical officer
+Dialogue: 0,0:11:40.69,0:11:41.60,Sub,,0,0,0,,{\fad(80,80)}was available.
+Dialogue: 0,0:11:41.62,0:11:44.13,Sub,,0,0,0,,{\fad(80,80)}They became Independent Duty Corpsmen.
+Dialogue: 2,0:11:34.56,0:11:40.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:11:34.56,0:11:40.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:34.56,0:11:40.31,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PEARL HARBOR, HAWAII · SEPT. 23, 2026 · U.S. NAVY
+Dialogue: 3,0:11:34.56,0:11:40.31,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FAST-ATTACK SUBMARINE USS COLORADO
+Dialogue: 0,0:12:01.99,0:12:05.76,Sub,,0,0,0,,{\fad(80,80)}In 1949, that course gave way to a 20-week advanced
+Dialogue: 0,0:12:05.78,0:12:07.24,Sub,,0,0,0,,{\fad(80,80)}course in San Diego.
+Dialogue: 0,0:12:07.26,0:12:09.76,Sub,,0,0,0,,{\fad(80,80)}A year later, it grew to 26 weeks.
+Dialogue: 0,0:12:09.78,0:12:13.62,Sub,,0,0,0,,{\fad(80,80)}As of 2014, independent duty corpsman courses ran in
+Dialogue: 0,0:12:13.64,0:12:17.10,Sub,,0,0,0,,{\fad(80,80)}North Carolina, Connecticut and California, and
+Dialogue: 0,0:12:17.12,0:12:20.52,Sub,,0,0,0,,{\fad(80,80)}submarine service also required Basic Enlisted
+Dialogue: 0,0:12:20.54,0:12:21.78,Sub,,0,0,0,,{\fad(80,80)}Submarine School.
+Dialogue: 2,0:12:02.24,0:12:07.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:12:02.24,0:12:07.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:02.24,0:12:07.99,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PEARL HARBOR, HAWAII · SEPT. 23, 2026 · U.S. NAVY
+Dialogue: 3,0:12:02.24,0:12:07.99,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FAST-ATTACK SUBMARINE USS COLORADO
+Dialogue: 0,0:12:22.25,0:12:25.75,Sub,,0,0,0,,{\fad(80,80)}Corpsmen have served aboard American submarines
+Dialogue: 0,0:12:25.77,0:12:26.58,Sub,,0,0,0,,{\fad(80,80)}since 1924.
+Dialogue: 2,0:12:22.50,0:12:27.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:12:22.50,0:12:27.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:22.50,0:12:27.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORTSMOUTH NAVAL SHIPYARD, MAINE · OCT. 27, 2026
+Dialogue: 3,0:12:22.50,0:12:27.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: USS WASHINGTON LEAVES DRY DOCK
+Dialogue: 0,0:12:27.05,0:12:30.58,Sub,,0,0,0,,{\fad(80,80)}From 1959 into the 1970s, the big missile submarines
+Dialogue: 0,0:12:30.60,0:12:32.01,Sub,,0,0,0,,{\fad(80,80)}did carry physicians.
+Dialogue: 0,0:12:32.03,0:12:35.56,Sub,,0,0,0,,{\fad(80,80)}Each of their two crews, Blue and Gold, had a doctor
+Dialogue: 0,0:12:35.58,0:12:37.82,Sub,,0,0,0,,{\fad(80,80)}and an independent duty corpsman.
+Dialogue: 0,0:12:37.84,0:12:41.23,Sub,,0,0,0,,{\fad(80,80)}Even then, according to a Navy medicine historian,
+Dialogue: 0,0:12:41.25,0:12:44.78,Sub,,0,0,0,,{\fad(80,80)}the corpsmen handled most of the daily medical care.
+Dialogue: 2,0:12:27.30,0:12:33.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:12:27.30,0:12:33.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:27.30,0:12:33.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PEARL HARBOR, HAWAII · SEPT. 23, 2026 · U.S. NAVY
+Dialogue: 3,0:12:27.30,0:12:33.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FAST-ATTACK SUBMARINE USS COLORADO
+Dialogue: 0,0:12:45.25,0:12:48.31,Sub,,0,0,0,,{\fad(80,80)}One of those submarine doctors later told a Navy
+Dialogue: 0,0:12:48.33,0:12:51.32,Sub,,0,0,0,,{\fad(80,80)}historian about setting a broken leg at sea and
+Dialogue: 0,0:12:51.34,0:12:53.18,Sub,,0,0,0,,{\fad(80,80)}putting it in a plaster cast.
+Dialogue: 0,0:12:53.20,0:12:56.32,Sub,,0,0,0,,{\fad(80,80)}The submarine stayed on patrol, with about 2 or 3
+Dialogue: 0,0:12:56.34,0:12:57.48,Sub,,0,0,0,,{\fad(80,80)}weeks still to go.
+Dialogue: 2,0:12:45.50,0:12:51.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:12:45.50,0:12:51.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:45.50,0:12:51.25,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PEARL HARBOR, HAWAII · SEPT. 23, 2026 · U.S. NAVY
+Dialogue: 3,0:12:45.50,0:12:51.25,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FAST-ATTACK SUBMARINE USS COLORADO
+Dialogue: 0,0:12:57.95,0:12:59.09,Sub,,0,0,0,,{\fad(80,80)}That did not last.
+Dialogue: 0,0:12:59.11,0:13:02.31,Sub,,0,0,0,,{\fad(80,80)}A study sponsored by the Navy's Bureau of Medicine
+Dialogue: 0,0:13:02.33,0:13:05.40,Sub,,0,0,0,,{\fad(80,80)}later found that independent duty corpsmen could
+Dialogue: 0,0:13:05.42,0:13:07.92,Sub,,0,0,0,,{\fad(80,80)}handle most submarine medical services.
+Dialogue: 2,0:12:58.20,0:13:03.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:12:58.20,0:13:03.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:58.20,0:13:03.95,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PEARL HARBOR, HAWAII · SEPT. 23, 2026 · U.S. NAVY
+Dialogue: 3,0:12:58.20,0:13:03.95,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FAST-ATTACK SUBMARINE USS COLORADO
+Dialogue: 0,0:13:08.39,0:13:11.58,Sub,,0,0,0,,{\fad(80,80)}Navy medicine calls the job a department of one.
+Dialogue: 0,0:13:11.60,0:13:14.94,Sub,,0,0,0,,{\fad(80,80)}As one independent duty corpsman, the only medical
+Dialogue: 0,0:13:14.96,0:13:17.75,Sub,,0,0,0,,{\fad(80,80)}provider on his ship, told Navy reporters:
+Dialogue: 2,0:13:08.64,0:13:14.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:13:08.64,0:13:14.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:08.64,0:13:14.39,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SAN DIEGO · NOV. 13, 2026 · U.S. NAVY
+Dialogue: 3,0:13:08.64,0:13:14.39,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: USS SPRUANCE'S CREW MANS THE RAILS
+Dialogue: 0,0:13:18.22,0:13:20.68,Sub,,0,0,0,,{\fad(80,80)}His work, as Navy medicine described it:
+Dialogue: 0,0:13:20.70,0:13:23.58,Sub,,0,0,0,,{\fad(80,80)}sick call, medical training for the crew, daily
+Dialogue: 0,0:13:23.60,0:13:26.55,Sub,,0,0,0,,{\fad(80,80)}water testing, and pest surveys every two weeks.
+Dialogue: 0,0:13:26.57,0:13:29.64,Sub,,0,0,0,,{\fad(80,80)}He reported directly to the commanding officer and
+Dialogue: 0,0:13:29.66,0:13:32.86,Sub,,0,0,0,,{\fad(80,80)}the executive officer, and he looked after a crew of
+Dialogue: 0,0:13:32.88,0:13:34.10,Sub,,0,0,0,,{\fad(80,80)}more than a hundred.
+Dialogue: 2,0:13:18.47,0:13:24.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:13:18.47,0:13:24.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:18.47,0:13:24.22,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PEARL HARBOR, HAWAII · SEPT. 23, 2026 · U.S. NAVY
+Dialogue: 3,0:13:18.47,0:13:24.22,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FAST-ATTACK SUBMARINE USS COLORADO
+Dialogue: 0,0:13:41.45,0:13:45.57,Sub,,0,0,0,,{\fad(80,80)}That is the job Wheeler Lipes did at 23, 120 feet
+Dialogue: 0,0:13:45.59,0:13:48.27,Sub,,0,0,0,,{\fad(80,80)}down, before it even had a name.
+Dialogue: 2,0:13:41.70,0:13:47.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:13:41.70,0:13:47.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:41.70,0:13:47.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PEARL HARBOR, HAWAII · SEPT. 23, 2026 · U.S. NAVY
+Dialogue: 3,0:13:41.70,0:13:47.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FAST-ATTACK SUBMARINE USS COLORADO
+Dialogue: 0,0:13:51.16,0:13:53.63,Sub,,0,0,0,,{\fad(80,80)}Seadragon served through the whole war.
+Dialogue: 0,0:13:53.65,0:13:56.89,Sub,,0,0,0,,{\fad(80,80)}She made 12 war patrols and earned 11 battle stars.
+Dialogue: 0,0:13:56.91,0:14:00.20,Sub,,0,0,0,,{\fad(80,80)}Among the ships she is credited with sinking was the
+Dialogue: 0,0:14:00.22,0:14:01.67,Sub,,0,0,0,,{\fad(80,80)}Japanese submarine I-4.
+Dialogue: 2,0:13:51.41,0:13:57.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:13:51.41,0:13:57.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:51.41,0:13:57.16,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:13:51.41,0:13:57.16,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:14:02.14,0:14:04.39,Sub,,0,0,0,,{\fad(80,80)}Grayback did not come home.
+Dialogue: 0,0:14:04.41,0:14:09.27,Sub,,0,0,0,,{\fad(80,80)}She was listed as overdue and presumed lost in March 1944.
+Dialogue: 2,0:14:02.39,0:14:08.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:14:02.39,0:14:08.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:02.39,0:14:08.14,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:14:02.39,0:14:08.14,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE RUNS SUBMERGED
+Dialogue: 0,0:14:09.74,0:14:13.55,Sub,,0,0,0,,{\fad(80,80)}The young seaman Lipes saved did not survive the war
+Dialogue: 0,0:14:13.57,0:14:14.06,Sub,,0,0,0,,{\fad(80,80)}either.
+Dialogue: 0,0:14:14.08,0:14:17.89,Sub,,0,0,0,,{\fad(80,80)}In October 1944, he was serving aboard the submarine
+Dialogue: 0,0:14:17.91,0:14:19.58,Sub,,0,0,0,,{\fad(80,80)}Tang when she was lost.
+Dialogue: 0,0:14:19.60,0:14:21.64,Sub,,0,0,0,,{\fad(80,80)}Only 9 of her crew survived.
+Dialogue: 2,0:14:09.99,0:14:15.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:14:09.99,0:14:15.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:09.99,0:14:15.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:14:09.99,0:14:15.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A LONE SUBMARINE ON AN EMPTY SEA
+Dialogue: 0,0:14:53.67,0:14:56.57,Sub,,0,0,0,,{\fad(80,80)}The ceremony was at Camp Lejeune, North Carolina.
+Dialogue: 0,0:14:56.59,0:14:59.36,Sub,,0,0,0,,{\fad(80,80)}Years earlier, Lipes recalled, his grandson had
+Dialogue: 0,0:14:59.38,0:15:02.22,Sub,,0,0,0,,{\fad(80,80)}found the story in a schoolbook, and his teacher
+Dialogue: 0,0:15:02.24,0:15:03.94,Sub,,0,0,0,,{\fad(80,80)}told him not to tell stories.
+Dialogue: 2,0:14:53.92,0:14:59.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:14:53.92,0:14:59.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:53.92,0:14:59.67,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:14:53.92,0:14:59.67,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS IN A SUBMARINE WARDROOM · USS SKATE
+Dialogue: 0,0:15:04.41,0:15:05.71,Sub,,0,0,0,,{\fad(80,80)}He died that April.
+Dialogue: 2,0:15:04.66,0:15:06.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:15:04.66,0:15:06.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:04.66,0:15:06.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:15:04.66,0:15:06.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 0,0:15:06.33,0:15:07.61,Sub,,0,0,0,,{\fad(80,80)}Twenty-3 years old.
+Dialogue: 0,0:15:07.63,0:15:09.73,Sub,,0,0,0,,{\fad(80,80)}A hundred and twenty feet down.
+Dialogue: 0,0:15:09.75,0:15:13.49,Sub,,0,0,0,,{\fad(80,80)}Five bent spoons, a tea strainer, and no doctor aboard.
+Dialogue: 0,0:15:13.51,0:15:16.83,Sub,,0,0,0,,{\fad(80,80)}And a sailor who woke up still in there pitching.
+Dialogue: 2,0:15:06.58,0:15:12.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 837 0 l 837 132 l 0 132{\p0}
+Dialogue: 3,0:15:06.58,0:15:12.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:06.58,0:15:12.33,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1945 · U.S. NAVY · NOT SEADRAGON
+Dialogue: 3,0:15:06.58,0:15:12.33,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. FLEET SUBMARINE GOES UNDER
+Dialogue: 5,0:15:26.29,0:15:30.49,Credit,,0,0,0,,{\fad(400,0)}Archival film (public domain): U.S. Navy, Naval Photographic Center, 1945 — "Silent Service" (MN-9141) and supplements (NPC-3844), USS Skate film (NPC-15523), via National Archives / Internet Archive. Not USS Seadragon.\NFootage: U.S. Navy and U.S. Marine Corps via DVIDS (public domain), Sept.–Nov. 2026. Training footage is marked TRAINING.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the U.S. Navy, DoD or any government agency.\NFor education only. This is not medical advice.
+Dialogue: 4,0:01:42.83,0:01:47.03,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:01:47.03,0:01:51.20,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:01:51.20,0:01:55.40,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:04:59.23,0:05:01.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:01.73,0:05:04.23,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:53.27,0:05:55.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:05:55.73,0:05:58.17,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

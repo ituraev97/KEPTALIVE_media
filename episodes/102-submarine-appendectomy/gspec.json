@@ -1,0 +1,881 @@
+[
+ {
+  "key": "stat_d6ecc4",
+  "name": "stat",
+  "opts": {
+   "a": "23",
+   "b": "THE AGE OF THE MAN WHO HAD TO OPERATE",
+   "c": "PHARMACIST'S MATE \u00b7 NOT A DOCTOR \u00b7 SOURCE: NAVAL HISTORY AND HERITAGE COMMAND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_f5a2eb",
+  "name": "cards3",
+  "opts": {
+   "kicker": "USS SEADRAGON \u00b7 SEPTEMBER 11, 1942",
+   "title": "THE OPERATING KIT",
+   "cards": [
+    {
+     "h": "5",
+     "t": "Tablespoons",
+     "s": "Handles bent back \u00b7 retractors"
+    },
+    {
+     "h": "1",
+     "t": "Tea strainer",
+     "s": "Covered in gauze \u00b7 ether mask"
+    },
+    {
+     "h": "12",
+     "t": "Hemostats",
+     "s": "One became the scalpel handle"
+    }
+   ],
+   "footer": "SOURCES: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 SUBMARINE SQUADRON TWO REPORT, 1942"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_8b6030",
+  "name": "title",
+  "opts": {
+   "kicker": "THE SAVE \u00b7 102",
+   "title": "NO DOCTOR",
+   "sub": "120 FEET UNDER ENEMY <span style=\"color:#2BB3A3\">WATERS</span>",
+   "size": 250
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_3e51b5",
+  "name": "chapter",
+  "opts": {
+   "case": "DEC. 10, 1941",
+   "n": "I",
+   "t": "THE BOAT THAT SURVIVED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_c50587",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      116.5,
+      10.5
+     ],
+     [
+      125.5,
+      18.5
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       120.98,
+       14.6
+      ],
+      "name": "MANILA",
+      "d": 0.5,
+      "size": 34
+     },
+     {
+      "ll": [
+       120.89,
+       14.48
+      ],
+      "name": "CAVITE NAVY YARD",
+      "sub": "SEADRAGON MOORED HERE",
+      "d": 0.9,
+      "anchor": "end",
+      "dy": 40
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       120.89,
+       14.48
+      ],
+      "r": 30,
+      "n": 3,
+      "d": 0.9,
+      "color": "#E5383B"
+     }
+    ]
+   },
+   "kicker": "THE PHILIPPINES \u00b7 DECEMBER 1941",
+   "title": "THE FIRST DAYS OF WAR",
+   "footer": "SOURCE: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 DANFS: SEADRAGON"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_73d0d3",
+  "name": "doc",
+  "opts": {
+   "header": "DICTIONARY OF AMERICAN NAVAL FIGHTING SHIPS",
+   "title": "CAVITE \u00b7 DEC. 10, 1941",
+   "body": "Sealion took a direct hit. The explosion ripped off part of Seadragon's bridge; shrapnel pierced her conning tower, killing one man and wounding five.",
+   "source": "SOURCE: NAVAL HISTORY AND HERITAGE COMMAND",
+   "stamp": "1 KILLED \u00b7 5 WOUNDED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_1c88c1",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. NAVY HOSPITAL CORPS \u00b7 1942",
+   "title": "WHEELER B. LIPES",
+   "rows": [
+    [
+     "RATING",
+     "Pharmacist's Mate First Class"
+    ],
+    [
+     "AGE",
+     "23"
+    ],
+    [
+     "JOINED",
+     "U.S. Navy, 1936"
+    ],
+    [
+     "TRAINED",
+     "Navy hospital course, San Diego"
+    ],
+    [
+     "SUBMARINES",
+     "Since 1941"
+    ]
+   ],
+   "footer": "SOURCES: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 NAVY DEPARTMENT LIBRARY ORAL HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_5bf18a",
+  "name": "doc",
+  "opts": {
+   "header": "NAVAL HISTORY AND HERITAGE COMMAND",
+   "title": "HIS TRAINING",
+   "body": "Classified as an electro-cardiographer. He had assisted in several appendectomies.",
+   "source": "SOURCE: NAVAL HISTORY AND HERITAGE COMMAND",
+   "stamp": "PHM1/C \u00b7 AGE 23"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_1f6398",
+  "name": "chapter",
+  "opts": {
+   "case": "SEPT. 8, 1942",
+   "n": "II",
+   "t": "\"HEY DOC\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_5edf5f",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      95,
+      -36
+     ],
+     [
+      135,
+      22
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       115.75,
+       -32.05
+      ],
+      "name": "FREMANTLE",
+      "sub": "SEADRAGON'S BASE",
+      "d": 0.5,
+      "size": 32
+     },
+     {
+      "ll": [
+       114.3,
+       15.9
+      ],
+      "name": "PATROL AREA",
+      "sub": "OFF INDOCHINA",
+      "d": 1.2,
+      "anchor": "end",
+      "size": 32
+     },
+     {
+      "ll": [
+       120.98,
+       14.6
+      ],
+      "name": "MANILA",
+      "d": 0.9,
+      "size": 28
+     }
+    ],
+    "arcs": [
+     {
+      "from": [
+       115.75,
+       -32.05
+      ],
+      "to": [
+       114.3,
+       15.9
+      ],
+      "d": 1.4,
+      "color": "#6CF29A"
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       114.3,
+       15.9
+      ],
+      "r": 34,
+      "n": 3,
+      "d": 1.2,
+      "color": "#E5383B"
+     }
+    ]
+   },
+   "kicker": "FOURTH WAR PATROL \u00b7 AUG. 26, 1942",
+   "title": "55 MEN, ONE PHARMACIST'S MATE",
+   "footer": "SOURCES: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 DANFS: SEADRAGON \u00b7 POSITIONS APPROXIMATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_133905",
+  "name": "quote",
+  "opts": {
+   "q": "Hey Doc, I don't feel very good.",
+   "w": "AS RECALLED BY WHEELER LIPES \u00b7 NAVY DEPARTMENT LIBRARY ORAL HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1001b3",
+  "name": "stat",
+  "opts": {
+   "a": "3 DAYS",
+   "b": "FROM FIRST SYMPTOMS TO THE OPERATION",
+   "c": "SEPT. 8 \u2192 SEPT. 11, 1942 \u00b7 SOURCE: NAVAL HISTORY AND HERITAGE COMMAND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_7b83d3",
+  "name": "cards3",
+  "opts": {
+   "kicker": "NATIONAL INSTITUTES OF HEALTH \u00b7 NIDDK",
+   "title": "WHAT IS APPENDICITIS?",
+   "cards": [
+    {
+     "h": "5\u20139",
+     "t": "in 100 people",
+     "s": "Develop it at some point"
+    },
+    {
+     "h": "#1",
+     "t": "Cause of sudden belly pain",
+     "s": "Needing surgery in the U.S."
+    },
+    {
+     "h": "BURST",
+     "t": "If untreated",
+     "s": "Can lead to peritonitis"
+    }
+   ],
+   "footer": "SOURCE: NIDDK, APPENDICITIS: DEFINITION & FACTS \u00b7 EDUCATION ONLY, NOT MEDICAL ADVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_5d3e4c",
+  "name": "chapter",
+  "opts": {
+   "case": "SEPT. 11, 1942",
+   "n": "III",
+   "t": "THE ORDER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_44a183",
+  "name": "quote",
+  "opts": {
+   "q": "Yes sir, I can do it\u2026 everything is against us.",
+   "w": "PHM1/C WHEELER B. LIPES \u00b7 AS RECORDED BY THE NAVAL HISTORY AND HERITAGE COMMAND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_0e68a6",
+  "name": "quote",
+  "opts": {
+   "q": "I fire torpedoes every day and some of them miss.",
+   "w": "LT. CMDR. WILLIAM FERRALL \u00b7 AS RECALLED BY LIPES \u00b7 NAVY DEPARTMENT LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f71402",
+  "name": "stat",
+  "opts": {
+   "a": "120 FT",
+   "b": "SEADRAGON'S DEPTH DURING THE OPERATION",
+   "c": "SEPT. 11, 1942 \u00b7 SOURCE: SUBMARINE SQUADRON TWO REPORT, 1942"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_2c89e8",
+  "name": "chapter",
+  "opts": {
+   "case": "SEPT. 11, 1942",
+   "n": "IV",
+   "t": "THE KIT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_5f8d23",
+  "name": "list",
+  "opts": {
+   "kicker": "SEADRAGON'S MEDICAL KIT \u00b7 SEPTEMBER 1942",
+   "title": "WHAT WAS ABOARD",
+   "items": [
+    "A pocket case with 12 hemostats",
+    "Scalpel blades, but no handle",
+    "Catgut for stitches",
+    "Sulfa tablets",
+    "A limited supply of ether"
+   ],
+   "footer": "SOURCES: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 SUBMARINE SQUADRON TWO REPORT, 1942"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_fc7510",
+  "name": "steps",
+  "opts": {
+   "kicker": "IMPROVISED ON SEADRAGON \u00b7 SEPT. 11, 1942",
+   "title": "WHAT THEY USED INSTEAD",
+   "items": [
+    [
+     "Operating table",
+     "Wardroom mess table"
+    ],
+    [
+     "Scalpel handle",
+     "A hemostat"
+    ],
+    [
+     "Retractors",
+     "5 tablespoons, handles bent"
+    ],
+    [
+     "Ether mask",
+     "Tea strainer + gauze"
+    ],
+    [
+     "Sponges",
+     "\"Handi-pads\""
+    ]
+   ],
+   "footer": "SOURCES: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 SUBMARINE SQUADRON TWO REPORT, 1942"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_952f2c",
+  "name": "doc",
+  "opts": {
+   "header": "SUBMARINE SQUADRON TWO \u2192 BUREAU OF MEDICINE AND SURGERY",
+   "title": "THE REPORT",
+   "body": "Appendectomy performed on war patrol. Depth: 120 feet. Operator: Lipes, Wheeler B., PhM1c. Anesthesia: Lt. F. P. Hoskins. Observations recorded by the commanding officer.",
+   "source": "SOURCE: NAVY DEPARTMENT LIBRARY \u00b7 NAVAL HISTORY AND HERITAGE COMMAND",
+   "stamp": "OCT. 22, 1942"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_561a1d",
+  "name": "chapter",
+  "opts": {
+   "case": "10:46 A.M.",
+   "n": "V",
+   "t": "THE CLOCK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_cdfdfa",
+  "name": "timeline",
+  "opts": {
+   "kicker": "SEPTEMBER 11, 1942 \u00b7 120 FEET DOWN",
+   "title": "THE OPERATION",
+   "events": [
+    {
+     "y": "10:46",
+     "t": "Ether starts"
+    },
+    {
+     "y": "11:07",
+     "t": "First incision"
+    },
+    {
+     "y": "12:30",
+     "t": "Appendix removed"
+    },
+    {
+     "y": "13:22",
+     "t": "Last stitch"
+    }
+   ],
+   "active": 0,
+   "footer": "SOURCE: SUBMARINE SQUADRON TWO REPORT TO THE BUREAU OF MEDICINE AND SURGERY, OCT. 22, 1942 (NHHC)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_35b3ca",
+  "name": "timeline",
+  "opts": {
+   "kicker": "SEPTEMBER 11, 1942 \u00b7 120 FEET DOWN",
+   "title": "THE OPERATION",
+   "events": [
+    {
+     "y": "10:46",
+     "t": "Ether starts"
+    },
+    {
+     "y": "11:07",
+     "t": "First incision"
+    },
+    {
+     "y": "12:30",
+     "t": "Appendix removed"
+    },
+    {
+     "y": "13:22",
+     "t": "Last stitch"
+    }
+   ],
+   "active": 1,
+   "footer": "SOURCE: SUBMARINE SQUADRON TWO REPORT TO THE BUREAU OF MEDICINE AND SURGERY, OCT. 22, 1942 (NHHC)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_f01dbb",
+  "name": "quote",
+  "opts": {
+   "q": "It wasn't one of those \"snappy valve\" appendixes.",
+   "w": "WHEELER LIPES \u00b7 NPR, 2005"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_6ba23a",
+  "name": "timeline",
+  "opts": {
+   "kicker": "SEPTEMBER 11, 1942 \u00b7 120 FEET DOWN",
+   "title": "THE OPERATION",
+   "events": [
+    {
+     "y": "10:46",
+     "t": "Ether starts"
+    },
+    {
+     "y": "11:07",
+     "t": "First incision"
+    },
+    {
+     "y": "12:30",
+     "t": "Appendix removed"
+    },
+    {
+     "y": "13:22",
+     "t": "Last stitch"
+    }
+   ],
+   "active": 2,
+   "footer": "SOURCE: SUBMARINE SQUADRON TWO REPORT TO THE BUREAU OF MEDICINE AND SURGERY, OCT. 22, 1942 (NHHC)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_ffd27c",
+  "name": "timeline",
+  "opts": {
+   "kicker": "SEPTEMBER 11, 1942 \u00b7 120 FEET DOWN",
+   "title": "THE OPERATION",
+   "events": [
+    {
+     "y": "10:46",
+     "t": "Ether starts"
+    },
+    {
+     "y": "11:07",
+     "t": "First incision"
+    },
+    {
+     "y": "12:30",
+     "t": "Appendix removed"
+    },
+    {
+     "y": "13:22",
+     "t": "Last stitch"
+    }
+   ],
+   "active": 3,
+   "footer": "SOURCE: SUBMARINE SQUADRON TWO REPORT TO THE BUREAU OF MEDICINE AND SURGERY, OCT. 22, 1942 (NHHC)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_e0bafb",
+  "name": "stat",
+  "opts": {
+   "a": "2 H 36 MIN",
+   "b": "ETHER TO LAST STITCH \u00b7 120 FEET DOWN",
+   "c": "10:46 \u2192 13:22 \u00b7 SEPT. 11, 1942 \u00b7 SOURCE: SUBMARINE SQUADRON TWO REPORT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_202b11",
+  "name": "chapter",
+  "opts": {
+   "case": "SEPT. 1942",
+   "n": "VI",
+   "t": "STILL PITCHING"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_0f3ca8",
+  "name": "quote",
+  "opts": {
+   "q": "I'm still in there pitching.",
+   "w": "THE PATIENT, ON WAKING \u00b7 AS REPORTED BY GEORGE WELLER, CHICAGO DAILY NEWS, 1942"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_fe8bd3",
+  "name": "stat",
+  "opts": {
+   "a": "103.6\u00b0F",
+   "b": "HIGHEST TEMPERATURE \u00b7 18 HOURS AFTER SURGERY",
+   "c": "THEN RECOVERY \u00b7 BACK ON DUTY WITHIN DAYS \u00b7 SOURCES: SQUADRON TWO REPORT \u00b7 NHHC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_8d3945",
+  "name": "quote",
+  "opts": {
+   "q": "Doc, you must have sewed him up with rubber bands, the way he eats.",
+   "w": "SEADRAGON'S COOK \u00b7 AS RECALLED BY LIPES \u00b7 NAVY DEPARTMENT LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_5aa472",
+  "name": "doc",
+  "opts": {
+   "header": "DICTIONARY OF AMERICAN NAVAL FIGHTING SHIPS \u00b7 SEADRAGON",
+   "title": "ONE LINE IN THE RECORD",
+   "body": "\"\u2026her progress was delayed by an emergency appendectomy performed successfully by the pharmacist's mate.\"",
+   "source": "SOURCE: NAVAL HISTORY AND HERITAGE COMMAND",
+   "stamp": "SEPT. 11, 1942"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_197186",
+  "name": "doc",
+  "opts": {
+   "header": "SUBMARINE SQUADRON TWO \u00b7 OCT. 22, 1942",
+   "title": "THE NAVY'S VERDICT",
+   "body": "The result was \"entirely satisfactory.\" But major surgery by anyone other than qualified surgeons was \"by no means desirable to encourage.\"",
+   "source": "SOURCE: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 NAVY DEPARTMENT LIBRARY",
+   "stamp": "\"BY NO MEANS DESIRABLE\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_3957f2",
+  "name": "chapter",
+  "opts": {
+   "case": "DEC. 14, 1942",
+   "n": "VII",
+   "t": "THE STORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_ddec17",
+  "name": "doc",
+  "opts": {
+   "header": "CHICAGO DAILY NEWS \u00b7 DECEMBER 14, 1942",
+   "title": "BELOW ENEMY WATERS",
+   "body": "George Weller's report on the operation called it \"the first appendix ever known to have been removed below enemy waters.\"",
+   "source": "SOURCES: PULITZER PRIZE BOARD \u00b7 WELLER ARCHIVE",
+   "stamp": "PULITZER 1943"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_5a9911",
+  "name": "stat",
+  "opts": {
+   "a": "PULITZER",
+   "b": "1943 PRIZE FOR REPORTING \u00b7 GEORGE WELLER",
+   "c": "\"\u2026PERFORMED AN OPERATION FOR APPENDICITIS SAVING A SAILOR'S LIFE\" \u00b7 SOURCE: PULITZER.ORG"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_044be7",
+  "name": "doc",
+  "opts": {
+   "header": "CAVALCADE OF AMERICA \u00b7 MAY 24, 1943",
+   "title": "ON THE RADIO",
+   "body": "Episode: \"Pharmacist's Mate, First Class.\" An actor played the sailor based on Lipes. Lipes himself appeared at the end of the show.",
+   "source": "SOURCE: WIKIPEDIA, \"WHEELER BRYSON LIPES\"",
+   "stamp": "MAY 1943"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_b20ed6",
+  "name": "chapter",
+  "opts": {
+   "case": "DEC. 1942",
+   "n": "VIII",
+   "t": "TWICE MORE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_ba765b",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      110,
+      -36
+     ],
+     [
+      160,
+      5
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       115.75,
+       -32.05
+      ],
+      "name": "FREMANTLE",
+      "d": 0.4,
+      "size": 30
+     },
+     {
+      "ll": [
+       150.5,
+       -3.5
+      ],
+      "name": "BISMARCK ARCHIPELAGO",
+      "sub": "GRAYBACK \u00b7 DEC. 1942",
+      "d": 0.9,
+      "anchor": "end",
+      "size": 30
+     },
+     {
+      "ll": [
+       153.0,
+       -27.5
+      ],
+      "name": "BRISBANE",
+      "d": 0.6,
+      "size": 28
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       150.5,
+       -3.5
+      ],
+      "r": 32,
+      "n": 3,
+      "d": 0.9,
+      "color": "#E5383B"
+     }
+    ]
+   },
+   "kicker": "USS GRAYBACK \u00b7 FIFTH WAR PATROL",
+   "title": "100 FEET BENEATH THE SURFACE",
+   "footer": "SOURCE: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 DANFS: GRAYBACK \u00b7 POSITIONS APPROXIMATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_99f9e5",
+  "name": "timeline",
+  "opts": {
+   "kicker": "U.S. SUBMARINES \u00b7 1942",
+   "title": "THREE OPERATIONS AT SEA",
+   "events": [
+    {
+     "y": "SEPT. 11",
+     "t": "Seadragon \u00b7 120 ft"
+    },
+    {
+     "y": "DEC.",
+     "t": "Grayback \u00b7 100 ft"
+    },
+    {
+     "y": "DEC. 24\u201325",
+     "t": "Silversides"
+    }
+   ],
+   "active": 2,
+   "footer": "SOURCES: NAVAL HISTORY AND HERITAGE COMMAND \u00b7 DANFS: SEADRAGON, GRAYBACK, SILVERSIDES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_488a12",
+  "name": "chapter",
+  "opts": {
+   "case": "1944 \u2192 TODAY",
+   "n": "IX",
+   "t": "A DEPARTMENT OF ONE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_929d49",
+  "name": "cards3",
+  "opts": {
+   "kicker": "NAVY BUREAU OF MEDICINE AND SURGERY",
+   "title": "INDEPENDENT DUTY CORPSMEN, 1944",
+   "cards": [
+    {
+     "h": "245",
+     "t": "Hours",
+     "s": "Classroom"
+    },
+    {
+     "h": "235",
+     "t": "Hours",
+     "s": "Practical exercises"
+    },
+    {
+     "h": "GROTON",
+     "t": "Connecticut",
+     "s": "Submarine course",
+     "size": 84
+    }
+   ],
+   "footer": "SOURCE: BUMED, A BRIEF HISTORY OF THE U.S. NAVY INDEPENDENT DUTY CORPSMAN (2014), VIA DVIDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_9533e4",
+  "name": "quote",
+  "opts": {
+   "q": "\u2026all of the responsibility and accountability lies completely with me.",
+   "w": "HM1 SEO SONG \u00b7 INDEPENDENT DUTY CORPSMAN, USS MOBILE \u00b7 NAVY MEDICINE, 2023"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_518997",
+  "name": "chapter",
+  "opts": {
+   "case": "1944 \u00b7 2005",
+   "n": "X",
+   "t": "AFTERWARDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_5e0c21",
+  "name": "callcard",
+  "opts": {
+   "kicker": "AFTER THE WAR",
+   "title": "LT. CMDR. WHEELER B. LIPES",
+   "rows": [
+    [
+     "1951",
+     "Commissioned, Medical Service Corps"
+    ],
+    [
+     "1962",
+     "Left the Navy \u00b7 lieutenant commander"
+    ],
+    [
+     "1991",
+     "Retired as hospital president, Corpus Christi, Texas"
+    ],
+    [
+     "2005",
+     "Navy Commendation Medal"
+    ]
+   ],
+   "footer": "SOURCE: WIKIPEDIA, \"WHEELER BRYSON LIPES\" (CITING WASHINGTON POST, 2005) \u00b7 NPR, 2005"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6c6e06",
+  "name": "stat",
+  "opts": {
+   "a": "60+ YEARS",
+   "b": "BEFORE THE NAVY GAVE LIPES A MEDAL FOR THE OPERATION",
+   "c": "NAVY COMMENDATION MEDAL \u00b7 FEBRUARY 2005 \u00b7 SOURCE: NPR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_4fa8c3",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 THE SAVE \u00b7 NEXT",
+   "stamp": "NEXT SAVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_b1f229",
+  "name": "end",
+  "opts": {
+   "label": "FOR EDUCATION ONLY \u00b7 NOT MEDICAL ADVICE",
+   "stamp": "KEPT ALIVE"
+  },
+  "intro": 2.4
+ }
+]
