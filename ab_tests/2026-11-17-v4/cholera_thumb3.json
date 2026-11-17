@@ -1,0 +1,9 @@
+{"A":{"left":{"img":"img/map.jpg","cover":true,"pos":"48% 62%"},
+      "right":{"number":"500+","label":"DEAD IN 10 DAYS"},
+      "split":0.5,"tag":"OUTBREAK","line1":"LONDON CHOLERA, 1854","line2":"ONE DOCTOR. ONE PUMP.","line2color":"red","size1":100,"size2":104},
+ "B":{"left":{"q":["WHAT","KILLED","500?"]},
+      "right":{"img":"img/map.jpg","cover":true,"pos":"48% 62%"},
+      "split":0.5,"tag":"1854"},
+ "C":{"left":{"img":"img/map.jpg","cover":true,"pos":"48% 62%"},
+      "right":{"number":"10 DAYS","label":"500+ DEAD"},
+      "split":0.5,"tag":"OUTBREAK","line1":"HE WENT HOUSE TO HOUSE","line2":"AND FOLLOWED THE WATER","line2color":"yellow","size1":96,"size2":100}}
