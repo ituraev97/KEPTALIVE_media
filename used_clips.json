@@ -1090,5 +1090,113 @@
   "episode": "102-submarine-appendectomy",
   "date": "2026-11-18",
   "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "1029639",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "1029569",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "1029529",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1445 (sav_build, sav_aides, sav_ward, sav_walk, sav_train, sav_quay, sav_mercy)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1181 (ny_liberty, ny_litter, ny_parade)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1212 (nh_convoy, nh_load, nh_unload)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1299 (bac_barrage, bac_crawl, bac_trench, bac_aid, bac_litter, bac_cem)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1405 (ma_trucks, ma_jam, ma_mud, ma_litter, ma_road, ma_esnes)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1367 (am_choc, am_gas, am_letter)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1360 (am_advance, am_fh)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1357 (fis_tents, fis_sign)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1327 (sm_barrage, sm_aid)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1419 (arg_fh, arg_mg, arg_mud)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1421 (arg_pan, arg_tents, arg_aid)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1364 (ct_amb)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "111-H-1121 Gas Alarm (gas_cloud, gas_masks, gas_trench, gas_litter, gas_party)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "200-FC-45 (gh36)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
+ },
+ {
+  "id": "Med. Dept. in the World War Vol. VIII/II stills + Manual of Splints 1917 (stills16/*)",
+  "episode": "103-wounded-ww1",
+  "date": "2026-11-19",
+  "channel": "KEPT ALIVE"
  }
 ]

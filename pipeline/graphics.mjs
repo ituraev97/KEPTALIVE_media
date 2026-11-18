@@ -281,9 +281,9 @@ const B = {
    `),
   list: (o) => page(`${header(o.kicker, o.title)}
    <div style="position:absolute;left:110px;top:330px;right:110px">
-   ${o.items.map((c, i) => `<div class="a" data-d="${0.25 + i * 0.22}" style="display:flex;align-items:center;gap:34px;margin-bottom:40px">
-     <div class="anton" style="font-size:72px;color:#2BB3A3;width:90px">${String(i + 1).padStart(2, "0")}</div>
-     <div class="osw" style="font-size:50px;text-transform:none;letter-spacing:.01em">${c}</div></div>`).join("")}
+   ${o.items.map((c, i) => `<div class="a" data-d="${0.25 + i * 0.22}" style="display:flex;align-items:center;gap:34px;margin-bottom:${o.items.length > 4 ? 14 : 40}px">
+     <div class="anton" style="font-size:${o.items.length > 4 ? 62 : 72}px;color:#2BB3A3;width:90px">${String(i + 1).padStart(2, "0")}</div>
+     <div class="osw" style="font-size:${o.items.length > 4 ? 44 : 50}px;text-transform:none;letter-spacing:.01em">${c}</div></div>`).join("")}
    </div>${o.footer ? footer(o.footer) : ""}`),
   phases: (o) => page(`${header(o.kicker, o.title)}
    <div style="position:absolute;left:110px;right:110px;top:330px;display:grid;grid-template-columns:1fr 1fr;gap:60px">

@@ -3,7 +3,7 @@
 usage: finish.py <episode_dir> <clips_dir>   (after build_ep.py)"""
 import json, os, re, subprocess, sys, importlib.util
 import numpy as np, soundfile as sf
-from scipy.signal import butter, sosfilt, fftconvolve
+from scipy.signal import butter, sosfilt, fftconvolve, oaconvolve
 EP = os.path.abspath(sys.argv[1]); CLIPS = os.path.abspath(sys.argv[2])
 spec = importlib.util.spec_from_file_location("episode", os.path.join(EP, "episode.py")); E = importlib.util.module_from_spec(spec); spec.loader.exec_module(E)
 LINES, DISPLAY = E.LINES, E.DISPLAY
@@ -87,7 +87,12 @@ open("subs.ass", "w", encoding="utf-8").write(head + "\n".join(ev) + "\n")
 open("subs_en.srt", "w", encoding="utf-8").write("\n".join(srt))
 
 # ---------------- SCORE ----------------
-N = int(TOTAL * SR) + SR; t = np.arange(N) / SR
+N = int(TOTAL * SR) + SR  # long (40+ min) episodes: float32 buffers + chunked synthesis (float64 full-length arrays OOM)
+def synth(fn):  # fn(tt) evaluated in float64 chunks, stored float32
+    out = np.empty(N, np.float32); C = 4_000_000
+    for i in range(0, N, C):
+        tt = np.arange(i, min(N, i + C)) / SR; out[i:i + len(tt)] = fn(tt)
+    return out
 rng = np.random.default_rng(16)
 def lp(x, f, o=4): return sosfilt(butter(o, f, "low", fs=SR, output="sos"), x)
 def hp(x, f, o=2): return sosfilt(butter(o, f, "high", fs=SR, output="sos"), x)
@@ -99,7 +104,7 @@ last = chap[-1] if chap else TOTAL * .85
 # chord plan: tense i-VI-III-VII in D minor, the last chapter brightens to VI-III-VII-I(major)
 TENSE = [[50, 57, 62, 65], [46, 53, 58, 62], [53, 57, 60, 65], [48, 55, 60, 64]]
 BRIGHT = [[46, 53, 58, 62], [53, 57, 60, 65], [48, 55, 60, 64], [50, 57, 62, 66]]
-pad = np.zeros(N); CH = 8.0
+pad = np.zeros(N, np.float32); CH = 8.0
 k = 0
 while k * CH < TOTAL:
     a0 = k * CH; prog = BRIGHT if a0 >= last else TENSE; chord = prog[k % 4]
@@ -111,10 +116,10 @@ while k * CH < TOTAL:
             f = hz(m + det)
             seg += (np.sin(2 * np.pi * f * tt) + .35 * np.sin(4 * np.pi * f * tt) + .15 * np.sin(6 * np.pi * f * tt)) * (0.55 if j == 0 else 0.3)
     pad[i0:i1] += seg * env; k += 1
-pad = lp(pad, 1500) * (0.75 + 0.25 * np.sin(2 * np.pi * 0.05 * t))
-sub = np.sin(2 * np.pi * hz(38) * t) * 0.25 * (0.6 + 0.4 * np.sin(2 * np.pi * 0.031 * t))
+pad = lp(pad, 1500).astype(np.float32); pad *= synth(lambda tt: 0.75 + 0.25 * np.sin(2 * np.pi * 0.05 * tt))
+sub = synth(lambda tt: np.sin(2 * np.pi * hz(38) * tt) * 0.25 * (0.6 + 0.4 * np.sin(2 * np.pi * 0.031 * tt)))
 # soft ticking "clock" during search/cold/hoist chapters, plucks in the bright ending
-clock = np.zeros(N)
+clock = np.zeros(N, np.float32)
 def tick():
     L = int(.05 * SR); x = hp(rng.standard_normal(L), 3500) * np.exp(-np.arange(L) / (0.008 * SR)); return x
 tense_from, tense_to = (chap[2], chap[5]) if len(chap) >= 6 else (0, 0)
@@ -122,7 +127,7 @@ bt = tense_from
 while bt < tense_to:
     i0 = int(bt * SR); x = tick() * (0.5 if int(round((bt - tense_from) / 0.5)) % 2 == 0 else 0.28)
     clock[i0:i0 + len(x)] += x[:max(0, min(len(x), N - i0))]; bt += 0.5
-pluck = np.zeros(N)
+pluck = np.zeros(N, np.float32)
 def ks(f, d=1.6, amp=.35):  # soft pluck: decaying harmonics
     L = int(d * SR); tt = np.arange(L) / SR
     x = sum(np.sin(2 * np.pi * f * h * tt) * np.exp(-tt * (2.2 + 1.8 * h)) / h for h in (1, 2, 3, 4))
@@ -132,9 +137,10 @@ bt, q = last, 0
 while bt < TOTAL - 3:
     x = ks(hz(NOTES[q % len(NOTES)]))
     i0 = int(bt * SR); pluck[i0:i0 + len(x)] += x[:max(0, min(len(x), N - i0))]; bt += 1.0; q += 1
-music = pad * .32 + sub * .5 + clock * .22 + pluck * .5
-music = music + fftconvolve(music, ir[:int(1.5 * SR)])[:N] * .3
-env = np.ones(N); fi = int(3 * SR); env[:fi] *= np.linspace(0, 1, fi)
+music = pad; music *= .32; music += sub * .5; del sub; music += clock * .22; del clock; music += pluck * .5; del pluck
+music = music + oaconvolve(music, ir[:int(1.5 * SR)])[:N] * .3  # overlap-add: long (40+ min) episodes OOM with fftconvolve
+music = music.astype(np.float32)
+env = np.ones(N, np.float32); fi = int(3 * SR); env[:fi] *= np.linspace(0, 1, fi)
 eo = int((TOTAL - 6) * SR); env[eo:] *= np.linspace(1, 0, N - eo)
 # music drops out briefly before "punch" lines so they land in silence
 for i, (_, _, o) in enumerate(LINES):
@@ -146,7 +152,7 @@ for i, (_, _, o) in enumerate(LINES):
 music *= env
 
 # ---------------- SFX ----------------
-fx = np.zeros(N)
+fx = np.zeros(N, np.float32)
 def put(x, at):
     i0 = int(max(0, at) * SR); j = min(N, i0 + len(x)); fx[i0:j] += x[:j - i0]
 def whoosh(amp=.35, d=.7):
@@ -181,12 +187,13 @@ for i, (_, sh, o) in enumerate(LINES):
     if "g:end" in names: put(boom(.7), S[i] + 0.4)
 
 # ---------------- VOICE + NAT ----------------
-voice = np.zeros(N)
+voice = np.zeros(N, np.float32)
 for i, s in enumerate(S):
     x, sr = sf.read(f"vo/l_{i+1:02d}.wav")
     if x.ndim > 1: x = x.mean(1)
     i0 = int(s * SR); voice[i0:i0 + len(x)] += x[:N - i0]
-venv = np.convolve(np.abs(voice), np.ones(int(.3 * SR)) / int(.3 * SR), mode="same")
+_w = int(.3 * SR); _c = np.concatenate([np.zeros(_w // 2 + 1), np.cumsum(np.abs(voice), dtype=np.float64), np.full(_w, 0.0)]); _c[-_w:] = _c[-_w - 1]
+venv = ((_c[_w:_w + N] - _c[:N]) / _w).astype(np.float32); del _c  # moving average via cumsum (same as np.convolve "same", O(N))
 duck = 1 - 0.55 * np.clip(venv / (venv.max() * .12 + 1e-9), 0, 1)
 music *= duck
 sf.write("music.wav", (music / max(1e-9, np.abs(music).max()) * .5).astype(np.float32), SR)

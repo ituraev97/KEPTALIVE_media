@@ -1,0 +1,1124 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:01.86,Sub,,0,0,0,,{\fad(80,80)}October 1918.
+Dialogue: 0,0:00:01.88,0:00:05.18,Sub,,0,0,0,,{\fad(80,80)}In the Meuse-Argonne, in northeastern France, the
+Dialogue: 0,0:00:05.20,0:00:08.29,Sub,,0,0,0,,{\fad(80,80)}American army is fighting its greatest battle.
+Dialogue: 0,0:00:08.31,0:00:11.54,Sub,,0,0,0,,{\fad(80,80)}Over 47 days, more than a million Americans will
+Dialogue: 0,0:00:11.56,0:00:12.22,Sub,,0,0,0,,{\fad(80,80)}take part.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE MEUSE VALLEY · NOV. 1918
+Dialogue: 0,0:00:25.22,0:00:28.06,Sub,,0,0,0,,{\fad(80,80)}But for every American killed in battle in this war,
+Dialogue: 0,0:00:28.08,0:00:29.66,Sub,,0,0,0,,{\fad(80,80)}about four more were wounded.
+Dialogue: 2,0:00:25.47,0:00:30.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:00:25.47,0:00:30.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:25.47,0:00:30.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:00:25.47,0:00:30.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WOUNDED CARRIED TO THE REAR · MEUSE-ARGONNE
+Dialogue: 0,0:00:30.13,0:00:32.05,Sub,,0,0,0,,{\fad(80,80)}So imagine you are one of them.
+Dialogue: 0,0:00:32.07,0:00:35.32,Sub,,0,0,0,,{\fad(80,80)}You are an infantryman in the American Expeditionary
+Dialogue: 0,0:00:35.34,0:00:35.76,Sub,,0,0,0,,{\fad(80,80)}Forces.
+Dialogue: 0,0:00:35.78,0:00:37.14,Sub,,0,0,0,,{\fad(80,80)}A shell bursts nearby.
+Dialogue: 0,0:00:37.16,0:00:38.34,Sub,,0,0,0,,{\fad(80,80)}Something hits you.
+Dialogue: 2,0:00:30.38,0:00:36.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:00:30.38,0:00:36.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:30.38,0:00:36.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:00:30.38,0:00:36.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMERICAN INFANTRY ADVANCE · AISNE-MARNE
+Dialogue: 0,0:00:48.88,0:00:51.60,Sub,,0,0,0,,{\fad(80,80)}Doctors knew they had about 12 hours to operate
+Dialogue: 0,0:00:51.62,0:00:53.53,Sub,,0,0,0,,{\fad(80,80)}before infection could take hold.
+Dialogue: 0,0:00:53.55,0:00:56.05,Sub,,0,0,0,,{\fad(80,80)}In a big battle, the roads were jammed, the
+Dialogue: 0,0:00:56.07,0:00:58.85,Sub,,0,0,0,,{\fad(80,80)}stretcher bearers waited for dark, and the clock
+Dialogue: 0,0:00:58.87,0:00:59.61,Sub,,0,0,0,,{\fad(80,80)}kept running.
+Dialogue: 2,0:00:49.13,0:00:54.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:00:49.13,0:00:54.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:49.13,0:00:54.88,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:00:49.13,0:00:54.88,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TRAFFIC ON THE ROADS · MEUSE-ARGONNE
+Dialogue: 0,0:01:00.08,0:01:03.03,Sub,,0,0,0,,{\fad(80,80)}This is what happened to a wounded American in the
+Dialogue: 0,0:01:03.05,0:01:03.98,Sub,,0,0,0,,{\fad(80,80)}First World War.
+Dialogue: 0,0:01:04.00,0:01:07.01,Sub,,0,0,0,,{\fad(80,80)}Step by step, from the moment he was hit to the day
+Dialogue: 0,0:01:07.03,0:01:09.50,Sub,,0,0,0,,{\fad(80,80)}he came home, from the Army's own records.
+Dialogue: 2,0:01:00.33,0:01:06.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:01:00.33,0:01:06.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:00.33,0:01:06.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:01:00.33,0:01:06.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STRETCHER BEARERS · 42ND DIVISION
+Dialogue: 0,0:01:17.72,0:01:20.63,Sub,,0,0,0,,{\fad(80,80)}Long before most American combat troops reached
+Dialogue: 0,0:01:20.65,0:01:23.74,Sub,,0,0,0,,{\fad(80,80)}France, American medical units were already there.
+Dialogue: 2,0:01:17.97,0:01:23.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:01:17.97,0:01:23.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:17.97,0:01:23.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. II (1927)
+Dialogue: 3,0:01:17.97,0:01:23.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BASE HOSPITAL NO. 7 FROM THE AIR · JOUE-LES-TOURS
+Dialogue: 0,0:01:58.34,0:01:59.49,Sub,,0,0,0,,{\fad(80,80)}And the first U.S.
+Dialogue: 0,0:01:59.51,0:02:03.16,Sub,,0,0,0,,{\fad(80,80)}Army soldiers killed by enemy action were at a hospital.
+Dialogue: 2,0:01:58.59,0:02:03.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:01:58.59,0:02:03.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:58.59,0:02:03.58,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:01:58.59,0:02:03.58,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:02:03.63,0:02:07.14,Sub,,0,0,0,,{\fad(80,80)}On the night of September 4, 1917, German bombers
+Dialogue: 0,0:02:07.16,0:02:08.66,Sub,,0,0,0,,{\fad(80,80)}hit Base Hospital No.
+Dialogue: 0,0:02:08.68,0:02:12.26,Sub,,0,0,0,,{\fad(80,80)}5, Harvard's unit, at Camiers on the French coast.
+Dialogue: 2,0:02:03.88,0:02:09.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:02:03.88,0:02:09.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:03.88,0:02:09.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:02:03.88,0:02:09.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:02:27.89,0:02:31.27,Sub,,0,0,0,,{\fad(80,80)}Harvard's unit had reached France less than a month
+Dialogue: 0,0:02:31.29,0:02:33.26,Sub,,0,0,0,,{\fad(80,80)}after its call for volunteers.
+Dialogue: 0,0:02:33.28,0:02:36.52,Sub,,0,0,0,,{\fad(80,80)}Over the war, it treated more than 45,000 British
+Dialogue: 0,0:02:36.54,0:02:37.98,Sub,,0,0,0,,{\fad(80,80)}and American patients.
+Dialogue: 2,0:02:28.14,0:02:33.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 888 0 l 888 132 l 0 132{\p0}
+Dialogue: 3,0:02:28.14,0:02:33.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:28.14,0:02:33.89,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:02:28.14,0:02:33.89,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL WARDS GO UP · SAVENAY, FRANCE
+Dialogue: 0,0:02:38.45,0:02:41.21,Sub,,0,0,0,,{\fad(80,80)}By the time the war ended, the Army Medical
+Dialogue: 0,0:02:41.23,0:02:44.12,Sub,,0,0,0,,{\fad(80,80)}Department had grown into an army of its own.
+Dialogue: 2,0:02:38.70,0:02:44.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 888 0 l 888 132 l 0 132{\p0}
+Dialogue: 3,0:02:38.70,0:02:44.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:38.70,0:02:44.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:02:38.70,0:02:44.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL WARDS GO UP · SAVENAY, FRANCE
+Dialogue: 0,0:03:01.50,0:03:04.18,Sub,,0,0,0,,{\fad(80,80)}Its job was to take a man from the moment he was
+Dialogue: 0,0:03:04.20,0:03:06.82,Sub,,0,0,0,,{\fad(80,80)}hit, through a chain of stations that stretched
+Dialogue: 0,0:03:06.84,0:03:09.58,Sub,,0,0,0,,{\fad(80,80)}hundreds of miles, all the way back to the United
+Dialogue: 0,0:03:09.60,0:03:10.70,Sub,,0,0,0,,{\fad(80,80)}States if it had to.
+Dialogue: 2,0:03:01.75,0:03:07.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:03:01.75,0:03:07.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:01.75,0:03:07.50,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:03:01.75,0:03:07.50,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. HOSPITAL TRAIN · FRANCE
+Dialogue: 0,0:03:49.68,0:03:52.20,Sub,,0,0,0,,{\fad(80,80)}This is the story of the 200,000.
+Dialogue: 2,0:03:49.93,0:03:52.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:03:49.93,0:03:52.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:49.93,0:03:52.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:03:49.93,0:03:52.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STRETCHER BEARERS · 42ND DIVISION
+Dialogue: 0,0:03:55.75,0:03:57.14,Sub,,0,0,0,,{\fad(80,80)}Not what you might expect.
+Dialogue: 0,0:03:57.16,0:03:59.26,Sub,,0,0,0,,{\fad(80,80)}Not the bayonet charge from the movies.
+Dialogue: 2,0:03:56.00,0:03:59.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:03:56.00,0:03:59.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:56.00,0:03:59.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:03:56.00,0:03:59.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMERICAN INFANTRY ADVANCE · AISNE-MARNE
+Dialogue: 0,0:04:26.47,0:04:29.27,Sub,,0,0,0,,{\fad(80,80)}Another third were listed only as gun wounds, with
+Dialogue: 0,0:04:29.29,0:04:30.17,Sub,,0,0,0,,{\fad(80,80)}no weapon named.
+Dialogue: 0,0:04:30.19,0:04:32.03,Sub,,0,0,0,,{\fad(80,80)}Other counts fill in the picture.
+Dialogue: 0,0:04:32.05,0:04:33.50,Sub,,0,0,0,,{\fad(80,80)}This was an artillery war.
+Dialogue: 2,0:04:26.72,0:04:32.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:04:26.72,0:04:32.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:26.72,0:04:32.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:04:26.72,0:04:32.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMERICAN ARTILLERY · LORRAINE AND ST. MIHIEL
+Dialogue: 0,0:05:07.04,0:05:08.83,Sub,,0,0,0,,{\fad(80,80)}A shell fragment is not clean.
+Dialogue: 0,0:05:08.85,0:05:11.66,Sub,,0,0,0,,{\fad(80,80)}It is jagged and hot, and it drives whatever it
+Dialogue: 0,0:05:11.68,0:05:13.47,Sub,,0,0,0,,{\fad(80,80)}passes through into the wound:
+Dialogue: 0,0:05:13.49,0:05:15.46,Sub,,0,0,0,,{\fad(80,80)}cloth from the uniform, and dirt.
+Dialogue: 2,0:05:07.29,0:05:13.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:05:07.29,0:05:13.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:07.29,0:05:13.04,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:05:07.29,0:05:13.04,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A PATROL MOVES FORWARD · LORRAINE
+Dialogue: 0,0:05:15.93,0:05:18.87,Sub,,0,0,0,,{\fad(80,80)}And the dirt of northern France had been farmed and
+Dialogue: 0,0:05:18.89,0:05:21.03,Sub,,0,0,0,,{\fad(80,80)}fertilized with manure for centuries.
+Dialogue: 0,0:05:21.05,0:05:23.88,Sub,,0,0,0,,{\fad(80,80)}It was full of bacteria that live without oxygen.
+Dialogue: 2,0:05:16.18,0:05:21.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 802 0 l 802 132 l 0 132{\p0}
+Dialogue: 3,0:05:16.18,0:05:21.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:16.18,0:05:21.93,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:05:16.18,0:05:21.93,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE RUINS OF ESNES · MEUSE-ARGONNE
+Dialogue: 0,0:05:44.10,0:05:45.00,Sub,,0,0,0,,{\fad(80,80)}It spread fast.
+Dialogue: 0,0:05:45.02,0:05:48.30,Sub,,0,0,0,,{\fad(80,80)}That is why the Army's surgeons talked about 12 hours.
+Dialogue: 0,0:05:48.32,0:05:51.29,Sub,,0,0,0,,{\fad(80,80)}If a wound could be cleaned out surgically within
+Dialogue: 0,0:05:51.31,0:05:54.34,Sub,,0,0,0,,{\fad(80,80)}about 12 hours, the man's chances were far better.
+Dialogue: 2,0:05:44.35,0:05:50.10,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:05:44.35,0:05:50.10,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:44.35,0:05:50.10,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:05:44.35,0:05:50.10,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUPPLY COLUMNS · MEUSE-ARGONNE
+Dialogue: 0,0:06:12.57,0:06:15.99,Sub,,0,0,0,,{\fad(80,80)}The battalion surgeon taught every man how to put it on.
+Dialogue: 0,0:06:16.01,0:06:17.22,Sub,,0,0,0,,{\fad(80,80)}The idea was simple:
+Dialogue: 0,0:06:17.24,0:06:20.17,Sub,,0,0,0,,{\fad(80,80)}cover the wound and protect it from more damage,
+Dialogue: 0,0:06:20.19,0:06:21.33,Sub,,0,0,0,,{\fad(80,80)}until help arrived.
+Dialogue: 2,0:06:12.82,0:06:18.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:06:12.82,0:06:18.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:12.82,0:06:18.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:06:12.82,0:06:18.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION TRENCHES · LORRAINE
+Dialogue: 0,0:06:29.62,0:06:32.42,Sub,,0,0,0,,{\fad(80,80)}Their job was to find the wounded, mark where they
+Dialogue: 0,0:06:32.44,0:06:33.60,Sub,,0,0,0,,{\fad(80,80)}lay, and gather them.
+Dialogue: 0,0:06:33.62,0:06:36.43,Sub,,0,0,0,,{\fad(80,80)}About four in ten of the wounded could still walk,
+Dialogue: 0,0:06:36.45,0:06:38.29,Sub,,0,0,0,,{\fad(80,80)}and they made their own way back.
+Dialogue: 2,0:06:29.87,0:06:35.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:06:29.87,0:06:35.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:29.87,0:06:35.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:06:29.87,0:06:35.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A PATROL MOVES FORWARD · LORRAINE
+Dialogue: 0,0:06:38.76,0:06:40.30,Sub,,0,0,0,,{\fad(80,80)}Everyone else had to be carried.
+Dialogue: 2,0:06:39.01,0:06:40.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:06:39.01,0:06:40.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:39.01,0:06:40.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:06:39.01,0:06:40.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WOUNDED CARRIED TO THE REAR · MEUSE-ARGONNE
+Dialogue: 0,0:06:49.38,0:06:51.48,Sub,,0,0,0,,{\fad(80,80)}The mud was sometimes up to their knees.
+Dialogue: 0,0:06:51.50,0:06:53.96,Sub,,0,0,0,,{\fad(80,80)}The wooden handles of the stretchers rotted and
+Dialogue: 0,0:06:53.98,0:06:56.60,Sub,,0,0,0,,{\fad(80,80)}splintered, and the bearers' hands were covered in
+Dialogue: 0,0:06:56.62,0:06:57.81,Sub,,0,0,0,,{\fad(80,80)}blisters and splinters.
+Dialogue: 2,0:06:49.63,0:06:55.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:06:49.63,0:06:55.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:49.63,0:06:55.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:06:49.63,0:06:55.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STRETCHER BEARERS · 42ND DIVISION
+Dialogue: 0,0:06:58.28,0:07:01.17,Sub,,0,0,0,,{\fad(80,80)}They drew their own maps of the trenches, and redrew
+Dialogue: 0,0:07:01.19,0:07:03.80,Sub,,0,0,0,,{\fad(80,80)}them as the trenches collapsed under shellfire.
+Dialogue: 2,0:06:58.53,0:07:04.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:06:58.53,0:07:04.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:58.53,0:07:04.22,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:06:58.53,0:07:04.22,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION TRENCHES · LORRAINE
+Dialogue: 0,0:07:04.27,0:07:07.08,Sub,,0,0,0,,{\fad(80,80)}They were not armed, and they were not protected.
+Dialogue: 0,0:07:07.10,0:07:09.62,Sub,,0,0,0,,{\fad(80,80)}Their only shield was the Red Cross on their
+Dialogue: 0,0:07:09.64,0:07:12.51,Sub,,0,0,0,,{\fad(80,80)}armband, and in an artillery war, a shell does not
+Dialogue: 0,0:07:12.53,0:07:13.32,Sub,,0,0,0,,{\fad(80,80)}read armbands.
+Dialogue: 2,0:07:04.52,0:07:10.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:07:04.52,0:07:10.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:04.52,0:07:10.27,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:07:04.52,0:07:10.27,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AID STATION · 89TH DIVISION · MEUSE-ARGONNE
+Dialogue: 0,0:07:13.79,0:07:17.02,Sub,,0,0,0,,{\fad(80,80)}And the hardest part of the job, as one history of
+Dialogue: 0,0:07:17.04,0:07:18.52,Sub,,0,0,0,,{\fad(80,80)}them puts it, was this:
+Dialogue: 0,0:07:18.54,0:07:21.71,Sub,,0,0,0,,{\fad(80,80)}to carry a man through enemy fire, and find, when
+Dialogue: 0,0:07:21.73,0:07:24.90,Sub,,0,0,0,,{\fad(80,80)}they finally reached the aid station, that he was
+Dialogue: 0,0:07:24.92,0:07:25.74,Sub,,0,0,0,,{\fad(80,80)}already dead.
+Dialogue: 2,0:07:14.04,0:07:19.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:07:14.04,0:07:19.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:14.04,0:07:19.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:07:14.04,0:07:19.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION TRENCHES · LORRAINE
+Dialogue: 0,0:07:26.21,0:07:29.09,Sub,,0,0,0,,{\fad(80,80)}Under fire, the carry back often had to wait for night.
+Dialogue: 2,0:07:26.46,0:07:29.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:07:26.46,0:07:29.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:26.46,0:07:29.51,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:07:26.46,0:07:29.51,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE MEUSE VALLEY · NOV. 1918
+Dialogue: 0,0:07:36.24,0:07:39.05,Sub,,0,0,0,,{\fad(80,80)}Then the bearers came, and you were carried to the
+Dialogue: 0,0:07:39.07,0:07:40.69,Sub,,0,0,0,,{\fad(80,80)}first real stop on the chain:
+Dialogue: 0,0:07:40.71,0:07:42.17,Sub,,0,0,0,,{\fad(80,80)}the battalion aid station.
+Dialogue: 2,0:07:36.49,0:07:42.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 802 0 l 802 132 l 0 132{\p0}
+Dialogue: 3,0:07:36.49,0:07:42.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:36.49,0:07:42.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:07:36.49,0:07:42.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AID STATION DUGOUT · 42ND DIVISION
+Dialogue: 0,0:07:42.64,0:07:46.17,Sub,,0,0,0,,{\fad(80,80)}It sat about 500 to 1,000 yards behind the line, in
+Dialogue: 0,0:07:46.19,0:07:49.38,Sub,,0,0,0,,{\fad(80,80)}a dugout, or in whatever building still stood.
+Dialogue: 2,0:07:42.89,0:07:48.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1231 0 l 1231 132 l 0 132{\p0}
+Dialogue: 3,0:07:42.89,0:07:48.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:42.89,0:07:48.64,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:07:42.89,0:07:48.64,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DRESSING STATION AT BETRICAMP, FRANCE · APRIL 20, 1918
+Dialogue: 0,0:07:57.83,0:08:00.76,Sub,,0,0,0,,{\fad(80,80)}Here the doctor did what he could, and only that.
+Dialogue: 0,0:08:00.78,0:08:02.21,Sub,,0,0,0,,{\fad(80,80)}Iodine around the wound.
+Dialogue: 0,0:08:02.23,0:08:03.24,Sub,,0,0,0,,{\fad(80,80)}A fresh dressing.
+Dialogue: 0,0:08:03.26,0:08:05.11,Sub,,0,0,0,,{\fad(80,80)}Something to stop the bleeding.
+Dialogue: 0,0:08:05.13,0:08:06.44,Sub,,0,0,0,,{\fad(80,80)}Morphine for the pain.
+Dialogue: 2,0:07:58.08,0:08:03.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1510 0 l 1510 132 l 0 132{\p0}
+Dialogue: 3,0:07:58.08,0:08:03.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:58.08,0:08:03.83,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:07:58.08,0:08:03.83,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}REGIMENTAL AID STATION, 28TH INFANTRY, NEAR CANTIGNY · MAY 28, 1918
+Dialogue: 0,0:08:06.91,0:08:09.79,Sub,,0,0,0,,{\fad(80,80)}Blankets, and a hot drink, because the doctors had
+Dialogue: 0,0:08:09.81,0:08:12.75,Sub,,0,0,0,,{\fad(80,80)}learned that a wounded man who was cold and wet was
+Dialogue: 0,0:08:12.77,0:08:14.44,Sub,,0,0,0,,{\fad(80,80)}more likely to go into shock.
+Dialogue: 2,0:08:07.16,0:08:12.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 802 0 l 802 132 l 0 132{\p0}
+Dialogue: 3,0:08:07.16,0:08:12.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:07.16,0:08:12.91,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:08:07.16,0:08:12.91,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AID STATION DUGOUT · 42ND DIVISION
+Dialogue: 0,0:08:14.91,0:08:17.09,Sub,,0,0,0,,{\fad(80,80)}And a shot of tetanus antitoxin.
+Dialogue: 0,0:08:17.11,0:08:18.88,Sub,,0,0,0,,{\fad(80,80)}Every wounded man got one.
+Dialogue: 2,0:08:15.16,0:08:19.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:08:15.16,0:08:19.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:15.16,0:08:19.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:08:15.16,0:08:19.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AID STATION · ANSAUVILLE · ST. MIHIEL
+Dialogue: 0,0:08:32.46,0:08:35.68,Sub,,0,0,0,,{\fad(80,80)}Once every wounded man got the shot, the rate fell
+Dialogue: 0,0:08:35.70,0:08:38.46,Sub,,0,0,0,,{\fad(80,80)}to about 1.5 per 1,000 within three months.
+Dialogue: 0,0:08:38.48,0:08:41.50,Sub,,0,0,0,,{\fad(80,80)}At American aid stations, the shot was routine.
+Dialogue: 2,0:08:32.71,0:08:38.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:08:32.71,0:08:38.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:32.71,0:08:38.46,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:08:32.71,0:08:38.46,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AID STATION · 89TH DIVISION · MEUSE-ARGONNE
+Dialogue: 0,0:08:41.97,0:08:44.94,Sub,,0,0,0,,{\fad(80,80)}Then the doctor filled out a field medical card for you.
+Dialogue: 2,0:08:42.22,0:08:45.36,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:08:42.22,0:08:45.36,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:42.22,0:08:45.36,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:08:42.22,0:08:45.36,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WALKING WOUNDED WITH TAGS · ST. NAZAIRE AREA
+Dialogue: 0,0:08:49.70,0:08:52.43,Sub,,0,0,0,,{\fad(80,80)}But if the shell had broken your thigh bone, there
+Dialogue: 0,0:08:52.45,0:08:54.85,Sub,,0,0,0,,{\fad(80,80)}was one more thing the aid station could do.
+Dialogue: 0,0:08:54.87,0:08:57.55,Sub,,0,0,0,,{\fad(80,80)}And it was the difference between life and death.
+Dialogue: 2,0:08:49.95,0:08:55.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:08:49.95,0:08:55.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:49.95,0:08:55.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:08:49.95,0:08:55.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCES NEAR BERTRICHAMP · 42ND DIVISION
+Dialogue: 0,0:09:00.70,0:09:03.77,Sub,,0,0,0,,{\fad(80,80)}Early in the war, a soldier whose thigh bone was
+Dialogue: 0,0:09:03.79,0:09:06.98,Sub,,0,0,0,,{\fad(80,80)}shattered by a shell or a bullet, a so-called open
+Dialogue: 0,0:09:07.00,0:09:09.49,Sub,,0,0,0,,{\fad(80,80)}femur fracture, was very likely to die.
+Dialogue: 2,0:09:00.95,0:09:06.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:09:00.95,0:09:06.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:00.95,0:09:06.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:09:00.95,0:09:06.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WOUNDED CARRIED TO THE REAR · MEUSE-ARGONNE
+Dialogue: 0,0:09:16.42,0:09:19.03,Sub,,0,0,0,,{\fad(80,80)}The femur, the thigh bone, is the longest bone in
+Dialogue: 0,0:09:19.05,0:09:19.52,Sub,,0,0,0,,{\fad(80,80)}the body.
+Dialogue: 0,0:09:19.54,0:09:21.73,Sub,,0,0,0,,{\fad(80,80)}Shattered, it is very hard to hold still.
+Dialogue: 2,0:09:16.67,0:09:22.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1296 0 l 1296 132 l 0 132{\p0}
+Dialogue: 3,0:09:16.67,0:09:22.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:16.67,0:09:22.15,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY MANUAL OF SPLINTS AND APPLIANCES · 1917
+Dialogue: 3,0:09:16.67,0:09:22.15,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THOMAS TRACTION LEG SPLINT, APPLIED IN BED · LINE DRAWING
+Dialogue: 0,0:09:22.20,0:09:24.87,Sub,,0,0,0,,{\fad(80,80)}And without support, every jolt of a stretcher,
+Dialogue: 0,0:09:24.89,0:09:27.79,Sub,,0,0,0,,{\fad(80,80)}across shell holes and duckboards, moved the broken
+Dialogue: 0,0:09:27.81,0:09:28.42,Sub,,0,0,0,,{\fad(80,80)}bone again.
+Dialogue: 2,0:09:22.45,0:09:28.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:09:22.45,0:09:28.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:22.45,0:09:28.20,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:09:22.45,0:09:28.20,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STRETCHER BEARERS · 42ND DIVISION
+Dialogue: 0,0:09:28.89,0:09:30.95,Sub,,0,0,0,,{\fad(80,80)}The answer was an old invention.
+Dialogue: 0,0:09:30.97,0:09:34.25,Sub,,0,0,0,,{\fad(80,80)}A frame of iron with a padded ring at the top and a
+Dialogue: 0,0:09:34.27,0:09:37.29,Sub,,0,0,0,,{\fad(80,80)}bar at the bottom, designed in Liverpool in the
+Dialogue: 0,0:09:37.31,0:09:41.05,Sub,,0,0,0,,{\fad(80,80)}1870s by a surgeon and bone-setter named Hugh Owen Thomas.
+Dialogue: 2,0:09:29.14,0:09:34.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:09:29.14,0:09:34.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:29.14,0:09:34.89,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY MANUAL OF SPLINTS AND APPLIANCES · 1917
+Dialogue: 3,0:09:29.14,0:09:34.89,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THOMAS TRACTION LEG SPLINT · LINE DRAWING
+Dialogue: 0,0:10:06.86,0:10:09.67,Sub,,0,0,0,,{\fad(80,80)}One British surgical history describes bearers
+Dialogue: 0,0:10:09.69,0:10:12.86,Sub,,0,0,0,,{\fad(80,80)}crawling out into no-man's-land at night to splint a
+Dialogue: 0,0:10:12.88,0:10:14.76,Sub,,0,0,0,,{\fad(80,80)}wounded man's leg where he lay.
+Dialogue: 2,0:10:07.11,0:10:12.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1360 0 l 1360 132 l 0 132{\p0}
+Dialogue: 3,0:10:07.11,0:10:12.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:07.11,0:10:12.86,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY MANUAL OF SPLINTS AND APPLIANCES · 1917
+Dialogue: 3,0:10:07.11,0:10:12.86,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THOMAS SPLINT APPLIED FOR STRETCHER TRANSPORT · LINE DRAWING
+Dialogue: 0,0:10:25.64,0:10:27.98,Sub,,0,0,0,,{\fad(80,80)}From four in five, to about one in six.
+Dialogue: 0,0:10:28.00,0:10:30.94,Sub,,0,0,0,,{\fad(80,80)}Historians warn that faster ambulances and better
+Dialogue: 0,0:10:30.96,0:10:32.21,Sub,,0,0,0,,{\fad(80,80)}hospitals helped too.
+Dialogue: 0,0:10:32.23,0:10:35.71,Sub,,0,0,0,,{\fad(80,80)}But the splint is still credited with much of that change.
+Dialogue: 2,0:10:25.89,0:10:31.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1231 0 l 1231 132 l 0 132{\p0}
+Dialogue: 3,0:10:25.89,0:10:31.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:25.89,0:10:31.64,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1917–18 · RED CROSS / SIGNAL CORPS
+Dialogue: 3,0:10:25.89,0:10:31.64,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LOADING A STRETCHER · AMERICAN DRIVERS WITH THE FRENCH
+Dialogue: 0,0:10:36.18,0:10:39.08,Sub,,0,0,0,,{\fad(80,80)}When the Americans came, the Thomas splint was part
+Dialogue: 0,0:10:39.10,0:10:42.07,Sub,,0,0,0,,{\fad(80,80)}of the standard kit at their battalion aid stations.
+Dialogue: 2,0:10:36.43,0:10:42.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:10:36.43,0:10:42.18,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:36.43,0:10:42.18,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:10:36.43,0:10:42.18,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCES NEAR BERTRICHAMP · 42ND DIVISION
+Dialogue: 0,0:10:42.54,0:10:45.83,Sub,,0,0,0,,{\fad(80,80)}A piece of iron from the 1870s turned out to be one
+Dialogue: 0,0:10:45.85,0:10:48.11,Sub,,0,0,0,,{\fad(80,80)}of the great lifesavers of the war.
+Dialogue: 2,0:10:42.79,0:10:48.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:10:42.79,0:10:48.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:42.79,0:10:48.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY MANUAL OF SPLINTS AND APPLIANCES · 1917
+Dialogue: 3,0:10:42.79,0:10:48.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TRACTION BED FRAME FOR LEG FRACTURES · LINE DRAWING
+Dialogue: 0,0:10:48.58,0:10:50.40,Sub,,0,0,0,,{\fad(80,80)}Now you had to get to a surgeon.
+Dialogue: 0,0:10:50.42,0:10:53.41,Sub,,0,0,0,,{\fad(80,80)}And between you and him were some of the most jammed
+Dialogue: 0,0:10:53.43,0:10:54.39,Sub,,0,0,0,,{\fad(80,80)}roads of the war.
+Dialogue: 2,0:10:48.83,0:10:54.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:10:48.83,0:10:54.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:48.83,0:10:54.58,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:10:48.83,0:10:54.58,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TRAFFIC ON THE ROADS · MEUSE-ARGONNE
+Dialogue: 0,0:10:57.50,0:11:00.83,Sub,,0,0,0,,{\fad(80,80)}From the aid station, the bearers carried you back
+Dialogue: 0,0:11:00.85,0:11:03.24,Sub,,0,0,0,,{\fad(80,80)}to where the ambulances could reach.
+Dialogue: 0,0:11:03.26,0:11:06.72,Sub,,0,0,0,,{\fad(80,80)}Behind every American division was a unit called the
+Dialogue: 0,0:11:06.74,0:11:08.73,Sub,,0,0,0,,{\fad(80,80)}sanitary train, about 950 men.
+Dialogue: 2,0:10:57.75,0:11:03.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 888 0 l 888 132 l 0 132{\p0}
+Dialogue: 3,0:10:57.75,0:11:03.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:57.75,0:11:03.50,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:10:57.75,0:11:03.50,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RED CROSS AMBULANCES · CHATEAU-THIERRY
+Dialogue: 0,0:11:19.09,0:11:21.40,Sub,,0,0,0,,{\fad(80,80)}The horse company was usually held back.
+Dialogue: 0,0:11:21.42,0:11:24.38,Sub,,0,0,0,,{\fad(80,80)}Horses were slow, they tired quickly, and they made
+Dialogue: 0,0:11:24.40,0:11:25.26,Sub,,0,0,0,,{\fad(80,80)}a large target.
+Dialogue: 2,0:11:19.34,0:11:25.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:11:19.34,0:11:25.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:19.34,0:11:25.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:11:19.34,0:11:25.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION · LORRAINE SECTOR
+Dialogue: 0,0:11:25.73,0:11:28.40,Sub,,0,0,0,,{\fad(80,80)}Often, the ambulance that came for you was a Ford.
+Dialogue: 2,0:11:25.98,0:11:28.82,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:11:25.98,0:11:28.82,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:25.98,0:11:28.82,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:11:25.98,0:11:28.82,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SECTION NO. 646, U.S. ARMY AMBULANCE SERVICE
+Dialogue: 0,0:11:36.92,0:11:40.34,Sub,,0,0,0,,{\fad(80,80)}It was light enough that when it got stuck in a
+Dialogue: 0,0:11:40.36,0:11:43.70,Sub,,0,0,0,,{\fad(80,80)}hole, a few soldiers could simply lift it out.
+Dialogue: 0,0:11:43.72,0:11:47.43,Sub,,0,0,0,,{\fad(80,80)}By November 1, 1918, 4,362 of them had been shipped
+Dialogue: 0,0:11:47.45,0:11:48.09,Sub,,0,0,0,,{\fad(80,80)}overseas.
+Dialogue: 2,0:11:37.17,0:11:42.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:11:37.17,0:11:42.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:37.17,0:11:42.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1917–18 · RED CROSS / SIGNAL CORPS
+Dialogue: 3,0:11:37.17,0:11:42.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMERICAN VOLUNTEER AMBULANCE DRIVERS WITH THE FRENCH
+Dialogue: 0,0:11:48.56,0:11:51.78,Sub,,0,0,0,,{\fad(80,80)}The other common Army ambulance was the heavier White.
+Dialogue: 0,0:11:51.80,0:11:54.78,Sub,,0,0,0,,{\fad(80,80)}It carried four stretcher patients, a driver and a
+Dialogue: 0,0:11:54.80,0:11:57.01,Sub,,0,0,0,,{\fad(80,80)}medic, at about twenty miles an hour.
+Dialogue: 2,0:11:48.81,0:11:54.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1746 0 l 1746 132 l 0 132{\p0}
+Dialogue: 3,0:11:48.81,0:11:54.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:48.81,0:11:54.56,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:11:48.81,0:11:54.56,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE COMPANIES NO. 317 AND 318, 80TH DIVISION, VAUX, ARDENNES · NOV. 1918
+Dialogue: 0,0:11:57.48,0:12:00.47,Sub,,0,0,0,,{\fad(80,80)}This film shows American volunteer drivers serving
+Dialogue: 0,0:12:00.49,0:12:03.24,Sub,,0,0,0,,{\fad(80,80)}with the French Army, carrying French wounded.
+Dialogue: 0,0:12:03.26,0:12:06.49,Sub,,0,0,0,,{\fad(80,80)}Their ambulances and their roads looked much the same.
+Dialogue: 2,0:11:57.73,0:12:03.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:11:57.73,0:12:03.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:57.73,0:12:03.48,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1917–18 · RED CROSS / SIGNAL CORPS
+Dialogue: 3,0:11:57.73,0:12:03.48,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMERICAN VOLUNTEER AMBULANCE DRIVERS WITH THE FRENCH
+Dialogue: 0,0:12:27.79,0:12:30.70,Sub,,0,0,0,,{\fad(80,80)}At the start of the Argonne drive, the evacuation
+Dialogue: 0,0:12:30.72,0:12:33.75,Sub,,0,0,0,,{\fad(80,80)}hospitals, where most of the real surgery happened,
+Dialogue: 0,0:12:33.77,0:12:36.61,Sub,,0,0,0,,{\fad(80,80)}were thirty to sixty kilometers behind the field
+Dialogue: 0,0:12:36.63,0:12:37.21,Sub,,0,0,0,,{\fad(80,80)}hospitals.
+Dialogue: 2,0:12:28.04,0:12:33.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1660 0 l 1660 132 l 0 132{\p0}
+Dialogue: 3,0:12:28.04,0:12:33.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:28.04,0:12:33.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:12:28.04,0:12:33.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COLLECTING POINT FOR WOUNDED, 3D DIVISION, NEAR NANTILLOIS · OCT. 12, 1918
+Dialogue: 0,0:12:37.68,0:12:39.79,Sub,,0,0,0,,{\fad(80,80)}In practice, the roads were the problem.
+Dialogue: 2,0:12:37.93,0:12:40.21,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:12:37.93,0:12:40.21,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:37.93,0:12:40.21,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:12:37.93,0:12:40.21,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TRAFFIC ON THE ROADS · MEUSE-ARGONNE
+Dialogue: 0,0:12:40.26,0:12:43.20,Sub,,0,0,0,,{\fad(80,80)}Every road behind the front carried everything at once.
+Dialogue: 0,0:12:43.22,0:12:44.27,Sub,,0,0,0,,{\fad(80,80)}Ammunition going up.
+Dialogue: 0,0:12:44.29,0:12:45.03,Sub,,0,0,0,,{\fad(80,80)}Food going up.
+Dialogue: 0,0:12:45.05,0:12:47.50,Sub,,0,0,0,,{\fad(80,80)}Whole divisions moving in and out of the line.
+Dialogue: 0,0:12:47.52,0:12:49.66,Sub,,0,0,0,,{\fad(80,80)}And the ambulances, trying to come back.
+Dialogue: 2,0:12:40.51,0:12:46.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:12:40.51,0:12:46.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:40.51,0:12:46.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:12:40.51,0:12:46.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SUPPLY COLUMNS · MEUSE-ARGONNE
+Dialogue: 0,0:12:59.85,0:13:02.47,Sub,,0,0,0,,{\fad(80,80)}In the Argonne, some roads were simply impassable.
+Dialogue: 0,0:13:02.49,0:13:05.00,Sub,,0,0,0,,{\fad(80,80)}The walking wounded walked, because no ambulance
+Dialogue: 0,0:13:05.02,0:13:05.95,Sub,,0,0,0,,{\fad(80,80)}could get to them.
+Dialogue: 2,0:13:00.10,0:13:05.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:13:00.10,0:13:05.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:00.10,0:13:05.85,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:13:00.10,0:13:05.85,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MUD ON THE ROADS · MEUSE-ARGONNE
+Dialogue: 0,0:13:06.42,0:13:09.46,Sub,,0,0,0,,{\fad(80,80)}In October, ambulances bogged down in the mud of the
+Dialogue: 0,0:13:09.48,0:13:09.82,Sub,,0,0,0,,{\fad(80,80)}Meuse.
+Dialogue: 0,0:13:09.84,0:13:13.00,Sub,,0,0,0,,{\fad(80,80)}Engineers worked day after day to keep the roads open.
+Dialogue: 2,0:13:06.67,0:13:12.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:13:06.67,0:13:12.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:06.67,0:13:12.42,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:13:06.67,0:13:12.42,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ENGINEERS REPAIR A ROAD · MEUSE-ARGONNE
+Dialogue: 0,0:13:31.53,0:13:33.28,Sub,,0,0,0,,{\fad(80,80)}On good days it was faster.
+Dialogue: 0,0:13:33.30,0:13:36.54,Sub,,0,0,0,,{\fad(80,80)}At Soissons in July, the wounded were cleared from
+Dialogue: 0,0:13:36.56,0:13:39.16,Sub,,0,0,0,,{\fad(80,80)}the battlefield within six hours. At St.
+Dialogue: 0,0:13:39.18,0:13:42.43,Sub,,0,0,0,,{\fad(80,80)}Mihiel, some reached an evacuation hospital within
+Dialogue: 0,0:13:42.45,0:13:44.06,Sub,,0,0,0,,{\fad(80,80)}three hours of being hit.
+Dialogue: 2,0:13:31.78,0:13:37.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 867 0 l 867 132 l 0 132{\p0}
+Dialogue: 3,0:13:31.78,0:13:37.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:31.78,0:13:37.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:13:31.78,0:13:37.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AID STATION · ANSAUVILLE · ST. MIHIEL
+Dialogue: 0,0:13:57.78,0:13:58.72,Sub,,0,0,0,,{\fad(80,80)}3 to 8 hours.
+Dialogue: 0,0:13:58.74,0:14:00.33,Sub,,0,0,0,,{\fad(80,80)}Gone from your twelve.
+Dialogue: 0,0:14:00.35,0:14:03.05,Sub,,0,0,0,,{\fad(80,80)}And you still had not seen a surgeon.
+Dialogue: 2,0:13:58.03,0:14:03.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:13:58.03,0:14:03.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:58.03,0:14:03.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:13:58.03,0:14:03.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCES AT A FIELD HOSPITAL · 80TH DIVISION
+Dialogue: 0,0:14:11.04,0:14:14.73,Sub,,0,0,0,,{\fad(80,80)}Each American division had four field hospitals, set
+Dialogue: 0,0:14:14.75,0:14:18.23,Sub,,0,0,0,,{\fad(80,80)}up about 6 to 8 miles behind the front, each with
+Dialogue: 0,0:14:18.25,0:14:19.81,Sub,,0,0,0,,{\fad(80,80)}room for 216 patients.
+Dialogue: 0,0:14:19.83,0:14:22.24,Sub,,0,0,0,,{\fad(80,80)}One of the four became the triage.
+Dialogue: 2,0:14:11.29,0:14:17.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:14:11.29,0:14:17.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:11.29,0:14:17.04,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:14:11.29,0:14:17.04,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE AT A FIELD HOSPITAL · AISNE-MARNE
+Dialogue: 0,0:14:22.71,0:14:26.06,Sub,,0,0,0,,{\fad(80,80)}Its job was to sort, classify and distribute the wounded.
+Dialogue: 0,0:14:26.08,0:14:29.03,Sub,,0,0,0,,{\fad(80,80)}To decide, quickly, who needed what, and who could
+Dialogue: 0,0:14:29.05,0:14:30.81,Sub,,0,0,0,,{\fad(80,80)}survive the trip further back.
+Dialogue: 2,0:14:22.96,0:14:28.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1296 0 l 1296 132 l 0 132{\p0}
+Dialogue: 3,0:14:22.96,0:14:28.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:22.96,0:14:28.71,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:14:22.96,0:14:28.71,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL NO. 13, NEAR VENDEUIL-CAPLY · JULY 2, 1918
+Dialogue: 0,0:14:31.28,0:14:33.31,Sub,,0,0,0,,{\fad(80,80)}Here is how it worked at St.
+Dialogue: 0,0:14:33.33,0:14:36.91,Sub,,0,0,0,,{\fad(80,80)}Mihiel, in September 1918, for the 82nd Division.
+Dialogue: 2,0:14:31.53,0:14:37.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1510 0 l 1510 132 l 0 132{\p0}
+Dialogue: 3,0:14:31.53,0:14:37.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:31.53,0:14:37.28,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:14:31.53,0:14:37.28,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL NO. 319, 80TH DIVISION, BETHINCOURT · SEPT. 27, 1918
+Dialogue: 0,0:14:46.16,0:14:48.88,Sub,,0,0,0,,{\fad(80,80)}Field Hospital 325 took the sick.
+Dialogue: 0,0:14:48.90,0:14:50.54,Sub,,0,0,0,,{\fad(80,80)}326 took the gassed.
+Dialogue: 0,0:14:50.56,0:14:53.12,Sub,,0,0,0,,{\fad(80,80)}327 took the seriously wounded.
+Dialogue: 2,0:14:46.41,0:14:52.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:14:46.41,0:14:52.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:46.41,0:14:52.16,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:14:46.41,0:14:52.16,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TENT CAMP · MEUSE-ARGONNE
+Dialogue: 0,0:14:53.59,0:14:56.15,Sub,,0,0,0,,{\fad(80,80)}A man expected to recover in two weeks or less
+Dialogue: 0,0:14:56.17,0:14:57.55,Sub,,0,0,0,,{\fad(80,80)}stayed with the division.
+Dialogue: 0,0:14:57.57,0:15:00.07,Sub,,0,0,0,,{\fad(80,80)}Everyone else was prepared for the trip back.
+Dialogue: 2,0:14:53.84,0:14:59.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:14:53.84,0:14:59.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:53.84,0:14:59.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:14:53.84,0:14:59.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:15:00.54,0:15:03.53,Sub,,0,0,0,,{\fad(80,80)}The Army also tried bringing the surgeon closer to
+Dialogue: 0,0:15:03.55,0:15:04.25,Sub,,0,0,0,,{\fad(80,80)}the wounded.
+Dialogue: 0,0:15:04.27,0:15:07.01,Sub,,0,0,0,,{\fad(80,80)}Mobile hospitals, copied from the French, were
+Dialogue: 0,0:15:07.03,0:15:10.26,Sub,,0,0,0,,{\fad(80,80)}designed to deliver lifesaving surgery near the front.
+Dialogue: 2,0:15:00.79,0:15:06.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:15:00.79,0:15:06.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:00.79,0:15:06.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:15:00.79,0:15:06.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCES AT A FIELD HOSPITAL · 80TH DIVISION
+Dialogue: 0,0:15:32.15,0:15:34.48,Sub,,0,0,0,,{\fad(80,80)}Surgery here was not meant to be final.
+Dialogue: 0,0:15:34.50,0:15:37.37,Sub,,0,0,0,,{\fad(80,80)}The mission, in the words of one history, was to
+Dialogue: 0,0:15:37.39,0:15:40.38,Sub,,0,0,0,,{\fad(80,80)}first save lives, and then to prepare the patients
+Dialogue: 0,0:15:40.40,0:15:42.07,Sub,,0,0,0,,{\fad(80,80)}for the evacuation hospital.
+Dialogue: 2,0:15:32.40,0:15:38.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1617 0 l 1617 132 l 0 132{\p0}
+Dialogue: 3,0:15:32.40,0:15:38.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:32.40,0:15:38.15,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:15:32.40,0:15:38.15,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITALS OF THE 4TH DIVISION, CHATEAU DE LA FORET · AUG. 10, 1918
+Dialogue: 0,0:15:42.54,0:15:46.35,Sub,,0,0,0,,{\fad(80,80)}At Cantigny, in May 1918, one field hospital, No.
+Dialogue: 0,0:15:46.37,0:15:50.34,Sub,,0,0,0,,{\fad(80,80)}13, served as both the triage and the gas hospital.
+Dialogue: 2,0:15:42.79,0:15:48.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:15:42.79,0:15:48.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:42.79,0:15:48.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:15:42.79,0:15:48.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE AT A FIELD HOSPITAL · AISNE-MARNE
+Dialogue: 0,0:15:55.91,0:15:58.68,Sub,,0,0,0,,{\fad(80,80)}Because many of the men who reached the triage were
+Dialogue: 0,0:15:58.70,0:15:59.60,Sub,,0,0,0,,{\fad(80,80)}not just wounded.
+Dialogue: 0,0:15:59.62,0:16:00.64,Sub,,0,0,0,,{\fad(80,80)}They were in shock.
+Dialogue: 2,0:15:56.16,0:16:01.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:15:56.16,0:16:01.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:56.16,0:16:01.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:15:56.16,0:16:01.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RED CROSS WORKERS WITH A STRETCHER PATIENT · AISNE-MARNE
+Dialogue: 0,0:16:01.11,0:16:04.22,Sub,,0,0,0,,{\fad(80,80)}Their circulation was failing, and no one yet fully
+Dialogue: 0,0:16:04.24,0:16:05.14,Sub,,0,0,0,,{\fad(80,80)}understood why.
+Dialogue: 2,0:16:01.36,0:16:05.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:16:01.36,0:16:05.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:01.36,0:16:05.56,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:16:01.36,0:16:05.56,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AID STATION · 89TH DIVISION · MEUSE-ARGONNE
+Dialogue: 0,0:16:14.46,0:16:17.28,Sub,,0,0,0,,{\fad(80,80)}An American physiologist from Harvard, Walter
+Dialogue: 0,0:16:17.30,0:16:20.74,Sub,,0,0,0,,{\fad(80,80)}Cannon, went to France to study it in wounded soldiers.
+Dialogue: 0,0:16:20.76,0:16:23.96,Sub,,0,0,0,,{\fad(80,80)}He concluded the core problem was too little oxygen
+Dialogue: 0,0:16:23.98,0:16:25.72,Sub,,0,0,0,,{\fad(80,80)}reaching the body's tissues.
+Dialogue: 2,0:16:14.71,0:16:20.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:16:14.71,0:16:20.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:14.71,0:16:20.46,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:16:14.71,0:16:20.46,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:16:26.19,0:16:29.69,Sub,,0,0,0,,{\fad(80,80)}So the shock treatment at the triage was, above all,
+Dialogue: 0,0:16:29.71,0:16:30.84,Sub,,0,0,0,,{\fad(80,80)}warmth and fluid.
+Dialogue: 0,0:16:30.86,0:16:33.69,Sub,,0,0,0,,{\fad(80,80)}Wet clothes cut off. Blankets. Hot drinks.
+Dialogue: 0,0:16:33.71,0:16:35.24,Sub,,0,0,0,,{\fad(80,80)}Salt water into a vein.
+Dialogue: 2,0:16:26.44,0:16:32.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 982 0 l 982 132 l 0 132{\p0}
+Dialogue: 3,0:16:26.44,0:16:32.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:26.44,0:16:32.19,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:16:26.44,0:16:32.19,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RECEPTION WARD, MOBILE HOSPITAL NO. 39
+Dialogue: 0,0:16:35.71,0:16:39.02,Sub,,0,0,0,,{\fad(80,80)}In July 1918, the Army's surgical consultants sent a
+Dialogue: 0,0:16:39.04,0:16:41.90,Sub,,0,0,0,,{\fad(80,80)}dedicated shock team to Field Hospital Number
+Dialogue: 0,0:16:41.92,0:16:42.73,Sub,,0,0,0,,{\fad(80,80)}Twenty-Seven.
+Dialogue: 0,0:16:42.75,0:16:45.36,Sub,,0,0,0,,{\fad(80,80)}It was a sign of where things were going:
+Dialogue: 0,0:16:45.38,0:16:47.79,Sub,,0,0,0,,{\fad(80,80)}treat the shock first, then the wound.
+Dialogue: 2,0:16:35.96,0:16:41.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:16:35.96,0:16:41.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:35.96,0:16:41.71,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:16:35.96,0:16:41.71,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE AT A FIELD HOSPITAL · AISNE-MARNE
+Dialogue: 0,0:16:50.74,0:16:53.65,Sub,,0,0,0,,{\fad(80,80)}And, if a team was there to do it, something new on
+Dialogue: 0,0:16:53.67,0:16:54.57,Sub,,0,0,0,,{\fad(80,80)}the battlefield:
+Dialogue: 0,0:16:54.59,0:16:56.12,Sub,,0,0,0,,{\fad(80,80)}blood from a matched donor.
+Dialogue: 2,0:16:50.99,0:16:56.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:16:50.99,0:16:56.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:50.99,0:16:56.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:16:50.99,0:16:56.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RED CROSS WORKERS WITH A STRETCHER PATIENT · AISNE-MARNE
+Dialogue: 0,0:17:15.78,0:17:18.66,Sub,,0,0,0,,{\fad(80,80)}In 1914 and fifteen, doctors in Belgium, in
+Dialogue: 0,0:17:18.68,0:17:22.17,Sub,,0,0,0,,{\fad(80,80)}Argentina and in New York found that a little sodium
+Dialogue: 0,0:17:22.19,0:17:24.40,Sub,,0,0,0,,{\fad(80,80)}citrate kept blood from clotting.
+Dialogue: 2,0:17:16.03,0:17:21.78,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:17:16.03,0:17:21.78,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:17:16.03,0:17:21.78,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:17:16.03,0:17:21.78,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:17:24.87,0:17:28.18,Sub,,0,0,0,,{\fad(80,80)}And in 1916, two American researchers, Peyton Rous
+Dialogue: 0,0:17:28.20,0:17:31.50,Sub,,0,0,0,,{\fad(80,80)}and Joseph Turner, added sugar to the mix, so that
+Dialogue: 0,0:17:31.52,0:17:32.97,Sub,,0,0,0,,{\fad(80,80)}blood could be stored.
+Dialogue: 2,0:17:25.12,0:17:30.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:17:25.12,0:17:30.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:17:25.12,0:17:30.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:17:25.12,0:17:30.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:17:39.58,0:17:41.42,Sub,,0,0,0,,{\fad(80,80)}He came with Base Hospital No.
+Dialogue: 0,0:17:41.44,0:17:42.54,Sub,,0,0,0,,{\fad(80,80)}5, Harvard's unit.
+Dialogue: 0,0:17:42.56,0:17:45.52,Sub,,0,0,0,,{\fad(80,80)}He collected blood from group O donors, the type
+Dialogue: 0,0:17:45.54,0:17:48.68,Sub,,0,0,0,,{\fad(80,80)}that could be given to almost anyone, mixed it with
+Dialogue: 0,0:17:48.70,0:17:51.79,Sub,,0,0,0,,{\fad(80,80)}citrate and sugar, sealed it in glass bottles, and
+Dialogue: 0,0:17:51.81,0:17:52.84,Sub,,0,0,0,,{\fad(80,80)}packed it in ice.
+Dialogue: 2,0:17:39.83,0:17:45.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:17:39.83,0:17:45.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:17:39.83,0:17:45.58,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. II (1927)
+Dialogue: 3,0:17:39.83,0:17:45.58,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RECEIVING WARD, ALLEREY HOSPITAL CENTER
+Dialogue: 0,0:18:33.38,0:18:36.40,Sub,,0,0,0,,{\fad(80,80)}Blood pressure, he wrote, rose by 20 to 40 points.
+Dialogue: 0,0:18:36.42,0:18:39.56,Sub,,0,0,0,,{\fad(80,80)}Britain awarded him its Distinguished Service Order.
+Dialogue: 2,0:18:33.63,0:18:39.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:18:33.63,0:18:39.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:18:33.63,0:18:39.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:18:33.63,0:18:39.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:18:54.61,0:18:56.50,Sub,,0,0,0,,{\fad(80,80)}His report described 36 cases.
+Dialogue: 0,0:18:56.52,0:18:59.76,Sub,,0,0,0,,{\fad(80,80)}Blood, given quickly to a man in shock, could bring
+Dialogue: 0,0:18:59.78,0:19:01.22,Sub,,0,0,0,,{\fad(80,80)}him back from the edge.
+Dialogue: 2,0:18:54.86,0:19:00.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:18:54.86,0:19:00.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:18:54.86,0:19:00.61,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:18:54.86,0:19:00.61,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:19:01.69,0:19:03.72,Sub,,0,0,0,,{\fad(80,80)}It was still new, and still small.
+Dialogue: 0,0:19:03.74,0:19:06.79,Sub,,0,0,0,,{\fad(80,80)}But the idea of a blood bank, blood collected ahead
+Dialogue: 0,0:19:06.81,0:19:10.23,Sub,,0,0,0,,{\fad(80,80)}of time, stored and ready, was born on the Western Front.
+Dialogue: 2,0:19:01.94,0:19:07.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:19:01.94,0:19:07.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:01.94,0:19:07.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:19:01.94,0:19:07.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:19:10.70,0:19:11.66,Sub,,0,0,0,,{\fad(80,80)}Today, the U.S.
+Dialogue: 0,0:19:11.68,0:19:13.94,Sub,,0,0,0,,{\fad(80,80)}military still relies on that idea.
+Dialogue: 0,0:19:13.96,0:19:15.96,Sub,,0,0,0,,{\fad(80,80)}And it still depends on donors.
+Dialogue: 2,0:19:10.95,0:19:16.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:19:10.95,0:19:16.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:10.95,0:19:16.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SASEBO, JAPAN · OCT. 21, 2026 · AFN SASEBO (U.S. NAVY)
+Dialogue: 3,0:19:10.95,0:19:16.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: A RED CROSS BLOOD DRIVE AT A U.S. NAVY BASE
+Dialogue: 0,0:19:16.43,0:19:19.84,Sub,,0,0,0,,{\fad(80,80)}But in 1918, there was a wound that no amount of
+Dialogue: 0,0:19:19.86,0:19:20.98,Sub,,0,0,0,,{\fad(80,80)}blood could fix.
+Dialogue: 0,0:19:21.00,0:19:22.41,Sub,,0,0,0,,{\fad(80,80)}It came on the wind.
+Dialogue: 2,0:19:16.68,0:19:22.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:19:16.68,0:19:22.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:16.68,0:19:22.43,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:19:16.68,0:19:22.43,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS CLOUD ACROSS NO-MAN'S-LAND
+Dialogue: 0,0:19:33.25,0:19:36.58,Sub,,0,0,0,,{\fad(80,80)}Then, in July 1917, came mustard gas.
+Dialogue: 2,0:19:33.50,0:19:37.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:19:33.50,0:19:37.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:33.50,0:19:37.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:19:33.50,0:19:37.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS CLOUD ACROSS NO-MAN'S-LAND
+Dialogue: 0,0:19:37.05,0:19:39.81,Sub,,0,0,0,,{\fad(80,80)}In its first weeks, more than fourteen thousand
+Dialogue: 0,0:19:39.83,0:19:42.89,Sub,,0,0,0,,{\fad(80,80)}British gas casualties reached the casualty clearing
+Dialogue: 0,0:19:42.91,0:19:43.43,Sub,,0,0,0,,{\fad(80,80)}stations.
+Dialogue: 0,0:19:43.45,0:19:44.85,Sub,,0,0,0,,{\fad(80,80)}About five hundred died.
+Dialogue: 2,0:19:37.30,0:19:43.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:19:37.30,0:19:43.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:37.30,0:19:43.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:19:37.30,0:19:43.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS CLOUD ACROSS NO-MAN'S-LAND
+Dialogue: 0,0:19:45.32,0:19:46.48,Sub,,0,0,0,,{\fad(80,80)}Mustard was different.
+Dialogue: 0,0:19:46.50,0:19:48.25,Sub,,0,0,0,,{\fad(80,80)}You might not notice it at first.
+Dialogue: 0,0:19:48.27,0:19:50.18,Sub,,0,0,0,,{\fad(80,80)}Symptoms could take hours to appear.
+Dialogue: 0,0:19:50.20,0:19:52.92,Sub,,0,0,0,,{\fad(80,80)}It soaked through clothing and even leather, and it
+Dialogue: 0,0:19:52.94,0:19:54.64,Sub,,0,0,0,,{\fad(80,80)}lingered on the ground for days.
+Dialogue: 2,0:19:45.57,0:19:51.32,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:19:45.57,0:19:51.32,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:45.57,0:19:51.32,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:19:45.57,0:19:51.32,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS CLOUD ACROSS NO-MAN'S-LAND
+Dialogue: 0,0:20:07.13,0:20:09.40,Sub,,0,0,0,,{\fad(80,80)}Many gassed men were temporarily blinded.
+Dialogue: 0,0:20:09.42,0:20:12.64,Sub,,0,0,0,,{\fad(80,80)}Most of them, later research found, recovered their sight.
+Dialogue: 2,0:20:07.38,0:20:13.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:20:07.38,0:20:13.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:20:07.38,0:20:13.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:20:07.38,0:20:13.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS CLOUD ACROSS NO-MAN'S-LAND
+Dialogue: 0,0:20:13.11,0:20:16.34,Sub,,0,0,0,,{\fad(80,80)}On the night of February 26, 1918, German gas
+Dialogue: 0,0:20:16.36,0:20:19.95,Sub,,0,0,0,,{\fad(80,80)}projectors fired on the American First Division in
+Dialogue: 0,0:20:19.97,0:20:21.54,Sub,,0,0,0,,{\fad(80,80)}the Ansauville sector.
+Dialogue: 2,0:20:13.36,0:20:19.11,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:20:13.36,0:20:19.11,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:20:13.36,0:20:19.11,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:20:13.36,0:20:19.11,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS IN GAS MASKS
+Dialogue: 0,0:20:28.63,0:20:30.46,Sub,,0,0,0,,{\fad(80,80)}Two of the eight died at once.
+Dialogue: 0,0:20:30.48,0:20:33.67,Sub,,0,0,0,,{\fad(80,80)}Six more died after they reached the field hospital.
+Dialogue: 2,0:20:28.88,0:20:34.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:20:28.88,0:20:34.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:20:28.88,0:20:34.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:20:28.88,0:20:34.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS CLOUD ACROSS NO-MAN'S-LAND
+Dialogue: 0,0:20:55.37,0:20:57.28,Sub,,0,0,0,,{\fad(80,80)}So every American carried a mask.
+Dialogue: 0,0:20:57.30,0:21:00.15,Sub,,0,0,0,,{\fad(80,80)}At first they were British small box respirators,
+Dialogue: 0,0:21:00.17,0:21:02.37,Sub,,0,0,0,,{\fad(80,80)}because American masks were not ready.
+Dialogue: 2,0:20:55.62,0:21:01.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:20:55.62,0:21:01.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:20:55.62,0:21:01.37,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:20:55.62,0:21:01.37,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS IN GAS MASKS
+Dialogue: 0,0:21:02.84,0:21:05.16,Sub,,0,0,0,,{\fad(80,80)}The masks worked, but they were miserable.
+Dialogue: 0,0:21:05.18,0:21:06.82,Sub,,0,0,0,,{\fad(80,80)}The straps gave men headaches.
+Dialogue: 0,0:21:06.84,0:21:07.99,Sub,,0,0,0,,{\fad(80,80)}The eyepieces fogged.
+Dialogue: 0,0:21:08.01,0:21:09.77,Sub,,0,0,0,,{\fad(80,80)}Saliva pooled at the mouthpiece.
+Dialogue: 0,0:21:09.79,0:21:12.49,Sub,,0,0,0,,{\fad(80,80)}The Assistant Secretary of War said that the word
+Dialogue: 0,0:21:12.51,0:21:14.38,Sub,,0,0,0,,{\fad(80,80)}discomfort was a weak description.
+Dialogue: 2,0:21:03.09,0:21:08.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:21:03.09,0:21:08.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:21:03.09,0:21:08.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:21:03.09,0:21:08.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS IN GAS MASKS
+Dialogue: 0,0:21:14.85,0:21:18.14,Sub,,0,0,0,,{\fad(80,80)}If you were gassed, the system had a special lane for you.
+Dialogue: 0,0:21:18.16,0:21:20.93,Sub,,0,0,0,,{\fad(80,80)}In the Meuse-Argonne, the First Army had four gas
+Dialogue: 0,0:21:20.95,0:21:21.50,Sub,,0,0,0,,{\fad(80,80)}hospitals.
+Dialogue: 2,0:21:15.10,0:21:20.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:21:15.10,0:21:20.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:21:15.10,0:21:20.85,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:21:15.10,0:21:20.85,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GASSED MAN CARRIED TO A DUGOUT
+Dialogue: 0,0:21:28.34,0:21:31.77,Sub,,0,0,0,,{\fad(80,80)}In March 1918, one Army nurse wrote in her diary
+Dialogue: 0,0:21:31.79,0:21:35.52,Sub,,0,0,0,,{\fad(80,80)}that she received 68 gassed men on her floor, mostly
+Dialogue: 0,0:21:35.54,0:21:39.26,Sub,,0,0,0,,{\fad(80,80)}mustard burns, from a single convoy of about 300 men
+Dialogue: 0,0:21:39.28,0:21:41.35,Sub,,0,0,0,,{\fad(80,80)}of the Forty-Second Division.
+Dialogue: 2,0:21:28.59,0:21:34.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:21:28.59,0:21:34.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:21:28.59,0:21:34.34,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:21:28.59,0:21:34.34,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS IN GAS MASKS
+Dialogue: 0,0:21:41.82,0:21:44.63,Sub,,0,0,0,,{\fad(80,80)}Their clothes came off, because the clothes were
+Dialogue: 0,0:21:44.65,0:21:45.51,Sub,,0,0,0,,{\fad(80,80)}still poisoned.
+Dialogue: 0,0:21:45.53,0:21:46.51,Sub,,0,0,0,,{\fad(80,80)}They were washed.
+Dialogue: 0,0:21:46.53,0:21:49.58,Sub,,0,0,0,,{\fad(80,80)}Mobile degassing units could give a man a two-minute
+Dialogue: 0,0:21:49.60,0:21:49.99,Sub,,0,0,0,,{\fad(80,80)}shower.
+Dialogue: 0,0:21:50.01,0:21:51.22,Sub,,0,0,0,,{\fad(80,80)}The eyes were rinsed.
+Dialogue: 0,0:21:51.24,0:21:53.46,Sub,,0,0,0,,{\fad(80,80)}Damaged lungs got bed rest and oxygen.
+Dialogue: 2,0:21:42.07,0:21:47.82,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:21:42.07,0:21:47.82,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:21:42.07,0:21:47.82,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:21:42.07,0:21:47.82,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS ALARM · AMERICAN TROOPS · AISNE-MARNE
+Dialogue: 0,0:21:53.93,0:21:56.46,Sub,,0,0,0,,{\fad(80,80)}Here is the strange thing about gas in the First
+Dialogue: 0,0:21:56.48,0:21:56.99,Sub,,0,0,0,,{\fad(80,80)}World War.
+Dialogue: 0,0:21:57.01,0:21:58.84,Sub,,0,0,0,,{\fad(80,80)}It was not usually what killed men.
+Dialogue: 0,0:21:58.86,0:22:00.32,Sub,,0,0,0,,{\fad(80,80)}It was what filled the beds.
+Dialogue: 2,0:21:54.18,0:21:59.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:21:54.18,0:21:59.93,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:21:54.18,0:21:59.93,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:21:54.18,0:21:59.93,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS CLOUD ACROSS NO-MAN'S-LAND
+Dialogue: 0,0:22:10.87,0:22:14.79,Sub,,0,0,0,,{\fad(80,80)}Gas injuries, as one hospital history put it, had
+Dialogue: 0,0:22:14.81,0:22:17.45,Sub,,0,0,0,,{\fad(80,80)}high morbidity and low mortality.
+Dialogue: 0,0:22:17.47,0:22:18.66,Sub,,0,0,0,,{\fad(80,80)}Many were hurt.
+Dialogue: 0,0:22:18.68,0:22:20.67,Sub,,0,0,0,,{\fad(80,80)}Few, by comparison, died.
+Dialogue: 2,0:22:11.12,0:22:16.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:22:11.12,0:22:16.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:11.12,0:22:16.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:22:11.12,0:22:16.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A GAS CLOUD ACROSS NO-MAN'S-LAND
+Dialogue: 0,0:22:21.14,0:22:24.06,Sub,,0,0,0,,{\fad(80,80)}In the British Army, later research found, mustard
+Dialogue: 0,0:22:24.08,0:22:27.06,Sub,,0,0,0,,{\fad(80,80)}killed about two and a half of every hundred men it
+Dialogue: 0,0:22:27.08,0:22:30.17,Sub,,0,0,0,,{\fad(80,80)}injured, the lowest death rate of the main war gases.
+Dialogue: 0,0:22:30.19,0:22:33.22,Sub,,0,0,0,,{\fad(80,80)}What it did was take men out of the fight, for weeks
+Dialogue: 0,0:22:33.24,0:22:33.81,Sub,,0,0,0,,{\fad(80,80)}at a time.
+Dialogue: 2,0:22:21.39,0:22:27.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:22:21.39,0:22:27.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:21.39,0:22:27.14,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · BRITISH TRAINING FILM · TRAINING
+Dialogue: 3,0:22:21.39,0:22:27.14,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS IN GAS MASKS
+Dialogue: 0,0:22:34.28,0:22:37.89,Sub,,0,0,0,,{\fad(80,80)}In June 1918, the Army created the Chemical Warfare
+Dialogue: 0,0:22:37.91,0:22:38.46,Sub,,0,0,0,,{\fad(80,80)}Service.
+Dialogue: 0,0:22:38.48,0:22:42.09,Sub,,0,0,0,,{\fad(80,80)}Today, Army medical units still drill in gas masks.
+Dialogue: 2,0:22:34.53,0:22:40.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1253 0 l 1253 132 l 0 132{\p0}
+Dialogue: 3,0:22:34.53,0:22:40.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:34.53,0:22:40.28,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LANDSTUHL, GERMANY · NOV. 2026 · U.S. ARMY
+Dialogue: 3,0:22:34.53,0:22:40.28,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: GAS-MASK DRILL · ARMY HOSPITAL CENTER · TRAINING
+Dialogue: 0,0:22:42.56,0:22:45.61,Sub,,0,0,0,,{\fad(80,80)}But for the men who were not gassed, the ones with
+Dialogue: 0,0:22:45.63,0:22:48.75,Sub,,0,0,0,,{\fad(80,80)}broken bones and torn muscle and steel inside them,
+Dialogue: 0,0:22:48.77,0:22:50.90,Sub,,0,0,0,,{\fad(80,80)}the field hospital was only a stop.
+Dialogue: 0,0:22:50.92,0:22:53.48,Sub,,0,0,0,,{\fad(80,80)}The real surgery was waiting further back.
+Dialogue: 2,0:22:42.81,0:22:48.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:22:42.81,0:22:48.56,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:42.81,0:22:48.56,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:22:42.81,0:22:48.56,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. HOSPITAL TRAIN · FRANCE
+Dialogue: 0,0:22:56.46,0:22:59.48,Sub,,0,0,0,,{\fad(80,80)}On paper, the evacuation hospitals stood nine to
+Dialogue: 0,0:22:59.50,0:23:01.43,Sub,,0,0,0,,{\fad(80,80)}fifteen miles behind the front.
+Dialogue: 0,0:23:01.45,0:23:04.59,Sub,,0,0,0,,{\fad(80,80)}This was where a wounded man could expect his real
+Dialogue: 0,0:23:04.61,0:23:05.22,Sub,,0,0,0,,{\fad(80,80)}operation.
+Dialogue: 2,0:22:56.71,0:23:02.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:22:56.71,0:23:02.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:56.71,0:23:02.46,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. II (1927)
+Dialogue: 3,0:22:56.71,0:23:02.46,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AN OPERATING ROOM, ALLEREY HOSPITAL CENTER (EMPTY)
+Dialogue: 0,0:23:27.98,0:23:29.65,Sub,,0,0,0,,{\fad(80,80)}Teams often worked two tables.
+Dialogue: 0,0:23:29.67,0:23:32.57,Sub,,0,0,0,,{\fad(80,80)}While one patient was on the first, the second table
+Dialogue: 0,0:23:32.59,0:23:34.82,Sub,,0,0,0,,{\fad(80,80)}was cleaned and the next man brought in.
+Dialogue: 2,0:23:28.23,0:23:33.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:23:28.23,0:23:33.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:23:28.23,0:23:33.98,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:23:28.23,0:23:33.98,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:23:35.29,0:23:38.63,Sub,,0,0,0,,{\fad(80,80)}At Belleau Wood in June, Evacuation Hospital Number
+Dialogue: 0,0:23:38.65,0:23:41.52,Sub,,0,0,0,,{\fad(80,80)}Seven had no operating equipment of its own.
+Dialogue: 0,0:23:41.54,0:23:44.74,Sub,,0,0,0,,{\fad(80,80)}Its surgeons did all their operations on the four
+Dialogue: 0,0:23:44.76,0:23:47.17,Sub,,0,0,0,,{\fad(80,80)}tables of Mobile Hospital Number One.
+Dialogue: 2,0:23:35.54,0:23:41.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 982 0 l 982 132 l 0 132{\p0}
+Dialogue: 3,0:23:35.54,0:23:41.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:23:35.54,0:23:41.29,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:23:35.54,0:23:41.29,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RECEPTION WARD, MOBILE HOSPITAL NO. 39
+Dialogue: 0,0:23:47.64,0:23:49.88,Sub,,0,0,0,,{\fad(80,80)}Anesthesia was ether or chloroform.
+Dialogue: 0,0:23:49.90,0:23:53.23,Sub,,0,0,0,,{\fad(80,80)}A British anesthetist, Geoffrey Marshall, found that
+Dialogue: 0,0:23:53.25,0:23:56.40,Sub,,0,0,0,,{\fad(80,80)}both were dangerous for men already in shock, and
+Dialogue: 0,0:23:56.42,0:23:59.23,Sub,,0,0,0,,{\fad(80,80)}pushed for nitrous oxide and oxygen instead.
+Dialogue: 2,0:23:47.89,0:23:53.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:23:47.89,0:23:53.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:23:47.89,0:23:53.64,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:23:47.89,0:23:53.64,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:23:59.70,0:24:02.01,Sub,,0,0,0,,{\fad(80,80)}Needles and syringes were not thrown away.
+Dialogue: 0,0:24:02.03,0:24:04.84,Sub,,0,0,0,,{\fad(80,80)}They were sterilized, re-sharpened, and used again.
+Dialogue: 2,0:23:59.95,0:24:05.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:23:59.95,0:24:05.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:23:59.95,0:24:05.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:23:59.95,0:24:05.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:24:19.09,0:24:22.04,Sub,,0,0,0,,{\fad(80,80)}And during the fighting at Soissons that summer,
+Dialogue: 0,0:24:22.06,0:24:25.08,Sub,,0,0,0,,{\fad(80,80)}about 1,500 patients lay waiting for surgery at a
+Dialogue: 0,0:24:25.10,0:24:28.05,Sub,,0,0,0,,{\fad(80,80)}single field hospital, while the surgeons worked
+Dialogue: 0,0:24:28.07,0:24:29.91,Sub,,0,0,0,,{\fad(80,80)}24-hour shifts for eight days.
+Dialogue: 2,0:24:19.34,0:24:25.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:24:19.34,0:24:25.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:19.34,0:24:25.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:24:19.34,0:24:25.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIRST-AID STATION, 1ST DIVISION, MISSY-AUX-BOIS · JULY 1918
+Dialogue: 0,0:24:30.38,0:24:32.89,Sub,,0,0,0,,{\fad(80,80)}What did the surgeon actually do to you?
+Dialogue: 0,0:24:32.91,0:24:36.57,Sub,,0,0,0,,{\fad(80,80)}He fought the infection the only way anyone could in 1918.
+Dialogue: 0,0:24:36.59,0:24:37.39,Sub,,0,0,0,,{\fad(80,80)}With a knife.
+Dialogue: 2,0:24:30.63,0:24:36.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:24:30.63,0:24:36.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:30.63,0:24:36.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:24:30.63,0:24:36.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:24:49.13,0:24:51.30,Sub,,0,0,0,,{\fad(80,80)}Dead tissue was where gas gangrene grew.
+Dialogue: 0,0:24:51.32,0:24:53.55,Sub,,0,0,0,,{\fad(80,80)}Take it away, and you took away its home.
+Dialogue: 2,0:24:49.38,0:24:53.97,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:24:49.38,0:24:53.97,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:49.38,0:24:53.97,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:24:49.38,0:24:53.97,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:24:54.02,0:24:57.18,Sub,,0,0,0,,{\fad(80,80)}The method had been revived by a Belgian surgeon,
+Dialogue: 0,0:24:57.20,0:25:00.16,Sub,,0,0,0,,{\fad(80,80)}Antoine Depage, and was written up by surgeons
+Dialogue: 0,0:25:00.18,0:25:02.76,Sub,,0,0,0,,{\fad(80,80)}serving with the British forces in 1915.
+Dialogue: 0,0:25:02.78,0:25:06.07,Sub,,0,0,0,,{\fad(80,80)}By the time the Americans arrived, it was the rule.
+Dialogue: 2,0:24:54.27,0:25:00.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:24:54.27,0:25:00.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:54.27,0:25:00.02,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. II (1927)
+Dialogue: 3,0:24:54.27,0:25:00.02,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A SURGICAL WARD, ALLEREY HOSPITAL CENTER
+Dialogue: 0,0:25:17.92,0:25:21.17,Sub,,0,0,0,,{\fad(80,80)}The laboratories fighting it were improvised too.
+Dialogue: 0,0:25:21.19,0:25:22.50,Sub,,0,0,0,,{\fad(80,80)}At Base Hospital No.
+Dialogue: 0,0:25:22.52,0:25:25.36,Sub,,0,0,0,,{\fad(80,80)}28, there was no proper incubator for these
+Dialogue: 0,0:25:25.38,0:25:28.76,Sub,,0,0,0,,{\fad(80,80)}oxygen-hating bacteria, so the staff built one from
+Dialogue: 0,0:25:28.78,0:25:30.49,Sub,,0,0,0,,{\fad(80,80)}a ten-gallon gasoline can.
+Dialogue: 2,0:25:18.17,0:25:23.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 888 0 l 888 132 l 0 132{\p0}
+Dialogue: 3,0:25:18.17,0:25:23.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:25:18.17,0:25:23.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:25:18.17,0:25:23.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL WARDS GO UP · SAVENAY, FRANCE
+Dialogue: 0,0:25:30.96,0:25:33.68,Sub,,0,0,0,,{\fad(80,80)}Then, instead of sewing the wound shut, surgeons
+Dialogue: 0,0:25:33.70,0:25:36.59,Sub,,0,0,0,,{\fad(80,80)}often left it open, and closed it a few days later,
+Dialogue: 0,0:25:36.61,0:25:37.61,Sub,,0,0,0,,{\fad(80,80)}once it was clean.
+Dialogue: 0,0:25:37.63,0:25:39.89,Sub,,0,0,0,,{\fad(80,80)}This was called delayed primary closure.
+Dialogue: 2,0:25:31.21,0:25:36.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:25:31.21,0:25:36.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:25:31.21,0:25:36.96,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:25:31.21,0:25:36.96,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:26:18.55,0:26:21.73,Sub,,0,0,0,,{\fad(80,80)}At a British general hospital far behind the lines,
+Dialogue: 0,0:26:21.75,0:26:24.99,Sub,,0,0,0,,{\fad(80,80)}by comparison, he noted that men often arrived about
+Dialogue: 0,0:26:25.01,0:26:27.18,Sub,,0,0,0,,{\fad(80,80)}three days after they were wounded.
+Dialogue: 2,0:26:18.80,0:26:24.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:26:18.80,0:26:24.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:18.80,0:26:24.55,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:26:18.80,0:26:24.55,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. HOSPITAL TRAIN · FRANCE
+Dialogue: 0,0:26:43.42,0:26:45.32,Sub,,0,0,0,,{\fad(80,80)}There was the 12-hour clock again.
+Dialogue: 2,0:26:43.67,0:26:45.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:26:43.67,0:26:45.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:43.67,0:26:45.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:26:43.67,0:26:45.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TENT CAMP · MEUSE-ARGONNE
+Dialogue: 0,0:26:45.79,0:26:48.70,Sub,,0,0,0,,{\fad(80,80)}And to find steel inside a man, they had a new tool:
+Dialogue: 0,0:26:48.72,0:26:49.26,Sub,,0,0,0,,{\fad(80,80)}the X-ray.
+Dialogue: 2,0:26:46.04,0:26:49.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:26:46.04,0:26:49.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:46.04,0:26:49.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. II (1927)
+Dialogue: 3,0:26:46.04,0:26:49.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A SURGICAL WARD, ALLEREY HOSPITAL CENTER
+Dialogue: 0,0:27:12.60,0:27:13.92,Sub,,0,0,0,,{\fad(80,80)}There was no shielding.
+Dialogue: 0,0:27:13.94,0:27:16.76,Sub,,0,0,0,,{\fad(80,80)}Doctors who looked through the fluoroscope screen
+Dialogue: 0,0:27:16.78,0:27:19.55,Sub,,0,0,0,,{\fad(80,80)}with their bare hands in the beam later suffered
+Dialogue: 0,0:27:19.57,0:27:20.48,Sub,,0,0,0,,{\fad(80,80)}radiation burns.
+Dialogue: 0,0:27:20.50,0:27:21.76,Sub,,0,0,0,,{\fad(80,80)}The healers paid, too.
+Dialogue: 2,0:27:12.85,0:27:18.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:27:12.85,0:27:18.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:27:12.85,0:27:18.60,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:27:12.85,0:27:18.60,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:27:22.23,0:27:24.51,Sub,,0,0,0,,{\fad(80,80)}And some wounds needed a specialist.
+Dialogue: 0,0:27:24.53,0:27:27.65,Sub,,0,0,0,,{\fad(80,80)}At a British casualty clearing station during the
+Dialogue: 0,0:27:27.67,0:27:30.66,Sub,,0,0,0,,{\fad(80,80)}fighting at Passchendaele in 1917, the American
+Dialogue: 0,0:27:30.68,0:27:33.73,Sub,,0,0,0,,{\fad(80,80)}surgeon Harvey Cushing operated on soldiers with
+Dialogue: 0,0:27:33.75,0:27:35.01,Sub,,0,0,0,,{\fad(80,80)}wounds to the brain.
+Dialogue: 2,0:27:22.48,0:27:28.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1424 0 l 1424 132 l 0 132{\p0}
+Dialogue: 3,0:27:22.48,0:27:28.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:27:22.48,0:27:28.23,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:27:22.48,0:27:28.23,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL NO. 13, 1ST DIVISION, VAUX, ARDENNES · NOV. 1918
+Dialogue: 0,0:27:45.20,0:27:48.09,Sub,,0,0,0,,{\fad(80,80)}A modern review points out he borrowed much of his
+Dialogue: 0,0:27:48.11,0:27:49.84,Sub,,0,0,0,,{\fad(80,80)}method from European surgeons.
+Dialogue: 0,0:27:49.86,0:27:53.22,Sub,,0,0,0,,{\fad(80,80)}But the numbers suggest what practice under fire could do.
+Dialogue: 2,0:27:45.45,0:27:51.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:27:45.45,0:27:51.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:27:45.45,0:27:51.20,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:27:45.45,0:27:51.20,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:28:03.26,0:28:05.89,Sub,,0,0,0,,{\fad(80,80)}Some wounds stayed deadly no matter what.
+Dialogue: 0,0:28:05.91,0:28:09.13,Sub,,0,0,0,,{\fad(80,80)}In British hospitals, even with surgery, more than
+Dialogue: 0,0:28:09.15,0:28:12.11,Sub,,0,0,0,,{\fad(80,80)}half of the men with penetrating wounds of the
+Dialogue: 0,0:28:12.13,0:28:12.95,Sub,,0,0,0,,{\fad(80,80)}abdomen died.
+Dialogue: 2,0:28:03.51,0:28:09.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:28:03.51,0:28:09.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:03.51,0:28:09.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:28:03.51,0:28:09.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TENT CAMP · MEUSE-ARGONNE
+Dialogue: 0,0:28:28.84,0:28:31.34,Sub,,0,0,0,,{\fad(80,80)}Not every wound, though, could be seen on an X-ray.
+Dialogue: 2,0:28:29.09,0:28:31.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:28:29.09,0:28:31.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:29.09,0:28:31.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:28:29.09,0:28:31.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION TRENCHES · LORRAINE
+Dialogue: 0,0:28:34.79,0:28:36.77,Sub,,0,0,0,,{\fad(80,80)}Soldiers called it shell shock.
+Dialogue: 0,0:28:36.79,0:28:39.87,Sub,,0,0,0,,{\fad(80,80)}Men who had no visible injury, but who shook, or
+Dialogue: 0,0:28:39.89,0:28:42.96,Sub,,0,0,0,,{\fad(80,80)}could not speak, or could not stop reliving what
+Dialogue: 0,0:28:42.98,0:28:43.87,Sub,,0,0,0,,{\fad(80,80)}they had seen.
+Dialogue: 2,0:28:35.04,0:28:40.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:28:35.04,0:28:40.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:35.04,0:28:40.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:28:35.04,0:28:40.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION TRENCHES · LORRAINE
+Dialogue: 0,0:28:49.86,0:28:52.85,Sub,,0,0,0,,{\fad(80,80)}The man who shaped the American response was a
+Dialogue: 0,0:28:52.87,0:28:55.01,Sub,,0,0,0,,{\fad(80,80)}psychiatrist named Thomas Salmon.
+Dialogue: 0,0:28:55.03,0:28:58.08,Sub,,0,0,0,,{\fad(80,80)}In May 1917 he went to Britain to study how the
+Dialogue: 0,0:28:58.10,0:28:59.32,Sub,,0,0,0,,{\fad(80,80)}British handled it.
+Dialogue: 2,0:28:50.11,0:28:55.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:28:50.11,0:28:55.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:50.11,0:28:55.86,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:28:50.11,0:28:55.86,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION TRENCHES · LORRAINE
+Dialogue: 0,0:28:59.79,0:29:03.21,Sub,,0,0,0,,{\fad(80,80)}At home, Army screening had already rejected about
+Dialogue: 0,0:29:03.23,0:29:05.48,Sub,,0,0,0,,{\fad(80,80)}2% of recruits on mental grounds.
+Dialogue: 2,0:29:00.04,0:29:05.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:29:00.04,0:29:05.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:00.04,0:29:05.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:29:00.04,0:29:05.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION TRENCHES · LORRAINE
+Dialogue: 0,0:29:10.84,0:29:12.79,Sub,,0,0,0,,{\fad(80,80)}Each division got a psychiatrist.
+Dialogue: 0,0:29:12.81,0:29:15.71,Sub,,0,0,0,,{\fad(80,80)}A man brought in shaking was given rest, food and
+Dialogue: 0,0:29:15.73,0:29:18.75,Sub,,0,0,0,,{\fad(80,80)}sleep, near his own unit, with the expectation that
+Dialogue: 0,0:29:18.77,0:29:19.77,Sub,,0,0,0,,{\fad(80,80)}he would go back.
+Dialogue: 2,0:29:11.09,0:29:16.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 931 0 l 931 132 l 0 132{\p0}
+Dialogue: 3,0:29:11.09,0:29:16.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:11.09,0:29:16.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:29:11.09,0:29:16.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A LETTER READ TO A PATIENT · AISNE-MARNE
+Dialogue: 0,0:30:07.52,0:30:09.80,Sub,,0,0,0,,{\fad(80,80)}Modern historians are more careful.
+Dialogue: 0,0:30:09.82,0:30:13.14,Sub,,0,0,0,,{\fad(80,80)}A 2007 study of one British forward unit found that
+Dialogue: 0,0:30:13.16,0:30:16.55,Sub,,0,0,0,,{\fad(80,80)}fewer than one in five of its men went straight back
+Dialogue: 0,0:30:16.57,0:30:19.43,Sub,,0,0,0,,{\fad(80,80)}to combat, and called the wartime statistics
+Dialogue: 0,0:30:19.45,0:30:21.14,Sub,,0,0,0,,{\fad(80,80)}inaccurate and misleading.
+Dialogue: 2,0:30:07.77,0:30:13.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 931 0 l 931 132 l 0 132{\p0}
+Dialogue: 3,0:30:07.77,0:30:13.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:07.77,0:30:13.52,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:30:07.77,0:30:13.52,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A LETTER READ TO A PATIENT · AISNE-MARNE
+Dialogue: 0,0:30:44.18,0:30:47.19,Sub,,0,0,0,,{\fad(80,80)}Some of the men who came home carried this wound for
+Dialogue: 0,0:30:47.21,0:30:48.88,Sub,,0,0,0,,{\fad(80,80)}years after the guns stopped.
+Dialogue: 2,0:30:44.43,0:30:49.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:30:44.43,0:30:49.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:44.43,0:30:49.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:30:44.43,0:30:49.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE MEUSE VALLEY · NOV. 1918
+Dialogue: 0,0:30:49.35,0:30:52.15,Sub,,0,0,0,,{\fad(80,80)}There was another, humbler wound of the trenches:
+Dialogue: 0,0:30:52.17,0:30:52.67,Sub,,0,0,0,,{\fad(80,80)}the feet.
+Dialogue: 0,0:30:52.69,0:30:55.37,Sub,,0,0,0,,{\fad(80,80)}Trench foot came from days of cold, wet feet in
+Dialogue: 0,0:30:55.39,0:30:56.17,Sub,,0,0,0,,{\fad(80,80)}leaking boots.
+Dialogue: 2,0:30:49.60,0:30:55.35,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:30:49.60,0:30:55.35,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:49.60,0:30:55.35,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:30:49.60,0:30:55.35,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}42ND DIVISION TRENCHES · LORRAINE
+Dialogue: 0,0:31:14.48,0:31:17.20,Sub,,0,0,0,,{\fad(80,80)}And while the armies fought, a different enemy was
+Dialogue: 0,0:31:17.22,0:31:18.57,Sub,,0,0,0,,{\fad(80,80)}already inside the camps.
+Dialogue: 2,0:31:14.73,0:31:18.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:31:14.73,0:31:18.99,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:31:14.73,0:31:18.99,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:31:14.73,0:31:18.99,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TENT CAMP · MEUSE-ARGONNE
+Dialogue: 0,0:31:21.79,0:31:24.75,Sub,,0,0,0,,{\fad(80,80)}In the autumn of 1918, at the same time as the
+Dialogue: 0,0:31:24.77,0:31:28.06,Sub,,0,0,0,,{\fad(80,80)}Meuse-Argonne, the deadliest flu pandemic in modern
+Dialogue: 0,0:31:28.08,0:31:30.07,Sub,,0,0,0,,{\fad(80,80)}history swept through the Army.
+Dialogue: 2,0:31:22.04,0:31:27.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 802 0 l 802 132 l 0 132{\p0}
+Dialogue: 3,0:31:22.04,0:31:27.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:31:22.04,0:31:27.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:31:22.04,0:31:27.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMERICAN RED CROSS OUTPOST SERVICE
+Dialogue: 0,0:31:58.40,0:32:00.78,Sub,,0,0,0,,{\fad(80,80)}The flu filled more beds than the enemy did.
+Dialogue: 2,0:31:58.65,0:32:01.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:31:58.65,0:32:01.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:31:58.65,0:32:01.20,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:31:58.65,0:32:01.20,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:32:01.25,0:32:04.28,Sub,,0,0,0,,{\fad(80,80)}During the Meuse-Argonne, in October, 1,451
+Dialogue: 0,0:32:04.30,0:32:06.13,Sub,,0,0,0,,{\fad(80,80)}Americans died of the flu.
+Dialogue: 0,0:32:06.15,0:32:09.39,Sub,,0,0,0,,{\fad(80,80)}The sick clogged the same evacuation lines the
+Dialogue: 0,0:32:09.41,0:32:10.46,Sub,,0,0,0,,{\fad(80,80)}wounded needed.
+Dialogue: 2,0:32:01.50,0:32:07.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:32:01.50,0:32:07.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:32:01.50,0:32:07.25,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:32:01.50,0:32:07.25,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TRAFFIC ON THE ROADS · MEUSE-ARGONNE
+Dialogue: 0,0:32:24.54,0:32:26.12,Sub,,0,0,0,,{\fad(80,80)}Back home it was the same.
+Dialogue: 0,0:32:26.14,0:32:29.14,Sub,,0,0,0,,{\fad(80,80)}At Walter Reed in Washington, the flu caused more
+Dialogue: 0,0:32:29.16,0:32:32.15,Sub,,0,0,0,,{\fad(80,80)}than 2,000 admissions and more than a hundred and
+Dialogue: 0,0:32:32.17,0:32:32.95,Sub,,0,0,0,,{\fad(80,80)}fifty deaths.
+Dialogue: 2,0:32:24.79,0:32:30.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:32:24.79,0:32:30.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:32:24.79,0:32:30.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · FORD FILM COLLECTION, NATIONAL ARCHIVES
+Dialogue: 3,0:32:24.79,0:32:30.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY GENERAL HOSPITAL NO. 36 · DETROIT
+Dialogue: 0,0:32:41.70,0:32:43.51,Sub,,0,0,0,,{\fad(80,80)}And it hit the healers hard.
+Dialogue: 0,0:32:43.53,0:32:46.57,Sub,,0,0,0,,{\fad(80,80)}More than 21,000 Army nurses served in the war.
+Dialogue: 0,0:32:46.59,0:32:49.11,Sub,,0,0,0,,{\fad(80,80)}More than 10,000 of them went overseas.
+Dialogue: 2,0:32:41.95,0:32:47.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:32:41.95,0:32:47.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:32:41.95,0:32:47.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:32:41.95,0:32:47.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:33:35.89,0:33:37.72,Sub,,0,0,0,,{\fad(80,80)}They worked under fire too.
+Dialogue: 0,0:33:37.74,0:33:40.88,Sub,,0,0,0,,{\fad(80,80)}Nurse Beatrice McDonald lost an eye to a shell
+Dialogue: 0,0:33:40.90,0:33:44.32,Sub,,0,0,0,,{\fad(80,80)}splinter at a British casualty clearing station in
+Dialogue: 0,0:33:44.34,0:33:45.14,Sub,,0,0,0,,{\fad(80,80)}August 1917.
+Dialogue: 2,0:33:36.14,0:33:41.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:33:36.14,0:33:41.89,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:33:36.14,0:33:41.89,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:33:36.14,0:33:41.89,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:34:08.38,0:34:11.53,Sub,,0,0,0,,{\fad(80,80)}In a letter home from Paris in April 1918, a week
+Dialogue: 0,0:34:11.55,0:34:13.54,Sub,,0,0,0,,{\fad(80,80)}into a new job, she was honest.
+Dialogue: 0,0:34:13.56,0:34:16.32,Sub,,0,0,0,,{\fad(80,80)}I have been, she wrote, simply floundering.
+Dialogue: 2,0:34:08.63,0:34:14.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:34:08.63,0:34:14.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:08.63,0:34:14.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:34:08.63,0:34:14.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS AND ARMY NURSES · 28TH DIVISION
+Dialogue: 0,0:34:27.55,0:34:29.56,Sub,,0,0,0,,{\fad(80,80)}And the Army needed more of them.
+Dialogue: 0,0:34:29.58,0:34:32.70,Sub,,0,0,0,,{\fad(80,80)}In May 1918, it approved an Army School of Nursing.
+Dialogue: 0,0:34:32.72,0:34:36.22,Sub,,0,0,0,,{\fad(80,80)}In five months, it received eleven thousand applications.
+Dialogue: 0,0:34:36.24,0:34:38.31,Sub,,0,0,0,,{\fad(80,80)}Its first dean was Annie Goodrich.
+Dialogue: 2,0:34:27.80,0:34:33.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:34:27.80,0:34:33.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:27.80,0:34:33.55,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · FORD FILM COLLECTION, NATIONAL ARCHIVES
+Dialogue: 3,0:34:27.80,0:34:33.55,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY GENERAL HOSPITAL NO. 36 · DETROIT
+Dialogue: 0,0:34:51.59,0:34:54.75,Sub,,0,0,0,,{\fad(80,80)}Once your wound was cleaned and closed, or your
+Dialogue: 0,0:34:54.77,0:34:58.32,Sub,,0,0,0,,{\fad(80,80)}fever broke, it was time to move again. Further back.
+Dialogue: 0,0:34:58.34,0:34:59.20,Sub,,0,0,0,,{\fad(80,80)}Much further.
+Dialogue: 2,0:34:51.84,0:34:57.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:34:51.84,0:34:57.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:51.84,0:34:57.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:34:51.84,0:34:57.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. HOSPITAL TRAIN · FRANCE
+Dialogue: 0,0:35:02.04,0:35:05.48,Sub,,0,0,0,,{\fad(80,80)}From the evacuation hospitals, the wounded went back
+Dialogue: 0,0:35:05.50,0:35:06.08,Sub,,0,0,0,,{\fad(80,80)}by train.
+Dialogue: 0,0:35:06.10,0:35:07.81,Sub,,0,0,0,,{\fad(80,80)}An ambulance carried four.
+Dialogue: 0,0:35:07.83,0:35:10.15,Sub,,0,0,0,,{\fad(80,80)}A hospital train carried up to 400.
+Dialogue: 2,0:35:02.29,0:35:08.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:35:02.29,0:35:08.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:02.29,0:35:08.04,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:35:02.29,0:35:08.04,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INTERIOR OF A HOSPITAL TRAIN WARD CAR · BEDS RAISED
+Dialogue: 0,0:35:10.62,0:35:13.80,Sub,,0,0,0,,{\fad(80,80)}The Army ran its hospital trains like a railroad of
+Dialogue: 0,0:35:13.82,0:35:14.31,Sub,,0,0,0,,{\fad(80,80)}its own.
+Dialogue: 0,0:35:14.33,0:35:17.51,Sub,,0,0,0,,{\fad(80,80)}Ward cars with tiers of stretcher racks, a pharmacy
+Dialogue: 0,0:35:17.53,0:35:18.71,Sub,,0,0,0,,{\fad(80,80)}car, a kitchen car.
+Dialogue: 2,0:35:10.87,0:35:16.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 982 0 l 982 132 l 0 132{\p0}
+Dialogue: 3,0:35:10.87,0:35:16.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:10.87,0:35:16.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. VIII (1925)
+Dialogue: 3,0:35:10.87,0:35:16.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL TRAIN · METHOD OF LOADING
+Dialogue: 0,0:35:32.72,0:35:35.28,Sub,,0,0,0,,{\fad(80,80)}Sometimes a train was sidetracked on the way.
+Dialogue: 0,0:35:35.30,0:35:38.03,Sub,,0,0,0,,{\fad(80,80)}The Army's own history admits that some of those
+Dialogue: 0,0:35:38.05,0:35:39.06,Sub,,0,0,0,,{\fad(80,80)}delays cost lives.
+Dialogue: 2,0:35:32.97,0:35:38.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:35:32.97,0:35:38.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:32.97,0:35:38.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:35:32.97,0:35:38.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. HOSPITAL TRAIN · FRANCE
+Dialogue: 0,0:35:39.53,0:35:42.87,Sub,,0,0,0,,{\fad(80,80)}At the end of the line were the base hospitals, far
+Dialogue: 0,0:35:42.89,0:35:44.05,Sub,,0,0,0,,{\fad(80,80)}from the fighting.
+Dialogue: 0,0:35:44.07,0:35:47.28,Sub,,0,0,0,,{\fad(80,80)}Base Hospital 28, at Limoges, was about 200 miles
+Dialogue: 0,0:35:47.30,0:35:48.26,Sub,,0,0,0,,{\fad(80,80)}from the front.
+Dialogue: 0,0:35:48.28,0:35:51.29,Sub,,0,0,0,,{\fad(80,80)}Some were built from scratch, row after row of
+Dialogue: 0,0:35:51.31,0:35:52.15,Sub,,0,0,0,,{\fad(80,80)}wooden wards.
+Dialogue: 2,0:35:39.78,0:35:45.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 888 0 l 888 132 l 0 132{\p0}
+Dialogue: 3,0:35:39.78,0:35:45.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:39.78,0:35:45.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:35:39.78,0:35:45.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL WARDS GO UP · SAVENAY, FRANCE
+Dialogue: 0,0:35:52.62,0:35:55.00,Sub,,0,0,0,,{\fad(80,80)}Others moved into whatever was there.
+Dialogue: 0,0:35:55.02,0:35:58.11,Sub,,0,0,0,,{\fad(80,80)}At Vichy, the spa town, hotels became part of an
+Dialogue: 0,0:35:58.13,0:35:59.48,Sub,,0,0,0,,{\fad(80,80)}Army hospital center.
+Dialogue: 2,0:35:52.87,0:35:58.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:35:52.87,0:35:58.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:52.87,0:35:58.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. II (1927)
+Dialogue: 3,0:35:52.87,0:35:58.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A WARD, BASE HOSPITAL NO. 1, VICHY HOSPITAL CENTER
+Dialogue: 0,0:36:15.75,0:36:16.82,Sub,,0,0,0,,{\fad(80,80)}Base Hospital No.
+Dialogue: 0,0:36:16.84,0:36:20.15,Sub,,0,0,0,,{\fad(80,80)}4, the Cleveland unit that had sailed first, treated
+Dialogue: 0,0:36:20.17,0:36:23.28,Sub,,0,0,0,,{\fad(80,80)}eighty-two thousand, one hundred and seventy-nine
+Dialogue: 0,0:36:23.30,0:36:24.75,Sub,,0,0,0,,{\fad(80,80)}cases in twenty months.
+Dialogue: 2,0:36:16.00,0:36:21.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:36:16.00,0:36:21.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:16.00,0:36:21.75,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY PHOTO · MEDICAL DEPT. HISTORY, VOL. II (1927)
+Dialogue: 3,0:36:16.00,0:36:21.75,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL TRAIN AT BASE HOSPITAL NO. 27, ANGERS
+Dialogue: 0,0:36:41.01,0:36:43.61,Sub,,0,0,0,,{\fad(80,80)}Here, for the first time in weeks, there were clean
+Dialogue: 0,0:36:43.63,0:36:45.11,Sub,,0,0,0,,{\fad(80,80)}sheets, and nurses, and time.
+Dialogue: 2,0:36:41.26,0:36:45.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:36:41.26,0:36:45.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:41.26,0:36:45.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:36:41.26,0:36:45.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A U.S. ARMY HOSPITAL WARD · ST. NAZAIRE AREA
+Dialogue: 0,0:36:55.09,0:36:56.24,Sub,,0,0,0,,{\fad(80,80)}And something else.
+Dialogue: 0,0:36:56.26,0:36:58.32,Sub,,0,0,0,,{\fad(80,80)}Women called reconstruction aides.
+Dialogue: 0,0:36:58.34,0:37:01.20,Sub,,0,0,0,,{\fad(80,80)}They massaged stiff limbs, taught exercises and
+Dialogue: 0,0:37:01.22,0:37:04.51,Sub,,0,0,0,,{\fad(80,80)}crafts, and helped men learn to use their hands again.
+Dialogue: 2,0:36:55.34,0:37:01.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:36:55.34,0:37:01.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:55.34,0:37:01.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:36:55.34,0:37:01.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RECONSTRUCTION AIDES · ST. NAZAIRE AREA
+Dialogue: 0,0:37:04.98,0:37:07.84,Sub,,0,0,0,,{\fad(80,80)}They often worked 14-hour days, as civilians.
+Dialogue: 0,0:37:07.86,0:37:11.17,Sub,,0,0,0,,{\fad(80,80)}They were granted veteran status only about 60 years
+Dialogue: 0,0:37:11.19,0:37:11.55,Sub,,0,0,0,,{\fad(80,80)}later.
+Dialogue: 2,0:37:05.23,0:37:10.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:37:05.23,0:37:10.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:37:05.23,0:37:10.98,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:37:05.23,0:37:10.98,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}RECONSTRUCTION AIDES · ST. NAZAIRE AREA
+Dialogue: 0,0:37:33.02,0:37:35.65,Sub,,0,0,0,,{\fad(80,80)}For those who could not go back to the war, the
+Dialogue: 0,0:37:35.67,0:37:36.72,Sub,,0,0,0,,{\fad(80,80)}chain ended at sea.
+Dialogue: 2,0:37:33.27,0:37:37.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:37:33.27,0:37:37.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:37:33.27,0:37:37.14,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:37:33.27,0:37:37.14,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STRETCHERS CARRIED ABOARD SHIP · ST. NAZAIRE
+Dialogue: 0,0:37:37.19,0:37:40.72,Sub,,0,0,0,,{\fad(80,80)}Stretchers were carried aboard ships at the French
+Dialogue: 0,0:37:40.74,0:37:42.08,Sub,,0,0,0,,{\fad(80,80)}ports, in the rain.
+Dialogue: 0,0:37:42.10,0:37:45.56,Sub,,0,0,0,,{\fad(80,80)}One of them was the Navy hospital ship USS Mercy.
+Dialogue: 0,0:37:45.58,0:37:48.91,Sub,,0,0,0,,{\fad(80,80)}Beginning in November 1918, she made four round
+Dialogue: 0,0:37:48.93,0:37:52.33,Sub,,0,0,0,,{\fad(80,80)}trips, and by March 1919 had brought home nearly
+Dialogue: 0,0:37:52.35,0:37:53.54,Sub,,0,0,0,,{\fad(80,80)}2,000 casualties.
+Dialogue: 2,0:37:37.44,0:37:43.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:37:37.44,0:37:43.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:37:37.44,0:37:43.19,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:37:37.44,0:37:43.19,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL SHIP U.S.S. MERCY
+Dialogue: 0,0:37:54.01,0:37:54.89,Sub,,0,0,0,,{\fad(80,80)}Then New York.
+Dialogue: 0,0:37:54.91,0:37:57.41,Sub,,0,0,0,,{\fad(80,80)}The Statue of Liberty through the haze.
+Dialogue: 2,0:37:54.26,0:37:57.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:37:54.26,0:37:57.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:37:54.26,0:37:57.83,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:37:54.26,0:37:57.83,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOMECOMING · NEW YORK HARBOR
+Dialogue: 0,0:37:57.88,0:38:00.82,Sub,,0,0,0,,{\fad(80,80)}The Signal Corps cameras filmed the wounded being
+Dialogue: 0,0:38:00.84,0:38:03.29,Sub,,0,0,0,,{\fad(80,80)}carried down the gangways, past Red Cross
+Dialogue: 0,0:38:03.31,0:38:06.66,Sub,,0,0,0,,{\fad(80,80)}volunteers, and loaded into Army ambulances on the pier.
+Dialogue: 2,0:37:58.13,0:38:03.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:37:58.13,0:38:03.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:37:58.13,0:38:03.88,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:37:58.13,0:38:03.88,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WOUNDED COME HOME · NEW YORK
+Dialogue: 0,0:38:19.98,0:38:24.09,Sub,,0,0,0,,{\fad(80,80)}In April 1917 it had a hundred and twenty-one patients.
+Dialogue: 0,0:38:24.11,0:38:28.22,Sub,,0,0,0,,{\fad(80,80)}In 1918 alone, it admitted more than thirteen thousand.
+Dialogue: 2,0:38:20.23,0:38:25.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:38:20.23,0:38:25.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:38:20.23,0:38:25.98,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:38:20.23,0:38:25.98,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WOUNDED COME HOME · NEW YORK
+Dialogue: 0,0:38:28.69,0:38:31.81,Sub,,0,0,0,,{\fad(80,80)}Men who had lost a limb began the long work of
+Dialogue: 0,0:38:31.83,0:38:34.53,Sub,,0,0,0,,{\fad(80,80)}learning to live with an artificial one.
+Dialogue: 0,0:38:34.55,0:38:37.94,Sub,,0,0,0,,{\fad(80,80)}According to the National World War I Museum, more
+Dialogue: 0,0:38:37.96,0:38:40.87,Sub,,0,0,0,,{\fad(80,80)}than 4,400 Americans received treatment and
+Dialogue: 0,0:38:40.89,0:38:42.03,Sub,,0,0,0,,{\fad(80,80)}artificial limbs.
+Dialogue: 2,0:38:28.94,0:38:34.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:38:28.94,0:38:34.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:38:28.94,0:38:34.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · FORD FILM COLLECTION, NATIONAL ARCHIVES
+Dialogue: 3,0:38:28.94,0:38:34.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY GENERAL HOSPITAL NO. 36 · DETROIT
+Dialogue: 0,0:38:42.50,0:38:45.67,Sub,,0,0,0,,{\fad(80,80)}When the war began, most American limb makers still
+Dialogue: 0,0:38:45.69,0:38:48.24,Sub,,0,0,0,,{\fad(80,80)}carved artificial legs from wood by hand.
+Dialogue: 0,0:38:48.26,0:38:49.56,Sub,,0,0,0,,{\fad(80,80)}The war changed that.
+Dialogue: 0,0:38:49.58,0:38:52.44,Sub,,0,0,0,,{\fad(80,80)}Walter Reed got its own prosthetic laboratory.
+Dialogue: 2,0:38:42.75,0:38:48.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1063 0 l 1063 132 l 0 132{\p0}
+Dialogue: 3,0:38:42.75,0:38:48.50,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:38:42.75,0:38:48.50,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · FORD FILM COLLECTION, NATIONAL ARCHIVES
+Dialogue: 3,0:38:42.75,0:38:48.50,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY GENERAL HOSPITAL NO. 36 · DETROIT
+Dialogue: 0,0:39:31.45,0:39:34.05,Sub,,0,0,0,,{\fad(80,80)}In 1921, the Veterans Bureau was created.
+Dialogue: 0,0:39:34.07,0:39:37.32,Sub,,0,0,0,,{\fad(80,80)}The country was learning that the care of a wounded
+Dialogue: 0,0:39:37.34,0:39:39.81,Sub,,0,0,0,,{\fad(80,80)}soldier does not end when the war does.
+Dialogue: 2,0:39:31.70,0:39:37.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:39:31.70,0:39:37.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:31.70,0:39:37.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:39:31.70,0:39:37.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}VICTORY PARADE · FIFTH AVENUE, NEW YORK
+Dialogue: 0,0:39:40.28,0:39:41.80,Sub,,0,0,0,,{\fad(80,80)}So what did all this leave us?
+Dialogue: 2,0:39:40.53,0:39:42.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 910 0 l 910 132 l 0 132{\p0}
+Dialogue: 3,0:39:40.53,0:39:42.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:40.53,0:39:42.22,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:39:40.53,0:39:42.22,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}VICTORY PARADE · FIFTH AVENUE, NEW YORK
+Dialogue: 0,0:39:54.17,0:39:57.14,Sub,,0,0,0,,{\fad(80,80)}Those ideas still run through military medicine.
+Dialogue: 0,0:39:57.16,0:39:59.95,Sub,,0,0,0,,{\fad(80,80)}Today, soldiers testing for the Army's expert
+Dialogue: 0,0:39:59.97,0:40:03.01,Sub,,0,0,0,,{\fad(80,80)}badges, including the Expert Field Medical Badge,
+Dialogue: 0,0:40:03.03,0:40:05.89,Sub,,0,0,0,,{\fad(80,80)}are still tested on their skills in the field.
+Dialogue: 2,0:39:54.42,0:40:00.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:39:54.42,0:40:00.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:54.42,0:40:00.17,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT HOOD, TEXAS · NOV. 7, 2026 · U.S. ARMY
+Dialogue: 3,0:39:54.42,0:40:00.17,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: EXPERT BADGE TESTING (E3B) · TRAINING
+Dialogue: 0,0:40:06.36,0:40:08.60,Sub,,0,0,0,,{\fad(80,80)}In 1918, the clock was 12 hours.
+Dialogue: 0,0:40:08.62,0:40:12.08,Sub,,0,0,0,,{\fad(80,80)}The men who fought it were bearers with blistered
+Dialogue: 0,0:40:12.10,0:40:15.62,Sub,,0,0,0,,{\fad(80,80)}hands, drivers in Model T Fords, surgeons on their
+Dialogue: 0,0:40:15.64,0:40:19.59,Sub,,0,0,0,,{\fad(80,80)}third day without sleep, and nurses who never came home.
+Dialogue: 2,0:40:06.61,0:40:12.36,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:40:06.61,0:40:12.36,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:40:06.61,0:40:12.36,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:40:06.61,0:40:12.36,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STRETCHER BEARERS · 42ND DIVISION
+Dialogue: 0,0:40:20.06,0:40:24.35,Sub,,0,0,0,,{\fad(80,80)}In the Meuse-Argonne American Cemetery, which holds
+Dialogue: 0,0:40:24.37,0:40:28.41,Sub,,0,0,0,,{\fad(80,80)}more American war dead than any other in Europe,
+Dialogue: 0,0:40:28.43,0:40:30.78,Sub,,0,0,0,,{\fad(80,80)}14,246 Americans are buried.
+Dialogue: 2,0:40:20.31,0:40:26.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:40:20.31,0:40:26.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:40:20.31,0:40:26.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1918 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:40:20.31,0:40:26.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DECORATING AMERICAN GRAVES · LORRAINE, 1918
+Dialogue: 0,0:40:31.25,0:40:33.95,Sub,,0,0,0,,{\fad(80,80)}Most of the 200,000 wounded lived.
+Dialogue: 2,0:40:31.50,0:40:34.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:40:31.50,0:40:34.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:40:31.50,0:40:34.37,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARCHIVAL FILM · 1919 · U.S. ARMY SIGNAL CORPS
+Dialogue: 3,0:40:31.50,0:40:34.37,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOMECOMING · NEW YORK HARBOR
+Dialogue: 5,0:40:48.06,0:40:52.26,Credit,,0,0,0,,{\fad(400,0)}Archival film (public domain): U.S. Army Signal Corps, 1917–1919, Record Group 111 Historical Films, U.S. National Archives (via Internet Archive); Ford Film Collection, National Archives. "Gas Alarm" (1918) is a British training film.\NPhotographs and drawings: The Medical Department of the U.S. Army in the World War, Vols. II and VIII (GPO); Manual of Splints and Appliances (U.S. Army, 1917).\NFootage: U.S. Army and U.S. Navy via DVIDS (public domain), Oct.–Nov. 2026. Training footage is marked TRAINING.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the U.S. Army, DoD or any government agency.\NFor education only. This is not medical advice.
+Dialogue: 4,0:22:34.27,0:22:38.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:22:38.43,0:22:42.57,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:39:54.17,0:40:00.27,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:40:00.27,0:40:06.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

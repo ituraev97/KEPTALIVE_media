@@ -1,0 +1,2275 @@
+[
+ {
+  "key": "stat_b34b34",
+  "name": "stat",
+  "opts": {
+   "a": "26,277",
+   "b": "AMERICANS KILLED IN THE MEUSE-ARGONNE",
+   "c": "47 DAYS \u00b7 SEPT. 26 \u2013 NOV. 11, 1918 \u00b7 SOURCE: LIBRARY OF CONGRESS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_d99242",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE WOUNDED AMERICAN \u00b7 1918",
+   "title": "WHAT YOU DID NOT HAVE",
+   "cards": [
+    {
+     "h": "0",
+     "t": "Antibiotics",
+     "s": "Antibiotics arrived only in the 1940s"
+    },
+    {
+     "h": "NEW",
+     "t": "Blood transfusion",
+     "s": "Stored blood was first tried in 1917"
+    },
+    {
+     "h": "9\u201315 MI",
+     "t": "To the evacuation hospital",
+     "s": "Where most major surgery was done"
+    }
+   ],
+   "footer": "SOURCES: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 ARMY MEDICAL DEPARTMENT HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_05efcb",
+  "name": "title",
+  "opts": {
+   "kicker": "WAR MEDICINE \u00b7 EP 1",
+   "title": "WOUNDED",
+   "sub": "AMERICA IN THE GREAT WAR \u00b7 <span style=\"color:#2BB3A3\">1918</span>",
+   "size": 250
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_8fd8e0",
+  "name": "chapter",
+  "opts": {
+   "case": "1917",
+   "n": "I",
+   "t": "OVER THERE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_82a1e2",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CLEVELAND, OHIO \u00b7 MAY 1917",
+   "title": "BASE HOSPITAL NO. 4",
+   "rows": [
+    [
+     "LEFT HOME",
+     "May 6, 1917"
+    ],
+    [
+     "STAFF",
+     "26 officers \u00b7 64 nurses \u00b7 156 men"
+    ],
+    [
+     "ARRIVED",
+     "Rouen, France \u00b7 May 25, 1917"
+    ],
+    [
+     "IN 20 MONTHS",
+     "82,179 cases treated"
+    ]
+   ],
+   "footer": "SOURCES: ENCYCLOPEDIA OF CLEVELAND HISTORY \u00b7 AMERICAN BATTLE MONUMENTS COMMISSION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_0723c6",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -1.5,
+      46.4
+     ],
+     [
+      8.2,
+      51.2
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       1.1,
+       49.44
+      ],
+      "name": "ROUEN",
+      "sub": "BASE HOSPITAL NO. 4",
+      "d": 0.5,
+      "size": 32
+     },
+     {
+      "ll": [
+       1.6,
+       50.57
+      ],
+      "name": "CAMIERS",
+      "sub": "BASE HOSPITAL NO. 5",
+      "d": 0.8,
+      "size": 32
+     },
+     {
+      "ll": [
+       2.35,
+       48.86
+      ],
+      "name": "PARIS",
+      "d": 1.0,
+      "size": 28
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       1.1,
+       49.44
+      ],
+      "r": 26,
+      "n": 3,
+      "d": 0.5,
+      "color": "#E5383B"
+     },
+     {
+      "ll": [
+       1.6,
+       50.57
+      ],
+      "r": 26,
+      "n": 3,
+      "d": 0.8,
+      "color": "#E5383B"
+     }
+    ]
+   },
+   "kicker": "SPRING 1917",
+   "title": "THE FIRST A.E.F. HOSPITALS IN FRANCE",
+   "footer": "SOURCE: AMERICAN BATTLE MONUMENTS COMMISSION \u00b7 POSITIONS APPROXIMATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_3d1de2",
+  "name": "doc",
+  "opts": {
+   "header": "AMERICAN BATTLE MONUMENTS COMMISSION",
+   "title": "JULY 14, 1917",
+   "body": "First A.E.F. combat casualty: Capt. Louis J. Genella, Medical Reserve Corps \u2014 wounded by artillery near Arras.",
+   "source": "SOURCE: ABMC \u00b7 CARING FOR THE SICK AND WOUNDED",
+   "stamp": "FIRST WOUNDED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_ec0261",
+  "name": "list",
+  "opts": {
+   "kicker": "BASE HOSPITAL NO. 5 \u00b7 CAMIERS \u00b7 SEPT. 4, 1917",
+   "title": "THE FIRST A.E.F. DEATHS FROM ENEMY ACTION",
+   "items": [
+    "Lt. William T. Fitzsimons, Medical Corps",
+    "Pvt. Oscar C. Tugo",
+    "Pvt. Rudolph Rubino Jr.",
+    "Pvt. Leslie G. Woods"
+   ],
+   "footer": "SOURCES: ARMY MEDICAL DEPARTMENT HISTORY \u00b7 UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ff53b4",
+  "name": "stat",
+  "opts": {
+   "a": "1,910,934",
+   "b": "AMERICAN SOLDIERS IN EUROPE \u00b7 NOV. 1918",
+   "c": "PEAK STRENGTH OF THE A.E.F. \u00b7 SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_336f15",
+  "name": "cards3",
+  "opts": {
+   "kicker": "A.E.F. MEDICAL DEPARTMENT \u00b7 NOVEMBER 1918",
+   "title": "AN ARMY TO SAVE AN ARMY",
+   "cards": [
+    {
+     "h": "18,146",
+     "t": "Officers",
+     "s": "Doctors, dentists, specialists",
+     "size": 96
+    },
+    {
+     "h": "10,081",
+     "t": "Nurses",
+     "s": "Army Nurse Corps",
+     "size": 96
+    },
+    {
+     "h": "145,815",
+     "t": "Enlisted men",
+     "s": "Aid men, bearers, drivers, orderlies",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS (CITING THE OFFICIAL STATISTICS)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_1cd29c",
+  "name": "phases",
+  "opts": {
+   "kicker": "U.S. ARMY HOSPITALS IN THE UNITED STATES",
+   "title": "BUILDING FOR THE WOUNDED",
+   "left": {
+    "label": "BEFORE THE WAR",
+    "num": "9,500",
+    "desc": "Beds"
+   },
+   "right": {
+    "label": "BY THE END",
+    "num": "120,000",
+    "desc": "Beds"
+   },
+   "active": 1,
+   "footer": "SOURCE: BYERLY, PUBLIC HEALTH REPORTS, 2010"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_9c9f53",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNITED STATES \u00b7 WORLD WAR I",
+   "title": "THE COST",
+   "left": {
+    "label": "BATTLE DEATHS",
+    "num": "53,402",
+    "desc": "U.S. armed forces"
+   },
+   "right": {
+    "label": "WOUNDED, NOT FATALLY",
+    "num": "204,002",
+    "desc": "U.S. armed forces"
+   },
+   "footer": "SOURCES: CONGRESSIONAL RESEARCH SERVICE (DOD FIGURES) \u00b7 NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_b43e50",
+  "name": "quote",
+  "opts": {
+   "q": "For every man who was killed in battle, seven others were wounded, taken prisoner, or reported missing.",
+   "w": "LEONARD P. AYRES, THE WAR WITH GERMANY: A STATISTICAL SUMMARY, 1919"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_9c4e5a",
+  "name": "chapter",
+  "opts": {
+   "case": "1918",
+   "n": "II",
+   "t": "WHAT HITS YOU"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_853900",
+  "name": "doc",
+  "opts": {
+   "header": "MEDICAL DEPARTMENT STATISTICS \u00b7 REPRINTED 1984",
+   "title": "WHAT WOUNDED THEM",
+   "body": "Hospitalized American casualties, A.E.F., by causative agent. Charles E. Heller, Chemical Warfare in World War I: The American Experience (Leavenworth Paper No. 10).",
+   "source": "SOURCE: U.S. ARMY COMMAND AND GENERAL STAFF COLLEGE, 1984",
+   "stamp": "224,089 CASES",
+   "tsize": 88
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_24bacb",
+  "name": "stat",
+  "opts": {
+   "a": "235",
+   "b": "BAYONET WOUNDS \u00b7 ABOUT 1 IN 1,000",
+   "c": "HOSPITALIZED A.E.F. CASUALTIES \u00b7 SOURCE: HELLER, LEAVENWORTH PAPER NO. 10"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_a452c0",
+  "name": "stat",
+  "opts": {
+   "a": "9%",
+   "b": "RIFLE BULLETS",
+   "c": "20,420 HOSPITALIZED CASES \u00b7 SOURCE: HELLER (MEDICAL DEPARTMENT FIGURES)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_0d68d6",
+  "name": "stat",
+  "opts": {
+   "a": "23%",
+   "b": "SHRAPNEL AND SHELLS",
+   "c": "15.1% SHRAPNEL + 7.8% SHELLS \u00b7 SOURCE: HELLER (MEDICAL DEPARTMENT FIGURES)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_c7ee28",
+  "name": "stat",
+  "opts": {
+   "a": "31%",
+   "b": "POISON GAS",
+   "c": "70,552 HOSPITALIZED GAS CASES \u00b7 SOURCE: HELLER (MEDICAL DEPARTMENT FIGURES)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_1c4f7a",
+  "name": "cards3",
+  "opts": {
+   "kicker": "DIED IN HOSPITAL \u00b7 BY CAUSE \u00b7 A.E.F.",
+   "title": "WHAT KILLED THE WOUNDED",
+   "cards": [
+    {
+     "h": "7,474",
+     "t": "Gun wounds, weapon not named",
+     "s": "The largest group",
+     "size": 96
+    },
+    {
+     "h": "3,688",
+     "t": "Shrapnel and shells",
+     "s": "1,985 + 1,703",
+     "size": 96
+    },
+    {
+     "h": "1,221",
+     "t": "Gas",
+     "s": "31% of cases, a smaller share of deaths",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCE: HELLER, LEAVENWORTH PAPER NO. 10, TABLE 2 (MEDICAL DEPARTMENT FIGURES)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d51ac0",
+  "name": "stat",
+  "opts": {
+   "a": "60%",
+   "b": "OF BATTLEFIELD CASUALTIES \u00b7 ALL ARMIES",
+   "c": "CAUSED BY ARTILLERY SHELLS \u00b7 SOURCE: NATIONAL WWI MUSEUM AND MEMORIAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_df8bcb",
+  "name": "quote",
+  "opts": {
+   "q": "The most numerous and the most serious of any suffered by my company.",
+   "w": "SGT. DONALD KYLER, A.E.F., ON SHELL-FRAGMENT WOUNDS \u00b7 ARMY HERITAGE CENTER FOUNDATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_3c4e02",
+  "name": "doc",
+  "opts": {
+   "header": "GAS GANGRENE \u00b7 WESTERN FRONT",
+   "title": "THE 12-HOUR CLOCK",
+   "body": "Clostridia from manured soil, carried into wounds by shell fragments, cloth and dirt. Surgery within about 12 hours of wounding was considered critical.",
+   "source": "SOURCES: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE",
+   "stamp": "OFTEN FATAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d0e7cb",
+  "name": "stat",
+  "opts": {
+   "a": "107",
+   "b": "CASES OF GAS GANGRENE \u00b7 25 DIED",
+   "c": "2,267 WOUNDED FRENCH SOLDIERS, 1915\u201316 \u00b7 F. IVENS, PROC. ROYAL SOC. MED. 1916 \u00b7 VIA UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_595554",
+  "name": "stat",
+  "opts": {
+   "a": "12 HOURS",
+   "b": "FROM WOUND TO SURGERY",
+   "c": "THE GOAL OF A.E.F. SURGEONS \u00b7 SOURCES: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 ANNALS OF SURGERY, 1918"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_4c8f48",
+  "name": "chapter",
+  "opts": {
+   "case": "THE FRONT LINE",
+   "n": "III",
+   "t": "TWO SAFETY PINS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_b46eb4",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE A.E.F. FIRST-AID PACKET",
+   "title": "EVERYTHING IN YOUR POCKET",
+   "cards": [
+    {
+     "h": "2",
+     "t": "Gauze bandages",
+     "s": "Each 4 inches by 84 inches"
+    },
+    {
+     "h": "2",
+     "t": "Compresses",
+     "s": "3\u00bd by 3\u00bd inches"
+    },
+    {
+     "h": "2",
+     "t": "Safety pins",
+     "s": "To hold it all in place"
+    }
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, REGIMENTAL AID STATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_68985f",
+  "name": "stat",
+  "opts": {
+   "a": "2",
+   "b": "AID MEN PER INFANTRY COMPANY",
+   "c": "8 PER BATTALION \u00b7 SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_3c8fd1",
+  "name": "callcard",
+  "opts": {
+   "kicker": "STRETCHER BEARERS \u00b7 WESTERN FRONT",
+   "title": "THE MEN WHO CARRIED YOU",
+   "rows": [
+    [
+     "TRAINING",
+     "A ten-week course"
+    ],
+    [
+     "TEAM",
+     "Four to six bearers per stretcher"
+    ],
+    [
+     "WEAPONS",
+     "None"
+    ],
+    [
+     "TERRAIN",
+     "Mud at times up to their knees"
+    ]
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, STRETCHER-BEARERS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_85ef98",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE 12-HOUR CLOCK",
+   "title": "YOUR FIRST HOURS",
+   "events": [
+    {
+     "y": "HOUR 0",
+     "t": "Hit by a shell fragment"
+    },
+    {
+     "y": "FIRST AID",
+     "t": "Your own packet, or a buddy's"
+    },
+    {
+     "y": "WAIT",
+     "t": "Often until dark"
+    },
+    {
+     "y": "CARRIED",
+     "t": "To the battalion aid station"
+    }
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 ILLUSTRATIVE SEQUENCE BASED ON A.E.F. PRACTICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_4c8ef9",
+  "name": "callcard",
+  "opts": {
+   "kicker": "THE BATTALION AID STATION",
+   "title": "500 TO 1,000 YARDS BEHIND THE LINE",
+   "rows": [
+    [
+     "DOCTORS",
+     "1 medical officer"
+    ],
+    [
+     "STAFF",
+     "4\u20136 enlisted men \u00b7 2 runners"
+    ],
+    [
+     "BEARERS",
+     "Litter squads"
+    ],
+    [
+     "ROOM FOR",
+     "12 to 30 patients"
+    ]
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, REGIMENTAL AID STATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_e4a48e",
+  "name": "phases",
+  "opts": {
+   "kicker": "TETANUS \u00b7 WOUNDED MEN LANDED IN ENGLAND",
+   "title": "ONE SHOT FOR EVERY WOUNDED MAN",
+   "left": {
+    "label": "SEPT. 1914 \u00b7 PER 1,000 WOUNDED",
+    "num": "9",
+    "desc": "Before routine antitoxin"
+   },
+   "right": {
+    "label": "DEC. 1914 \u00b7 PER 1,000 WOUNDED",
+    "num": "1.4",
+    "desc": "After routine antitoxin"
+   },
+   "active": 1,
+   "footer": "SOURCE: SIR DAVID BRUCE, JOURNAL OF HYGIENE, 1920 (BRITISH ARMY DATA)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_39cf6e",
+  "name": "list",
+  "opts": {
+   "kicker": "THE A.E.F. FIELD MEDICAL CARD",
+   "title": "WHAT THE TAG COULD SAY",
+   "items": [
+    "Very slightly wounded",
+    "Gassed",
+    "Psychoneurotic",
+    "Sick",
+    "\u2026eight categories in all"
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, REGIMENTAL AID STATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_f0308d",
+  "name": "chapter",
+  "opts": {
+   "case": "1914 \u2013 1917",
+   "n": "IV",
+   "t": "THE SPLINT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_fd6d95",
+  "name": "stat",
+  "opts": {
+   "a": "80%",
+   "b": "DIED \u00b7 OPEN THIGH-BONE FRACTURES",
+   "c": "EARLY-WAR ESTIMATE \u00b7 COL. SIR HENRY GRAY (BRITISH) \u00b7 VIA J. SPECIAL OPERATIONS MEDICINE, 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_cd6bc0",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE THOMAS SPLINT",
+   "title": "HOW IT HELD A BROKEN LEG",
+   "items": [
+    [
+     "RING",
+     "Padded ring braced at the hip"
+    ],
+    [
+     "PULL",
+     "The leg drawn out straight"
+    ],
+    [
+     "HOLD",
+     "Fixed under tension to the frame"
+    ]
+   ],
+   "footer": "SOURCES: ROBERT JONES & AGNES HUNT ORTHOPAEDIC HOSPITAL (NHS) \u00b7 U.K. NATIONAL ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_460334",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE THOMAS SPLINT GOES TO WAR",
+   "title": "FROM LIVERPOOL TO THE FRONT",
+   "events": [
+    {
+     "y": "&#8203;1875",
+     "t": "Hugh Owen Thomas describes the splint"
+    },
+    {
+     "y": "&#8203;1914",
+     "t": "Robert Jones recommends it for the wounded"
+    },
+    {
+     "y": "&#8203;1916",
+     "t": "Introduced at the front"
+    },
+    {
+     "y": "&#8203;1917",
+     "t": "Standard issue"
+    }
+   ],
+   "footer": "SOURCES: STATE LIBRARY OF QUEENSLAND \u00b7 U.K. NATIONAL ARCHIVES \u00b7 J. SPECIAL OPERATIONS MEDICINE, 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_03bf91",
+  "name": "stat",
+  "opts": {
+   "a": "12",
+   "b": "STAGES TO APPLY IT CORRECTLY",
+   "c": "IDEALLY A TEAM OF THREE \u00b7 SOURCE: U.K. NATIONAL ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_b3223c",
+  "name": "phases",
+  "opts": {
+   "kicker": "OPEN THIGH-BONE FRACTURES \u00b7 BRITISH ARMY",
+   "title": "THE THOMAS SPLINT",
+   "left": {
+    "label": "EARLY WAR \u00b7 ESTIMATE",
+    "num": "~80%",
+    "desc": "Died"
+   },
+   "right": {
+    "label": "ARRAS 1917 \u00b7 1,009 MEN",
+    "num": "15.6%",
+    "desc": "Died"
+   },
+   "active": 1,
+   "footer": "SOURCE: H. M. W. GRAY (1919) \u00b7 VIA STAND TO! (WFA) AND J. SPECIAL OPERATIONS MEDICINE, 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_be0438",
+  "name": "chapter",
+  "opts": {
+   "case": "FROM THE AID STATION",
+   "n": "V",
+   "t": "THE ROAD BACK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_0d0bce",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE DIVISION'S SANITARY TRAIN \u00b7 1918",
+   "title": "ABOUT 950 MEN",
+   "cards": [
+    {
+     "h": "12",
+     "t": "Animal-drawn ambulances",
+     "s": "Kept in reserve: slow and a large target"
+    },
+    {
+     "h": "36",
+     "t": "Motor ambulances",
+     "s": "Three motor ambulance companies"
+    },
+    {
+     "h": "4",
+     "t": "Field hospitals",
+     "s": "Each for 216 patients"
+    }
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, AMBULANCE SECTION \u00b7 TRIAGE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_7ef5fb",
+  "name": "callcard",
+  "opts": {
+   "kicker": "NATIONAL MUSEUM OF THE U.S. AIR FORCE",
+   "title": "THE MODEL T AMBULANCE",
+   "rows": [
+    [
+     "ENGINE",
+     "20 horsepower \u00b7 hand-cranked"
+    ],
+    [
+     "CARRIED",
+     "3 litters or 4 seated patients"
+    ],
+    [
+     "WEIGHT",
+     "Light enough for soldiers to lift out of a hole"
+    ],
+    [
+     "SHIPPED",
+     "4,362 overseas by Nov. 1, 1918"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL MUSEUM OF THE U.S. AIR FORCE, FORD MODEL T AMBULANCE FACT SHEET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_e3cf47",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -1.5,
+      46.4
+     ],
+     [
+      8.2,
+      51.2
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       5.05,
+       49.3
+      ],
+      "name": "MEUSE-ARGONNE",
+      "sub": "SEPT. 26 \u2013 NOV. 11, 1918",
+      "d": 0.5,
+      "size": 32
+     },
+     {
+      "ll": [
+       5.55,
+       48.9
+      ],
+      "name": "ST. MIHIEL",
+      "sub": "SEPT. 12, 1918",
+      "d": 0.8,
+      "anchor": "end",
+      "dy": 40,
+      "size": 28
+     },
+     {
+      "ll": [
+       2.35,
+       48.86
+      ],
+      "name": "PARIS",
+      "d": 1.0,
+      "size": 28
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       5.05,
+       49.3
+      ],
+      "r": 30,
+      "n": 3,
+      "d": 0.5,
+      "color": "#E5383B"
+     }
+    ]
+   },
+   "kicker": "NORTHEASTERN FRANCE \u00b7 AUTUMN 1918",
+   "title": "THE AMERICAN SECTOR",
+   "footer": "SOURCES: LIBRARY OF CONGRESS \u00b7 NATIONAL PARK SERVICE \u00b7 POSITIONS APPROXIMATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_562534",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE CHAIN OF EVACUATION \u00b7 A.E.F. 1918",
+   "title": "STATION BY STATION",
+   "items": [
+    [
+     "AID STATION",
+     "500\u20131,000 yards back"
+    ],
+    [
+     "DRESSING",
+     "1,500\u20136,000 yards back"
+    ],
+    [
+     "FIELD HOSP.",
+     "6\u20138 miles back \u00b7 triage"
+    ],
+    [
+     "EVAC HOSP.",
+     "9\u201315 miles back \u00b7 surgery"
+    ]
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, MILITARY MEDICAL OPERATIONS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_6f08eb",
+  "name": "quote",
+  "opts": {
+   "q": "Oftentimes impossible to remove the wounded until dark.",
+   "w": "ARMY NURSE CORPS HISTORY, CITING THE MEDICAL DEPARTMENT'S FIELD OPERATIONS VOLUME"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_6a8d18",
+  "name": "cards3",
+  "opts": {
+   "kicker": "MEUSE-ARGONNE \u00b7 SEPT. 26 \u2013 NOV. 11, 1918",
+   "title": "THE AMBULANCES' WAR",
+   "cards": [
+    {
+     "h": "907,910",
+     "t": "Kilometers driven",
+     "s": "About 564,000 miles",
+     "size": 96
+    },
+    {
+     "h": "132,065",
+     "t": "Sick and wounded carried",
+     "s": "By ambulance",
+     "size": 96
+    },
+    {
+     "h": "47",
+     "t": "Days",
+     "s": "Of the offensive",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_08d96f",
+  "name": "stat",
+  "opts": {
+   "a": "3\u20138 HOURS",
+   "b": "FROM WOUND TO FIELD HOSPITAL",
+   "c": "TYPICAL, DESPITE JAMMED ROADS \u00b7 SOURCE: ARMY NURSE CORPS HISTORY (MEDICAL DEPT. VOL. VIII)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_cbbb32",
+  "name": "doc",
+  "opts": {
+   "header": "ARMY MEDICAL DEPARTMENT HISTORY",
+   "title": "PARIS \u00b7 JUNE 7, 1918",
+   "body": "More than 700 cases reached Red Cross Military Hospital No. 2. Many had not been operated on; many died on the way.",
+   "source": "SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS",
+   "stamp": "TOO LATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_e32c78",
+  "name": "chapter",
+  "opts": {
+   "case": "THE FIELD HOSPITAL",
+   "n": "VI",
+   "t": "TRIAGE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_2274bd",
+  "name": "doc",
+  "opts": {
+   "header": "TRIAGE \u00b7 FROM THE FRENCH \"TRIER\"",
+   "title": "TO SORT",
+   "body": "\"To sort, classify and distribute the sick and wounded.\" A.E.F. medical officers learned the French method in 1918.",
+   "source": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, TRIAGE",
+   "stamp": "SORTED",
+   "rot": 1
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_3cdd5b",
+  "name": "steps",
+  "opts": {
+   "kicker": "82ND DIVISION \u00b7 ST. MIHIEL \u00b7 SEPTEMBER 1918",
+   "title": "FOUR FIELD HOSPITALS, FOUR JOBS",
+   "items": [
+    [
+     "NO. 328",
+     "The triage \u00b7 sorts everyone"
+    ],
+    [
+     "NO. 325",
+     "The sick"
+    ],
+    [
+     "NO. 326",
+     "The gassed"
+    ],
+    [
+     "NO. 327",
+     "The seriously wounded"
+    ]
+   ],
+   "active": 0,
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, TRIAGE\u2013FIELD HOSPITAL SECTION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6e3a3a",
+  "name": "stat",
+  "opts": {
+   "a": "1%",
+   "b": "OF ARMY WOUNDED TREATED IN MOBILE HOSPITALS",
+   "c": "12 UNITS BY THE END OF THE WAR \u00b7 SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, CORPS\u2013ARMY LEVELS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_f9c8f7",
+  "name": "cards3",
+  "opts": {
+   "kicker": "ST. MIHIEL \u00b7 SEPTEMBER 1918",
+   "title": "PLANNING FOR 33,000 CASUALTIES",
+   "cards": [
+    {
+     "h": "10",
+     "t": "Evacuation hospitals",
+     "s": "About 1,000 beds each"
+    },
+    {
+     "h": "5",
+     "t": "Mobile hospitals",
+     "s": "Surgery near the front"
+    },
+    {
+     "h": "9",
+     "t": "Evacuation ambulance companies",
+     "s": "Front to hospital"
+    }
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, CORPS\u2013ARMY LEVELS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_b7adf0",
+  "name": "list",
+  "opts": {
+   "kicker": "THE TRIAGE FIELD HOSPITAL",
+   "title": "FIRST SAVE THE LIFE",
+   "items": [
+    "Control bleeding",
+    "Adjust fractures",
+    "Treat shock: warmth, fluids, blood",
+    "Clean the wound only if time allowed"
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, TRIAGE\u2013FIELD HOSPITAL SECTION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_be0fc8",
+  "name": "quote",
+  "opts": {
+   "q": "A condition of circulatory failure due to deficient entry of blood into the heart.",
+   "w": "BRITISH MEDICAL RESEARCH COMMITTEE, 1917, ON WOUND SHOCK \u00b7 VIA STAND TO!, WESTERN FRONT ASSOCIATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_be8cd8",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE WOUNDED AMERICAN \u00b7 1918",
+   "title": "THE CHAIN SO FAR",
+   "events": [
+    {
+     "y": "HIT",
+     "t": "First-aid packet"
+    },
+    {
+     "y": "AID STATION",
+     "t": "Antitoxin, splint, card"
+    },
+    {
+     "y": "AMBULANCE",
+     "t": "3\u20138 hours to triage"
+    },
+    {
+     "y": "TRIAGE",
+     "t": "Shock treated, sorted"
+    },
+    {
+     "y": "NEXT",
+     "t": "Evacuation hospital"
+    }
+   ],
+   "footer": "SOURCES: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 ARMY MEDICAL DEPARTMENT HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_029de1",
+  "name": "chapter",
+  "opts": {
+   "case": "1917",
+   "n": "VII",
+   "t": "BLOOD ON ICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_907331",
+  "name": "cards3",
+  "opts": {
+   "kicker": "WHY BLOOD",
+   "title": "WHAT SALINE COULD NOT DO",
+   "cards": [
+    {
+     "h": "SALINE",
+     "t": "Fills the vessels",
+     "s": "For a while"
+    },
+    {
+     "h": "BLOOD",
+     "t": "Carries oxygen",
+     "s": "What the tissues were starving for"
+    },
+    {
+     "h": "1917",
+     "t": "Stored blood",
+     "s": "First tried at the front"
+    }
+   ],
+   "footer": "SOURCES: U.K. NATIONAL ARCHIVES \u00b7 UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 EDUCATION ONLY, NOT MEDICAL ADVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_c53685",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THREE DISCOVERIES",
+   "title": "HOW BLOOD BECAME A MEDICINE",
+   "events": [
+    {
+     "y": "~&#8203;1900",
+     "t": "Landsteiner: blood groups"
+    },
+    {
+     "y": "&#8203;1914\u201315",
+     "t": "Sodium citrate stops clotting"
+    },
+    {
+     "y": "&#8203;1916",
+     "t": "Citrate-glucose lets blood keep"
+    },
+    {
+     "y": "&#8203;1917",
+     "t": "Robertson's blood depot"
+    }
+   ],
+   "footer": "SOURCES: AABB, HIGHLIGHTS OF TRANSFUSION MEDICINE HISTORY \u00b7 UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_55c31f",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. ARMY MEDICAL CORPS \u00b7 1917",
+   "title": "OSWALD H. ROBERTSON",
+   "rows": [
+    [
+     "UNIT",
+     "Base Hospital No. 5 (Harvard)"
+    ],
+    [
+     "DONORS",
+     "Group O, universal donors"
+    ],
+    [
+     "STORED",
+     "Citrated blood, in glass bottles, on ice"
+    ],
+    [
+     "KEPT",
+     "Up to 26 days"
+    ]
+   ],
+   "footer": "SOURCES: U.K. NATIONAL ARCHIVES \u00b7 UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 NATIONAL LIBRARY OF MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_bc6c61",
+  "name": "stat",
+  "opts": {
+   "a": "26 DAYS",
+   "b": "HOW LONG HIS STORED BLOOD COULD KEEP",
+   "c": "GLASS BOTTLES ON ICE \u00b7 SOURCE: U.K. NATIONAL ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ff5025",
+  "name": "stat",
+  "opts": {
+   "a": "22",
+   "b": "UNITS OF STORED BLOOD \u00b7 20 WOUNDED MEN",
+   "c": "THE FIRST BLOOD BANK \u00b7 SOURCES: STANFORD BLOOD CENTER (STANSBURY & HESS, TRANSFUSION, 2017) \u00b7 NLM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_37bda3",
+  "name": "quote",
+  "opts": {
+   "q": "Fully as striking as that observed after the giving of freshly drawn blood.",
+   "w": "OSWALD H. ROBERTSON, 1918 \u00b7 VIA U.K. NATIONAL ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_bce6f6",
+  "name": "quote",
+  "opts": {
+   "q": "There is a definite need in front area medical work of a method for giving transfusions rapidly.",
+   "w": "OSWALD H. ROBERTSON, 1918 \u00b7 VIA INVENTION & TECHNOLOGY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_683b1c",
+  "name": "quote",
+  "opts": {
+   "q": "An immediate and almost incredible improvement.",
+   "w": "LAWRENCE BRUCE ROBERTSON, THE LANCET, NOV. 1917 \u00b7 VIA U.K. NATIONAL ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_89f080",
+  "name": "chapter",
+  "opts": {
+   "case": "1915 \u2013 1918",
+   "n": "VIII",
+   "t": "GAS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_da1f89",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE GAS WAR",
+   "title": "THREE GASES",
+   "events": [
+    {
+     "y": "&#8203;1915",
+     "t": "Chlorine at Ypres \u00b7 April 22"
+    },
+    {
+     "y": "&#8203;1915",
+     "t": "Phosgene \u00b7 December"
+    },
+    {
+     "y": "&#8203;1917",
+     "t": "Mustard gas at Ypres \u00b7 July 12"
+    },
+    {
+     "y": "&#8203;1918",
+     "t": "Americans gassed \u00b7 February"
+    }
+   ],
+   "footer": "SOURCES: ARMY HERITAGE CENTER FOUNDATION \u00b7 HELLER, LEAVENWORTH PAPER NO. 10"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_226b6a",
+  "name": "cards3",
+  "opts": {
+   "kicker": "MUSTARD GAS \u00b7 1917\u20131918",
+   "title": "WHAT MUSTARD DID",
+   "cards": [
+    {
+     "h": "HOURS",
+     "t": "Before symptoms",
+     "s": "Often unnoticed at first"
+    },
+    {
+     "h": "DAYS",
+     "t": "On the ground",
+     "s": "Through cloth and leather"
+    },
+    {
+     "h": "WEEKS",
+     "t": "To heal",
+     "s": "Blisters up to four weeks"
+    }
+   ],
+   "footer": "SOURCES: NATIONAL LIBRARY OF MEDICINE, CIRCULATING NOW \u00b7 ARMY HERITAGE CENTER FOUNDATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_dc3631",
+  "name": "phases",
+  "opts": {
+   "kicker": "1ST DIVISION \u00b7 ANSAUVILLE \u00b7 FEB. 26, 1918",
+   "title": "ONE NIGHT OF GAS",
+   "left": {
+    "label": "EXPOSED",
+    "num": "225",
+    "desc": "American soldiers"
+   },
+   "right": {
+    "label": "CASUALTIES",
+    "num": "85",
+    "desc": "8 of them died"
+   },
+   "footer": "SOURCE: HELLER, CHEMICAL WARFARE IN WORLD WAR I, LEAVENWORTH PAPER NO. 10"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_953b20",
+  "name": "quote",
+  "opts": {
+   "q": "The effect is so deadly to the unprepared that we can never afford to neglect the question.",
+   "w": "GEN. JOHN J. PERSHING \u00b7 VIA HELLER, LEAVENWORTH PAPER NO. 10"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_21604d",
+  "name": "stat",
+  "opts": {
+   "a": "39%",
+   "b": "OF A.E.F. GAS CASUALTIES WERE MUSTARD",
+   "c": "SOURCE: HELLER, LEAVENWORTH PAPER NO. 10 \u00b7 A.E.F. GAS SERVICE CREATED JULY 5, 1917 (U.S. ARMY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_88fad6",
+  "name": "doc",
+  "opts": {
+   "header": "BASE HOSPITAL NO. 28 \u00b7 1918",
+   "title": "THE CRAYON CROSS",
+   "body": "Gassed patients were marked with a crayon cross on the forehead. Clothes off. A shower. Eyes rinsed. Bed rest and oxygen for the lungs.",
+   "source": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, BASE HOSPITAL 28 \u00b7 GAS INJURIES",
+   "stamp": "GASSED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_123567",
+  "name": "phases",
+  "opts": {
+   "kicker": "A.E.F. GAS CASUALTIES \u00b7 1918",
+   "title": "HIGH NUMBERS, LOW DEATHS",
+   "left": {
+    "label": "HOSPITALIZED",
+    "num": "70,552",
+    "desc": "Almost a third of the wounded"
+   },
+   "right": {
+    "label": "DIED IN HOSPITAL",
+    "num": "1,221",
+    "desc": "About 1 in 58"
+   },
+   "footer": "SOURCE: HELLER, LEAVENWORTH PAPER NO. 10 (MEDICAL DEPARTMENT FIGURES)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_332a86",
+  "name": "chapter",
+  "opts": {
+   "case": "THE EVACUATION HOSPITAL",
+   "n": "IX",
+   "t": "THE TABLE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_b9796d",
+  "name": "callcard",
+  "opts": {
+   "kicker": "THE A.E.F. EVACUATION HOSPITAL",
+   "title": "9 TO 15 MILES BEHIND THE FRONT",
+   "rows": [
+    [
+     "PLANNED FOR",
+     "432 patients"
+    ],
+    [
+     "ENLARGED TO",
+     "1,000 beds"
+    ],
+    [
+     "STAFF",
+     "34 officers \u00b7 237 men \u00b7 about 50 nurses"
+    ],
+    [
+     "TO MOVE IT",
+     "Ninety 3-ton trucks, or 30 rail cars"
+    ]
+   ],
+   "footer": "SOURCES: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, EVACUATION HOSPITAL \u00b7 ARMY MEDICAL DEPARTMENT HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_0af2bc",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE SURGICAL TEAM \u00b7 1918",
+   "title": "2 SURGEONS \u00b7 1 ANESTHETIST \u00b7 2 NURSES",
+   "cards": [
+    {
+     "h": "14",
+     "t": "Teams",
+     "s": "Up to, by mid-1918"
+    },
+    {
+     "h": "35\u201340",
+     "t": "Operations",
+     "s": "Per experienced team, per shift"
+    },
+    {
+     "h": "2",
+     "t": "Tables per team",
+     "s": "One cleaned while the other was used"
+    }
+   ],
+   "footer": "SOURCES: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 ARMY MEDICAL DEPARTMENT HISTORY, SKILLED AND RESOLUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_72e99f",
+  "name": "stat",
+  "opts": {
+   "a": "350",
+   "b": "OPERATIONS IN ONE DAY \u00b7 EVACUATION HOSPITAL NO. 6",
+   "c": "MEUSE-ARGONNE, 1918 \u00b7 A RECORD \u00b7 SOURCE: ARMY MEDICAL DEPARTMENT HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_974232",
+  "name": "stat",
+  "opts": {
+   "a": "72 HOURS",
+   "b": "WITH NO REST",
+   "c": "EVACUATION HOSPITAL NO. 4 \u00b7 SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_530f62",
+  "name": "steps",
+  "opts": {
+   "kicker": "WAR SURGERY \u00b7 1915\u20131918",
+   "title": "FIGHTING INFECTION WITHOUT ANTIBIOTICS",
+   "items": [
+    [
+     "EXCISE",
+     "Cut away dead tissue and dirt"
+    ],
+    [
+     "WASH",
+     "Irrigate the wound"
+    ],
+    [
+     "WAIT",
+     "Leave it open for days"
+    ],
+    [
+     "CLOSE",
+     "Stitch it once it was clean"
+    ]
+   ],
+   "footer": "SOURCES: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 ELLIS, BR. J. HOSP. MED. 2015 \u00b7 EDUCATION ONLY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_34cae5",
+  "name": "phases",
+  "opts": {
+   "kicker": "GAS GANGRENE \u00b7 BRITISH FRONT",
+   "title": "SHARE OF ALL WOUNDS",
+   "left": {
+    "label": "1915",
+    "num": "5\u20136%",
+    "desc": "Of wounds"
+   },
+   "right": {
+    "label": "1918",
+    "num": "1%+",
+    "desc": "Of wounds"
+   },
+   "active": 1,
+   "footer": "SOURCE: M. SCOTLAND, STAND TO! (WESTERN FRONT ASSOCIATION)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_fd3ed1",
+  "name": "doc",
+  "opts": {
+   "header": "THE CARREL\u2013DAKIN METHOD",
+   "title": "DAKIN'S SOLUTION",
+   "body": "A dilute, buffered sodium hypochlorite solution, flushed through the wound by tubes. Newspaper headline: \"Remedy Said to Make Infection Impossible.\"",
+   "source": "SOURCES: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, DAKIN'S SOLUTION \u00b7 ELLIS, BR. J. HOSP. MED. 2012",
+   "stamp": "NO ANTIBIOTICS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_fe5a6d",
+  "name": "quote",
+  "opts": {
+   "q": "The patient should arrive there within 12 hours.",
+   "w": "D. F. JONES, THE ROLE OF THE EVACUATION HOSPITAL IN THE CARE OF THE WOUNDED \u00b7 ANNALS OF SURGERY, 1918"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_0fe1ea",
+  "name": "stat",
+  "opts": {
+   "a": "80%",
+   "b": "OF WOUNDS CLOSED WITHIN 10 DAYS",
+   "c": "WHEN SURGERY CAME WITHIN 12 HOURS \u00b7 SOURCE: D. F. JONES, ANNALS OF SURGERY, 1918"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_3c95c9",
+  "name": "callcard",
+  "opts": {
+   "kicker": "12TH EVACUATION HOSPITAL \u00b7 ROYAUMEIX \u00b7 1918",
+   "title": "56 DAYS",
+   "rows": [
+    [
+     "PATIENTS",
+     "About 2,700"
+    ],
+    [
+     "SERIOUSLY WOUNDED",
+     "About 1,000"
+    ],
+    [
+     "AFTER NOV. 11",
+     "Wounded still arriving"
+    ]
+   ],
+   "footer": "SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, SKILLED AND RESOLUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_55f937",
+  "name": "callcard",
+  "opts": {
+   "kicker": "FRANCE \u00b7 1914\u20131918",
+   "title": "MARIE CURIE'S X-RAY CARS",
+   "rows": [
+    [
+     "VEHICLES",
+     "About 20 mobile X-ray units"
+    ],
+    [
+     "FIRST READY",
+     "October 1914"
+    ],
+    [
+     "FIXED UNITS",
+     "About 200 in two years"
+    ],
+    [
+     "AT HER SIDE",
+     "Daughter Irene, age 17"
+    ]
+   ],
+   "footer": "SOURCE: IEEE SPECTRUM, THE INSTITUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1c9bc7",
+  "name": "stat",
+  "opts": {
+   "a": "3,601",
+   "b": "X-RAYS IN 1918 \u00b7 BASE HOSPITAL NO. 28",
+   "c": "2,012 OF ARMS AND LEGS \u00b7 SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, BASE HOSPITAL 28 RADIOLOGY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_34f5c2",
+  "name": "timeline",
+  "opts": {
+   "kicker": "HARVEY CUSHING \u00b7 CASUALTY CLEARING STATION NO. 46 \u00b7 1917",
+   "title": "LEARNING UNDER FIRE",
+   "events": [
+    {
+     "y": "54.5%",
+     "t": "First month \u00b7 died"
+    },
+    {
+     "y": "40.9%",
+     "t": "Second month \u00b7 died"
+    },
+    {
+     "y": "28.8%",
+     "t": "Third month \u00b7 died"
+    }
+   ],
+   "footer": "SOURCE: CAREY, JOURNAL OF NEUROSURGERY, 2011"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_e30112",
+  "name": "quote",
+  "opts": {
+   "q": "Aside, possibly, from the principle of track suction there is nothing original about [his] procedure.",
+   "w": "HARVEY CUSHING \u00b7 VIA CAREY, JOURNAL OF NEUROSURGERY, 2011"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_7db483",
+  "name": "phases",
+  "opts": {
+   "kicker": "A.E.F. HOSPITAL DEATHS \u00b7 BATTLE INJURIES",
+   "title": "AS THE FIGHTING GREW",
+   "left": {
+    "label": "JUNE \u2013 AUG. 1918",
+    "num": "4\u20135%",
+    "desc": "Of admissions died"
+   },
+   "right": {
+    "label": "OCT. \u2013 NOV. 1918",
+    "num": "6.6%+",
+    "desc": "Of admissions died"
+   },
+   "active": 1,
+   "footer": "SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_d5efd5",
+  "name": "chapter",
+  "opts": {
+   "case": "1917 \u2013 1918",
+   "n": "X",
+   "t": "THE INVISIBLE WOUND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_78c382",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. ARMY MEDICAL DEPARTMENT \u00b7 1917\u20131918",
+   "title": "\"WAR NEUROSIS\"",
+   "body": "The Army avoided the popular term \"shell shock.\" Division psychiatrists sorted cases under labels from \"shell fright\" and \"gas fright\" to \"fatigue\".",
+   "source": "SOURCES: PSYCHIATRIC NEWS \u00b7 UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE",
+   "stamp": "NO VISIBLE WOUND"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_57c120",
+  "name": "quote",
+  "opts": {
+   "q": "As near the front as military exigency will permit.",
+   "w": "THOMAS W. SALMON, 1917 \u00b7 VIA POLS & OAK, AMERICAN JOURNAL OF PUBLIC HEALTH, 2007"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_922880",
+  "name": "list",
+  "opts": {
+   "kicker": "DIVISION PSYCHIATRISTS \u00b7 A.E.F.",
+   "title": "SIX LABELS",
+   "items": [
+    "Shell fright",
+    "Gas fright",
+    "Hysteria",
+    "Fatigue",
+    "Malingering \u00b7 Cowardice"
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, TRIAGE\u2013FIELD HOSPITAL SECTION \u00b7 ABOUT 65% KEPT AT DIVISION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_41b951",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE A.E.F. SYSTEM FOR WAR NEUROSES",
+   "title": "THREE LEVELS",
+   "items": [
+    [
+     "DIVISION",
+     "Rest, food, sleep, near the front"
+    ],
+    [
+     "BASE WARDS",
+     "Up to three weeks"
+    ],
+    [
+     "B.H. 117",
+     "Up to six months"
+    ]
+   ],
+   "footer": "SOURCE: POLS & OAK, AMERICAN JOURNAL OF PUBLIC HEALTH, 2007"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_c71e63",
+  "name": "quote",
+  "opts": {
+   "q": "The social atmosphere of the ward was all important.",
+   "w": "SALMON & FENTON, MEDICAL DEPARTMENT IN THE WORLD WAR, VOL. X (1929) \u00b7 VIA ARMY NURSE CORPS ASSOCIATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_e881bc",
+  "name": "phases",
+  "opts": {
+   "kicker": "ST. MIHIEL \u00b7 SEPTEMBER 1918",
+   "title": "WHAT THE ARMY REPORTED",
+   "left": {
+    "label": "SEEN FOR SHELL SHOCK",
+    "num": "282",
+    "desc": "Men"
+   },
+   "right": {
+    "label": "BACK WITHIN 3 DAYS",
+    "num": "225",
+    "desc": "As reported"
+   },
+   "footer": "SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS \u00b7 HISTORIANS QUESTION SUCH FIGURES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_654452",
+  "name": "stat",
+  "opts": {
+   "a": "27%",
+   "b": "OF HOSPITALIZED EX-SERVICEMEN \u00b7 1921",
+   "c": "CLASSED AS NEUROPSYCHIATRIC CASES \u00b7 SOURCE: POLS & OAK, AM. J. PUBLIC HEALTH, 2007"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_e10206",
+  "name": "cards3",
+  "opts": {
+   "kicker": "MEUSE-ARGONNE \u00b7 MEDICAL DEPARTMENT CASES",
+   "title": "ONE BATTLE",
+   "cards": [
+    {
+     "h": "72,467",
+     "t": "Wounded",
+     "s": "Treated",
+     "size": 96
+    },
+    {
+     "h": "18,664",
+     "t": "Gassed",
+     "s": "Treated",
+     "size": 96
+    },
+    {
+     "h": "2,029",
+     "t": "Neurological cases",
+     "s": "Treated",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCE: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_710216",
+  "name": "cards3",
+  "opts": {
+   "kicker": "TRENCH FOOT \u00b7 BRITISH ARMY",
+   "title": "THE WAR ON WET FEET",
+   "cards": [
+    {
+     "h": "20,000+",
+     "t": "Cases",
+     "s": "Winter 1914\u201315",
+     "size": 96
+    },
+    {
+     "h": "74,000",
+     "t": "Cases",
+     "s": "Over the war",
+     "size": 96
+    },
+    {
+     "h": "DRY SOCKS",
+     "t": "Several times a day",
+     "s": "Plus whale oil, duckboards, inspections",
+     "size": 76
+    }
+   ],
+   "footer": "SOURCE: WESTERN FRONT ASSOCIATION, TRENCH DISEASES OF THE FIRST WORLD WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_e68a0b",
+  "name": "chapter",
+  "opts": {
+   "case": "AUTUMN 1918",
+   "n": "XI",
+   "t": "THE OTHER ENEMY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_a003fa",
+  "name": "stat",
+  "opts": {
+   "a": "1,000,000+",
+   "b": "SOLDIERS SICKENED BY INFLUENZA",
+   "c": "ABOUT 26% OF THE ARMY \u00b7 SOURCE: BYERLY, PUBLIC HEALTH REPORTS, 2010"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_59cdc1",
+  "name": "phases",
+  "opts": {
+   "kicker": "A.E.F. IN FRANCE \u00b7 1918",
+   "title": "THE FLU FILLED MORE BEDS",
+   "left": {
+    "label": "HOSPITALIZED \u00b7 INFLUENZA",
+    "num": "340,000",
+    "desc": "Soldiers"
+   },
+   "right": {
+    "label": "HOSPITALIZED \u00b7 WOUNDS",
+    "num": "227,000",
+    "desc": "Soldiers"
+   },
+   "active": 0,
+   "footer": "SOURCES: NATIONAL GUARD \u00b7 BYERLY, PUBLIC HEALTH REPORTS, 2010"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_c78ba0",
+  "name": "stat",
+  "opts": {
+   "a": "45,000",
+   "b": "SOLDIERS DEAD OF FLU AND PNEUMONIA",
+   "c": "BY THE END OF 1918 \u00b7 SOURCE: NATIONAL GUARD BUREAU"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_06a970",
+  "name": "quote",
+  "opts": {
+   "q": "Pneumonia killed more soldiers than were killed in battle.",
+   "w": "LEONARD P. AYRES, THE WAR WITH GERMANY: A STATISTICAL SUMMARY, 1919 (COMPARED WITH KILLED IN ACTION)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_c52739",
+  "name": "phases",
+  "opts": {
+   "kicker": "ARMY NURSE CORPS",
+   "title": "FROM 573 TO 21,480",
+   "left": {
+    "label": "APRIL 1917",
+    "num": "573",
+    "desc": "403 active \u00b7 170 reserve"
+   },
+   "right": {
+    "label": "BY WAR'S END",
+    "num": "21,480",
+    "desc": "Army nurses"
+   },
+   "active": 1,
+   "footer": "SOURCE: ARMY NURSE CORPS ASSOCIATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_d52400",
+  "name": "phases",
+  "opts": {
+   "kicker": "BASE HOSPITALS \u00b7 FRANCE",
+   "title": "BUILT FOR 500",
+   "left": {
+    "label": "BASE HOSPITAL NO. 20 \u00b7 CAPACITY",
+    "num": "500",
+    "desc": "Beds"
+   },
+   "right": {
+    "label": "BASE HOSPITAL NO. 20 \u00b7 AT ITS PEAK",
+    "num": "2,275",
+    "desc": "Patients"
+   },
+   "active": 1,
+   "footer": "SOURCE: ARMY NURSE CORPS ASSOCIATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_4df4ef",
+  "name": "phases",
+  "opts": {
+   "kicker": "ARMY NURSE CORPS \u00b7 WORLD WAR I",
+   "title": "THE NURSES' WAR",
+   "left": {
+    "label": "SERVED",
+    "num": "21,480",
+    "desc": "More than 10,000 overseas"
+   },
+   "right": {
+    "label": "DIED OF DISEASE",
+    "num": "272",
+    "desc": "None from enemy action"
+   },
+   "footer": "SOURCES: ARMY NURSE CORPS ASSOCIATION \u00b7 ARMY MEDICAL DEPARTMENT HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_4457d7",
+  "name": "cards3",
+  "opts": {
+   "kicker": "ARMY MEDICAL DEPARTMENT \u00b7 WORLD WAR I",
+   "title": "AT ITS PEAK",
+   "cards": [
+    {
+     "h": "30,500",
+     "t": "Medical officers",
+     "s": "Army-wide",
+     "size": 96
+    },
+    {
+     "h": "21,500",
+     "t": "Nurses",
+     "s": "Army-wide",
+     "size": 96
+    },
+    {
+     "h": "264,000",
+     "t": "Enlisted men",
+     "s": "Army-wide",
+     "size": 96
+    }
+   ],
+   "footer": "SOURCE: BYERLY, PUBLIC HEALTH REPORTS, 2010"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_df95f9",
+  "name": "callcard",
+  "opts": {
+   "kicker": "ARMY NURSE CORPS \u00b7 1917\u20131919",
+   "title": "JULIA C. STIMSON",
+   "rows": [
+    [
+     "1917",
+     "Chief nurse, Base Hospital No. 21, Rouen"
+    ],
+    [
+     "APRIL 1918",
+     "Chief Nurse, American Red Cross in France"
+    ],
+    [
+     "NOV. 1918",
+     "Director, A.E.F. Nursing Service"
+    ],
+    [
+     "LATER",
+     "First woman to reach the rank of major"
+    ]
+   ],
+   "footer": "SOURCE: ARMY NURSE CORPS ASSOCIATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_5f30e5",
+  "name": "quote",
+  "opts": {
+   "q": "One need never tell me that women can't do as much, stand as much, and be as brave as men.",
+   "w": "JULIA C. STIMSON \u00b7 VIA ARMY NURSE CORPS ASSOCIATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_a627cf",
+  "name": "cards3",
+  "opts": {
+   "kicker": "ARMY NURSE CORPS \u00b7 WORLD WAR I",
+   "title": "DECORATED",
+   "cards": [
+    {
+     "h": "28",
+     "t": "Croix de Guerre",
+     "s": "France"
+    },
+    {
+     "h": "69",
+     "t": "Royal Red Cross",
+     "s": "Britain"
+    },
+    {
+     "h": "3",
+     "t": "Distinguished Service Cross",
+     "s": "United States"
+    }
+   ],
+   "footer": "SOURCE: ARMY NURSE CORPS ASSOCIATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_f63207",
+  "name": "doc",
+  "opts": {
+   "header": "ARMY NURSE CORPS HISTORY \u00b7 1918",
+   "title": "CALLED TOO LATE",
+   "body": "Black nurses in the Red Cross reserve were not called until after the armistice. Nine then served, at Camps Sherman and Grant.",
+   "source": "SOURCE: ARMY MEDICAL DEPARTMENT HISTORY (ARMY NURSE CORPS)",
+   "stamp": "AFTER NOV. 11"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_919180",
+  "name": "chapter",
+  "opts": {
+   "case": "1918 \u2013 1919",
+   "n": "XII",
+   "t": "THE LONG WAY HOME"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_a0d2a8",
+  "name": "cards3",
+  "opts": {
+   "kicker": "MEUSE-ARGONNE \u00b7 1918",
+   "title": "THE HOSPITAL TRAINS",
+   "cards": [
+    {
+     "h": "408",
+     "t": "Trainloads",
+     "s": "17 U.S. trains + 46 borrowed from the French"
+    },
+    {
+     "h": "151,045",
+     "t": "Patients carried",
+     "s": "Sick and wounded",
+     "size": 96
+    },
+    {
+     "h": "400",
+     "t": "Patients per train",
+     "s": "Up to \u00b7 vs. 4 per ambulance"
+    }
+   ],
+   "footer": "SOURCES: ARMY MEDICAL DEPARTMENT HISTORY, MEDICAL OPERATIONS \u00b7 SKILLED AND RESOLUTE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_462ed0",
+  "name": "list",
+  "opts": {
+   "kicker": "A.E.F. SPECIALIZED HOSPITALS",
+   "title": "A HOSPITAL FOR EVERY WOUND",
+   "items": [
+    "B.H. 69, Savenay \u00b7 artificial limbs",
+    "B.H. 15, Chaumont \u00b7 face wounds",
+    "B.H. 64 \u00b7 gas cases",
+    "B.H. 117 \u00b7 war neuroses"
+   ],
+   "footer": "SOURCE: UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE, SPECIALIZED HOSPITALS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_f7fe25",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -1.5,
+      46.4
+     ],
+     [
+      8.2,
+      51.2
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       -1.94,
+       47.36
+      ],
+      "name": "SAVENAY",
+      "sub": "HOSPITAL CENTER",
+      "d": 0.5,
+      "size": 28
+     },
+     {
+      "ll": [
+       4.98,
+       46.79
+      ],
+      "name": "ALLEREY",
+      "sub": "HOSPITAL CENTER",
+      "d": 0.7,
+      "size": 28
+     },
+     {
+      "ll": [
+       3.43,
+       46.13
+      ],
+      "name": "VICHY",
+      "sub": "HOSPITAL CENTER",
+      "d": 0.9,
+      "size": 28
+     },
+     {
+      "ll": [
+       5.05,
+       49.3
+      ],
+      "name": "THE FRONT",
+      "sub": "MEUSE-ARGONNE",
+      "d": 1.1,
+      "size": 28
+     }
+    ],
+    "rings": [
+     {
+      "ll": [
+       5.05,
+       49.3
+      ],
+      "r": 26,
+      "n": 3,
+      "d": 1.1,
+      "color": "#E5383B"
+     }
+    ]
+   },
+   "kicker": "A.E.F. HOSPITALS IN FRANCE \u00b7 NOV. 1918",
+   "title": "403,000 BED CASES",
+   "footer": "SOURCES: AMERICAN BATTLE MONUMENTS COMMISSION \u00b7 UNIV. OF KANSAS MEDICAL CENTER WWI ARCHIVE \u00b7 POSITIONS APPROXIMATE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_a240ef",
+  "name": "quote",
+  "opts": {
+   "q": "Rows and rows of canvas tents, each of which holds about 14 beds.",
+   "w": "JULIA C. STIMSON \u00b7 VIA AMERICAN BATTLE MONUMENTS COMMISSION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_c97710",
+  "name": "stat",
+  "opts": {
+   "a": "5 IN 6",
+   "b": "WOUNDED MEN RETURNED TO DUTY",
+   "c": "SOURCE: LEONARD P. AYRES, THE WAR WITH GERMANY: A STATISTICAL SUMMARY (1919)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_88cdf1",
+  "name": "stat",
+  "opts": {
+   "a": "6%",
+   "b": "DIED OF WOUNDS",
+   "c": "COMPARED WITH THE NUMBER WOUNDED \u00b7 SOURCE: AYRES, 1919"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_997663",
+  "name": "phases",
+  "opts": {
+   "kicker": "WALTER REED GENERAL HOSPITAL \u00b7 WASHINGTON, D.C.",
+   "title": "FROM 80 BEDS",
+   "left": {
+    "label": "OPENED \u00b7 1909",
+    "num": "80",
+    "desc": "Beds"
+   },
+   "right": {
+    "label": "END OF 1918",
+    "num": "2,500",
+    "desc": "Beds \u00b7 13,752 admissions that year"
+   },
+   "active": 1,
+   "footer": "SOURCES: U.S. ARMY \u00b7 BORDEN INSTITUTE, WALTER REED CENTENNIAL HISTORY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_fd2237",
+  "name": "quote",
+  "opts": {
+   "q": "The Arm that Arms You for Work or Play.",
+   "w": "ADVERTISEMENT, DORRANCE ARTIFICIAL LIMB CO., 1918 \u00b7 VIA NATIONAL WWI MUSEUM AND MEMORIAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_447c18",
+  "name": "stat",
+  "opts": {
+   "a": "53",
+   "b": "U.S. ARMY HOSPITALS WITH RECONSTRUCTION UNITS",
+   "c": "35 GENERAL + 18 BASE HOSPITALS \u00b7 SOURCE: BORDEN INSTITUTE, REHABILITATION OF THE INJURED COMBATANT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_7edd18",
+  "name": "doc",
+  "opts": {
+   "header": "WALTER REED GENERAL HOSPITAL \u00b7 DECEMBER 1918",
+   "title": "THE COME-BACK",
+   "body": "The patients' own newspaper. Reconstruction: sign painting, typing, drafting \u2014 and learning to work again.",
+   "source": "SOURCE: BORDEN INSTITUTE, WALTER REED CENTENNIAL HISTORY",
+   "stamp": "COMING BACK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_11494c",
+  "name": "quote",
+  "opts": {
+   "q": "In World War I we had a lot of amputees.",
+   "w": "SHERMAN FLEEK, COMMAND HISTORIAN \u00b7 U.S. ARMY, WALTER REED MARKS 100 YEARS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_68e105",
+  "name": "list",
+  "opts": {
+   "kicker": "WHAT WORLD WAR I LEFT US",
+   "title": "IDEAS STILL IN USE",
+   "items": [
+    "Triage: sort the wounded by need",
+    "Blood stored before it is needed",
+    "Traction splints for broken thighs",
+    "Clean the wound, fast",
+    "A chain of care, from the front line to home"
+   ],
+   "footer": "SOURCES: AS CITED THROUGHOUT \u00b7 SEE DESCRIPTION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_b24325",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 WAR MEDICINE \u00b7 NEXT: EP 2",
+   "stamp": "THE CIVIL WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_b1f229",
+  "name": "end",
+  "opts": {
+   "label": "FOR EDUCATION ONLY \u00b7 NOT MEDICAL ADVICE",
+   "stamp": "KEPT ALIVE"
+  },
+  "intro": 2.4
+ }
+]
