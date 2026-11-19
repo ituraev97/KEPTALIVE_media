@@ -1,0 +1,12 @@
+{
+ "note": "DHA 1010687 carries an 'old film' brightness flicker overlay (YAVG swings ~10 within a few frames, same picture); motion_check JUMPs at these source times checked by eye = same image",
+ "points": {
+  "1010687": [
+   24.13,
+   27.27,
+   35.53,
+   28.93,
+   39.53
+  ]
+ }
+}

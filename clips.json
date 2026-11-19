@@ -6037,5 +6037,77 @@
  },
  "stl_cantigny": {
   "cuts": []
+ },
+ "1010687": {
+  "cuts": [
+   2.836,
+   15.215,
+   16.817,
+   23.757,
+   34.701,
+   34.735,
+   34.935,
+   41.008,
+   48.916,
+   48.949,
+   51.718,
+   54.321,
+   67.601,
+   67.801,
+   67.834,
+   68.201,
+   69.369
+  ]
+ },
+ "card_shrapnel": {
+  "cuts": []
+ },
+ "card_200": {
+  "cuts": []
+ },
+ "card_dsc": {
+  "cuts": []
+ },
+ "card_2x": {
+  "cuts": []
+ },
+ "card_620": {
+  "cuts": []
+ },
+ "card_measles": {
+  "cuts": []
+ },
+ "card_canada": {
+  "cuts": []
+ },
+ "card_quote": {
+  "cuts": []
+ },
+ "card_inoc": {
+  "cuts": []
+ },
+ "card_late": {
+  "cuts": []
+ },
+ "st_fieldhosp": {
+  "cuts": []
+ },
+ "st_genhosp": {
+  "cuts": []
+ },
+ "st_nelson": {
+  "cuts": []
+ },
+ "st_eastwards": {
+  "cuts": []
+ },
+ "st_fairoaks": {
+  "cuts": []
+ },
+ "st_gw": {
+  "cuts": []
+ },
+ "st_gw2": {
+  "cuts": []
  }
 }
