@@ -1,0 +1,2026 @@
+[
+ {
+  "key": "stat_bf7214",
+  "name": "stat",
+  "opts": {
+   "a": "23,000",
+   "b": "KILLED, WOUNDED OR MISSING IN ONE DAY",
+   "c": "ANTIETAM \u00b7 SEPT. 17, 1862 \u00b7 SOURCE: NATIONAL PARK SERVICE (ROUNDED)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_dd04c3",
+  "name": "quote",
+  "opts": {
+   "q": "...a total of eight thousand three hundred and fifty, but there were many cases of slight wounds not recorded.",
+   "w": "JONATHAN LETTERMAN, MEDICAL RECOLLECTIONS OF THE ARMY OF THE POTOMAC, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_0b4669",
+  "name": "callcard",
+  "opts": {
+   "kicker": "SPRINGFIELD RIFLE-MUSKET BALL",
+   "title": "THE MINI\u00c9 BALL",
+   "rows": [
+    [
+     "CALIBER",
+     ".58"
+    ],
+    [
+     "WEIGHT",
+     "500 grains \u2014 just over an ounce"
+    ],
+    [
+     "METAL",
+     "Soft lead"
+    ]
+   ],
+   "footer": "SOURCES: MEDICAL & SURGICAL HISTORY OF THE WAR (1883) \u00b7 NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_ec18c9",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE WOUNDED SOLDIER \u00b7 1862",
+   "title": "WHAT YOU DID NOT HAVE",
+   "cards": [
+    {
+     "h": "0",
+     "t": "Antibiotics",
+     "s": "Not for another eighty years"
+    },
+    {
+     "h": "0",
+     "t": "Germ theory",
+     "s": "Lister's antiseptic paper: 1867"
+    },
+    {
+     "h": "BARNS",
+     "t": "Field hospitals",
+     "s": "Not always beyond the enemy's guns"
+    }
+   ],
+   "footer": "SOURCES: LETTERMAN, MEDICAL RECOLLECTIONS (1866) \u00b7 W. W. KEEN (NATIONAL MUSEUM OF CIVIL WAR MEDICINE)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_827c04",
+  "name": "title",
+  "opts": {
+   "kicker": "WAR MEDICINE \u00b7 EP 2",
+   "title": "WOUNDED",
+   "sub": "THE AMERICAN CIVIL WAR \u00b7 <span style=\"color:#2BB3A3\">1861\u20131865</span>",
+   "size": 250
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_0a5a86",
+  "name": "chapter",
+  "opts": {
+   "case": "THE WOUND",
+   "n": "I",
+   "t": "THE BALL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_60311c",
+  "name": "stat",
+  "opts": {
+   "a": "245,790",
+   "b": "GUNSHOT WOUNDS TREATED \u00b7 UNION ARMY",
+   "c": "SABRE AND BAYONET: 922 \u00b7 SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_575fa3",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE MINI\u00c9 BALL",
+   "title": "HOW IT WORKED",
+   "items": [
+    [
+     "CONE",
+     "An elongated lead bullet"
+    ],
+    [
+     "BASE",
+     "Hollow, expands when fired"
+    ],
+    [
+     "SPIN",
+     "Grips the rifling, flies true"
+    ]
+   ],
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR \u00b7 CH. XII, PROJECTILES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_e81636",
+  "name": "stat",
+  "opts": {
+   "a": "~76%",
+   "b": "OF BATTLEFIELD INJURIES CAUSED BY THE MINI\u00c9 BALL",
+   "c": "ESTIMATE \u00b7 SOURCE: CIVIL WAR MONITOR, WHEN BULLETS HIT BODIES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_038757",
+  "name": "quote",
+  "opts": {
+   "q": "Shattered bone and shredded flesh became the calling cards of the minie ball.",
+   "w": "NATIONAL MUSEUM OF HEALTH AND MEDICINE (U.S. ARMY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_ef9e28",
+  "name": "doc",
+  "opts": {
+   "header": "MEDICAL & SURGICAL HISTORY OF THE WAR",
+   "title": "1883",
+   "body": "\"The distortions of bullets were of all imaginable forms.\"",
+   "source": "SOURCE: MSHWR, AS QUOTED BY CIVIL WAR MONITOR",
+   "stamp": "ON THE RECORD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_63363a",
+  "name": "cards3",
+  "opts": {
+   "kicker": "WHERE TREATED UNION GUNSHOT WOUNDS STRUCK",
+   "title": "SEVEN IN TEN: ARMS AND LEGS",
+   "cards": [
+    {
+     "h": "35.7%",
+     "t": "Arms",
+     "s": "Upper extremities"
+    },
+    {
+     "h": "35.2%",
+     "t": "Legs",
+     "s": "Lower extremities"
+    },
+    {
+     "h": "29.1%",
+     "t": "Head and body",
+     "s": "Head, face, neck, trunk"
+    }
+   ],
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR \u00b7 THE KILLED ARE NOT COUNTED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_c7660a",
+  "name": "stat",
+  "opts": {
+   "a": "87.2%",
+   "b": "DIED \u00b7 PENETRATING WOUNDS OF THE ABDOMEN",
+   "c": "3,031 OF 3,475 CASES WITH KNOWN OUTCOME \u00b7 SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_941a7e",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION SOLDIERS \u00b7 CASES WITH KNOWN OUTCOME",
+   "title": "THE ODDS BY WOUND",
+   "left": {
+    "label": "CHEST, PENETRATING",
+    "num": "62.4%",
+    "desc": "Died"
+   },
+   "right": {
+    "label": "SKULL, GUNSHOT",
+    "num": "59.2%",
+    "desc": "Died"
+   },
+   "active": 1,
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, SURGICAL VOL. 1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_0712ef",
+  "name": "quote",
+  "opts": {
+   "q": "After my leg was shattered I fell down, laying for a few minutes unconscious...",
+   "w": "PVT. JACOB HENRY COLE, 57TH NEW YORK \u00b7 UNDER FIVE COMMANDERS \u00b7 VIA NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_872c24",
+  "name": "quote",
+  "opts": {
+   "q": "The ball passed through my lungs and lodged some where and is in me yet.",
+   "w": "A PRIVATE, 135TH PENNSYLVANIA \u00b7 LETTER, SEPT. 26, 1862 \u00b7 NPS ANTIETAM LETTERS (ORIGINAL SPELLING)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_b15d85",
+  "name": "chapter",
+  "opts": {
+   "case": "1861 \u2013 1862",
+   "n": "II",
+   "t": "LEFT ON THE FIELD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_a33869",
+  "name": "quote",
+  "opts": {
+   "q": "...little care was exercised over them by either.",
+   "w": "JONATHAN LETTERMAN, ON THE AMBULANCES BEFORE 1862 \u00b7 MEDICAL RECOLLECTIONS, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_6f1890",
+  "name": "doc",
+  "opts": {
+   "header": "ACTING SURGEON GENERAL R. C. WOOD",
+   "title": "MAY 20, 1861",
+   "body": "\"...two hundred of the two-wheeled ambulances be immediately constructed by the Quartermaster's Department.\"",
+   "source": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, CH. XV",
+   "stamp": "ORDERED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_d3c508",
+  "name": "quote",
+  "opts": {
+   "q": "...their motion was intolerable and excruciating; wounded men begged to be taken out...",
+   "w": "MEDICAL AND SURGICAL HISTORY OF THE WAR OF THE REBELLION, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_9e6b2c",
+  "name": "stat",
+  "opts": {
+   "a": "600+",
+   "b": "WOUNDED LEFT TO THE ENEMY \u00b7 JUNE 28, 1862",
+   "c": "TOO FEW AMBULANCES \u00b7 SOURCE: GILLETT, ARMY MEDICAL DEPT. 1818\u20131865 (U.S. ARMY CMH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f64f6b",
+  "name": "stat",
+  "opts": {
+   "a": "8,000+",
+   "b": "CASUALTIES THAT FLOODED THE MEDICAL SYSTEM \u00b7 SECOND BULL RUN",
+   "c": "AUG. 28\u201330, 1862 \u00b7 SOURCE: GILLETT, ARMY MEDICAL DEPT. 1818\u20131865 (U.S. ARMY CMH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_429aab",
+  "name": "doc",
+  "opts": {
+   "header": "OFFICIAL RECORDS \u00b7 SERIES III, VOL. II, P. 699",
+   "title": "SECOND BULL RUN, 1862",
+   "body": "\"...a few of the drivers got scared and ran away, a few got drunk.\"",
+   "source": "SOURCE: OFFICIAL RECORDS OF THE WAR OF THE REBELLION",
+   "stamp": "CONCEDED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_5744ea",
+  "name": "quote",
+  "opts": {
+   "q": "Those unable to walk lay by the thousands on the ground for twenty-four and more hours unattended.",
+   "w": "MARY C. GILLETT, THE ARMY MEDICAL DEPARTMENT 1818\u20131865 (U.S. ARMY CENTER OF MILITARY HISTORY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f2cbbd",
+  "name": "stat",
+  "opts": {
+   "a": "600",
+   "b": "WOUNDED STILL AWAITING EVACUATION",
+   "c": "TEN DAYS AFTER SECOND BULL RUN \u00b7 SOURCE: M. ATKINSON, GETTYSBURG NMP"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_7ce5f9",
+  "name": "doc",
+  "opts": {
+   "header": "JONATHAN LETTERMAN",
+   "title": "SECOND BULL RUN, 1862",
+   "body": "The comparison between the new Army of the Potomac ambulances and the others \"...was very striking in favor of the former.\"",
+   "source": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), P. 31",
+   "stamp": "THE DIFFERENCE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_e74cfb",
+  "name": "chapter",
+  "opts": {
+   "case": "SUMMER 1862",
+   "n": "III",
+   "t": "THE MAN WITH A PLAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_bc2558",
+  "name": "callcard",
+  "opts": {
+   "kicker": "MEDICAL DIRECTOR \u00b7 ARMY OF THE POTOMAC",
+   "title": "JONATHAN LETTERMAN",
+   "rows": [
+    [
+     "ORDERED",
+     "June 23, 1862"
+    ],
+    [
+     "REPORTED",
+     "July 1, 1862 \u00b7 Haxall's Landing"
+    ],
+    [
+     "IN CHARGE",
+     "July 4, 1862"
+    ]
+   ],
+   "footer": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_1ecaa8",
+  "name": "doc",
+  "opts": {
+   "header": "HEADQUARTERS, ARMY OF THE POTOMAC",
+   "title": "SPECIAL ORDERS NO. 147",
+   "body": "Camp near Harrison's Landing, Va., Aug. 2, 1862. An ambulance corps for the Army of the Potomac.",
+   "source": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), P. 24",
+   "stamp": "AUG. 2, 1862"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_bef1a5",
+  "name": "steps",
+  "opts": {
+   "kicker": "SPECIAL ORDERS NO. 147",
+   "title": "THE AMBULANCE CORPS",
+   "items": [
+    [
+     "CORPS",
+     "A captain commands"
+    ],
+    [
+     "DIVISION \u00b7 BRIGADE",
+     "Lieutenants"
+    ],
+    [
+     "REGIMENT",
+     "A sergeant"
+    ]
+   ],
+   "footer": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_53ec45",
+  "name": "cards3",
+  "opts": {
+   "kicker": "PER REGIMENT \u00b7 ARMY OF THE POTOMAC, 1862",
+   "title": "THE KIT",
+   "cards": [
+    {
+     "h": "3",
+     "t": "Ambulances",
+     "s": "One four-horse, two two-horse"
+    },
+    {
+     "h": "2",
+     "t": "Stretchers each",
+     "s": "Carried on every ambulance"
+    },
+    {
+     "h": "3",
+     "t": "Men each",
+     "s": "A driver and two bearers"
+    }
+   ],
+   "footer": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_9ab3ff",
+  "name": "doc",
+  "opts": {
+   "header": "SPECIAL ORDERS NO. 147",
+   "title": "THE GREEN BAND",
+   "body": "\"...a green band, two inches broad, around the cap, a green half-chevron, two inches broad, on each arm above the elbow.\"",
+   "source": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), P. 29",
+   "stamp": "AMBULANCE CORPS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_c4a162",
+  "name": "quote",
+  "opts": {
+   "q": "No person will be allowed to carry from the field any wounded or sick except this corps.",
+   "w": "SPECIAL ORDERS NO. 147, AUG. 2, 1862 \u00b7 LETTERMAN, MEDICAL RECOLLECTIONS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_0c5f09",
+  "name": "stat",
+  "opts": {
+   "a": "23\u201326 LB",
+   "b": "ONE EMPTY STRETCHER",
+   "c": "SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE, STRETCHERS USED BY THE UNION ARMY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_f4ebaf",
+  "name": "doc",
+  "opts": {
+   "header": "SECRETARY OF WAR EDWIN M. STANTON",
+   "title": "AUG. 29, 1862",
+   "body": "An Army-wide ambulance corps would \"increase the expenses and immobility of our army ... without any corresponding advantages.\"",
+   "source": "SOURCE: GILLETT, ARMY MEDICAL DEPT. 1818\u20131865 (U.S. ARMY CMH)",
+   "stamp": "REJECTED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_b13422",
+  "name": "quote",
+  "opts": {
+   "q": "It would appear that many officers consider medical supplies to be the least important in an army...",
+   "w": "JONATHAN LETTERMAN, MEDICAL RECOLLECTIONS, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_5f3aba",
+  "name": "chapter",
+  "opts": {
+   "case": "SEPT. 17, 1862",
+   "n": "IV",
+   "t": "THE BLOODIEST DAY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_a0132c",
+  "name": "phases",
+  "opts": {
+   "kicker": "ANTIETAM \u00b7 NPS ESTIMATES, BOTH ARMIES",
+   "title": "TWO PLACES, ONE MORNING",
+   "left": {
+    "label": "THE CORNFIELD",
+    "num": "~8,200",
+    "desc": "Casualties"
+   },
+   "right": {
+    "label": "BLOODY LANE",
+    "num": "~5,400",
+    "desc": "Casualties"
+   },
+   "active": 0,
+   "footer": "SOURCE: NATIONAL PARK SERVICE, ANTIETAM CASUALTIES \u00b7 ESTIMATES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_ce35e4",
+  "name": "doc",
+  "opts": {
+   "header": "JONATHAN LETTERMAN",
+   "title": "ANTIETAM",
+   "body": "\"...although two hundred had been distributed just before the action, they were unorganized.\"",
+   "source": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), P. 42",
+   "stamp": "NOT READY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_3a3f87",
+  "name": "callcard",
+  "opts": {
+   "kicker": "ANTIETAM \u00b7 NATIONAL PARK SERVICE",
+   "title": "THE PRY FARM",
+   "rows": [
+    [
+     "HOUSE",
+     "McClellan's headquarters, then a hospital"
+    ],
+    [
+     "BARN",
+     "Union field hospital"
+    ],
+    [
+     "TODAY",
+     "Field hospital museum, run by the NMCWM"
+    ]
+   ],
+   "footer": "SOURCE: NPS, THE PRY FARM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_1c7b74",
+  "name": "quote",
+  "opts": {
+   "q": "A ball has passed between my body and the right arm which supported him, cutting through his chest...",
+   "w": "CLARA BARTON, AT ANTIETAM \u00b7 NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_61e129",
+  "name": "doc",
+  "opts": {
+   "header": "NATIONAL PARK SERVICE \u00b7 ANTIETAM",
+   "title": "CLARA BARTON",
+   "body": "\"I wonder if a soldier ever does mend a bullet hole in his coat?\" \u2014 Dr. James Dunn called her \"the angel of the battlefield.\"",
+   "source": "SOURCE: NPS ANTIETAM",
+   "stamp": "1862"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_99ed95",
+  "name": "quote",
+  "opts": {
+   "q": "Day before yesterday I dressed the wounds of 64 different men.",
+   "w": "MAJ. WILLIAM CHILD, SURGEON, 5TH NEW HAMPSHIRE \u00b7 NPS ANTIETAM LETTERS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_b359d3",
+  "name": "doc",
+  "opts": {
+   "header": "JONATHAN LETTERMAN",
+   "title": "ANTIETAM",
+   "body": "\"...the wounded were brought from our right before two o'clock the day following the battle.\"",
+   "source": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), P. 42",
+   "stamp": "NEXT AFTERNOON"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_de4c41",
+  "name": "phases",
+  "opts": {
+   "kicker": "ANTIETAM \u00b7 SEPT. 1862",
+   "title": "TWO VERDICTS",
+   "left": {
+    "label": "LETTERMAN",
+    "num": "NEXT DAY",
+    "desc": "Right wing cleared by 2 p.m."
+   },
+   "right": {
+    "label": "ARMY HISTORY",
+    "num": "UP TO 24 H",
+    "desc": "Some left on the field"
+   },
+   "active": 1,
+   "footer": "SOURCES: LETTERMAN, MEDICAL RECOLLECTIONS (1866) \u00b7 GILLETT, ARMY MEDICAL DEPT. 1818\u20131865 (U.S. ARMY CMH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_92c00d",
+  "name": "quote",
+  "opts": {
+   "q": "Humanity teaches that a wounded and prostrate foe is no longer an enemy.",
+   "w": "JONATHAN LETTERMAN, ON CONFEDERATE WOUNDED AT ANTIETAM \u00b7 MEDICAL RECOLLECTIONS, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_361667",
+  "name": "callcard",
+  "opts": {
+   "kicker": "AFTER ANTIETAM",
+   "title": "TENT HOSPITALS",
+   "rows": [
+    [
+     "LARGEST",
+     "Antietam Hospital, Smoketown"
+    ],
+    [
+     "BEDS",
+     "About 600"
+    ],
+    [
+     "WORST CASES",
+     "Carried in by hand"
+    ]
+   ],
+   "footer": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), PP. 46\u201347"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_7ea258",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE ROAD OUT OF ANTIETAM",
+   "title": "FROM THE FIELD TO THE CITY",
+   "events": [
+    {
+     "y": "FIELD",
+     "t": "Barns and farmhouses"
+    },
+    {
+     "y": "FREDERICK",
+     "t": "By ambulance, a rest at Middletown"
+    },
+    {
+     "y": "BY RAIL",
+     "t": "Baltimore and Washington"
+    }
+   ],
+   "footer": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_14334e",
+  "name": "stat",
+  "opts": {
+   "a": "5,000+",
+   "b": "PATIENTS IN FREDERICK, MD. HOSPITALS",
+   "c": "OCT. 30, 1862 \u00b7 SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_5523ef",
+  "name": "quote",
+  "opts": {
+   "q": "Some Medical officers lost their lives in their devotion to duty on the battle-field of Antietam...",
+   "w": "JONATHAN LETTERMAN, MEDICAL RECOLLECTIONS, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_0c1a73",
+  "name": "chapter",
+  "opts": {
+   "case": "OCT. \u2013 DEC. 1862",
+   "n": "V",
+   "t": "THE FIELD HOSPITAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_81bf5c",
+  "name": "doc",
+  "opts": {
+   "header": "CIRCULAR \u00b7 MEDICAL DIRECTOR'S OFFICE",
+   "title": "OCT. 30, 1862",
+   "body": "\"Previous to an engagement there will be established in each Corps an hospital for each division...\"",
+   "source": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), P. 58",
+   "stamp": "BEFORE THE BATTLE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_c133c6",
+  "name": "quote",
+  "opts": {
+   "q": "...selected from the division without regard to rank, but solely on account of their known prudence, judgment, and skill.",
+   "w": "LETTERMAN'S CIRCULAR, OCT. 30, 1862"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_44bc43",
+  "name": "cards3",
+  "opts": {
+   "kicker": "LETTERMAN'S CIRCULAR \u00b7 OCT. 30, 1862",
+   "title": "ORDER IN THE CHAOS",
+   "cards": [
+    {
+     "h": "3",
+     "t": "Operating surgeons",
+     "s": "Chosen for skill, not rank"
+    },
+    {
+     "h": "1",
+     "t": "Anaesthetist",
+     "s": "An assistant gives it"
+    },
+    {
+     "h": "EVERY",
+     "t": "Grave marked",
+     "s": "Name, rank, company, regiment"
+    }
+   ],
+   "footer": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), PP. 58\u201361"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_f7eda3",
+  "name": "timeline",
+  "opts": {
+   "kicker": "LETTERMAN'S SYSTEM",
+   "title": "THE CHAIN OF CARE",
+   "events": [
+    {
+     "y": "1",
+     "t": "Aid station behind the regiment"
+    },
+    {
+     "y": "2",
+     "t": "Division field hospital"
+    },
+    {
+     "y": "3",
+     "t": "General hospital in a city"
+    }
+   ],
+   "footer": "SOURCES: LETTERMAN, MEDICAL RECOLLECTIONS (1866) \u00b7 NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_41a207",
+  "name": "steps",
+  "opts": {
+   "kicker": "SORTING THE WOUNDED \u00b7 1860s",
+   "title": "WHO WENT FIRST",
+   "items": [
+    [
+     "FIRST",
+     "Needs an operation now"
+    ],
+    [
+     "NEXT",
+     "Slight wounds \u2014 can wait"
+    ],
+    [
+     "LAST",
+     "Believed mortally wounded"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE \u00b7 ROOTS OF MODERN TRIAGE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_41e708",
+  "name": "quote",
+  "opts": {
+   "q": "...the glimmer of a candle invariably called forth a shot from a sharpshooting picket. They were obliged to grope their way...",
+   "w": "LETTERMAN, ON FREDERICKSBURG, DEC. 13, 1862"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_3bc327",
+  "name": "stat",
+  "opts": {
+   "a": "BEFORE DAWN",
+   "b": "ALL WOUNDED WITHIN UNION LINES IN HOSPITAL",
+   "c": "FREDERICKSBURG \u00b7 DEC. 14, 1862 \u00b7 SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_ee235f",
+  "name": "doc",
+  "opts": {
+   "header": "JONATHAN LETTERMAN",
+   "title": "FREDERICKSBURG, DEC. 1862",
+   "body": "The system was here \"...for the first time, put into operation and severely tested.\"",
+   "source": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866)",
+   "stamp": "TESTED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_2d501f",
+  "name": "quote",
+  "opts": {
+   "q": "...pneumonia on one side, diptheria on the other, five typhoids on the opposite...",
+   "w": "LOUISA MAY ALCOTT, HOSPITAL SKETCHES, 1863 (HER SPELLING)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_2a4db5",
+  "name": "chapter",
+  "opts": {
+   "case": "THE OPERATION",
+   "n": "VI",
+   "t": "ASLEEP"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_b23e1f",
+  "name": "stat",
+  "opts": {
+   "a": "80,000",
+   "b": "UNION CASES WITH ANAESTHESIA \u00b7 AT LEAST",
+   "c": "\"NO LESS THAN EIGHTY THOUSAND\" \u00b7 SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_5b2e14",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION ARMY \u00b7 RECORDED CASES",
+   "title": "ASLEEP OR AWAKE",
+   "left": {
+    "label": "ANAESTHESIA",
+    "num": "80,000+",
+    "desc": "Minimum estimate"
+   },
+   "right": {
+    "label": "NONE GIVEN",
+    "num": "254",
+    "desc": "Stated cases"
+   },
+   "active": 0,
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_44cedf",
+  "name": "quote",
+  "opts": {
+   "q": "This information should put to rest the stories of soldiers biting on bullets...",
+   "w": "CUTTER & CLARKE, MILITARY MEDICINE, 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_9b908f",
+  "name": "cards3",
+  "opts": {
+   "kicker": "8,900 OPERATIONS WITH THE AGENT RECORDED",
+   "title": "WHAT PUT YOU UNDER",
+   "cards": [
+    {
+     "h": "76.2%",
+     "t": "Chloroform",
+     "s": "Almost uniform in the field"
+    },
+    {
+     "h": "14.7%",
+     "t": "Ether",
+     "s": "More common in city hospitals"
+    },
+    {
+     "h": "9.1%",
+     "t": "A mixture",
+     "s": "Of the two"
+    }
+   ],
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_dcea66",
+  "name": "steps",
+  "opts": {
+   "kicker": "WHY FIELD SURGEONS CHOSE CHLOROFORM",
+   "title": "THREE REASONS",
+   "items": [
+    [
+     "FAST",
+     "Rapid in its effects"
+    ],
+    [
+     "SMALL",
+     "A little went a long way"
+    ],
+    [
+     "SAFER",
+     "Not flammable, unlike ether"
+    ]
+   ],
+   "footer": "SOURCES: MEDICAL & SURGICAL HISTORY OF THE WAR \u00b7 R. REILLY, VIA HISTORYNET"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_0b0d00",
+  "name": "doc",
+  "opts": {
+   "header": "J. JULIAN CHISOLM \u00b7 MANUAL OF MILITARY SURGERY",
+   "title": "1861",
+   "body": "\"The best apparatus is a folded cloth in the form of a cone, in the apex of which a small piece of sponge is placed.\"",
+   "source": "SOURCE: CHISOLM, VIA HISTORYNET",
+   "stamp": "THE CONE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d35281",
+  "name": "stat",
+  "opts": {
+   "a": "~9 MIN",
+   "b": "AVERAGE TIME FOR CHLOROFORM TO TAKE EFFECT",
+   "c": "SOURCE: CUTTER & CLARKE, MILITARY MEDICINE, 2014"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_a71475",
+  "name": "quote",
+  "opts": {
+   "q": "I asked if he had any chloroform or quinine or whisky...",
+   "w": "A WOUNDED UNION PRIVATE \u00b7 VIA HISTORYNET (THE SURGEON REFUSED)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d54922",
+  "name": "stat",
+  "opts": {
+   "a": "5.4 PER 1,000",
+   "b": "DEATHS ASCRIBED TO CHLOROFORM",
+   "c": "37 OF 6,784 RECORDED CHLOROFORM CASES \u00b7 SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_fce29c",
+  "name": "quote",
+  "opts": {
+   "q": "On the field of battle, however, chloroform is the safe and preferable agent.",
+   "w": "UNION SURGEON B. B. BREED \u00b7 MEDICAL AND SURGICAL HISTORY OF THE WAR, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_5bf5d3",
+  "name": "quote",
+  "opts": {
+   "q": "The inestimable value of the use of anaesthetics in military surgery will hardly be denied at this date...",
+   "w": "MEDICAL AND SURGICAL HISTORY OF THE WAR OF THE REBELLION, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_5fe92f",
+  "name": "chapter",
+  "opts": {
+   "case": "THE OPERATION",
+   "n": "VII",
+   "t": "THE SAW"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_dc4247",
+  "name": "stat",
+  "opts": {
+   "a": "29,980",
+   "b": "AMPUTATIONS RECORDED \u00b7 UNION ARMY",
+   "c": "BOTH ARMIES: PERHAPS 50,000\u201360,000 (ESTIMATES) \u00b7 SOURCES: MEDICAL & SURGICAL HISTORY OF THE WAR \u00b7 AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_cd4c56",
+  "name": "cards3",
+  "opts": {
+   "kicker": "WHY SURGEONS AMPUTATED",
+   "title": "A COMPLEX WOUND MADE SIMPLE",
+   "cards": [
+    {
+     "h": "BONE",
+     "t": "Splintered",
+     "s": "Soft lead shattered it"
+    },
+    {
+     "h": "DIRT",
+     "t": "Driven in",
+     "s": "Cloth and debris in the wound"
+    },
+    {
+     "h": "TIME",
+     "t": "Hundreds waiting",
+     "s": "The fastest way to treat many"
+    }
+   ],
+   "footer": "SOURCES: AMERICAN BATTLEFIELD TRUST \u00b7 NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_2d326e",
+  "name": "quote",
+  "opts": {
+   "q": "It was the fastest way to treat the largest number of wounded in a very short window of time.",
+   "w": "NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d13142",
+  "name": "stat",
+  "opts": {
+   "a": "10\u201315 MIN",
+   "b": "AN AVERAGE AMPUTATION",
+   "c": "SOURCE: NATIONAL PARK SERVICE, MILITARY MEDICINE AT WILSON'S CREEK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_0031fd",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION AMPUTATIONS \u00b7 WHEN THEY WERE DONE",
+   "title": "THE CLOCK",
+   "left": {
+    "label": "FIRST 48 HOURS",
+    "num": "23.9%",
+    "desc": "Died"
+   },
+   "right": {
+    "label": "DAY 3 TO DAY 30",
+    "num": "34.8%",
+    "desc": "Died"
+   },
+   "active": 0,
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR \u00b7 AFTER DAY 30: 28.8%"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_05c85f",
+  "name": "doc",
+  "opts": {
+   "header": "MEDICAL & SURGICAL HISTORY OF THE WAR",
+   "title": "1883",
+   "body": "\"...the excisions are uniformly followed by larger percentages of fatality than the amputations.\"",
+   "source": "SOURCE: MSHWR, SURGICAL VOL. 3 (EXCEPTIONS: FOREARM, LEG)",
+   "stamp": "THE RECORD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f6e8c9",
+  "name": "stat",
+  "opts": {
+   "a": "26.3%",
+   "b": "DIED AFTER AMPUTATION \u00b7 UNION ARMY",
+   "c": "7,459 DEATHS \u00b7 20,802 RECOVERED \u00b7 1,719 UNKNOWN \u00b7 SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f97a0e",
+  "name": "stat",
+  "opts": {
+   "a": "~75%",
+   "b": "SURVIVED AN AMPUTATION",
+   "c": "SOURCE: NATIONAL PARK SERVICE, GETTYSBURG \u00b7 THE MEDICAL CORPS AT WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_41119c",
+  "name": "list",
+  "opts": {
+   "kicker": "DEATH RATE BY SITE \u00b7 UNION AMPUTATIONS",
+   "title": "THE CLOSER TO THE BODY",
+   "items": [
+    "Hand and fingers \u2014 2.9%",
+    "Forearm \u2014 14.0%",
+    "Upper arm \u2014 23.8%",
+    "Leg below the knee \u2014 33.2%",
+    "Thigh \u2014 54.2%",
+    "Hip joint \u2014 83.3%"
+   ],
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, SURGICAL VOL. 3"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_9bd44b",
+  "name": "quote",
+  "opts": {
+   "q": "Many limbs were lost that should have been saved...",
+   "w": "JOHN OPIE, CONFEDERATE VETERAN \u00b7 AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_21c268",
+  "name": "quote",
+  "opts": {
+   "q": "I am so exhausted and nervous it is difficult to express myself; am operating day and night.",
+   "w": "JOHN G. PERRY, SURGEON, 20TH MASSACHUSETTS \u00b7 MAY 13, 1864"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_73c2a9",
+  "name": "callcard",
+  "opts": {
+   "kicker": "GETTYSBURG, JULY 2, 1863",
+   "title": "GEN. DANIEL SICKLES",
+   "rows": [
+    [
+     "WOUND",
+     "Leg, by a cannonball"
+    ],
+    [
+     "OPERATION",
+     "Amputation, healed quickly"
+    ],
+    [
+     "AFTER",
+     "His leg went to the Army Medical Museum"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_17c5e6",
+  "name": "chapter",
+  "opts": {
+   "case": "AFTER THE OPERATION",
+   "n": "VIII",
+   "t": "THE INVISIBLE ENEMY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_229afc",
+  "name": "quote",
+  "opts": {
+   "q": "In the Civil War surgeons knew absolutely nothing of 'germs.'",
+   "w": "W. W. KEEN, UNION SURGEON \u00b7 1918 \u00b7 VIA NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_8d0cc4",
+  "name": "cards3",
+  "opts": {
+   "kicker": "W. W. KEEN, UNION SURGEON",
+   "title": "SURGERY BEFORE GERMS",
+   "cards": [
+    {
+     "h": "COATS",
+     "t": "Never changed",
+     "s": "\"Old blood-stained coats\""
+    },
+    {
+     "h": "SPONGES",
+     "t": "Reused",
+     "s": "Washed only in tap water"
+    },
+    {
+     "h": "DROPPED?",
+     "t": "Rinsed",
+     "s": "Then used again"
+    }
+   ],
+   "footer": "SOURCE: KEEN, 1918, REPRINTED BY NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_09bad3",
+  "name": "doc",
+  "opts": {
+   "header": "CASE NOTE \u00b7 MEDICAL & SURGICAL HISTORY OF THE WAR",
+   "title": "\"LAUDABLE PUS\"",
+   "body": "\"...the discharge now consisted of laudable pus.\"",
+   "source": "SOURCE: MSHWR, SURGICAL VOL. 3",
+   "stamp": "A GOOD SIGN?"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_8f668c",
+  "name": "steps",
+  "opts": {
+   "kicker": "AFTER THE WOUND",
+   "title": "FOUR KILLERS",
+   "items": [
+    [
+     "GANGRENE",
+     "Hospital gangrene"
+    ],
+    [
+     "ERYSIPELAS",
+     "A spreading skin infection"
+    ],
+    [
+     "PYEMIA \u00b7 TETANUS",
+     "Blood poisoning \u00b7 lockjaw"
+    ]
+   ],
+   "footer": "SOURCE: S. B. BURNS, PBS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d92032",
+  "name": "stat",
+  "opts": {
+   "a": "71 OF 2,818",
+   "b": "SURVIVED PYEMIA (BLOOD POISONING)",
+   "c": "MORTALITY 97.4% \u00b7 SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_427906",
+  "name": "phases",
+  "opts": {
+   "kicker": "AFTER GUNSHOT WOUNDS \u00b7 UNION ARMY",
+   "title": "RARE, BUT DEADLY",
+   "left": {
+    "label": "TETANUS",
+    "num": "89.3%",
+    "desc": "Died \u00b7 451 of 505"
+   },
+   "right": {
+    "label": "ERYSIPELAS",
+    "num": "41.0%",
+    "desc": "Died \u00b7 450 of 1,097"
+   },
+   "active": 0,
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, 1883"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_dd1982",
+  "name": "stat",
+  "opts": {
+   "a": "281 OF 374",
+   "b": "DIED AFTER TYING THE FEMORAL ARTERY",
+   "c": "OVER 75% \u00b7 W. W. KEEN (1905), AS QUOTED IN HENRETTA, THINKING LIKE A HISTORIAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_8f40c2",
+  "name": "stat",
+  "opts": {
+   "a": "45.6%",
+   "b": "DIED \u00b7 MEN WITH GANGRENE AFTER SHOT WOUNDS",
+   "c": "KNOWN OUTCOMES \u00b7 MANY DEATHS ASCRIBED TO OTHER CAUSES \u00b7 SOURCES: MEDICAL & SURGICAL HISTORY OF THE WAR \u00b7 ESSENTIAL CIVIL WAR CURRICULUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_5fb515",
+  "name": "doc",
+  "opts": {
+   "header": "SURGEON MIDDLETON GOLDSMITH \u00b7 HIS OWN SERIES",
+   "title": "BROMINE",
+   "body": "8 deaths among 304 patients treated for hospital gangrene (2.6%). Self-reported, uncontrolled. Case note: \"Bromine has acted like a charm.\"",
+   "source": "SOURCES: UT HEALTH SAN ANTONIO LIBRARY \u00b7 MSHWR",
+   "stamp": "2.6%"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_a7625b",
+  "name": "quote",
+  "opts": {
+   "q": "Those in houses progressed less favorably than those in barns, those in the latter buildings less favorably than those in the open air...",
+   "w": "JONATHAN LETTERMAN, MEDICAL RECOLLECTIONS, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_651478",
+  "name": "timeline",
+  "opts": {
+   "kicker": "TOO LATE FOR THE CIVIL WAR",
+   "title": "THE ANSWER ARRIVES",
+   "events": [
+    {
+     "y": "&#8203;1861",
+     "t": "War begins: no germ theory in surgery"
+    },
+    {
+     "y": "&#8203;1865",
+     "t": "War ends"
+    },
+    {
+     "y": "&#8203;1867",
+     "t": "Lister publishes antiseptic surgery"
+    }
+   ],
+   "footer": "SOURCE: LISTER, 1867 (FORDHAM SOURCEBOOK)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_4bafa1",
+  "name": "chapter",
+  "opts": {
+   "case": "JULY 1863",
+   "n": "IX",
+   "t": "THE TOWN OF THE WOUNDED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_0cf3aa",
+  "name": "phases",
+  "opts": {
+   "kicker": "GETTYSBURG \u00b7 JULY 1863",
+   "title": "20,995 WOUNDED",
+   "left": {
+    "label": "UNION",
+    "num": "14,193",
+    "desc": "Wounded"
+   },
+   "right": {
+    "label": "CONFEDERATE",
+    "num": "6,802",
+    "desc": "Left in Union care"
+   },
+   "active": 0,
+   "footer": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), PP. 159\u2013160"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_b84375",
+  "name": "doc",
+  "opts": {
+   "header": "JONATHAN LETTERMAN",
+   "title": "JULY 4, 1863",
+   "body": "\"Before daylight on the morning of the 4th all the wounded within our lines ... were removed to the hospitals.\"",
+   "source": "SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), P. 158",
+   "stamp": "BEFORE DAYLIGHT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_d9fe3a",
+  "name": "quote",
+  "opts": {
+   "q": "It was a field of blood, on which the demon of Destruction revelled.",
+   "w": "JONATHAN LETTERMAN, ON GETTYSBURG \u00b7 MEDICAL RECOLLECTIONS, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_61c2c7",
+  "name": "stat",
+  "opts": {
+   "a": "3 KILLED \u00b7 17 WOUNDED",
+   "b": "AMBULANCE CORPS MEN AT GETTYSBURG",
+   "c": "EIGHT AMBULANCES DAMAGED \u00b7 SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866), P. 158"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_71d379",
+  "name": "quote",
+  "opts": {
+   "q": "I yelled out to them, 'Drag me back.'",
+   "w": "LT. CHARLES A. FULLER, 61ST NEW YORK, GETTYSBURG \u00b7 MEMOIR, 1906 \u00b7 VIA AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_079720",
+  "name": "quote",
+  "opts": {
+   "q": "I was shot in the right breast, the ball entering my lung, where it still remains.",
+   "w": "AN OFFICER, 7TH WISCONSIN \u00b7 LETTER, 1893 \u00b7 VIA NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_da3d84",
+  "name": "stat",
+  "opts": {
+   "a": "60+",
+   "b": "FIELD HOSPITAL SITES AROUND GETTYSBURG",
+   "c": "SOURCES: AMERICAN BATTLEFIELD TRUST \u00b7 LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_540c71",
+  "name": "quote",
+  "opts": {
+   "q": "Lost supplies can be replenished, but lives lost are gone forever.",
+   "w": "JONATHAN LETTERMAN, ON GETTYSBURG \u00b7 MEDICAL RECOLLECTIONS, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ab0542",
+  "name": "stat",
+  "opts": {
+   "a": "650",
+   "b": "MEDICAL OFFICERS AT WORK",
+   "c": "JULY 1\u20136, 1863 \u00b7 SOURCE: LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_8ea7df",
+  "name": "quote",
+  "opts": {
+   "q": "...to have every capital operation performed within twenty-four hours after the wound was received.",
+   "w": "SURGEON JOHN McNULTY, 12TH CORPS, GETTYSBURG \u00b7 VIA LETTERMAN, 1866"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_b36f96",
+  "name": "quote",
+  "opts": {
+   "q": "I lay in the Clover field aforesaid until the evening of the next day...",
+   "w": "A PRIVATE, 153RD PENNSYLVANIA \u00b7 GETTYSBURG, JULY 1 \u00b7 VIA NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_1c8a07",
+  "name": "quote",
+  "opts": {
+   "q": "The whole ground for miles around is covered with the wounded, the dying and the dead.",
+   "w": "LT. JOHN DOOLEY, 1ST VIRGINIA (CONFEDERATE), DIARY, JULY 1863 \u00b7 VIA AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_acbe04",
+  "name": "callcard",
+  "opts": {
+   "kicker": "GETTYSBURG \u00b7 JULY \u2013 NOV. 1863",
+   "title": "CAMP LETTERMAN",
+   "rows": [
+    [
+     "WHERE",
+     "Wolf farm, York Pike, ~1 mile east of town"
+    ],
+    [
+     "TENTS",
+     "400+, up to 12 patients each"
+    ],
+    [
+     "THROUGH IT",
+     "Roughly 4,000 serious cases (estimate)"
+    ],
+    [
+     "CLOSED",
+     "Nov. 20, 1863"
+    ]
+   ],
+   "footer": "SOURCES: AMERICAN BATTLEFIELD TRUST \u00b7 NATIONAL MUSEUM OF CIVIL WAR MEDICINE \u00b7 M. ATKINSON, GETTYSBURG NMP"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_dc2bcd",
+  "name": "quote",
+  "opts": {
+   "q": "As high as seventeen die per day.",
+   "w": "FRANK STOKE, PENNSYLVANIA MILITIA, CAMP LETTERMAN, OCT. 1863 \u00b7 VIA AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_e147c8",
+  "name": "chapter",
+  "opts": {
+   "case": "1862 \u2013 1865",
+   "n": "X",
+   "t": "THE CITY OF HOSPITALS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_39483d",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION GENERAL HOSPITALS \u00b7 AT THE PEAK",
+   "title": "A NEW KIND OF CITY",
+   "left": {
+    "label": "HOSPITALS",
+    "num": "204",
+    "desc": "General hospitals"
+   },
+   "right": {
+    "label": "BEDS",
+    "num": "136,894",
+    "desc": "Capacity"
+   },
+   "active": 1,
+   "footer": "SOURCE: SURGEON GENERAL'S REPORT, OFFICIAL RECORDS SER. III, VOL. V"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_5b1900",
+  "name": "callcard",
+  "opts": {
+   "kicker": "SUPERINTENDENT OF ARMY NURSES \u00b7 FROM JUNE 1861",
+   "title": "DOROTHEA DIX'S RULES",
+   "rows": [
+    [
+     "LOOKS",
+     "\"Plain-looking\""
+    ],
+    [
+     "DRESS",
+     "No jewelry, curls, bows or hoop skirts"
+    ],
+    [
+     "PAY",
+     "40 cents a day \u00b7 $12 a month"
+    ]
+   ],
+   "footer": "SOURCES: AMERICAN BATTLEFIELD TRUST \u00b7 NATIONAL MUSEUM OF CIVIL WAR MEDICINE \u00b7 U.S. ARMY HERITAGE & EDUCATION CENTER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_850934",
+  "name": "quote",
+  "opts": {
+   "q": "I give cheerfully my whole time, mind, strength and income, to the service of my country...",
+   "w": "DOROTHEA DIX TO SECRETARY OF WAR SIMON CAMERON \u00b7 VIA SMITHSONIAN INSTITUTION ARCHIVES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_eb2f29",
+  "name": "quote",
+  "opts": {
+   "q": "...a regiment of the vilest odors that ever assaulted the human nose, and took it by storm.",
+   "w": "LOUISA MAY ALCOTT, HOSPITAL SKETCHES, 1863"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_9fa9be",
+  "name": "stat",
+  "opts": {
+   "a": "600+",
+   "b": "HOSPITAL VISITS BY WALT WHITMAN",
+   "c": "80,000\u2013100,000 MEN, BY HIS OWN ESTIMATE \u00b7 SOURCE: SPECIMEN DAYS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_be2c5b",
+  "name": "quote",
+  "opts": {
+   "q": "...the real war will never get in the books.",
+   "w": "WALT WHITMAN, SPECIMEN DAYS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_26e753",
+  "name": "stat",
+  "opts": {
+   "a": "8%",
+   "b": "DIED \u00b7 UNION GENERAL HOSPITALS",
+   "c": "1,057,423 CASES, 1861 \u2013 JULY 1865 \u00b7 SOURCE: OFFICIAL RECORDS SER. III, VOL. V"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_774be3",
+  "name": "chapter",
+  "opts": {
+   "case": "THE CAMPS",
+   "n": "XI",
+   "t": "THE OTHER KILLER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_219c47",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION DEATHS \u00b7 THE ARMY'S OWN RECORDS, 1870",
+   "title": "ROUGHLY TWO TO ONE",
+   "left": {
+    "label": "DISEASE",
+    "num": "186,216",
+    "desc": "Died"
+   },
+   "right": {
+    "label": "BATTLE + WOUNDS",
+    "num": "93,443",
+    "desc": "Died"
+   },
+   "active": 0,
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, MEDICAL VOL. 1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_5f55dd",
+  "name": "stat",
+  "opts": {
+   "a": "44,558",
+   "b": "UNION DEATHS \u00b7 DIARRHEA AND DYSENTERY",
+   "c": "WELL OVER A MILLION CASES \u00b7 SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, MEDICAL VOL. 1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_4f0438",
+  "name": "cards3",
+  "opts": {
+   "kicker": "UNION TROOPS \u00b7 RECORDED",
+   "title": "THE CAMP KILLERS",
+   "cards": [
+    {
+     "h": "34,833",
+     "t": "Typhoid deaths",
+     "s": "148,631 cases"
+    },
+    {
+     "h": "~10,000",
+     "t": "Malaria deaths",
+     "s": "About 1.3 million cases"
+    },
+    {
+     "h": "5,177",
+     "t": "Measles deaths",
+     "s": "76,318 cases"
+    }
+   ],
+   "footer": "SOURCES: S. B. BURNS, PBS \u00b7 MONTANA STATE UNIV. (FROM MSHWR TABLES)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_dff1ae",
+  "name": "stat",
+  "opts": {
+   "a": "7,058 OF 18,952",
+   "b": "UNION SOLDIERS WHO DIED OF SMALLPOX",
+   "c": "A VACCINE EXISTED \u00b7 SOURCE: S. B. BURNS, PBS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_a0f0fd",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION DEATHS \u00b7 CAMP FEVERS",
+   "title": "THE FEVERS",
+   "left": {
+    "label": "WHITE TROOPS",
+    "num": "35,965",
+    "desc": "Died"
+   },
+   "right": {
+    "label": "U.S. COLORED TROOPS",
+    "num": "4,691",
+    "desc": "Died"
+   },
+   "active": 0,
+   "footer": "SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, MEDICAL VOL. 1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_60199b",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION ARMY \u00b7 NATIONAL PARK SERVICE",
+   "title": "THE TOLL",
+   "left": {
+    "label": "KILLED IN BATTLE",
+    "num": "110,100",
+    "desc": "Includes died of wounds"
+   },
+   "right": {
+    "label": "DISEASE",
+    "num": "224,580",
+    "desc": "Died"
+   },
+   "active": 1,
+   "footer": "SOURCE: NPS, CIVIL WAR FACTS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_89d96a",
+  "name": "phases",
+  "opts": {
+   "kicker": "ALL DEATHS, BOTH SIDES \u00b7 ESTIMATES",
+   "title": "HOW MANY DIED?",
+   "left": {
+    "label": "TRADITIONAL",
+    "num": "620,000",
+    "desc": "Estimate"
+   },
+   "right": {
+    "label": "HACKER, 2011",
+    "num": "750,000",
+    "desc": "Estimate \u00b7 range 650,000\u2013850,000"
+   },
+   "active": 1,
+   "footer": "SOURCES: AMERICAN BATTLEFIELD TRUST \u00b7 BINGHAMTON UNIVERSITY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_fbe79e",
+  "name": "chapter",
+  "opts": {
+   "case": "AFTER 1865",
+   "n": "XII",
+   "t": "THE LONG ROAD HOME"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_2e4b3d",
+  "name": "stat",
+  "opts": {
+   "a": "21,000+",
+   "b": "UNION AMPUTEES WHO SURVIVED",
+   "c": "OF JUST UNDER 30,000 \u00b7 SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_975271",
+  "name": "stat",
+  "opts": {
+   "a": "1 IN 13",
+   "b": "SURVIVING SOLDIERS MISSING A LIMB",
+   "c": "ESTIMATE \u00b7 SOURCE: AMERICAN BATTLEFIELD TRUST"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_6971ff",
+  "name": "cards3",
+  "opts": {
+   "kicker": "AFTER THE WAR",
+   "title": "REPLACING A LIMB",
+   "cards": [
+    {
+     "h": "$75",
+     "t": "Union amputees",
+     "s": "A limb, or cash instead"
+    },
+    {
+     "h": "STATE",
+     "t": "Confederate veterans",
+     "s": "N.C. and Va. paid their own"
+    },
+    {
+     "h": "$8",
+     "t": "A month's pension",
+     "s": "Totally disabled private, 1862 law"
+    }
+   ],
+   "footer": "SOURCES: NATIONAL MUSEUM OF CIVIL WAR MEDICINE \u00b7 NATIONAL ARCHIVES, PROLOGUE 2010"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_103d7c",
+  "name": "stat",
+  "opts": {
+   "a": "270",
+   "b": "ENTRIES \u00b7 THE FIRST LEFT-HANDED PENMANSHIP CONTEST",
+   "c": "UNION VETERANS WHO LOST THEIR RIGHT ARMS \u00b7 SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_256e5f",
+  "name": "phases",
+  "opts": {
+   "kicker": "FEDERAL PENSIONS",
+   "title": "THE BILL COMES DUE",
+   "left": {
+    "label": "1860",
+    "num": "$1M",
+    "desc": "A year"
+   },
+   "right": {
+    "label": "1885",
+    "num": "$36M",
+    "desc": "A year"
+   },
+   "active": 1,
+   "footer": "SOURCE: NATIONAL ARCHIVES, PROLOGUE, SPRING 2010"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d35ba9",
+  "name": "stat",
+  "opts": {
+   "a": "34",
+   "b": "U.S. PATENTS FOR ARTIFICIAL LIMBS, 1845\u20131861",
+   "c": "BEFORE THE WAR CREATED A NEW INDUSTRY \u00b7 SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_e22640",
+  "name": "quote",
+  "opts": {
+   "q": "...preserves, for future application, the dearly bought experience of four years of war.",
+   "w": "ON THE ARMY MEDICAL MUSEUM \u00b7 VIA NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_da3e1e",
+  "name": "stat",
+  "opts": {
+   "a": "16,000+",
+   "b": "FOLIO VOLUMES OF HANDWRITTEN RECORDS",
+   "c": "SURGEON GENERAL'S OFFICE \u00b7 SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_c9ce04",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. ARMY SURGEON GENERAL'S OFFICE",
+   "title": "THE MEDICAL AND SURGICAL HISTORY",
+   "rows": [
+    [
+     "VOLUMES",
+     "Six, 1870\u20131888"
+    ],
+    [
+     "PAGES",
+     "Thousands"
+    ],
+    [
+     "INSIDE",
+     "Thousands of case reports"
+    ]
+   ],
+   "footer": "SOURCES: McGILL OSLER LIBRARY \u00b7 ESSENTIAL CIVIL WAR CURRICULUM"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_86dc4d",
+  "name": "doc",
+  "opts": {
+   "header": "13 STAT. 20",
+   "title": "MARCH 11, 1864",
+   "body": "\"An Act to establish a uniform System of Ambulances in the Armies of the United States.\"",
+   "source": "SOURCE: STATUTES AT LARGE, VOL. 13",
+   "stamp": "THE LAW"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_3fcf3f",
+  "name": "quote",
+  "opts": {
+   "q": "The basic plan for the ambulance corps was unmistakably Letterman's.",
+   "w": "MARY C. GILLETT, THE ARMY MEDICAL DEPARTMENT 1818\u20131865 (U.S. ARMY CMH)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_aa4fae",
+  "name": "doc",
+  "opts": {
+   "header": "ARLINGTON NATIONAL CEMETERY",
+   "title": "JONATHAN LETTERMAN",
+   "body": "Remembered as the man \"who brought order and efficiency in to the Medical Service.\"",
+   "source": "SOURCE: AMERICAN BATTLEFIELD TRUST, LETTERMAN BIOGRAPHY",
+   "stamp": "1824\u20131872"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_63b0d6",
+  "name": "doc",
+  "opts": {
+   "header": "PRESIDIO OF SAN FRANCISCO",
+   "title": "NOV. 1911",
+   "body": "The Army's general hospital at the Presidio is renamed Letterman General Hospital \u2014 later Letterman Army Medical Center, closed in 1992.",
+   "source": "SOURCE: NPS GOLDEN GATE, LETTERMAN HOSPITAL",
+   "stamp": "HIS NAME"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_da0e25",
+  "name": "quote",
+  "opts": {
+   "q": "There was not a day during World War II that I did not thank God for Jonathan Letterman.",
+   "w": "MAJ. GEN. PAUL HAWLEY, CHIEF SURGEON, EUROPEAN THEATER \u00b7 VIA NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_28a1c1",
+  "name": "quote",
+  "opts": {
+   "q": "For the first time, evacuation was a deliberate military process rather than an emergency improvisation.",
+   "w": "HEALTH.MIL, FROM WAGONS TO AIR AMBULANCES, JULY 2026"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_4cb01d",
+  "name": "doc",
+  "opts": {
+   "header": "JOINT BASE SAN ANTONIO\u2013FORT SAM HOUSTON",
+   "title": "JAN. 2024",
+   "body": "\"William Hardee Road\" is renamed \"Letterman Road\".",
+   "source": "SOURCE: JBSA NEWS, JAN. 3, 2024",
+   "stamp": "LETTERMAN ROAD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_80e153",
+  "name": "phases",
+  "opts": {
+   "kicker": "THE WOUNDED UNION SOLDIER",
+   "title": "WHAT CHANGED",
+   "left": {
+    "label": "SECOND BULL RUN, 1862",
+    "num": "24+ H",
+    "desc": "Left on the field"
+   },
+   "right": {
+    "label": "GETTYSBURG, 1863",
+    "num": "BY JULY 4 DAWN",
+    "desc": "Within Union lines"
+   },
+   "active": 1,
+   "footer": "SOURCES: GILLETT, ARMY MEDICAL DEPT. 1818\u20131865 (U.S. ARMY CMH) \u00b7 LETTERMAN, MEDICAL RECOLLECTIONS (1866)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_ab2488",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 WAR MEDICINE \u00b7 NEXT: EP 3",
+   "stamp": "MORE THAN BULLETS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_b1f229",
+  "name": "end",
+  "opts": {
+   "label": "FOR EDUCATION ONLY \u00b7 NOT MEDICAL ADVICE",
+   "stamp": "KEPT ALIVE"
+  },
+  "intro": 2.4
+ }
+]

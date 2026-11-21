@@ -500,7 +500,7 @@ LINES = [
  ("Camp Letterman closed on November twentieth, eighteen sixty-three. The day before, nearby, President Lincoln had dedicated the new national cemetery.",
   [I("gettysburg_cemetery_gatehouse", "in")], P("EVERGREEN CEMETERY GATEHOUSE · GETTYSBURG, JULY 1863", M2, "slow")),
  ("Today, the fields are quiet.",
-  [C("753958", 93.0), C("753958", 95.0)], dict(tag=GETT, kind="slow", gap=0.8)),
+  [C("753958", 91.1), C("753958", 93.5)], dict(tag=GETT, kind="slow", gap=0.8)),
 
  # ---------------- X. THE CITY OF HOSPITALS ----------------
  ("For most wounded men, the last stop was a city.",
@@ -646,7 +646,7 @@ LINES = [
 
  # ---------------- TODAY ----------------
  ("His idea is still here. The chain he built, an aid station behind the line, a hospital behind that, and evacuation in between, remains the basis of military evacuation today.",
-  [C("1030224", 60.2), C("1030224", 64.0)], dict(tag=T_KOREA, kind="calm")),
+  [C("1030224", 127.5), C("1030224", 134.6)], dict(tag=T_KOREA, kind="calm")),
  ("An Army article in twenty nineteen said his plan is still in effect to this day, with care organized in multiple echelons.",
   [C("1028671", 31.0), C("1028671", 36.5)], dict(tag=T_MASCAL, kind="calm")),
  ("The Military Health System put it this way in twenty twenty-six: for the first time, evacuation was a deliberate military process rather than an emergency improvisation.",
@@ -654,7 +654,7 @@ LINES = [
  ("The ambulance men with green bands are now crews in helicopters.",
   [C("1030410", 92.0), C("1030410", 140.0)], dict(tag=T_HOIST, kind="calm")),
  ("And the lesson of Antietam, that the wounded must be moved fast, by trained people, with a plan made before the battle, is still drilled again and again, in exercises like these.",
-  [C("1030600", 27.6), C("1030600", 33.2)], dict(tag=T_ELPASO, kind="calm")),
+  [C("1030600", 27.6), C("1030600", 32.9)], dict(tag=T_ELPASO, kind="calm")),
  ("In twenty twenty-four, a road at Fort Sam Houston, the home of Army medical training, was renamed Letterman Road.",
   [G("doc", header="JOINT BASE SAN ANTONIO–FORT SAM HOUSTON", title="JAN. 2024", body="\"William Hardee Road\" is renamed \"Letterman Road\".", source="SOURCE: JBSA NEWS, JAN. 3, 2024", stamp="LETTERMAN ROAD")], dict(kind="calm")),
  ("So if you had been wounded at Second Bull Run in eighteen sixty-two, you might have lain on the field for a day or more. Wounded inside Union lines at Gettysburg, you were likely in a hospital by dawn on July fourth.",
@@ -670,7 +670,7 @@ LINES = [
  ("Then the fever you could not see. A hospital train. A long, bright ward with windows on both sides. A woman with a basin, or a poet with an orange. And if you lived, an empty sleeve, and a pension of eight dollars a month.",
   [I("carver_hospital_ward_1864", "pan")], P("A WARD · CARVER HOSPITAL, WASHINGTON, 1864", M7, "slow")),
  ("That is how lives were kept.",
-  [C("1030410", 456.0)], dict(tag=T_HOIST, kind="slow", gap=1.0)),
+  [C("1030410", 450.2)], dict(tag=T_HOIST, kind="slow", gap=1.0)),
  ("Next time on War Medicine: the diseases that killed more soldiers than bullets. From the camps of eighteen ninety-eight to the jungles of World War Two.",
   [G("end", label="KEPT ALIVE · WAR MEDICINE · NEXT: EP 3", stamp="MORE THAN BULLETS")], dict(kind="calm", gap=1.0)),
  ("For education only. This is not medical advice. If you have a health concern, talk to a doctor.",
