@@ -10,8 +10,8 @@
 #   Every still is captioned with its OWN printed place/date. Photos of other battles are never presented as Antietam/Gettysburg.
 #  MODERN (DVIDS, public domain):
 #   753958 Oklahoma Guard OCS at Gettysburg (2020) — today's battlefield (cannon/fence/monument shots only, no interviews)
-#   1030224 USARPAC Best Medic, South Korea, Nov 17 2026 (TRAINING) · 1030410 HH-60M hoist training, Fort McCoy, Nov 2026 (TRAINING)
-#   1028671 374th Medical Group MASCAL exercise, Japan, Nov 4 2026 (TRAINING) · 1030600 WBAMC / El Paso airport exercise, Oct 29 2026 (TRAINING)
+#   1029761 New England CERFP mass-casualty exercise, Brunswick, Maine, Nov 5 2026 (TRAINING; replaces 1030224/1030600, used in s017) · 1030410 HH-60M hoist training, Fort McCoy, Nov 2026 (TRAINING)
+#   1028671 374th Medical Group MASCAL exercise, Japan, Nov 4 2026 (TRAINING) 
 #  No blood, wounds, stumps, tissue or bodies on screen. Wounds are described in narration and numbers only. No patient is named
 #  (historical writers/soldiers who published their own accounts are quoted by name, as in official histories).
 C = lambda i, s, **k: (str(i), s, k)
@@ -32,15 +32,14 @@ NMCWM = "NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
 ABT = "AMERICAN BATTLEFIELD TRUST"
 GETT = ("GETTYSBURG BATTLEFIELD TODAY", "U.S. ARMY NATIONAL GUARD VIDEO · DVIDS · 2020")
 def P(caption, src=M7, kind="calm"): return dict(tag=(caption, src), kind=kind)
-T_KOREA = ("TODAY: ARMY MEDICS, PROLONGED CARE · TRAINING", "SOUTH KOREA · NOV. 17, 2026 · U.S. ARMY")
+T_CERFP = ("TODAY: MASS-CASUALTY RESPONSE EXERCISE · TRAINING", "BRUNSWICK, MAINE · NOV. 5, 2026 · U.S. AIR NATIONAL GUARD VIDEO · DVIDS")
 T_HOIST = ("TODAY: MEDEVAC HOIST · TRAINING", "FORT McCOY, WIS. · NOV. 2026 · U.S. ARMY")
 T_MASCAL = ("TODAY: MASS-CASUALTY EXERCISE · TRAINING", "JAPAN · NOV. 4, 2026 · U.S. AIR FORCE")
-T_ELPASO = ("TODAY: HOSPITAL MASS-CASUALTY EXERCISE · TRAINING", "EL PASO, TEXAS · OCT. 29, 2026 · U.S. ARMY")
 
 LINES = [
  # ---------------- COLD OPEN ----------------
  ("Maryland. September seventeenth, eighteen sixty-two. Along a creek called Antietam, two armies fight from dawn until dark.",
-  [I("antietam_burnside_bridge", "in")], P("BURNSIDE'S BRIDGE · ANTIETAM, 1862", M2, "tense")),
+  [I("antietam_burnside_bridge", "pan")], P("BURNSIDE'S BRIDGE · ANTIETAM, 1862", M2, "tense")),
  ("When it is over, about twenty-three thousand men are killed, wounded or missing. The National Park Service calls it the bloodiest single day in American military history.",
   [G("stat", a="23,000", b="KILLED, WOUNDED OR MISSING IN ONE DAY", c="ANTIETAM · SEPT. 17, 1862 · SOURCE: NATIONAL PARK SERVICE (ROUNDED)")], dict(kind="punch")),
  ("The Union army's medical director counted eight thousand three hundred and fifty of his own wounded. And he wrote that many slight wounds were never recorded.",
@@ -66,7 +65,7 @@ LINES = [
  ("It started with a bullet.",
   [G("chapter", case="THE WOUND", n="I", t="THE BALL")], dict(gap=1.6, kind="calm")),
  ("Almost every wound a Union surgeon treated came from a gun. The Army's official medical history counted two hundred forty-five thousand seven hundred and ninety gunshot wounds.",
-  [G("stat", a="245,790", b="GUNSHOT WOUNDS TREATED · UNION ARMY", c="SABRE AND BAYONET: 922 · SOURCE: " + MSHS + ", 1883")], dict(kind="calm")),
+  [G("stat", a="245,790", b="GUNSHOT WOUNDS TREATED · UNION ARMY RECORDS", c="SABRE AND BAYONET: 922 · SOURCE: " + MSHS + ", 1883")], dict(kind="calm")),
  ("Sabres and bayonets, the weapons of old paintings, caused fewer than one in two hundred.",
   [I("antietam_knaps_battery", "pan")], P("KNAP'S BATTERY · ANTIETAM, 1862", M2)),
  ("Most of those bullets were the Minié ball: a cone of soft lead with a hollow base that expanded into the rifling, so it spun and flew true.",
@@ -356,7 +355,7 @@ LINES = [
  ("The amputation.",
   [G("chapter", case="THE OPERATION", n="VII", t="THE SAW")], dict(gap=1.6, kind="calm")),
  ("Union surgeons recorded twenty-nine thousand nine hundred and eighty amputations. Counting both armies, historians put the total at perhaps fifty to sixty thousand.",
-  [G("stat", a="29,980", b="AMPUTATIONS RECORDED · UNION ARMY", c="BOTH ARMIES: PERHAPS 50,000–60,000 (ESTIMATES) · SOURCES: " + MSHS + " · " + ABT)], dict(kind="punch")),
+  [G("stat", a="29,980", b="AMPUTATIONS · UNION ARMY RECORDS", c="BOTH ARMIES: PERHAPS 50,000–60,000 (ESTIMATES) · SOURCES: " + MSHS + " · " + ABT)], dict(kind="punch")),
  ("It is easy to call the surgeons butchers. Most historians do not. Here is why they cut.",
   [I("medical_directors_army_cumberland_1863", "in")], P("MEDICAL DIRECTORS, ARMY OF THE CUMBERLAND · JUNE 1863", M7, "question")),
  ("The Minié ball splintered bone and drove dirt, cloth and debris into the wound. When the nerves and vessels of a limb were destroyed, amputation gave the best chance of survival.",
@@ -646,7 +645,7 @@ LINES = [
 
  # ---------------- TODAY ----------------
  ("His idea is still here. The chain he built, an aid station behind the line, a hospital behind that, and evacuation in between, remains the basis of military evacuation today.",
-  [C("1030224", 127.5), C("1030224", 134.6)], dict(tag=T_KOREA, kind="calm")),
+  [C("1029761", 28.8), C("1029761", 69.9)], dict(tag=T_CERFP, kind="calm")),
  ("An Army article in twenty nineteen said his plan is still in effect to this day, with care organized in multiple echelons.",
   [C("1028671", 31.0), C("1028671", 36.5)], dict(tag=T_MASCAL, kind="calm")),
  ("The Military Health System put it this way in twenty twenty-six: for the first time, evacuation was a deliberate military process rather than an emergency improvisation.",
@@ -654,7 +653,7 @@ LINES = [
  ("The ambulance men with green bands are now crews in helicopters.",
   [C("1030410", 92.0), C("1030410", 140.0)], dict(tag=T_HOIST, kind="calm")),
  ("And the lesson of Antietam, that the wounded must be moved fast, by trained people, with a plan made before the battle, is still drilled again and again, in exercises like these.",
-  [C("1030600", 27.6), C("1030600", 32.9)], dict(tag=T_ELPASO, kind="calm")),
+  [C("1029761", 39.7), C("1029761", 20.3)], dict(tag=T_CERFP, kind="calm")),
  ("In twenty twenty-four, a road at Fort Sam Houston, the home of Army medical training, was renamed Letterman Road.",
   [G("doc", header="JOINT BASE SAN ANTONIO–FORT SAM HOUSTON", title="JAN. 2024", body="\"William Hardee Road\" is renamed \"Letterman Road\".", source="SOURCE: JBSA NEWS, JAN. 3, 2024", stamp="LETTERMAN ROAD")], dict(kind="calm")),
  ("So if you had been wounded at Second Bull Run in eighteen sixty-two, you might have lain on the field for a day or more. Wounded inside Union lines at Gettysburg, you were likely in a hospital by dawn on July fourth.",
@@ -670,7 +669,7 @@ LINES = [
  ("Then the fever you could not see. A hospital train. A long, bright ward with windows on both sides. A woman with a basin, or a poet with an orange. And if you lived, an empty sleeve, and a pension of eight dollars a month.",
   [I("carver_hospital_ward_1864", "pan")], P("A WARD · CARVER HOSPITAL, WASHINGTON, 1864", M7, "slow")),
  ("That is how lives were kept.",
-  [C("1030410", 450.2)], dict(tag=T_HOIST, kind="slow", gap=1.0)),
+  [C("1030410", 453.0)], dict(tag=T_HOIST, kind="slow", gap=1.0)),
  ("Next time on War Medicine: the diseases that killed more soldiers than bullets. From the camps of eighteen ninety-eight to the jungles of World War Two.",
   [G("end", label="KEPT ALIVE · WAR MEDICINE · NEXT: EP 3", stamp="MORE THAN BULLETS")], dict(kind="calm", gap=1.0)),
  ("For education only. This is not medical advice. If you have a health concern, talk to a doctor.",
@@ -729,10 +728,10 @@ META = dict(
     title="Wounded, 1861–1865",
     voice="am_fenrir",
     imgs={},   # filled below from the stills used in LINES
-    mute_nat=["753958", "1030224", "1028671", "1030410", "1030600"],
-    training=["1030224", "1028671", "1030410", "1030600"],
+    mute_nat=["753958", "1029761", "1028671", "1030410"],
+    training=["1029761", "1028671", "1030410"],
     credit=("Photographs and engravings (public domain): The Photographic History of the Civil War (F. T. Miller, ed., 1911), vols. 2, 7 and 9; The Medical and Surgical History of the War of the Rebellion (U.S. Surgeon General's Office, 1870–1888); Harper's Weekly, 1862–1865; Woman's Work in the Civil War (1867); J. Letterman, Medical Recollections of the Army of the Potomac (1866) — all via Internet Archive."
-            r"\NFootage: U.S. Army, U.S. Air Force and Army National Guard via DVIDS (public domain), 2020 and Oct.–Nov. 2026. Training footage is marked TRAINING."
+            r"\NFootage: U.S. Army, U.S. Air Force, Army National Guard and Air National Guard via DVIDS (public domain), 2020 and Nov. 2026. Training footage is marked TRAINING."
             r"\NAppearance of U.S. government visual information does not imply or constitute endorsement."
             r"\NKEPT ALIVE is an independent channel, not affiliated with the U.S. Army, DoD, NPS or any government agency."
             r"\NFor education only. This is not medical advice."),

@@ -1,0 +1,49 @@
+import json, importlib.util
+sp = importlib.util.spec_from_file_location("e", "episode.py"); E = importlib.util.module_from_spec(sp); sp.loader.exec_module(E)
+T = json.load(open("timing.json")); S = T["starts"]
+def mmss(x): x = int(x); return f"{x//3600}:{x%3600//60:02d}:{x%60:02d}" if x >= 3600 else f"{x//60}:{x%60:02d}"
+chap = [(0, "Antietam, 1862: you are wounded")]
+names = {"THE BALL": "The ball: what a Minié ball did", "LEFT ON THE FIELD": "Left on the field: 1861–62",
+         "THE MAN WITH A PLAN": "Jonathan Letterman and the ambulance corps", "THE BLOODIEST DAY": "Antietam: the bloodiest day",
+         "THE FIELD HOSPITAL": "The field hospital", "ASLEEP": "Asleep: chloroform and the bite-the-bullet myth",
+         "THE SAW": "The saw: why surgeons amputated", "THE INVISIBLE ENEMY": "The invisible enemy: infection before germ theory",
+         "THE TOWN OF THE WOUNDED": "Gettysburg and Camp Letterman", "THE CITY OF HOSPITALS": "Washington, city of hospitals",
+         "THE OTHER KILLER": "The other killer: disease in the camps", "THE LONG ROAD HOME": "The long road home"}
+for i, (txt, shots, o) in enumerate(E.LINES):
+    for s in shots:
+        if s[0] == "g:chapter": chap.append((S[i], names.get(s[2]["t"], s[2]["t"].title())))
+chapters = "\n".join(f"{mmss(t)} {n}" for t, n in chap)
+desc = f"""What being wounded in the Civil War actually felt like for a Union soldier — from the moment a soft lead Minié ball hit, to the stretcher, the field hospital, chloroform and the surgeon's saw, infection before germ theory, Gettysburg's Camp Letterman, Washington's hospitals and the long road home. Civil War medicine told from the Army's own Medical and Surgical History of the War of the Rebellion and the words of the people who were there.
+
+WAR MEDICINE · EP 2. Wartime photographs and engravings; no wounds on screen; history only.
+
+Chapters:
+{chapters}
+
+Sources:
+Medical and Surgical History of the War of the Rebellion (U.S. Surgeon General's Office, 1870–1888), via Internet Archive: https://archive.org/details/14121350RX6.nlm.nih.gov · https://archive.org/download/MSHWRMedical1/MSHWRMedical1_djvu.txt
+J. Letterman, Medical Recollections of the Army of the Potomac (1866): https://archive.org/details/medicalrecollect00lettuoft
+M. C. Gillett, The Army Medical Department 1818–1865 (U.S. Army Center of Military History, 1987): https://archive.org/details/TheArmyMedicalDepartment18181865
+National Park Service, Civil War facts: https://nps.gov/subjects/civilwar/facts.htm · Jonathan Letterman: https://www.nps.gov/articles/000/jonathan-letterman.htm
+American Battlefield Trust, Camp Letterman: https://www.battlefields.org/learn/articles/camp-letterman-gettysburg · Civil War casualties: https://www.battlefields.org/learn/articles/civil-war-casualties
+National Museum of Civil War Medicine: https://www.civilwarmed.org/keen-surgery/ · https://www.civilwarmed.org/unanesthetized-surgery2/ · https://www.civilwarmed.org/prosthetics/
+National Museum of Health and Medicine: https://medicalmuseum.health.mil/index.cfm/visit/exhibits/past/nationswounds/page_02
+PBS Mercy Street (Burns): https://www.pbs.org/mercy-street/uncover-history/behind-lens/surgery-civil-war
+Civil War Monitor, When Bullets Hit Bodies: https://www.civilwarmonitor.com/article/when-bullets-hit-bodies/
+HistoryNet, Civil War surgery and anesthesia: https://historynet.com/how-civil-war-battlefield-surgery-made-anesthesia-mainstream/
+L. M. Alcott, Hospital Sketches (1863); W. Whitman, Specimen Days (1882), via Internet Archive
+JBSA, Letterman Road (2024): https://www.jbsa.mil/News/News/Article/3630730/jbsa-fort-sam-houston-street-renamed-after-civil-war-surgeon-soldier/
+Full source list: github.com/ituraev97/KEPTALIVE_media (episodes/104-wounded-civil-war/sources.md)
+
+Photographs and engravings (public domain): The Photographic History of the Civil War (F. T. Miller, ed., 1911), vols. 2, 7 and 9; Medical and Surgical History of the War of the Rebellion (1870–1888); Harper's Weekly, 1862–1865; Woman's Work in the Civil War (1867); Letterman (1866) — all via Internet Archive. Each image is captioned with its own printed place and date.
+Footage via DVIDS: Sgt. Jordan Sivayavirojna, Oklahoma National Guard (officer candidates' staff ride, Gettysburg National Military Park, March 2020); Airman 1st Class Ethan Manalastas, AFN Tokyo (374th Medical Group mass-casualty exercise Beverly Morning 27-1, Japan, Nov. 4, 2026 — TRAINING); Greg Mason, Fort McCoy Multimedia-Visual Information (HH-60M MEDEVAC hoist training, Fort McCoy, Wis., Nov. 2026 — TRAINING); Airman 1st Class Maria Gonzalez Garduno, U.S. Air National Guard (New England CERFP mass-casualty response exercise, Brunswick, Maine, Nov. 5, 2026 — TRAINING).
+U.S. government visual information is in the public domain; appearance of U.S. government visual information does not imply or constitute endorsement.
+
+For education only. This is not medical advice. If you have a health concern, talk to a doctor.
+
+KEPT ALIVE is an independent channel and is not affiliated with or endorsed by the U.S. Army, the U.S. Department of Defense, the National Park Service, NIH, CDC or any government agency.
+
+#civilwar #warmedicine #keptalive
+"""
+open("youtube_description.txt", "w").write(desc)
+print(chapters); print(len(desc), "chars")

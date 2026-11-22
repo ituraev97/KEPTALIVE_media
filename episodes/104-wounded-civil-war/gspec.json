@@ -91,11 +91,11 @@
   "intro": 2.4
  },
  {
-  "key": "stat_60311c",
+  "key": "stat_2b3228",
   "name": "stat",
   "opts": {
    "a": "245,790",
-   "b": "GUNSHOT WOUNDS TREATED \u00b7 UNION ARMY",
+   "b": "GUNSHOT WOUNDS TREATED \u00b7 UNION ARMY RECORDS",
    "c": "SABRE AND BAYONET: 922 \u00b7 SOURCE: MEDICAL & SURGICAL HISTORY OF THE WAR, 1883"
   },
   "intro": 2.4
@@ -1006,11 +1006,11 @@
   "intro": 2.4
  },
  {
-  "key": "stat_dc4247",
+  "key": "stat_63f2af",
   "name": "stat",
   "opts": {
    "a": "29,980",
-   "b": "AMPUTATIONS RECORDED \u00b7 UNION ARMY",
+   "b": "AMPUTATIONS \u00b7 UNION ARMY RECORDS",
    "c": "BOTH ARMIES: PERHAPS 50,000\u201360,000 (ESTIMATES) \u00b7 SOURCES: MEDICAL & SURGICAL HISTORY OF THE WAR \u00b7 AMERICAN BATTLEFIELD TRUST"
   },
   "intro": 2.4

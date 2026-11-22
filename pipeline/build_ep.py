@@ -54,7 +54,7 @@ def _render(idx, shot, d, out, n):
         z = "min(zoom+0.0008,1.22)" if kb == "in" else "1.15"
         x = "iw/2-(iw/zoom/2)" if kb == "in" else f"(iw-iw/zoom)*on/{n}"
         # RULE: Ken Burns only on stills, computed on a 4x-supersampled canvas so motion is sub-pixel smooth
-        vf = (f"scale=7680:-2,crop=7680:4320,zoompan=z='{z}':x='{x}':y='ih/2-(ih/zoom/2)':d={n}:s={W}x{H}:fps={FPS},"
+        vf = (f"scale=7680:4320:force_original_aspect_ratio=increase,crop=7680:4320,zoompan=z='{z}':x='{x}':y='ih/2-(ih/zoom/2)':d={n}:s={W}x{H}:fps={FPS},"
               f"eq=saturation=0.6,curves=preset=increase_contrast,{GRADE}")
         run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-loop", "1", "-i", img, "-vf", vf, "-frames:v", str(n), "-an"] + ENC + [out])
     else:

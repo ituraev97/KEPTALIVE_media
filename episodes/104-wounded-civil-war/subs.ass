@@ -1,0 +1,883 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:01.71,Sub,,0,0,0,,{\fad(80,80)}Maryland.
+Dialogue: 0,0:00:01.73,0:00:03.26,Sub,,0,0,0,,{\fad(80,80)}September 17, 1862.
+Dialogue: 0,0:00:03.28,0:00:07.50,Sub,,0,0,0,,{\fad(80,80)}Along a creek called Antietam, two armies fight from
+Dialogue: 0,0:00:07.52,0:00:08.81,Sub,,0,0,0,,{\fad(80,80)}dawn until dark.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BURNSIDE'S BRIDGE · ANTIETAM, 1862
+Dialogue: 0,0:00:30.25,0:00:31.92,Sub,,0,0,0,,{\fad(80,80)}So imagine you are one of them.
+Dialogue: 0,0:00:31.94,0:00:33.00,Sub,,0,0,0,,{\fad(80,80)}A Union infantryman.
+Dialogue: 0,0:00:33.02,0:00:34.79,Sub,,0,0,0,,{\fad(80,80)}You are nineteen, or thirty-five.
+Dialogue: 0,0:00:34.81,0:00:36.53,Sub,,0,0,0,,{\fad(80,80)}You have been marching for days.
+Dialogue: 2,0:00:30.50,0:00:36.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:00:30.50,0:00:36.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:30.50,0:00:36.25,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:00:30.50,0:00:36.25,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A NEW YORK REGIMENT · ANTIETAM CAMPAIGN, 1862
+Dialogue: 0,0:00:51.51,0:00:53.56,Sub,,0,0,0,,{\fad(80,80)}But something is about to change.
+Dialogue: 0,0:00:53.58,0:00:56.44,Sub,,0,0,0,,{\fad(80,80)}A 37-year-old army doctor has spent the summer
+Dialogue: 0,0:00:56.46,0:00:59.70,Sub,,0,0,0,,{\fad(80,80)}building a system to get men like you off the field.
+Dialogue: 0,0:00:59.72,0:01:01.89,Sub,,0,0,0,,{\fad(80,80)}Antietam is one of its first tests.
+Dialogue: 2,0:00:51.76,0:00:57.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:00:51.76,0:00:57.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:51.76,0:00:57.51,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:00:51.76,0:00:57.51,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DR. JONATHAN LETTERMAN (SEATED) WITH HIS STAFF · NOV. 1862
+Dialogue: 0,0:01:02.36,0:01:05.01,Sub,,0,0,0,,{\fad(80,80)}This is what it was like to be wounded in the
+Dialogue: 0,0:01:05.03,0:01:06.13,Sub,,0,0,0,,{\fad(80,80)}American Civil War.
+Dialogue: 0,0:01:06.15,0:01:09.09,Sub,,0,0,0,,{\fad(80,80)}From the moment the bullet hit, to the saw, to the
+Dialogue: 0,0:01:09.11,0:01:10.98,Sub,,0,0,0,,{\fad(80,80)}hospital, to the long road home.
+Dialogue: 0,0:01:11.00,0:01:13.88,Sub,,0,0,0,,{\fad(80,80)}From the Army's own records, and the words of the
+Dialogue: 0,0:01:13.90,0:01:14.89,Sub,,0,0,0,,{\fad(80,80)}men who lived it.
+Dialogue: 2,0:01:02.61,0:01:08.36,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:01:02.61,0:01:08.36,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:02.61,0:01:08.36,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:01:02.61,0:01:08.36,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE DRILL, THE NEWLY ORGANIZED CORPS · AFTER ANTIETAM
+Dialogue: 0,0:01:34.39,0:01:37.64,Sub,,0,0,0,,{\fad(80,80)}Sabres and bayonets, the weapons of old paintings,
+Dialogue: 0,0:01:37.66,0:01:39.54,Sub,,0,0,0,,{\fad(80,80)}caused fewer than one in 200.
+Dialogue: 2,0:01:34.64,0:01:39.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:01:34.64,0:01:39.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:34.64,0:01:39.96,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:01:34.64,0:01:39.96,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}KNAP'S BATTERY · ANTIETAM, 1862
+Dialogue: 0,0:02:25.22,0:02:27.07,Sub,,0,0,0,,{\fad(80,80)}That number hides something.
+Dialogue: 0,0:02:27.09,0:02:30.21,Sub,,0,0,0,,{\fad(80,80)}It only counts men who reached a surgeon alive.
+Dialogue: 0,0:02:30.23,0:02:33.08,Sub,,0,0,0,,{\fad(80,80)}Many men hit in the head or body never did.
+Dialogue: 2,0:02:25.47,0:02:31.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:02:25.47,0:02:31.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:25.47,0:02:31.22,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:02:25.47,0:02:31.22,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE SHERRICK FARM · ANTIETAM, 1862
+Dialogue: 0,0:02:50.48,0:02:52.44,Sub,,0,0,0,,{\fad(80,80)}Arms and legs were different.
+Dialogue: 0,0:02:52.46,0:02:53.46,Sub,,0,0,0,,{\fad(80,80)}You could live.
+Dialogue: 0,0:02:53.48,0:02:56.80,Sub,,0,0,0,,{\fad(80,80)}But a soft lead ball that splintered a thigh bone
+Dialogue: 0,0:02:56.82,0:02:59.87,Sub,,0,0,0,,{\fad(80,80)}left a surgeon in 1862 with very few choices.
+Dialogue: 2,0:02:50.73,0:02:56.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:02:50.73,0:02:56.48,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:50.73,0:02:56.48,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:02:50.73,0:02:56.48,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE RUINED MUMMA FARM · ANTIETAM, 1862
+Dialogue: 0,0:03:00.34,0:03:02.74,Sub,,0,0,0,,{\fad(80,80)}Think about what that meant on the day.
+Dialogue: 0,0:03:02.76,0:03:05.97,Sub,,0,0,0,,{\fad(80,80)}A man hit in the arm could often walk to the rear on
+Dialogue: 0,0:03:05.99,0:03:06.47,Sub,,0,0,0,,{\fad(80,80)}his own.
+Dialogue: 0,0:03:06.49,0:03:08.40,Sub,,0,0,0,,{\fad(80,80)}A man hit in the leg could not.
+Dialogue: 0,0:03:08.42,0:03:11.69,Sub,,0,0,0,,{\fad(80,80)}He lay where he fell, and waited for someone to come.
+Dialogue: 2,0:03:00.59,0:03:06.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:03:00.59,0:03:06.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:00.59,0:03:06.34,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:03:00.59,0:03:06.34,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE POTOMAC CROSSING · AFTER ANTIETAM, 1862
+Dialogue: 0,0:03:24.33,0:03:27.45,Sub,,0,0,0,,{\fad(80,80)}A private in the 135th Pennsylvania, shot by
+Dialogue: 0,0:03:27.47,0:03:31.15,Sub,,0,0,0,,{\fad(80,80)}accident the day after the battle, wrote home from a
+Dialogue: 0,0:03:31.17,0:03:32.86,Sub,,0,0,0,,{\fad(80,80)}hospital near the field.
+Dialogue: 2,0:03:24.58,0:03:30.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:03:24.58,0:03:30.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:24.58,0:03:30.33,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:03:24.58,0:03:30.33,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE LUTHERAN CHURCH · SHARPSBURG, MD., 1862
+Dialogue: 0,0:03:38.30,0:03:41.04,Sub,,0,0,0,,{\fad(80,80)}He died less than three weeks after he was hit.
+Dialogue: 0,0:03:41.06,0:03:44.33,Sub,,0,0,0,,{\fad(80,80)}And for every wounded man, the next question was simple.
+Dialogue: 0,0:03:44.35,0:03:45.86,Sub,,0,0,0,,{\fad(80,80)}Would anyone come for you?
+Dialogue: 2,0:03:38.55,0:03:44.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:03:38.55,0:03:44.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:38.55,0:03:44.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:03:38.55,0:03:44.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE POTOMAC CROSSING · AFTER ANTIETAM, 1862
+Dialogue: 0,0:03:50.68,0:03:54.17,Sub,,0,0,0,,{\fad(80,80)}At the first battle of Bull Run, in July 1861, the
+Dialogue: 0,0:03:54.19,0:03:57.60,Sub,,0,0,0,,{\fad(80,80)}Army's ambulances were driven by hired civilians.
+Dialogue: 0,0:03:57.62,0:04:00.05,Sub,,0,0,0,,{\fad(80,80)}Many of them abandoned their posts.
+Dialogue: 2,0:03:50.93,0:03:56.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:03:50.93,0:03:56.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:50.93,0:03:56.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:03:50.93,0:03:56.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A HOUSE USED AS A HOSPITAL · FIRST BULL RUN, 1861
+Dialogue: 0,0:04:00.52,0:04:03.67,Sub,,0,0,0,,{\fad(80,80)}The Army's own history records wounded men left for
+Dialogue: 0,0:04:03.69,0:04:06.71,Sub,,0,0,0,,{\fad(80,80)}long periods unattended on the field, and walking
+Dialogue: 0,0:04:06.73,0:04:10.06,Sub,,0,0,0,,{\fad(80,80)}wounded who made their own way back toward Washington.
+Dialogue: 2,0:04:00.77,0:04:06.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:04:00.77,0:04:06.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:00.77,0:04:06.52,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:04:00.77,0:04:06.52,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STONE CHURCH USED AS A HOSPITAL · CENTREVILLE, VA.
+Dialogue: 0,0:04:22.54,0:04:25.23,Sub,,0,0,0,,{\fad(80,80)}Worse, officers used them as private carriages.
+Dialogue: 0,0:04:25.25,0:04:28.17,Sub,,0,0,0,,{\fad(80,80)}Letterman wrote that they were too often used as if
+Dialogue: 0,0:04:28.19,0:04:31.17,Sub,,0,0,0,,{\fad(80,80)}they had been made for the convenience of commanding
+Dialogue: 0,0:04:31.19,0:04:31.69,Sub,,0,0,0,,{\fad(80,80)}officers.
+Dialogue: 2,0:04:22.79,0:04:28.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1403 0 l 1403 132 l 0 132{\p0}
+Dialogue: 3,0:04:22.79,0:04:28.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:22.79,0:04:28.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:04:22.79,0:04:28.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TWO-WHEELED AND FOUR-WHEELED AMBULANCES · PLACE NOT IDENTIFIED
+Dialogue: 0,0:04:32.16,0:04:35.22,Sub,,0,0,0,,{\fad(80,80)}And many of the early ambulances had just two wheels.
+Dialogue: 2,0:04:32.41,0:04:35.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:04:32.41,0:04:35.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:32.41,0:04:35.64,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · MEDICAL AND SURGICAL HISTORY OF THE WAR (1883)
+Dialogue: 3,0:04:32.41,0:04:35.64,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A TWO-WHEELED AMBULANCE · FRONT AND REAR
+Dialogue: 0,0:04:51.75,0:04:55.07,Sub,,0,0,0,,{\fad(80,80)}In the spring of 1862, the Union army moved up the
+Dialogue: 0,0:04:55.09,0:04:57.41,Sub,,0,0,0,,{\fad(80,80)}Virginia Peninsula toward Richmond.
+Dialogue: 0,0:04:57.43,0:05:00.75,Sub,,0,0,0,,{\fad(80,80)}Its medical director, Charles Tripler, called many
+Dialogue: 0,0:05:00.77,0:05:03.22,Sub,,0,0,0,,{\fad(80,80)}of the two-wheelers good for nothing.
+Dialogue: 2,0:04:52.00,0:04:57.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:04:52.00,0:04:57.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:52.00,0:04:57.75,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:04:52.00,0:04:57.75,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}UNION CAMP AT CUMBERLAND LANDING · PENINSULA CAMPAIGN, 1862
+Dialogue: 0,0:05:12.37,0:05:15.00,Sub,,0,0,0,,{\fad(80,80)}Then came the end of August, and the second battle
+Dialogue: 0,0:05:15.02,0:05:15.63,Sub,,0,0,0,,{\fad(80,80)}at Bull Run.
+Dialogue: 2,0:05:12.62,0:05:16.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:05:12.62,0:05:16.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:12.62,0:05:16.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:05:12.62,0:05:16.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WAGON TEAMS IN BIVOUAC · VIRGINIA, 1862
+Dialogue: 0,0:05:23.70,0:05:27.25,Sub,,0,0,0,,{\fad(80,80)}In Washington, 250 ambulances were scraped together
+Dialogue: 0,0:05:27.27,0:05:28.79,Sub,,0,0,0,,{\fad(80,80)}in a single afternoon.
+Dialogue: 0,0:05:28.81,0:05:29.76,Sub,,0,0,0,,{\fad(80,80)}Most were new.
+Dialogue: 0,0:05:29.78,0:05:32.28,Sub,,0,0,0,,{\fad(80,80)}The horses had never been harnessed.
+Dialogue: 2,0:05:23.95,0:05:29.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:05:23.95,0:05:29.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:23.95,0:05:29.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:05:23.95,0:05:29.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE REPAIR SHOP · WASHINGTON, D.C.
+Dialogue: 0,0:05:32.75,0:05:34.69,Sub,,0,0,0,,{\fad(80,80)}The drivers were hired in a hurry.
+Dialogue: 0,0:05:34.71,0:05:37.33,Sub,,0,0,0,,{\fad(80,80)}A report later printed in the Official Records
+Dialogue: 0,0:05:37.35,0:05:38.94,Sub,,0,0,0,,{\fad(80,80)}conceded what happened next.
+Dialogue: 2,0:05:33.00,0:05:38.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:05:33.00,0:05:38.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:33.00,0:05:38.75,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:05:33.00,0:05:38.75,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCES AND SUPPLY WAGONS PARKED · 1864
+Dialogue: 0,0:05:55.39,0:05:56.06,Sub,,0,0,0,,{\fad(80,80)}Picture it.
+Dialogue: 0,0:05:56.08,0:05:58.72,Sub,,0,0,0,,{\fad(80,80)}A late-summer field in Virginia. No shade.
+Dialogue: 0,0:05:58.74,0:06:00.87,Sub,,0,0,0,,{\fad(80,80)}No water unless someone brings it.
+Dialogue: 0,0:06:00.89,0:06:02.20,Sub,,0,0,0,,{\fad(80,80)}And you cannot stand.
+Dialogue: 2,0:05:55.64,0:06:01.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:05:55.64,0:06:01.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:55.64,0:06:01.39,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:05:55.64,0:06:01.39,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FARMHOUSE HOSPITAL · FAIR OAKS, VA., 1862
+Dialogue: 0,0:06:12.52,0:06:15.54,Sub,,0,0,0,,{\fad(80,80)}A volunteer from Massachusetts went to that field
+Dialogue: 0,0:06:15.56,0:06:17.02,Sub,,0,0,0,,{\fad(80,80)}with wagons of supplies.
+Dialogue: 0,0:06:17.04,0:06:18.63,Sub,,0,0,0,,{\fad(80,80)}Her name was Clara Barton.
+Dialogue: 0,0:06:18.65,0:06:20.05,Sub,,0,0,0,,{\fad(80,80)}We will meet her again.
+Dialogue: 2,0:06:12.77,0:06:18.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:06:12.77,0:06:18.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:12.77,0:06:18.52,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:06:12.77,0:06:18.52,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CLARA BARTON · PHOTOGRAPHED BY MATHEW BRADY'S STUDIO
+Dialogue: 0,0:06:20.52,0:06:23.12,Sub,,0,0,0,,{\fad(80,80)}There was one bright spot in that disaster.
+Dialogue: 0,0:06:23.14,0:06:25.91,Sub,,0,0,0,,{\fad(80,80)}A few ambulances from the Army of the Potomac,
+Dialogue: 0,0:06:25.93,0:06:29.01,Sub,,0,0,0,,{\fad(80,80)}already run under a new set of rules, had been sent
+Dialogue: 0,0:06:29.03,0:06:30.59,Sub,,0,0,0,,{\fad(80,80)}to help at Pope's battles.
+Dialogue: 2,0:06:20.77,0:06:26.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:06:20.77,0:06:26.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:20.77,0:06:26.52,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:06:20.77,0:06:26.52,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCES PARKED · WASHINGTON, D.C., JULY 1863
+Dialogue: 0,0:06:39.55,0:06:41.07,Sub,,0,0,0,,{\fad(80,80)}Something had to change.
+Dialogue: 0,0:06:41.09,0:06:44.27,Sub,,0,0,0,,{\fad(80,80)}And one man in the Army of the Potomac had already
+Dialogue: 0,0:06:44.29,0:06:44.78,Sub,,0,0,0,,{\fad(80,80)}started.
+Dialogue: 2,0:06:39.80,0:06:45.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:06:39.80,0:06:45.20,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:39.80,0:06:45.20,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:06:39.80,0:06:45.20,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DR. JONATHAN LETTERMAN WITH HIS STAFF · NOV. 1862
+Dialogue: 0,0:07:02.42,0:07:05.30,Sub,,0,0,0,,{\fad(80,80)}He had been chosen by a reforming new Surgeon
+Dialogue: 0,0:07:05.32,0:07:08.52,Sub,,0,0,0,,{\fad(80,80)}General, William Hammond, who wanted a modern army
+Dialogue: 0,0:07:08.54,0:07:09.55,Sub,,0,0,0,,{\fad(80,80)}medical service.
+Dialogue: 2,0:07:02.67,0:07:08.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:07:02.67,0:07:08.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:02.67,0:07:08.42,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:07:02.67,0:07:08.42,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SURGEONS AND HOSPITAL STEWARDS IN WASHINGTON
+Dialogue: 0,0:07:10.02,0:07:13.00,Sub,,0,0,0,,{\fad(80,80)}Letterman found an army worn out by disease and by
+Dialogue: 0,0:07:13.02,0:07:14.37,Sub,,0,0,0,,{\fad(80,80)}the Peninsula fighting.
+Dialogue: 0,0:07:14.39,0:07:17.07,Sub,,0,0,0,,{\fad(80,80)}He began with the problem that had failed the
+Dialogue: 0,0:07:17.09,0:07:18.51,Sub,,0,0,0,,{\fad(80,80)}wounded again and again:
+Dialogue: 0,0:07:18.53,0:07:20.13,Sub,,0,0,0,,{\fad(80,80)}getting them off the field.
+Dialogue: 2,0:07:10.27,0:07:16.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:07:10.27,0:07:16.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:10.27,0:07:16.02,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:07:10.27,0:07:16.02,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}UNION CAMP · PENINSULA CAMPAIGN, 1862
+Dialogue: 0,0:07:49.68,0:07:52.83,Sub,,0,0,0,,{\fad(80,80)}The light two-horse wagons brought men in from the field.
+Dialogue: 0,0:07:52.85,0:07:55.55,Sub,,0,0,0,,{\fad(80,80)}The heavier four-horse wagons carried men who had
+Dialogue: 0,0:07:55.57,0:07:57.83,Sub,,0,0,0,,{\fad(80,80)}already been treated further to the rear.
+Dialogue: 0,0:07:57.85,0:07:59.44,Sub,,0,0,0,,{\fad(80,80)}Each job had its own vehicle.
+Dialogue: 2,0:07:49.93,0:07:55.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:07:49.93,0:07:55.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:49.93,0:07:55.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · MEDICAL AND SURGICAL HISTORY OF THE WAR (1883)
+Dialogue: 3,0:07:49.93,0:07:55.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A TWO-HORSE AMBULANCE (ROSECRANS / WHEELING PATTERN)
+Dialogue: 0,0:07:59.91,0:08:03.57,Sub,,0,0,0,,{\fad(80,80)}These were soldiers, permanently detailed from the ranks.
+Dialogue: 0,0:08:03.59,0:08:05.38,Sub,,0,0,0,,{\fad(80,80)}Not teamsters. Not bandsmen.
+Dialogue: 0,0:08:05.40,0:08:07.00,Sub,,0,0,0,,{\fad(80,80)}Not frightened civilians.
+Dialogue: 2,0:08:00.16,0:08:05.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:08:00.16,0:08:05.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:00.16,0:08:05.91,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:08:00.16,0:08:05.91,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE CORPS, 57TH NEW YORK · PLACE NOT IDENTIFIED
+Dialogue: 0,0:08:23.76,0:08:26.86,Sub,,0,0,0,,{\fad(80,80)}Before, healthy men had left the firing line to help
+Dialogue: 0,0:08:26.88,0:08:30.33,Sub,,0,0,0,,{\fad(80,80)}a wounded friend to the rear, and often did not come back.
+Dialogue: 0,0:08:30.35,0:08:33.38,Sub,,0,0,0,,{\fad(80,80)}Now the fighting men kept fighting, and trained men
+Dialogue: 0,0:08:33.40,0:08:34.39,Sub,,0,0,0,,{\fad(80,80)}did the carrying.
+Dialogue: 2,0:08:24.01,0:08:29.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:08:24.01,0:08:29.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:24.01,0:08:29.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:08:24.01,0:08:29.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STRETCHER DRILL · ARMY OF THE POTOMAC, 1862
+Dialogue: 0,0:08:34.86,0:08:36.43,Sub,,0,0,0,,{\fad(80,80)}They drilled like infantry.
+Dialogue: 0,0:08:36.45,0:08:38.84,Sub,,0,0,0,,{\fad(80,80)}Letterman's orders went down to the feet:
+Dialogue: 0,0:08:38.86,0:08:41.89,Sub,,0,0,0,,{\fad(80,80)}the front man steps off with the left foot, the rear
+Dialogue: 0,0:08:41.91,0:08:44.94,Sub,,0,0,0,,{\fad(80,80)}man with the right, so the stretcher would not sway.
+Dialogue: 2,0:08:35.11,0:08:40.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:08:35.11,0:08:40.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:35.11,0:08:40.86,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:08:35.11,0:08:40.86,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE DRILL IN THE FIELD · AFTER ANTIETAM, 1862
+Dialogue: 0,0:08:45.41,0:08:48.29,Sub,,0,0,0,,{\fad(80,80)}Water kegs were rinsed and filled every day, so an
+Dialogue: 0,0:08:48.31,0:08:50.33,Sub,,0,0,0,,{\fad(80,80)}ambulance could move at any moment.
+Dialogue: 2,0:08:45.66,0:08:50.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:08:45.66,0:08:50.75,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:45.66,0:08:50.75,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:08:45.66,0:08:50.75,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE CORPS DRILL · PLACE NOT IDENTIFIED
+Dialogue: 0,0:09:29.83,0:09:32.99,Sub,,0,0,0,,{\fad(80,80)}From October, medicines would be issued by brigade,
+Dialogue: 0,0:09:33.01,0:09:35.35,Sub,,0,0,0,,{\fad(80,80)}and handed to the regiments as needed.
+Dialogue: 0,0:09:35.37,0:09:38.21,Sub,,0,0,0,,{\fad(80,80)}A regiment's chest of medicine could no longer
+Dialogue: 0,0:09:38.23,0:09:39.83,Sub,,0,0,0,,{\fad(80,80)}simply vanish on the road.
+Dialogue: 2,0:09:30.08,0:09:35.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:09:30.08,0:09:35.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:30.08,0:09:35.83,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · MEDICAL AND SURGICAL HISTORY OF THE WAR (1883)
+Dialogue: 3,0:09:30.08,0:09:35.83,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A MEDICINE WAGON (PEROT PATTERN)
+Dialogue: 0,0:09:40.30,0:09:42.59,Sub,,0,0,0,,{\fad(80,80)}And the vehicles themselves improved.
+Dialogue: 0,0:09:42.61,0:09:45.52,Sub,,0,0,0,,{\fad(80,80)}The best of the later war was the Rucker wagon:
+Dialogue: 0,0:09:45.54,0:09:48.51,Sub,,0,0,0,,{\fad(80,80)}four wheels, springs, about 1,100 pounds, with a
+Dialogue: 0,0:09:48.53,0:09:51.56,Sub,,0,0,0,,{\fad(80,80)}water cask under the driver's seat and stretchers
+Dialogue: 0,0:09:51.58,0:09:53.00,Sub,,0,0,0,,{\fad(80,80)}that folded into seats.
+Dialogue: 2,0:09:40.55,0:09:46.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:09:40.55,0:09:46.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:40.55,0:09:46.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · MEDICAL AND SURGICAL HISTORY OF THE WAR (1883)
+Dialogue: 3,0:09:40.55,0:09:46.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE RUCKER AMBULANCE WAGON
+Dialogue: 0,0:09:53.47,0:09:55.76,Sub,,0,0,0,,{\fad(80,80)}The Army's own history called it the most
+Dialogue: 0,0:09:55.78,0:09:59.04,Sub,,0,0,0,,{\fad(80,80)}serviceable ambulance wagon of the latter part of the war.
+Dialogue: 2,0:09:53.72,0:09:59.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:09:53.72,0:09:59.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:53.72,0:09:59.46,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · MEDICAL AND SURGICAL HISTORY OF THE WAR (1883)
+Dialogue: 3,0:09:53.72,0:09:59.46,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE RUCKER AMBULANCE WAGON
+Dialogue: 0,0:09:59.51,0:10:02.33,Sub,,0,0,0,,{\fad(80,80)}So for now, it would exist only in the Army of the
+Dialogue: 0,0:10:02.35,0:10:02.79,Sub,,0,0,0,,{\fad(80,80)}Potomac.
+Dialogue: 0,0:10:02.81,0:10:05.46,Sub,,0,0,0,,{\fad(80,80)}And it was barely five weeks old when Robert E.
+Dialogue: 0,0:10:05.48,0:10:07.33,Sub,,0,0,0,,{\fad(80,80)}Lee's army crossed into Maryland.
+Dialogue: 2,0:09:59.76,0:10:05.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:09:59.76,0:10:05.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:59.76,0:10:05.51,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:09:59.76,0:10:05.51,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PONTOON BRIDGE AT BERLIN, MD. · OCT. 1862
+Dialogue: 0,0:10:10.27,0:10:12.68,Sub,,0,0,0,,{\fad(80,80)}The line of battle ran six to seven miles.
+Dialogue: 0,0:10:12.70,0:10:15.51,Sub,,0,0,0,,{\fad(80,80)}Letterman wrote that the hospitals were therefore
+Dialogue: 0,0:10:15.53,0:10:16.32,Sub,,0,0,0,,{\fad(80,80)}very numerous.
+Dialogue: 2,0:10:10.52,0:10:16.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:10:10.52,0:10:16.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:10.52,0:10:16.27,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:10:10.52,0:10:16.27,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}UNION ARTILLERY · ANTIETAM, 1862
+Dialogue: 0,0:10:16.79,0:10:18.91,Sub,,0,0,0,,{\fad(80,80)}Letterman was on the field that day.
+Dialogue: 0,0:10:18.93,0:10:21.76,Sub,,0,0,0,,{\fad(80,80)}No one engaged on that hotly contested field, he
+Dialogue: 0,0:10:21.78,0:10:24.61,Sub,,0,0,0,,{\fad(80,80)}wrote, can ever forget the intense interest with
+Dialogue: 0,0:10:24.63,0:10:27.29,Sub,,0,0,0,,{\fad(80,80)}which he watched the progress of that battle.
+Dialogue: 2,0:10:17.04,0:10:22.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:10:17.04,0:10:22.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:17.04,0:10:22.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:10:17.04,0:10:22.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A FIELD CAMP AFTER ANTIETAM, OCT. 1862
+Dialogue: 0,0:10:42.80,0:10:45.70,Sub,,0,0,0,,{\fad(80,80)}Every one of those men who was still alive needed to
+Dialogue: 0,0:10:45.72,0:10:47.83,Sub,,0,0,0,,{\fad(80,80)}be found, carried, sorted and treated.
+Dialogue: 0,0:10:47.85,0:10:50.24,Sub,,0,0,0,,{\fad(80,80)}By an ambulance corps barely six weeks old.
+Dialogue: 2,0:10:43.05,0:10:48.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:10:43.05,0:10:48.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:43.05,0:10:48.80,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:10:43.05,0:10:48.80,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCE DRILL · THE NEW CORPS SOON AFTER ANTIETAM
+Dialogue: 0,0:11:02.31,0:11:03.92,Sub,,0,0,0,,{\fad(80,80)}He chose barns over houses.
+Dialogue: 0,0:11:03.94,0:11:06.87,Sub,,0,0,0,,{\fad(80,80)}Barns well provided with hay and straw, he wrote,
+Dialogue: 0,0:11:06.89,0:11:08.25,Sub,,0,0,0,,{\fad(80,80)}were better ventilated.
+Dialogue: 0,0:11:08.27,0:11:11.32,Sub,,0,0,0,,{\fad(80,80)}Where he could, he laid the wounded in the open air
+Dialogue: 0,0:11:11.34,0:11:12.04,Sub,,0,0,0,,{\fad(80,80)}beside them.
+Dialogue: 2,0:11:02.56,0:11:08.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1360 0 l 1360 132 l 0 132{\p0}
+Dialogue: 3,0:11:02.56,0:11:08.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:02.56,0:11:08.31,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:11:02.56,0:11:08.31,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL AT SMITH'S FARM, KEEDYSVILLE · AFTER ANTIETAM
+Dialogue: 0,0:11:12.51,0:11:15.60,Sub,,0,0,0,,{\fad(80,80)}Even so, he admitted, the hospitals were not always
+Dialogue: 0,0:11:15.62,0:11:17.85,Sub,,0,0,0,,{\fad(80,80)}beyond the reach of the enemy's guns.
+Dialogue: 2,0:11:12.76,0:11:18.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:11:12.76,0:11:18.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:12.76,0:11:18.27,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:11:12.76,0:11:18.27,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FARMHOUSE ON THE ANTIETAM FIELD, 1862
+Dialogue: 0,0:11:29.42,0:11:32.09,Sub,,0,0,0,,{\fad(80,80)}General Joseph Hooker, wounded in the foot, was
+Dialogue: 0,0:11:32.11,0:11:33.51,Sub,,0,0,0,,{\fad(80,80)}treated at the Pry house.
+Dialogue: 0,0:11:33.53,0:11:36.54,Sub,,0,0,0,,{\fad(80,80)}The Park Service notes the wound had filled his boot.
+Dialogue: 2,0:11:29.67,0:11:35.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:11:29.67,0:11:35.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:29.67,0:11:35.42,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:11:29.67,0:11:35.42,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE SHERRICK FARM · ANTIETAM, 1862
+Dialogue: 0,0:11:37.01,0:11:40.00,Sub,,0,0,0,,{\fad(80,80)}At the Roulette farm, which lay in the path of the
+Dialogue: 0,0:11:40.02,0:11:43.07,Sub,,0,0,0,,{\fad(80,80)}Union advance on the Sunken Road, the barn became a
+Dialogue: 0,0:11:43.09,0:11:44.94,Sub,,0,0,0,,{\fad(80,80)}field hospital for the wounded.
+Dialogue: 2,0:11:37.26,0:11:43.01,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:11:37.26,0:11:43.01,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:37.26,0:11:43.01,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:11:37.26,0:11:43.01,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE MUMMA FARM, NEIGHBOR OF THE ROULETTE FARM · ANTIETAM
+Dialogue: 0,0:11:45.41,0:11:48.45,Sub,,0,0,0,,{\fad(80,80)}Into one of those field hospitals came Clara Barton,
+Dialogue: 0,0:11:48.47,0:11:51.34,Sub,,0,0,0,,{\fad(80,80)}with a wagon of supplies she had brought herself.
+Dialogue: 2,0:11:45.66,0:11:51.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:11:45.66,0:11:51.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:45.66,0:11:51.41,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:11:45.66,0:11:51.41,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CLARA BARTON
+Dialogue: 0,0:12:22.81,0:12:24.50,Sub,,0,0,0,,{\fad(80,80)}And he wrote what he saw.
+Dialogue: 0,0:12:24.52,0:12:27.93,Sub,,0,0,0,,{\fad(80,80)}The poor wounded, mutilated soldiers that yet have
+Dialogue: 0,0:12:27.95,0:12:31.16,Sub,,0,0,0,,{\fad(80,80)}life and sensation, make a most horrid picture.
+Dialogue: 2,0:12:23.06,0:12:28.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:12:23.06,0:12:28.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:23.06,0:12:28.81,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:12:23.06,0:12:28.81,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SHARPSBURG, MD. · 1862
+Dialogue: 0,0:12:31.63,0:12:34.84,Sub,,0,0,0,,{\fad(80,80)}A New York soldier remembered comrades with wounds
+Dialogue: 0,0:12:34.86,0:12:37.95,Sub,,0,0,0,,{\fad(80,80)}of all conceivable shapes, brought in and placed
+Dialogue: 0,0:12:37.97,0:12:38.79,Sub,,0,0,0,,{\fad(80,80)}side by side.
+Dialogue: 2,0:12:31.88,0:12:37.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:12:31.88,0:12:37.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:31.88,0:12:37.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:12:31.88,0:12:37.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A ROAD IN SHARPSBURG, MD. · 1862
+Dialogue: 0,0:13:00.58,0:13:03.07,Sub,,0,0,0,,{\fad(80,80)}But compared with Second Bull Run, three weeks
+Dialogue: 0,0:13:03.09,0:13:04.81,Sub,,0,0,0,,{\fad(80,80)}earlier, it was a different war.
+Dialogue: 2,0:13:00.83,0:13:05.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:13:00.83,0:13:05.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:00.83,0:13:05.23,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:13:00.83,0:13:05.23,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BURNSIDE'S BRIDGE · ANTIETAM, 1862
+Dialogue: 0,0:13:17.11,0:13:20.68,Sub,,0,0,0,,{\fad(80,80)}At a farm hospital, one blinded Confederate soldier
+Dialogue: 0,0:13:20.70,0:13:21.87,Sub,,0,0,0,,{\fad(80,80)}was heard to say:
+Dialogue: 0,0:13:21.89,0:13:25.39,Sub,,0,0,0,,{\fad(80,80)}some darned Yank has shot away my eyes, but I feel
+Dialogue: 0,0:13:25.41,0:13:27.36,Sub,,0,0,0,,{\fad(80,80)}as strong otherwise as ever.
+Dialogue: 2,0:13:17.36,0:13:23.11,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:13:17.36,0:13:23.11,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:17.36,0:13:23.11,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:13:17.36,0:13:23.11,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FARMHOUSE ON THE ANTIETAM FIELD, 1862
+Dialogue: 0,0:14:11.62,0:14:14.76,Sub,,0,0,0,,{\fad(80,80)}Families arrived to take their badly wounded sons home.
+Dialogue: 0,0:14:14.78,0:14:17.52,Sub,,0,0,0,,{\fad(80,80)}Letterman thought the journey often killed them.
+Dialogue: 0,0:14:17.54,0:14:20.16,Sub,,0,0,0,,{\fad(80,80)}It was impossible, he wrote, to convince them.
+Dialogue: 2,0:14:11.87,0:14:17.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:14:11.87,0:14:17.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:11.87,0:14:17.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:14:11.87,0:14:17.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A FIELD CAMP AFTER ANTIETAM, OCT. 1862
+Dialogue: 0,0:14:47.05,0:14:50.15,Sub,,0,0,0,,{\fad(80,80)}In doubtful cases, the three would consult together,
+Dialogue: 0,0:14:50.17,0:14:53.46,Sub,,0,0,0,,{\fad(80,80)}and a majority would decide whether to operate and how.
+Dialogue: 2,0:14:47.30,0:14:53.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:14:47.30,0:14:53.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:47.30,0:14:53.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:14:47.30,0:14:53.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SURGEONS OF THE NINTH CORPS · 1864
+Dialogue: 0,0:14:53.93,0:14:56.20,Sub,,0,0,0,,{\fad(80,80)}One assistant was to give the anaesthetic.
+Dialogue: 0,0:14:56.22,0:14:59.37,Sub,,0,0,0,,{\fad(80,80)}Others would dress wounds, keep records, and feed the men.
+Dialogue: 2,0:14:54.18,0:14:59.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:14:54.18,0:14:59.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:54.18,0:14:59.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:14:54.18,0:14:59.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A SURGEON AND OFFICER AT A TENT · ARMY OF THE POTOMAC, 1863
+Dialogue: 0,0:15:09.14,0:15:10.88,Sub,,0,0,0,,{\fad(80,80)}Now the chain was complete.
+Dialogue: 0,0:15:10.90,0:15:14.19,Sub,,0,0,0,,{\fad(80,80)}Just behind each regiment, a medical officer set up
+Dialogue: 0,0:15:14.21,0:15:16.01,Sub,,0,0,0,,{\fad(80,80)}a small depot for first aid.
+Dialogue: 2,0:15:09.39,0:15:15.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1531 0 l 1531 132 l 0 132{\p0}
+Dialogue: 3,0:15:09.39,0:15:15.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:09.39,0:15:15.14,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:15:09.39,0:15:15.14,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A CONFEDERATE FIRING-LINE HOSPITAL CAMP, CAPTURED · PETERSBURG, 1864
+Dialogue: 0,0:15:41.36,0:15:43.37,Sub,,0,0,0,,{\fad(80,80)}Letterman never used the word triage.
+Dialogue: 0,0:15:43.39,0:15:45.23,Sub,,0,0,0,,{\fad(80,80)}But historians see its roots here.
+Dialogue: 2,0:15:41.61,0:15:45.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:15:41.61,0:15:45.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:41.61,0:15:45.65,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:15:41.61,0:15:45.65,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL TENTS · BRANDY STATION, VA.
+Dialogue: 0,0:15:45.70,0:15:49.06,Sub,,0,0,0,,{\fad(80,80)}The first great test of the full system came at
+Dialogue: 0,0:15:49.08,0:15:51.43,Sub,,0,0,0,,{\fad(80,80)}Fredericksburg, in December 1862.
+Dialogue: 2,0:15:45.95,0:15:51.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1553 0 l 1553 132 l 0 132{\p0}
+Dialogue: 3,0:15:45.95,0:15:51.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:45.95,0:15:51.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:15:45.95,0:15:51.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AMBULANCES AT MARYE'S HEIGHTS, FREDERICKSBURG (DATE AS PRINTED: 1864)
+Dialogue: 0,0:16:22.62,0:16:25.80,Sub,,0,0,0,,{\fad(80,80)}So here is where you are now, if you were hit in
+Dialogue: 0,0:16:25.82,0:16:26.60,Sub,,0,0,0,,{\fad(80,80)}that winter.
+Dialogue: 0,0:16:26.62,0:16:28.60,Sub,,0,0,0,,{\fad(80,80)}Carried by men in green bands.
+Dialogue: 0,0:16:28.62,0:16:31.33,Sub,,0,0,0,,{\fad(80,80)}Sorted by a surgeon chosen for his skill.
+Dialogue: 0,0:16:31.35,0:16:34.79,Sub,,0,0,0,,{\fad(80,80)}Laid on a table in a division hospital, often within
+Dialogue: 0,0:16:34.81,0:16:35.19,Sub,,0,0,0,,{\fad(80,80)}hours.
+Dialogue: 2,0:16:22.87,0:16:28.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:16:22.87,0:16:28.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:22.87,0:16:28.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1865
+Dialogue: 3,0:16:22.87,0:16:28.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSIDE A HOSPITAL TENT · PETERSBURG, 1864–65
+Dialogue: 0,0:16:35.66,0:16:38.35,Sub,,0,0,0,,{\fad(80,80)}In Washington, a few days later, a new volunteer
+Dialogue: 0,0:16:38.37,0:16:40.78,Sub,,0,0,0,,{\fad(80,80)}nurse heard the shout through her hospital.
+Dialogue: 0,0:16:40.80,0:16:42.31,Sub,,0,0,0,,{\fad(80,80)}They've come, they've come.
+Dialogue: 0,0:16:42.33,0:16:44.11,Sub,,0,0,0,,{\fad(80,80)}Hurry up, ladies, you're wanted.
+Dialogue: 2,0:16:35.91,0:16:41.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:16:35.91,0:16:41.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:35.91,0:16:41.66,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:16:35.91,0:16:41.66,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LOUISA MAY ALCOTT
+Dialogue: 0,0:16:44.58,0:16:46.37,Sub,,0,0,0,,{\fad(80,80)}Her name was Louisa May Alcott.
+Dialogue: 0,0:16:46.39,0:16:48.65,Sub,,0,0,0,,{\fad(80,80)}The Fredericksburg wounded had arrived.
+Dialogue: 0,0:16:48.67,0:16:51.22,Sub,,0,0,0,,{\fad(80,80)}And for many of them, what came next was the
+Dialogue: 0,0:16:51.24,0:16:52.15,Sub,,0,0,0,,{\fad(80,80)}operating table.
+Dialogue: 2,0:16:44.83,0:16:50.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:16:44.83,0:16:50.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:44.83,0:16:50.58,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:16:44.83,0:16:50.58,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LOUISA MAY ALCOTT · AS A NURSE, 1862
+Dialogue: 0,0:17:05.69,0:17:07.42,Sub,,0,0,0,,{\fad(80,80)}So now you are on the table.
+Dialogue: 0,0:17:07.44,0:17:10.54,Sub,,0,0,0,,{\fad(80,80)}Picture a door laid across two barrels, or a plank
+Dialogue: 0,0:17:10.56,0:17:13.09,Sub,,0,0,0,,{\fad(80,80)}in a barn, under whatever light there is.
+Dialogue: 0,0:17:13.11,0:17:15.96,Sub,,0,0,0,,{\fad(80,80)}A surgeon in a stained coat looks down at you.
+Dialogue: 0,0:17:15.98,0:17:17.08,Sub,,0,0,0,,{\fad(80,80)}What happens next?
+Dialogue: 2,0:17:05.94,0:17:11.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:17:05.94,0:17:11.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:17:05.94,0:17:11.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:17:05.94,0:17:11.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A HOUSE USED AS A HOSPITAL · NEW BERNE, N.C.
+Dialogue: 0,0:17:17.55,0:17:20.51,Sub,,0,0,0,,{\fad(80,80)}You have probably heard that Civil War soldiers bit
+Dialogue: 0,0:17:20.53,0:17:23.36,Sub,,0,0,0,,{\fad(80,80)}on a bullet while the surgeon worked, wide awake.
+Dialogue: 0,0:17:23.38,0:17:26.05,Sub,,0,0,0,,{\fad(80,80)}For the Union army, the records say otherwise.
+Dialogue: 2,0:17:17.80,0:17:23.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:17:17.80,0:17:23.55,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:17:17.80,0:17:23.55,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:17:17.80,0:17:23.55,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MEDICAL DIRECTORS, ARMY OF THE CUMBERLAND · JUNE 1863
+Dialogue: 0,0:18:33.94,0:18:36.88,Sub,,0,0,0,,{\fad(80,80)}Field surgeons used chloroform almost uniformly.
+Dialogue: 0,0:18:36.90,0:18:40.02,Sub,,0,0,0,,{\fad(80,80)}In the big city hospitals, where there was time and
+Dialogue: 0,0:18:40.04,0:18:41.81,Sub,,0,0,0,,{\fad(80,80)}space, ether was more common.
+Dialogue: 2,0:18:34.19,0:18:39.94,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:18:34.19,0:18:39.94,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:18:34.19,0:18:39.94,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:18:34.19,0:18:39.94,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WARD K · ARMORY SQUARE HOSPITAL, WASHINGTON
+Dialogue: 0,0:18:42.28,0:18:44.32,Sub,,0,0,0,,{\fad(80,80)}Some men fought it as it took hold.
+Dialogue: 0,0:18:44.34,0:18:46.98,Sub,,0,0,0,,{\fad(80,80)}Others feared it would not reach them at all.
+Dialogue: 0,0:18:47.00,0:18:49.64,Sub,,0,0,0,,{\fad(80,80)}One soldier, the National Museum of Civil War
+Dialogue: 0,0:18:49.66,0:18:52.53,Sub,,0,0,0,,{\fad(80,80)}Medicine records, was afraid the chloroform would
+Dialogue: 0,0:18:52.55,0:18:54.78,Sub,,0,0,0,,{\fad(80,80)}give out before it got to be his turn.
+Dialogue: 2,0:18:42.53,0:18:48.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:18:42.53,0:18:48.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:18:42.53,0:18:48.28,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1865
+Dialogue: 3,0:18:42.53,0:18:48.28,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL TENTS AND WAGON · PETERSBURG, 1864–65
+Dialogue: 0,0:19:41.59,0:19:44.23,Sub,,0,0,0,,{\fad(80,80)}So when the surgeon reached for the saw, you were
+Dialogue: 0,0:19:44.25,0:19:45.26,Sub,,0,0,0,,{\fad(80,80)}very likely asleep.
+Dialogue: 0,0:19:45.28,0:19:47.98,Sub,,0,0,0,,{\fad(80,80)}What happened next was the second thing the movies
+Dialogue: 0,0:19:48.00,0:19:48.52,Sub,,0,0,0,,{\fad(80,80)}get wrong.
+Dialogue: 2,0:19:41.84,0:19:47.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1360 0 l 1360 132 l 0 132{\p0}
+Dialogue: 3,0:19:41.84,0:19:47.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:41.84,0:19:47.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:19:41.84,0:19:47.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SURGEONS, SECOND DIVISION, NINTH CORPS · PETERSBURG CAMPAIGN
+Dialogue: 0,0:20:03.16,0:20:05.88,Sub,,0,0,0,,{\fad(80,80)}It is easy to call the surgeons butchers.
+Dialogue: 0,0:20:05.90,0:20:07.42,Sub,,0,0,0,,{\fad(80,80)}Most historians do not.
+Dialogue: 0,0:20:07.44,0:20:08.82,Sub,,0,0,0,,{\fad(80,80)}Here is why they cut.
+Dialogue: 2,0:20:03.41,0:20:09.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:20:03.41,0:20:09.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:20:03.41,0:20:09.16,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:20:03.41,0:20:09.16,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MEDICAL DIRECTORS, ARMY OF THE CUMBERLAND · JUNE 1863
+Dialogue: 0,0:20:39.40,0:20:41.86,Sub,,0,0,0,,{\fad(80,80)}Surgical manuals taught that it should be done
+Dialogue: 0,0:20:41.88,0:20:43.26,Sub,,0,0,0,,{\fad(80,80)}within the first two days.
+Dialogue: 0,0:20:43.28,0:20:44.88,Sub,,0,0,0,,{\fad(80,80)}The records proved them right.
+Dialogue: 2,0:20:39.65,0:20:45.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:20:39.65,0:20:45.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:20:39.65,0:20:45.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:20:39.65,0:20:45.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SURGEONS OF THE NINTH CORPS · PETERSBURG, 1864
+Dialogue: 0,0:21:25.49,0:21:28.34,Sub,,0,0,0,,{\fad(80,80)}And the closer the cut was to the body, the deadlier
+Dialogue: 0,0:21:28.36,0:21:28.73,Sub,,0,0,0,,{\fad(80,80)}it was.
+Dialogue: 2,0:21:25.74,0:21:29.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:21:25.74,0:21:29.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:21:25.74,0:21:29.15,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:21:25.74,0:21:29.15,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SURGEONS AND HOSPITAL STEWARDS IN WASHINGTON
+Dialogue: 0,0:22:04.63,0:22:07.67,Sub,,0,0,0,,{\fad(80,80)}Every day there is a fight, he wrote, and every day
+Dialogue: 0,0:22:07.69,0:22:09.41,Sub,,0,0,0,,{\fad(80,80)}the hospital is again filled.
+Dialogue: 2,0:22:04.88,0:22:09.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:22:04.88,0:22:09.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:04.88,0:22:09.83,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1865
+Dialogue: 3,0:22:04.88,0:22:09.83,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL OF THE NINTH CORPS · PETERSBURG
+Dialogue: 0,0:22:22.74,0:22:25.93,Sub,,0,0,0,,{\fad(80,80)}You have survived the bullet, the field, the cone
+Dialogue: 0,0:22:25.95,0:22:26.72,Sub,,0,0,0,,{\fad(80,80)}and the saw.
+Dialogue: 0,0:22:26.74,0:22:30.00,Sub,,0,0,0,,{\fad(80,80)}Now comes the enemy that nobody in 1862 could see.
+Dialogue: 2,0:22:22.99,0:22:28.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:22:22.99,0:22:28.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:22.99,0:22:28.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:22:22.99,0:22:28.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL · BRANDY STATION, VA.
+Dialogue: 0,0:22:42.36,0:22:45.45,Sub,,0,0,0,,{\fad(80,80)}They operated, he said, in old blood-stained coats,
+Dialogue: 0,0:22:45.47,0:22:47.46,Sub,,0,0,0,,{\fad(80,80)}the veterans of a hundred fights.
+Dialogue: 2,0:22:42.61,0:22:47.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:22:42.61,0:22:47.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:42.61,0:22:47.88,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:22:42.61,0:22:47.88,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A SURGEON AT HIS TENT · ARMY OF THE POTOMAC, 1863
+Dialogue: 0,0:23:24.11,0:23:26.97,Sub,,0,0,0,,{\fad(80,80)}In established cases, the Army admitted, all
+Dialogue: 0,0:23:26.99,0:23:29.07,Sub,,0,0,0,,{\fad(80,80)}remedies were found ineffective.
+Dialogue: 2,0:23:24.36,0:23:29.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:23:24.36,0:23:29.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:23:24.36,0:23:29.49,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:23:24.36,0:23:29.49,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AN EMPTY HOSPITAL WARD · WASHINGTON, D.C.
+Dialogue: 0,0:24:00.65,0:24:03.65,Sub,,0,0,0,,{\fad(80,80)}And yet, some surgeons were learning by watching.
+Dialogue: 0,0:24:03.67,0:24:06.54,Sub,,0,0,0,,{\fad(80,80)}A Union surgeon named Middleton Goldsmith began
+Dialogue: 0,0:24:06.56,0:24:09.50,Sub,,0,0,0,,{\fad(80,80)}treating hospital gangrene with bromine, applied
+Dialogue: 0,0:24:09.52,0:24:10.80,Sub,,0,0,0,,{\fad(80,80)}directly to the sore.
+Dialogue: 2,0:24:00.90,0:24:06.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:24:00.90,0:24:06.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:00.90,0:24:06.65,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:24:00.90,0:24:06.65,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS' HOSPITAL · NASHVILLE
+Dialogue: 0,0:24:44.45,0:24:47.33,Sub,,0,0,0,,{\fad(80,80)}For the Civil War soldier, it came too late.
+Dialogue: 0,0:24:47.35,0:24:50.43,Sub,,0,0,0,,{\fad(80,80)}And in the summer of 1863, the war produced its
+Dialogue: 0,0:24:50.45,0:24:52.34,Sub,,0,0,0,,{\fad(80,80)}largest crowd of wounded yet.
+Dialogue: 2,0:24:44.70,0:24:50.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:24:44.70,0:24:50.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:44.70,0:24:50.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:24:44.70,0:24:50.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE TOWN OF GETTYSBURG · 1863
+Dialogue: 0,0:24:55.28,0:24:59.37,Sub,,0,0,0,,{\fad(80,80)}Three days of fighting in southern Pennsylvania,
+Dialogue: 0,0:24:59.39,0:25:00.66,Sub,,0,0,0,,{\fad(80,80)}July 1–3, 1863.
+Dialogue: 2,0:24:55.53,0:25:01.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:24:55.53,0:25:01.08,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:55.53,0:25:01.08,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY NATIONAL GUARD VIDEO · DVIDS · 2020
+Dialogue: 3,0:24:55.53,0:25:01.08,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GETTYSBURG BATTLEFIELD TODAY
+Dialogue: 0,0:25:26.79,0:25:29.72,Sub,,0,0,0,,{\fad(80,80)}I know of no battlefield, Letterman reported, from
+Dialogue: 0,0:25:29.74,0:25:32.44,Sub,,0,0,0,,{\fad(80,80)}which wounded men have been so speedily and so
+Dialogue: 0,0:25:32.46,0:25:33.50,Sub,,0,0,0,,{\fad(80,80)}carefully removed.
+Dialogue: 2,0:25:27.04,0:25:32.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:25:27.04,0:25:32.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:25:27.04,0:25:32.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:25:27.04,0:25:32.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AN AMBULANCE TRAIN · WILDERNESS CAMPAIGN, 1864
+Dialogue: 0,0:26:01.47,0:26:04.30,Sub,,0,0,0,,{\fad(80,80)}Later, he wrote, I was taken off the table and put
+Dialogue: 0,0:26:04.32,0:26:07.50,Sub,,0,0,0,,{\fad(80,80)}back on my stretcher, which was set down in a wall tent.
+Dialogue: 2,0:26:01.72,0:26:07.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:26:01.72,0:26:07.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:01.72,0:26:07.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:26:01.72,0:26:07.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SECOND CORPS HOSPITAL · GETTYSBURG, JULY 1863
+Dialogue: 0,0:26:07.97,0:26:10.99,Sub,,0,0,0,,{\fad(80,80)}Fuller had lain in the open before the bearers
+Dialogue: 0,0:26:11.01,0:26:11.78,Sub,,0,0,0,,{\fad(80,80)}reached him.
+Dialogue: 0,0:26:11.80,0:26:14.49,Sub,,0,0,0,,{\fad(80,80)}His memoir names that time in four words:
+Dialogue: 0,0:26:14.51,0:26:16.87,Sub,,0,0,0,,{\fad(80,80)}while lying here, entirely helpless.
+Dialogue: 2,0:26:08.22,0:26:13.97,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:26:08.22,0:26:13.97,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:08.22,0:26:13.97,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:26:08.22,0:26:13.97,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OPEN GROUND · GETTYSBURG, 1863
+Dialogue: 0,0:26:36.26,0:26:37.71,Sub,,0,0,0,,{\fad(80,80)}But there was a problem.
+Dialogue: 0,0:26:37.73,0:26:40.91,Sub,,0,0,0,,{\fad(80,80)}By army order, the medical wagons and tents had been
+Dialogue: 0,0:26:40.93,0:26:43.05,Sub,,0,0,0,,{\fad(80,80)}sent to the rear before the battle.
+Dialogue: 0,0:26:43.07,0:26:46.06,Sub,,0,0,0,,{\fad(80,80)}They could not reach the field in time to protect
+Dialogue: 0,0:26:46.08,0:26:49.44,Sub,,0,0,0,,{\fad(80,80)}the wounded from the drenching rain that fell after it.
+Dialogue: 2,0:26:36.51,0:26:42.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:26:36.51,0:26:42.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:36.51,0:26:42.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:26:36.51,0:26:42.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL TENTS · GETTYSBURG, 1863
+Dialogue: 0,0:27:04.67,0:27:07.44,Sub,,0,0,0,,{\fad(80,80)}In one corps that kept its wagons, the medical
+Dialogue: 0,0:27:07.46,0:27:10.54,Sub,,0,0,0,,{\fad(80,80)}director reported every man's wounds dressed within
+Dialogue: 0,0:27:10.56,0:27:13.52,Sub,,0,0,0,,{\fad(80,80)}six hours after the battle ended, and every major
+Dialogue: 0,0:27:13.54,0:27:16.74,Sub,,0,0,0,,{\fad(80,80)}operation done within twenty-four hours of the wound.
+Dialogue: 2,0:27:04.92,0:27:10.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:27:04.92,0:27:10.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:27:04.92,0:27:10.67,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:27:04.92,0:27:10.67,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS AND TENTS · GETTYSBURG CAMPAIGN, 1863
+Dialogue: 0,0:27:33.96,0:27:37.39,Sub,,0,0,0,,{\fad(80,80)}A wounded Confederate officer, held as a prisoner,
+Dialogue: 0,0:27:37.41,0:27:38.69,Sub,,0,0,0,,{\fad(80,80)}wrote in his diary:
+Dialogue: 0,0:27:38.71,0:27:42.28,Sub,,0,0,0,,{\fad(80,80)}all night long these ambulances move among us, still
+Dialogue: 0,0:27:42.30,0:27:43.86,Sub,,0,0,0,,{\fad(80,80)}bringing more and more.
+Dialogue: 2,0:27:34.21,0:27:39.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:27:34.21,0:27:39.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:27:34.21,0:27:39.96,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:27:34.21,0:27:39.96,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE FIELD WHERE PICKETT CHARGED · GETTYSBURG
+Dialogue: 0,0:27:50.65,0:27:53.84,Sub,,0,0,0,,{\fad(80,80)}Then the army marched on, and left the town with its
+Dialogue: 0,0:27:53.86,0:27:54.34,Sub,,0,0,0,,{\fad(80,80)}wounded.
+Dialogue: 0,0:27:54.36,0:27:57.36,Sub,,0,0,0,,{\fad(80,80)}On a farm about a mile east of Gettysburg, a tent
+Dialogue: 0,0:27:57.38,0:27:57.98,Sub,,0,0,0,,{\fad(80,80)}city rose:
+Dialogue: 0,0:27:58.00,0:27:58.91,Sub,,0,0,0,,{\fad(80,80)}Camp Letterman.
+Dialogue: 2,0:27:50.90,0:27:56.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:27:50.90,0:27:56.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:27:50.90,0:27:56.65,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1864
+Dialogue: 3,0:27:50.90,0:27:56.65,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. SANITARY COMMISSION CAMP · GETTYSBURG, 1863
+Dialogue: 0,0:28:09.78,0:28:11.83,Sub,,0,0,0,,{\fad(80,80)}Construction had begun on July 10.
+Dialogue: 0,0:28:11.85,0:28:14.68,Sub,,0,0,0,,{\fad(80,80)}The Sanitary and Christian Commissions both ran
+Dialogue: 0,0:28:14.70,0:28:15.77,Sub,,0,0,0,,{\fad(80,80)}posts at the camp.
+Dialogue: 2,0:28:10.03,0:28:15.78,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:28:10.03,0:28:15.78,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:10.03,0:28:15.78,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1864
+Dialogue: 3,0:28:10.03,0:28:15.78,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. SANITARY COMMISSION CAMP · GETTYSBURG, 1863
+Dialogue: 0,0:28:16.24,0:28:19.67,Sub,,0,0,0,,{\fad(80,80)}Roughly 4,000 of the most serious cases passed through it.
+Dialogue: 0,0:28:19.69,0:28:22.52,Sub,,0,0,0,,{\fad(80,80)}On one August day, nearly half its patients were
+Dialogue: 0,0:28:22.54,0:28:23.30,Sub,,0,0,0,,{\fad(80,80)}Confederates.
+Dialogue: 2,0:28:16.49,0:28:22.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:28:16.49,0:28:22.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:16.49,0:28:22.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1864
+Dialogue: 3,0:28:16.49,0:28:22.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COOK HOUSE, GENERAL HOSPITAL · GETTYSBURG
+Dialogue: 0,0:28:29.27,0:28:32.12,Sub,,0,0,0,,{\fad(80,80)}When the tents finally came down in November, a
+Dialogue: 0,0:28:32.14,0:28:35.11,Sub,,0,0,0,,{\fad(80,80)}nurse named Sophronia Bucklin looked at the bare,
+Dialogue: 0,0:28:35.13,0:28:38.28,Sub,,0,0,0,,{\fad(80,80)}trampled ground where the wards had stood, and wrote
+Dialogue: 0,0:28:38.30,0:28:41.14,Sub,,0,0,0,,{\fad(80,80)}that each space marked where the dead had lain.
+Dialogue: 2,0:28:29.52,0:28:35.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 824 0 l 824 132 l 0 132{\p0}
+Dialogue: 3,0:28:29.52,0:28:35.27,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:29.52,0:28:35.27,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1864
+Dialogue: 3,0:28:29.52,0:28:35.27,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GENERAL HOSPITAL · GETTYSBURG, 1863
+Dialogue: 0,0:28:41.61,0:28:45.10,Sub,,0,0,0,,{\fad(80,80)}Camp Letterman closed on November 20, 1863.
+Dialogue: 0,0:28:45.12,0:28:48.76,Sub,,0,0,0,,{\fad(80,80)}The day before, nearby, President Lincoln had
+Dialogue: 0,0:28:48.78,0:28:51.69,Sub,,0,0,0,,{\fad(80,80)}dedicated the new national cemetery.
+Dialogue: 2,0:28:41.86,0:28:47.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:28:41.86,0:28:47.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:41.86,0:28:47.61,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 2 (1911)
+Dialogue: 3,0:28:41.86,0:28:47.61,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}EVERGREEN CEMETERY GATEHOUSE · GETTYSBURG, JULY 1863
+Dialogue: 0,0:28:52.16,0:28:53.68,Sub,,0,0,0,,{\fad(80,80)}Today, the fields are quiet.
+Dialogue: 2,0:28:52.41,0:28:54.10,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 789 0 l 789 132 l 0 132{\p0}
+Dialogue: 3,0:28:52.41,0:28:54.10,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:52.41,0:28:54.10,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY NATIONAL GUARD VIDEO · DVIDS · 2020
+Dialogue: 3,0:28:52.41,0:28:54.10,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GETTYSBURG BATTLEFIELD TODAY
+Dialogue: 0,0:29:07.47,0:29:10.04,Sub,,0,0,0,,{\fad(80,80)}Washington became a city of the wounded.
+Dialogue: 0,0:29:10.06,0:29:13.33,Sub,,0,0,0,,{\fad(80,80)}Walt Whitman wrote that within sight of the Capitol
+Dialogue: 0,0:29:13.35,0:29:16.62,Sub,,0,0,0,,{\fad(80,80)}stood some thirty or forty such hospitals, at times
+Dialogue: 0,0:29:16.64,0:29:18.49,Sub,,0,0,0,,{\fad(80,80)}holding 50,000 to 70,000 men.
+Dialogue: 2,0:29:07.72,0:29:13.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:29:07.72,0:29:13.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:07.72,0:29:13.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:29:07.72,0:29:13.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMORY SQUARE HOSPITAL · WASHINGTON, D.C.
+Dialogue: 0,0:29:18.96,0:29:21.24,Sub,,0,0,0,,{\fad(80,80)}The new ones were built as pavilions:
+Dialogue: 0,0:29:21.26,0:29:24.46,Sub,,0,0,0,,{\fad(80,80)}long, narrow wards, with windows in facing pairs, so
+Dialogue: 0,0:29:24.48,0:29:26.44,Sub,,0,0,0,,{\fad(80,80)}air could blow straight through.
+Dialogue: 0,0:29:26.46,0:29:29.60,Sub,,0,0,0,,{\fad(80,80)}It was a lesson taken from Florence Nightingale and
+Dialogue: 0,0:29:29.62,0:29:30.59,Sub,,0,0,0,,{\fad(80,80)}the Crimean War.
+Dialogue: 2,0:29:19.21,0:29:24.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:29:19.21,0:29:24.96,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:19.21,0:29:24.96,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLAN · MEDICAL AND SURGICAL HISTORY OF THE WAR (1888)
+Dialogue: 3,0:29:19.21,0:29:24.96,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PLAN · HAMMOND GENERAL HOSPITAL, POINT LOOKOUT, MD.
+Dialogue: 0,0:29:31.06,0:29:35.33,Sub,,0,0,0,,{\fad(80,80)}Satterlee Hospital, in West Philadelphia, opened in
+Dialogue: 0,0:29:35.35,0:29:38.44,Sub,,0,0,0,,{\fad(80,80)}June 1862, with more than 3,500 beds.
+Dialogue: 2,0:29:31.31,0:29:37.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1231 0 l 1231 132 l 0 132{\p0}
+Dialogue: 3,0:29:31.31,0:29:37.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:31.31,0:29:37.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:29:31.31,0:29:37.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PAVILION WARDS · JEFFERSONVILLE GENERAL HOSPITAL, IND.
+Dialogue: 0,0:29:38.91,0:29:42.48,Sub,,0,0,0,,{\fad(80,80)}Mower Hospital, in Chestnut Hill, had about 3,600.
+Dialogue: 0,0:29:42.50,0:29:46.21,Sub,,0,0,0,,{\fad(80,80)}Inside, the newer hospitals did something that seems
+Dialogue: 0,0:29:46.23,0:29:47.07,Sub,,0,0,0,,{\fad(80,80)}obvious now:
+Dialogue: 0,0:29:47.09,0:29:49.65,Sub,,0,0,0,,{\fad(80,80)}they divided their wards by disease.
+Dialogue: 2,0:29:39.16,0:29:44.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 995 0 l 995 132 l 0 132{\p0}
+Dialogue: 3,0:29:39.16,0:29:44.91,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:39.16,0:29:44.91,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLAN · MEDICAL AND SURGICAL HISTORY OF THE WAR (1888)
+Dialogue: 3,0:29:39.16,0:29:44.91,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PLAN · CARVER BARRACKS HOSPITAL, WASHINGTON
+Dialogue: 0,0:29:50.12,0:29:51.98,Sub,,0,0,0,,{\fad(80,80)}Inside, the wards were long and bright.
+Dialogue: 2,0:29:50.37,0:29:52.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:29:50.37,0:29:52.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:50.37,0:29:52.40,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:29:50.37,0:29:52.40,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A WARD · ARMORY SQUARE HOSPITAL, WASHINGTON
+Dialogue: 0,0:29:52.45,0:29:54.58,Sub,,0,0,0,,{\fad(80,80)}Getting there was its own journey.
+Dialogue: 0,0:29:54.60,0:29:58.26,Sub,,0,0,0,,{\fad(80,80)}More than 25,000 men were carried north by hospital train.
+Dialogue: 2,0:29:52.70,0:29:58.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 953 0 l 953 132 l 0 132{\p0}
+Dialogue: 3,0:29:52.70,0:29:58.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:52.70,0:29:58.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1864
+Dialogue: 3,0:29:52.70,0:29:58.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A HOSPITAL TRAIN · ARMY OF THE CUMBERLAND
+Dialogue: 0,0:29:58.73,0:30:02.06,Sub,,0,0,0,,{\fad(80,80)}In one wartime sketch of a hospital car, wounded men
+Dialogue: 0,0:30:02.08,0:30:05.42,Sub,,0,0,0,,{\fad(80,80)}lie in bunks stacked in tiers along both walls, with
+Dialogue: 0,0:30:05.44,0:30:07.68,Sub,,0,0,0,,{\fad(80,80)}an attendant bent over one of them.
+Dialogue: 2,0:29:58.98,0:30:04.73,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:29:58.98,0:30:04.73,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:58.98,0:30:04.73,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1864
+Dialogue: 3,0:29:58.98,0:30:04.73,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INTERIOR OF A HOSPITAL CAR · ARMY OF THE CUMBERLAND
+Dialogue: 0,0:30:08.15,0:30:11.63,Sub,,0,0,0,,{\fad(80,80)}Hospital ships were refitted deck by deck.
+Dialogue: 0,0:30:11.65,0:30:13.22,Sub,,0,0,0,,{\fad(80,80)}The steamship J. K.
+Dialogue: 0,0:30:13.24,0:30:17.31,Sub,,0,0,0,,{\fad(80,80)}Barnes, fitted out in New York in 1864, held more
+Dialogue: 0,0:30:17.33,0:30:18.56,Sub,,0,0,0,,{\fad(80,80)}than 350 bunks.
+Dialogue: 2,0:30:08.40,0:30:14.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1017 0 l 1017 132 l 0 132{\p0}
+Dialogue: 3,0:30:08.40,0:30:14.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:08.40,0:30:14.15,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLAN · MEDICAL AND SURGICAL HISTORY OF THE WAR (1883)
+Dialogue: 3,0:30:08.40,0:30:14.15,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DECK PLANS · HOSPITAL STEAMSHIP J. K. BARNES
+Dialogue: 0,0:30:19.03,0:30:23.53,Sub,,0,0,0,,{\fad(80,80)}On the rivers, hospital steamers did the same. The D. A.
+Dialogue: 0,0:30:23.55,0:30:25.79,Sub,,0,0,0,,{\fad(80,80)}January had nearly 450 beds.
+Dialogue: 0,0:30:25.81,0:30:30.23,Sub,,0,0,0,,{\fad(80,80)}In four years, it carried more than 23,000 wounded men.
+Dialogue: 2,0:30:19.28,0:30:25.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:30:19.28,0:30:25.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:19.28,0:30:25.03,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · MEDICAL AND SURGICAL HISTORY OF THE WAR (1883)
+Dialogue: 3,0:30:19.28,0:30:25.03,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL STEAMER D. A. JANUARY
+Dialogue: 0,0:30:30.70,0:30:32.17,Sub,,0,0,0,,{\fad(80,80)}And the Navy had its own.
+Dialogue: 0,0:30:32.19,0:30:35.22,Sub,,0,0,0,,{\fad(80,80)}The side-wheel steamer Red Rover, captured from the
+Dialogue: 0,0:30:35.24,0:30:38.33,Sub,,0,0,0,,{\fad(80,80)}Confederates, became the Navy's first hospital ship.
+Dialogue: 2,0:30:30.95,0:30:36.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1060 0 l 1060 132 l 0 132{\p0}
+Dialogue: 3,0:30:30.95,0:30:36.70,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:30.95,0:30:36.70,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:30:30.95,0:30:36.70,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HOSPITAL STEAMER RED ROVER · MISSISSIPPI RIVER
+Dialogue: 0,0:30:38.80,0:30:41.91,Sub,,0,0,0,,{\fad(80,80)}It carried an operating room, a laundry, an elevator
+Dialogue: 0,0:30:41.93,0:30:42.75,Sub,,0,0,0,,{\fad(80,80)}and bathrooms.
+Dialogue: 0,0:30:42.77,0:30:45.77,Sub,,0,0,0,,{\fad(80,80)}More than two thousand patients passed through it.
+Dialogue: 0,0:30:45.79,0:30:48.72,Sub,,0,0,0,,{\fad(80,80)}Catholic Sisters of the Holy Cross nursed aboard,
+Dialogue: 0,0:30:48.74,0:30:51.49,Sub,,0,0,0,,{\fad(80,80)}among the first women to serve on a Navy ship.
+Dialogue: 2,0:30:39.05,0:30:44.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:30:39.05,0:30:44.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:39.05,0:30:44.80,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · HARPER'S WEEKLY, 1863
+Dialogue: 3,0:30:39.05,0:30:44.80,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE WARD OF THE RED ROVER · MAY 1863
+Dialogue: 0,0:31:06.86,0:31:09.23,Sub,,0,0,0,,{\fad(80,80)}Her nurses nicknamed her Dragon Dix.
+Dialogue: 0,0:31:09.25,0:31:12.55,Sub,,0,0,0,,{\fad(80,80)}Thousands of women served as official Army nurses,
+Dialogue: 0,0:31:12.57,0:31:15.81,Sub,,0,0,0,,{\fad(80,80)}and more than 20,000 worked in Union hospitals in
+Dialogue: 0,0:31:15.83,0:31:16.47,Sub,,0,0,0,,{\fad(80,80)}some role.
+Dialogue: 2,0:31:07.11,0:31:12.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1231 0 l 1231 132 l 0 132{\p0}
+Dialogue: 3,0:31:07.11,0:31:12.86,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:31:07.11,0:31:12.86,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:31:07.11,0:31:12.86,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STAFF AND NURSES · SEMINARY HOSPITAL, GEORGETOWN, 1865
+Dialogue: 0,0:31:41.38,0:31:44.25,Sub,,0,0,0,,{\fad(80,80)}In the West, a widow from Illinois named Mary Ann
+Dialogue: 0,0:31:44.27,0:31:47.14,Sub,,0,0,0,,{\fad(80,80)}Bickerdyke cooked, cleaned and fought officers on
+Dialogue: 0,0:31:47.16,0:31:48.20,Sub,,0,0,0,,{\fad(80,80)}behalf of the men.
+Dialogue: 0,0:31:48.22,0:31:50.21,Sub,,0,0,0,,{\fad(80,80)}They called her Mother Bickerdyke.
+Dialogue: 2,0:31:41.63,0:31:47.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:31:41.63,0:31:47.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:31:41.63,0:31:47.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}WOMAN'S WORK IN THE CIVIL WAR (1867)
+Dialogue: 3,0:31:41.63,0:31:47.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MARY ANN BICKERDYKE · ENGRAVING
+Dialogue: 0,0:31:50.68,0:31:53.51,Sub,,0,0,0,,{\fad(80,80)}And in Washington, a poet came almost every day.
+Dialogue: 0,0:31:53.53,0:31:56.90,Sub,,0,0,0,,{\fad(80,80)}Walt Whitman brought paper, fruit, tobacco, and his time.
+Dialogue: 2,0:31:50.93,0:31:56.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:31:50.93,0:31:56.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:31:50.93,0:31:56.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 9 (1911)
+Dialogue: 3,0:31:50.93,0:31:56.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WALT WHITMAN DURING THE WAR
+Dialogue: 0,0:32:26.46,0:32:29.45,Sub,,0,0,0,,{\fad(80,80)}But many of those million cases had nothing to do
+Dialogue: 0,0:32:29.47,0:32:30.25,Sub,,0,0,0,,{\fad(80,80)}with bullets.
+Dialogue: 2,0:32:26.71,0:32:30.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:32:26.71,0:32:30.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:32:26.71,0:32:30.67,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:32:26.71,0:32:30.67,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A WARD · HAREWOOD HOSPITAL, WASHINGTON, 1864
+Dialogue: 0,0:32:50.36,0:32:53.80,Sub,,0,0,0,,{\fad(80,80)}For every Union soldier killed by the enemy, roughly
+Dialogue: 0,0:32:53.82,0:32:55.20,Sub,,0,0,0,,{\fad(80,80)}two died of sickness.
+Dialogue: 2,0:32:50.61,0:32:55.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:32:50.61,0:32:55.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:32:50.61,0:32:55.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:32:50.61,0:32:55.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CONVALESCENT CAMP · ALEXANDRIA, VA.
+Dialogue: 0,0:33:32.37,0:33:35.68,Sub,,0,0,0,,{\fad(80,80)}Measles hit hardest in new recruits from farms, boys
+Dialogue: 0,0:33:35.70,0:33:38.44,Sub,,0,0,0,,{\fad(80,80)}who had never met crowds or crowd diseases.
+Dialogue: 0,0:33:38.46,0:33:40.81,Sub,,0,0,0,,{\fad(80,80)}In camp, they met everything at once.
+Dialogue: 2,0:33:32.62,0:33:38.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:33:32.62,0:33:38.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:33:32.62,0:33:38.37,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:33:32.62,0:33:38.37,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A RECRUITS' TENT CAMP · KENTUCKY
+Dialogue: 0,0:33:41.28,0:33:43.67,Sub,,0,0,0,,{\fad(80,80)}Pneumonia killed almost 20,000 more.
+Dialogue: 2,0:33:41.53,0:33:44.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:33:41.53,0:33:44.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:33:41.53,0:33:44.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:33:41.53,0:33:44.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BARRACK WARDS · CONVALESCENT CAMP, ALEXANDRIA, 1864
+Dialogue: 0,0:34:12.31,0:34:14.01,Sub,,0,0,0,,{\fad(80,80)}Which brings us to the men who lived.
+Dialogue: 2,0:34:12.56,0:34:14.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:34:12.56,0:34:14.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:12.56,0:34:14.43,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:34:12.56,0:34:14.43,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CONVALESCENT SOLDIERS · BATON ROUGE
+Dialogue: 0,0:34:21.06,0:34:24.32,Sub,,0,0,0,,{\fad(80,80)}If you survived all of it, the bullet, the field,
+Dialogue: 0,0:34:24.34,0:34:26.60,Sub,,0,0,0,,{\fad(80,80)}the saw, the fever, you went home.
+Dialogue: 0,0:34:26.62,0:34:30.08,Sub,,0,0,0,,{\fad(80,80)}Often to a farm, often with one arm or one leg, to a
+Dialogue: 0,0:34:30.10,0:34:33.30,Sub,,0,0,0,,{\fad(80,80)}country that had never seen so many wounded men.
+Dialogue: 2,0:34:21.31,0:34:27.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:34:21.31,0:34:27.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:21.31,0:34:27.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:34:21.31,0:34:27.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CONVALESCENT CAMP HEADQUARTERS · ALEXANDRIA, VA.
+Dialogue: 0,0:35:03.54,0:35:06.77,Sub,,0,0,0,,{\fad(80,80)}Many veterans who had lost an arm refused the hook.
+Dialogue: 0,0:35:06.79,0:35:08.74,Sub,,0,0,0,,{\fad(80,80)}They preferred an empty sleeve.
+Dialogue: 2,0:35:03.79,0:35:09.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:35:03.79,0:35:09.16,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:03.79,0:35:09.16,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:35:03.79,0:35:09.16,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS AT A SANITARY COMMISSION HOME · WASHINGTON
+Dialogue: 0,0:35:35.39,0:35:37.29,Sub,,0,0,0,,{\fad(80,80)}And Clara Barton kept working.
+Dialogue: 0,0:35:37.31,0:35:40.44,Sub,,0,0,0,,{\fad(80,80)}After the war she ran an office that searched for
+Dialogue: 0,0:35:40.46,0:35:43.52,Sub,,0,0,0,,{\fad(80,80)}missing soldiers, and helped reconnect more than
+Dialogue: 0,0:35:43.54,0:35:45.76,Sub,,0,0,0,,{\fad(80,80)}20,000 of them with their families.
+Dialogue: 0,0:35:45.78,0:35:48.59,Sub,,0,0,0,,{\fad(80,80)}In 1881, she founded the American Red Cross.
+Dialogue: 2,0:35:35.64,0:35:41.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:35:35.64,0:35:41.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:35.64,0:35:41.39,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:35:35.64,0:35:41.39,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CLARA BARTON
+Dialogue: 0,0:35:49.06,0:35:50.27,Sub,,0,0,0,,{\fad(80,80)}Nursing changed too.
+Dialogue: 0,0:35:50.29,0:35:53.23,Sub,,0,0,0,,{\fad(80,80)}After the war, the nursing leader Mary Livermore
+Dialogue: 0,0:35:53.25,0:35:55.95,Sub,,0,0,0,,{\fad(80,80)}praised how far it had come as a profession.
+Dialogue: 2,0:35:49.31,0:35:55.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:35:49.31,0:35:55.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:49.31,0:35:55.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:35:49.31,0:35:55.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SANITARY COMMISSION STAFF AND NURSES · FREDERICKSBURG, 1864
+Dialogue: 0,0:36:08.34,0:36:10.23,Sub,,0,0,0,,{\fad(80,80)}Medicine kept something too.
+Dialogue: 0,0:36:10.25,0:36:13.56,Sub,,0,0,0,,{\fad(80,80)}In 1862, Surgeon General Hammond founded the Army
+Dialogue: 0,0:36:13.58,0:36:14.58,Sub,,0,0,0,,{\fad(80,80)}Medical Museum.
+Dialogue: 0,0:36:14.60,0:36:17.64,Sub,,0,0,0,,{\fad(80,80)}Surgeons were ordered to collect and preserve
+Dialogue: 0,0:36:17.66,0:36:18.80,Sub,,0,0,0,,{\fad(80,80)}specimens for it.
+Dialogue: 2,0:36:08.59,0:36:14.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:36:08.59,0:36:14.34,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:08.59,0:36:14.34,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:36:08.59,0:36:14.34,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DR. J. J. WOODWARD, ARMY MEDICAL MUSEUM
+Dialogue: 0,0:36:30.98,0:36:33.81,Sub,,0,0,0,,{\fad(80,80)}It still exists, as the National Museum of Health
+Dialogue: 0,0:36:33.83,0:36:34.56,Sub,,0,0,0,,{\fad(80,80)}and Medicine.
+Dialogue: 2,0:36:31.23,0:36:34.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:36:31.23,0:36:34.98,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:31.23,0:36:34.98,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:36:31.23,0:36:34.98,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DR. A. A. WOODHULL, ARMY MEDICAL DEPARTMENT
+Dialogue: 0,0:36:35.03,0:36:38.25,Sub,,0,0,0,,{\fad(80,80)}The Surgeon General's office also built up a library
+Dialogue: 0,0:36:38.27,0:36:40.87,Sub,,0,0,0,,{\fad(80,80)}of medical books during and after the war.
+Dialogue: 0,0:36:40.89,0:36:44.49,Sub,,0,0,0,,{\fad(80,80)}It grew into what is now the National Library of Medicine.
+Dialogue: 2,0:36:35.28,0:36:41.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:36:35.28,0:36:41.03,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:35.28,0:36:41.03,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:36:35.28,0:36:41.03,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SURGEONS AND HOSPITAL STEWARDS IN WASHINGTON
+Dialogue: 0,0:37:28.64,0:37:31.19,Sub,,0,0,0,,{\fad(80,80)}Letterman resigned in December 1864.
+Dialogue: 0,0:37:31.21,0:37:34.34,Sub,,0,0,0,,{\fad(80,80)}He died in 1872, and is buried at Arlington.
+Dialogue: 0,0:37:34.36,0:37:37.55,Sub,,0,0,0,,{\fad(80,80)}Today he is often called the father of modern
+Dialogue: 0,0:37:37.57,0:37:39.06,Sub,,0,0,0,,{\fad(80,80)}battlefield medicine.
+Dialogue: 2,0:37:28.89,0:37:34.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1510 0 l 1510 132 l 0 132{\p0}
+Dialogue: 3,0:37:28.89,0:37:34.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:37:28.89,0:37:34.64,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LETTERMAN, 1866 · VIA INTERNET ARCHIVE
+Dialogue: 3,0:37:28.89,0:37:34.64,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TITLE PAGE · MEDICAL RECOLLECTIONS OF THE ARMY OF THE POTOMAC, 1866
+Dialogue: 0,0:38:09.57,0:38:11.09,Sub,,0,0,0,,{\fad(80,80)}His idea is still here.
+Dialogue: 0,0:38:11.11,0:38:14.49,Sub,,0,0,0,,{\fad(80,80)}The chain he built, an aid station behind the line,
+Dialogue: 0,0:38:14.51,0:38:17.83,Sub,,0,0,0,,{\fad(80,80)}a hospital behind that, and evacuation in between,
+Dialogue: 0,0:38:17.85,0:38:20.97,Sub,,0,0,0,,{\fad(80,80)}remains the basis of military evacuation today.
+Dialogue: 2,0:38:09.82,0:38:15.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1208 0 l 1208 132 l 0 132{\p0}
+Dialogue: 3,0:38:09.82,0:38:15.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:38:09.82,0:38:15.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}BRUNSWICK, MAINE · NOV. 5, 2026 · U.S. AIR NATIONAL GUARD VIDEO · DVIDS
+Dialogue: 3,0:38:09.82,0:38:15.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: MASS-CASUALTY RESPONSE EXERCISE · TRAINING
+Dialogue: 0,0:38:21.44,0:38:24.96,Sub,,0,0,0,,{\fad(80,80)}An Army article in 2019 said his plan is still in
+Dialogue: 0,0:38:24.98,0:38:28.65,Sub,,0,0,0,,{\fad(80,80)}effect to this day, with care organized in multiple
+Dialogue: 0,0:38:28.67,0:38:29.30,Sub,,0,0,0,,{\fad(80,80)}echelons.
+Dialogue: 2,0:38:21.69,0:38:27.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 931 0 l 931 132 l 0 132{\p0}
+Dialogue: 3,0:38:21.69,0:38:27.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:38:21.69,0:38:27.44,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}JAPAN · NOV. 4, 2026 · U.S. AIR FORCE
+Dialogue: 3,0:38:21.69,0:38:27.44,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: MASS-CASUALTY EXERCISE · TRAINING
+Dialogue: 0,0:38:41.50,0:38:44.72,Sub,,0,0,0,,{\fad(80,80)}The ambulance men with green bands are now crews in
+Dialogue: 0,0:38:44.74,0:38:45.48,Sub,,0,0,0,,{\fad(80,80)}helicopters.
+Dialogue: 2,0:38:41.75,0:38:45.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:38:41.75,0:38:45.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:38:41.75,0:38:45.90,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT McCOY, WIS. · NOV. 2026 · U.S. ARMY
+Dialogue: 3,0:38:41.75,0:38:45.90,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: MEDEVAC HOIST · TRAINING
+Dialogue: 0,0:38:45.95,0:38:49.02,Sub,,0,0,0,,{\fad(80,80)}And the lesson of Antietam, that the wounded must be
+Dialogue: 0,0:38:49.04,0:38:51.81,Sub,,0,0,0,,{\fad(80,80)}moved fast, by trained people, with a plan made
+Dialogue: 0,0:38:51.83,0:38:54.90,Sub,,0,0,0,,{\fad(80,80)}before the battle, is still drilled again and again,
+Dialogue: 0,0:38:54.92,0:38:56.32,Sub,,0,0,0,,{\fad(80,80)}in exercises like these.
+Dialogue: 2,0:38:46.20,0:38:51.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1208 0 l 1208 132 l 0 132{\p0}
+Dialogue: 3,0:38:46.20,0:38:51.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:38:46.20,0:38:51.95,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}BRUNSWICK, MAINE · NOV. 5, 2026 · U.S. AIR NATIONAL GUARD VIDEO · DVIDS
+Dialogue: 3,0:38:46.20,0:38:51.95,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: MASS-CASUALTY RESPONSE EXERCISE · TRAINING
+Dialogue: 0,0:39:18.88,0:39:20.88,Sub,,0,0,0,,{\fad(80,80)}The surgeons could not see germs.
+Dialogue: 0,0:39:20.90,0:39:23.21,Sub,,0,0,0,,{\fad(80,80)}They could not save most belly wounds.
+Dialogue: 0,0:39:23.23,0:39:26.21,Sub,,0,0,0,,{\fad(80,80)}But they learned to move you, to sort you, to put
+Dialogue: 0,0:39:26.23,0:39:29.33,Sub,,0,0,0,,{\fad(80,80)}you to sleep, and to write it all down, so the next
+Dialogue: 0,0:39:29.35,0:39:31.17,Sub,,0,0,0,,{\fad(80,80)}war's doctors could do better.
+Dialogue: 2,0:39:19.13,0:39:24.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1124 0 l 1124 132 l 0 132{\p0}
+Dialogue: 3,0:39:19.13,0:39:24.88,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:19.13,0:39:24.88,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:39:19.13,0:39:24.88,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DR. JONATHAN LETTERMAN WITH HIS STAFF · NOV. 1862
+Dialogue: 0,0:39:31.64,0:39:33.92,Sub,,0,0,0,,{\fad(80,80)}So walk the road one last time.
+Dialogue: 0,0:39:33.94,0:39:35.19,Sub,,0,0,0,,{\fad(80,80)}A soft lead ball.
+Dialogue: 0,0:39:35.21,0:39:38.83,Sub,,0,0,0,,{\fad(80,80)}A field where, in 1861, you might have lain for a
+Dialogue: 0,0:39:38.85,0:39:39.73,Sub,,0,0,0,,{\fad(80,80)}day or more.
+Dialogue: 0,0:39:39.75,0:39:42.93,Sub,,0,0,0,,{\fad(80,80)}A man in a green cap band, and a stretcher.
+Dialogue: 2,0:39:31.89,0:39:37.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:39:31.89,0:39:37.64,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:31.89,0:39:37.64,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:39:31.89,0:39:37.64,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STRETCHER DRILL · ARMY OF THE POTOMAC, 1862
+Dialogue: 0,0:39:43.40,0:39:44.69,Sub,,0,0,0,,{\fad(80,80)}A barn full of hay.
+Dialogue: 0,0:39:44.71,0:39:47.32,Sub,,0,0,0,,{\fad(80,80)}Three surgeons chosen for their skill.
+Dialogue: 0,0:39:47.34,0:39:49.95,Sub,,0,0,0,,{\fad(80,80)}A folded cloth cone, and a deep sleep.
+Dialogue: 0,0:39:49.97,0:39:52.78,Sub,,0,0,0,,{\fad(80,80)}A saw, used fast, because fast was safer.
+Dialogue: 2,0:39:43.65,0:39:49.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1081 0 l 1081 132 l 0 132{\p0}
+Dialogue: 3,0:39:43.65,0:39:49.40,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:43.65,0:39:49.40,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:39:43.65,0:39:49.40,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIELD HOSPITAL AT SMITH'S FARM · AFTER ANTIETAM
+Dialogue: 0,0:39:53.25,0:39:55.61,Sub,,0,0,0,,{\fad(80,80)}Then the fever you could not see.
+Dialogue: 0,0:39:55.63,0:39:56.84,Sub,,0,0,0,,{\fad(80,80)}A hospital train.
+Dialogue: 0,0:39:56.86,0:40:00.22,Sub,,0,0,0,,{\fad(80,80)}A long, bright ward with windows on both sides.
+Dialogue: 0,0:40:00.24,0:40:03.61,Sub,,0,0,0,,{\fad(80,80)}A woman with a basin, or a poet with an orange.
+Dialogue: 0,0:40:03.63,0:40:07.29,Sub,,0,0,0,,{\fad(80,80)}And if you lived, an empty sleeve, and a pension of
+Dialogue: 0,0:40:07.31,0:40:08.08,Sub,,0,0,0,,{\fad(80,80)}$8 a month.
+Dialogue: 2,0:39:53.50,0:39:59.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:39:53.50,0:39:59.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:53.50,0:39:59.25,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 7 (1911)
+Dialogue: 3,0:39:53.50,0:39:59.25,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A WARD · CARVER HOSPITAL, WASHINGTON, 1864
+Dialogue: 0,0:40:08.55,0:40:10.01,Sub,,0,0,0,,{\fad(80,80)}That is how lives were kept.
+Dialogue: 2,0:40:08.80,0:40:10.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 738 0 l 738 132 l 0 132{\p0}
+Dialogue: 3,0:40:08.80,0:40:10.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:40:08.80,0:40:10.43,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}FORT McCOY, WIS. · NOV. 2026 · U.S. ARMY
+Dialogue: 3,0:40:08.80,0:40:10.43,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: MEDEVAC HOIST · TRAINING
+Dialogue: 5,0:40:24.41,0:40:28.61,Credit,,0,0,0,,{\fad(400,0)}Photographs and engravings (public domain): The Photographic History of the Civil War (F. T. Miller, ed., 1911), vols. 2, 7 and 9; The Medical and Surgical History of the War of the Rebellion (U.S. Surgeon General's Office, 1870–1888); Harper's Weekly, 1862–1865; Woman's Work in the Civil War (1867); J. Letterman, Medical Recollections of the Army of the Potomac (1866) — all via Internet Archive.\NFootage: U.S. Army, U.S. Air Force, Army National Guard and Air National Guard via DVIDS (public domain), 2020 and Nov. 2026. Training footage is marked TRAINING.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the U.S. Army, DoD, NPS or any government agency.\NFor education only. This is not medical advice.
+Dialogue: 4,0:38:09.57,0:38:15.50,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:38:15.50,0:38:21.43,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:38:21.43,0:38:25.60,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:38:25.60,0:38:29.77,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:38:41.50,0:38:43.73,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:38:43.73,0:38:45.97,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:38:45.97,0:38:51.37,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:38:51.37,0:38:56.80,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 4,0:40:08.57,0:40:11.03,Badge,,0,0,0,,{\an7\pos(60,48)}{\c&HA3B32B&}●{\c&HEFF2EE&} TRAINING EXERCISE
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC
