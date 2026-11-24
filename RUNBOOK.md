@@ -1,5 +1,11 @@
 Run notes go to RUNBOOK_NOTES.md (append there, never here). Promote a note into a rule section only if it must apply to every future run.
 
+> **LATEST OWNER DECISIONS — read first, they override older sections below (2026-11-24)**
+> - Thumbnails v6 (section "Thumbnails v6" near the end): thumb_A and thumb_B are made with `tools/thumbkit/thumbkit.py` + AI pictures from `tools/img_client.py` (request them at the START of the run); only thumb_C uses this channel's old generator. Every run must at least request the AI pictures; if they do not arrive in time, say so in the report.
+> - EMOTION FIRST: every thumbnail shows a strong emotion (rage, shock, fear, disbelief) — never a calm face; the AI may only re-light a real face, never change it.
+> - Promise rule + subtitles + minimal bleeps (section "Promise, clips & subtitles" at the end).
+
+
 # KEPT ALIVE — daily production runbook
 
 The daily run first decides LONG or OFF (see "Long-video cadence"). **LONG run:** one long immersive documentary (40–50 min, hosted on Google Drive) for the target ET day + 4 Short candidates, of which the best are scheduled for the target day and the next day (max 2 Shorts per day, see "Shorts: cadence + hook rules"). **OFF run:** nothing but the check and a one-line report. Precedence: "Long-video cadence" > "Shorts: cadence + hook rules" > "Real footage via relay" > "Format v3" > "Format v2" > the numbered sections.
