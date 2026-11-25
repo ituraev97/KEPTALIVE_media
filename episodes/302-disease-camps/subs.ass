@@ -1,0 +1,903 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Source Sans 3 SemiBold,48,&H00EFF2EE,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0.3,0,1,2.2,1.4,2,220,220,56,1
+Style: Kick,Martian Mono,26,&H009AF26C,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Head,Saira Condensed ExtraBold,68,&H00EFF2EE,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,7,0,0,0,1
+Style: Box,Source Sans 3 SemiBold,10,&H2814120A,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Credit,Martian Mono,22,&H00C8C8C8,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0.5,0,1,1,0,2,80,80,40,1
+Style: Badge,Martian Mono,22,&H00EFF2EE,&H00FFFFFF,&H5014120A,&H00000000,1,0,0,0,100,100,2,0,3,9,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:01.84,Sub,,0,0,0,,{\fad(80,80)}Summer, 1898.
+Dialogue: 0,0:00:01.86,0:00:03.16,Sub,,0,0,0,,{\fad(80,80)}You are a volunteer.
+Dialogue: 0,0:00:03.18,0:00:05.22,Sub,,0,0,0,,{\fad(80,80)}Weeks ago you had another life.
+Dialogue: 0,0:00:05.24,0:00:08.66,Sub,,0,0,0,,{\fad(80,80)}Now you are standing in a field of white tents, in a
+Dialogue: 0,0:00:08.68,0:00:10.38,Sub,,0,0,0,,{\fad(80,80)}camp that is already full.
+Dialogue: 2,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1253 0 l 1253 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:01.25,0:00:07.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · HARPER'S PICTORIAL HISTORY OF THE WAR WITH SPAIN (1899)
+Dialogue: 3,0:00:01.25,0:00:07.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}REGIMENTS IN CAMP AT BAY DISTRICT · SAN FRANCISCO, 1898
+Dialogue: 0,0:00:10.85,0:00:12.25,Sub,,0,0,0,,{\fad(80,80)}You came to fight Spain.
+Dialogue: 0,0:00:12.27,0:00:13.26,Sub,,0,0,0,,{\fad(80,80)}You have a rifle.
+Dialogue: 0,0:00:13.28,0:00:16.34,Sub,,0,0,0,,{\fad(80,80)}But the enemy that is coming for you is not in Cuba.
+Dialogue: 0,0:00:16.36,0:00:18.11,Sub,,0,0,0,,{\fad(80,80)}It is already inside the camp.
+Dialogue: 2,0:00:11.10,0:00:16.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1596 0 l 1596 132 l 0 132{\p0}
+Dialogue: 3,0:00:11.10,0:00:16.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:11.10,0:00:16.85,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · HARPER'S PICTORIAL HISTORY OF THE WAR WITH SPAIN (1899)
+Dialogue: 3,0:00:11.10,0:00:16.85,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SECOND MASSACHUSETTS VOLUNTEERS WAITING TO GO ABOARD · PORT TAMPA, 1898
+Dialogue: 0,0:00:18.58,0:00:19.59,Sub,,0,0,0,,{\fad(80,80)}It is in the water.
+Dialogue: 0,0:00:19.61,0:00:20.62,Sub,,0,0,0,,{\fad(80,80)}It is on the flies.
+Dialogue: 0,0:00:20.64,0:00:22.84,Sub,,0,0,0,,{\fad(80,80)}It is on the hands of the men around you.
+Dialogue: 2,0:00:18.83,0:00:23.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:00:18.83,0:00:23.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:18.83,0:00:23.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLAN · REED, VAUGHAN & SHAKESPEARE, TYPHOID FEVER REPORT (1904)
+Dialogue: 3,0:00:18.83,0:00:23.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PLAN OF CAMP OF A NEW YORK VOLUNTEER REGIMENT · 1898
+Dialogue: 0,0:00:37.80,0:00:41.07,Sub,,0,0,0,,{\fad(80,80)}The general commanding the Fifth Army Corps, William
+Dialogue: 0,0:00:41.09,0:00:44.04,Sub,,0,0,0,,{\fad(80,80)}Shafter, said that disease was a thousand times
+Dialogue: 0,0:00:44.06,0:00:47.70,Sub,,0,0,0,,{\fad(80,80)}harder to stand up against than the missiles of the enemy.
+Dialogue: 2,0:00:38.05,0:00:43.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1617 0 l 1617 132 l 0 132{\p0}
+Dialogue: 3,0:00:38.05,0:00:43.80,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:00:38.05,0:00:43.80,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · HARPER'S PICTORIAL HISTORY OF THE WAR WITH SPAIN (1899)
+Dialogue: 3,0:00:38.05,0:00:43.80,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MAJ.-GEN. SHAFTER DIRECTING THE EMBARKATION OF TROOPS · PORT TAMPA, 1898
+Dialogue: 0,0:01:17.66,0:01:23.05,Sub,,0,0,0,,{\fad(80,80)}In the World War I, 63,114 other deaths.
+Dialogue: 0,0:01:23.07,0:01:25.35,Sub,,0,0,0,,{\fad(80,80)}53,402 in battle.
+Dialogue: 2,0:01:17.91,0:01:23.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:01:17.91,0:01:23.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:17.91,0:01:23.66,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIGNAL CORPS FILM · U.S. NATIONAL ARCHIVES
+Dialogue: 3,0:01:17.91,0:01:23.66,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY CAMP · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:01:25.82,0:01:28.38,Sub,,0,0,0,,{\fad(80,80)}And camps like these would fill again.
+Dialogue: 0,0:01:28.40,0:01:31.84,Sub,,0,0,0,,{\fad(80,80)}Twenty years later, draftees would arrive at a camp
+Dialogue: 0,0:01:31.86,0:01:34.90,Sub,,0,0,0,,{\fad(80,80)}in Ohio, to be examined, inoculated, and fed.
+Dialogue: 2,0:01:26.07,0:01:31.82,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:01:26.07,0:01:31.82,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:01:26.07,0:01:31.82,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIGNAL CORPS FILM · U.S. NATIONAL ARCHIVES
+Dialogue: 3,0:01:26.07,0:01:31.82,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY CAMP · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:02:15.30,0:02:18.62,Sub,,0,0,0,,{\fad(80,80)}In 1898, the United States went to war with Spain.
+Dialogue: 0,0:02:18.64,0:02:22.50,Sub,,0,0,0,,{\fad(80,80)}Volunteer regiments poured toward the camps and the ports.
+Dialogue: 2,0:02:15.55,0:02:21.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1917 0 l 1917 132 l 0 132{\p0}
+Dialogue: 3,0:02:15.55,0:02:21.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:15.55,0:02:21.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · HARPER'S PICTORIAL HISTORY OF THE WAR WITH SPAIN (1899)
+Dialogue: 3,0:02:15.55,0:02:21.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SEVENTY-FIRST NEW YORK VOLUNTEERS GOING ABOARD TRANSPORT VIGILANCIA · PORT TAMPA, 1898
+Dialogue: 0,0:02:34.13,0:02:36.95,Sub,,0,0,0,,{\fad(80,80)}Typhoid is a bacterial infection that spreads
+Dialogue: 0,0:02:36.97,0:02:39.15,Sub,,0,0,0,,{\fad(80,80)}through contaminated food or water.
+Dialogue: 0,0:02:39.17,0:02:42.24,Sub,,0,0,0,,{\fad(80,80)}A camp of tens of thousands of men, with latrines
+Dialogue: 0,0:02:42.26,0:02:45.57,Sub,,0,0,0,,{\fad(80,80)}and kitchens and flies, gave it everything it needed.
+Dialogue: 2,0:02:34.38,0:02:40.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1639 0 l 1639 132 l 0 132{\p0}
+Dialogue: 3,0:02:34.38,0:02:40.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:02:34.38,0:02:40.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLAN · REED, VAUGHAN & SHAKESPEARE, TYPHOID FEVER REPORT (1904)
+Dialogue: 3,0:02:34.38,0:02:40.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ROUGH PLOT OF THE 201ST NEW YORK AT CAMP BLACK · JULY 26 TO SEPT. 9, 1898
+Dialogue: 0,0:03:02.60,0:03:04.53,Sub,,0,0,0,,{\fad(80,80)}What Reed saw was not mysterious.
+Dialogue: 0,0:03:04.55,0:03:07.48,Sub,,0,0,0,,{\fad(80,80)}In accounts of his visit, the latrines were filled
+Dialogue: 0,0:03:07.50,0:03:10.32,Sub,,0,0,0,,{\fad(80,80)}to the top, and flies moved between them and the
+Dialogue: 0,0:03:10.34,0:03:10.96,Sub,,0,0,0,,{\fad(80,80)}men's food.
+Dialogue: 2,0:03:02.85,0:03:08.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1810 0 l 1810 132 l 0 132{\p0}
+Dialogue: 3,0:03:02.85,0:03:08.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:02.85,0:03:08.60,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLAN · REED, VAUGHAN & SHAKESPEARE, TYPHOID FEVER REPORT (1904)
+Dialogue: 3,0:03:02.85,0:03:08.60,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}2ND NEW JERSEY · PLAN OF CAMP, TYPHOID CASES AMONG THE TENTS · JACKSONVILLE, 1898
+Dialogue: 0,0:03:11.43,0:03:14.45,Sub,,0,0,0,,{\fad(80,80)}The Board's report describes flies as one way the
+Dialogue: 0,0:03:14.47,0:03:15.38,Sub,,0,0,0,,{\fad(80,80)}disease spread.
+Dialogue: 0,0:03:15.40,0:03:18.23,Sub,,0,0,0,,{\fad(80,80)}Decades later, the Army was still teaching the
+Dialogue: 0,0:03:18.25,0:03:21.14,Sub,,0,0,0,,{\fad(80,80)}lesson about flies, in a training cartoon about
+Dialogue: 0,0:03:21.16,0:03:24.06,Sub,,0,0,0,,{\fad(80,80)}dysentery, with flies crawling over a mess kit.
+Dialogue: 2,0:03:11.68,0:03:17.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 676 0 l 676 132 l 0 132{\p0}
+Dialogue: 3,0:03:11.68,0:03:17.43,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:11.68,0:03:17.43,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}"A FEW QUICK FACTS" SERIES · U.S. ARMY
+Dialogue: 3,0:03:11.68,0:03:17.43,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY TRAINING CARTOON · 1944
+Dialogue: 0,0:03:32.63,0:03:36.14,Sub,,0,0,0,,{\fad(80,80)}The result ran to nearly 3,000 manuscript pages,
+Dialogue: 0,0:03:36.16,0:03:37.98,Sub,,0,0,0,,{\fad(80,80)}with 100 maps and charts.
+Dialogue: 0,0:03:38.00,0:03:40.41,Sub,,0,0,0,,{\fad(80,80)}Many of them were plans of camps.
+Dialogue: 0,0:03:40.43,0:03:41.59,Sub,,0,0,0,,{\fad(80,80)}Each box a tent.
+Dialogue: 0,0:03:41.61,0:03:42.84,Sub,,0,0,0,,{\fad(80,80)}Each mark a case.
+Dialogue: 2,0:03:32.88,0:03:38.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1939 0 l 1939 132 l 0 132{\p0}
+Dialogue: 3,0:03:32.88,0:03:38.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:03:32.88,0:03:38.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLAN · REED, VAUGHAN & SHAKESPEARE, TYPHOID FEVER REPORT (1904)
+Dialogue: 3,0:03:32.88,0:03:38.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}2ND WISCONSIN VOL. INF. · PLAN OF CAMP, TYPHOID CASES MARKED · JACKSONVILLE, FLA., 1898
+Dialogue: 0,0:04:49.53,0:04:52.26,Sub,,0,0,0,,{\fad(80,80)}And typhoid was not the only danger.
+Dialogue: 0,0:04:52.28,0:04:55.99,Sub,,0,0,0,,{\fad(80,80)}In the campaign in Cuba, PBS says more than 2,000
+Dialogue: 0,0:04:56.01,0:04:58.05,Sub,,0,0,0,,{\fad(80,80)}troops caught yellow fever.
+Dialogue: 0,0:04:58.07,0:04:59.81,Sub,,0,0,0,,{\fad(80,80)}That story comes later.
+Dialogue: 2,0:04:49.78,0:04:55.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1079 0 l 1079 132 l 0 132{\p0}
+Dialogue: 3,0:04:49.78,0:04:55.53,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:04:49.78,0:04:55.53,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · HARPER'S PICTORIAL HISTORY OF THE WAR WITH SPAIN (1899)
+Dialogue: 3,0:04:49.78,0:04:55.53,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE CAMP AT DAIQUIRI, CUBA · 1898
+Dialogue: 0,0:05:09.84,0:05:12.48,Sub,,0,0,0,,{\fad(80,80)}And the Army learned a second lesson.
+Dialogue: 0,0:05:12.50,0:05:16.36,Sub,,0,0,0,,{\fad(80,80)}In 1909, it offered typhoid vaccination to volunteers.
+Dialogue: 0,0:05:16.38,0:05:18.09,Sub,,0,0,0,,{\fad(80,80)}In 1911, it required it.
+Dialogue: 2,0:05:10.09,0:05:15.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:05:10.09,0:05:15.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:10.09,0:05:15.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIGNAL CORPS FILM · U.S. NATIONAL ARCHIVES
+Dialogue: 3,0:05:10.09,0:05:15.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TYPHOID INOCULATION · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:05:34.26,0:05:38.26,Sub,,0,0,0,,{\fad(80,80)}In 1917, draftees arrived at camps like this one in Ohio.
+Dialogue: 0,0:05:38.28,0:05:41.65,Sub,,0,0,0,,{\fad(80,80)}The film shows them lined up, examined, and fed.
+Dialogue: 2,0:05:34.51,0:05:40.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:05:34.51,0:05:40.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:34.51,0:05:40.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIGNAL CORPS FILM · U.S. NATIONAL ARCHIVES
+Dialogue: 3,0:05:34.51,0:05:40.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY CAMP · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:05:42.12,0:05:44.99,Sub,,0,0,0,,{\fad(80,80)}The camp had its own bakery, its own kitchens, and
+Dialogue: 0,0:05:45.01,0:05:45.91,Sub,,0,0,0,,{\fad(80,80)}its own laundry.
+Dialogue: 2,0:05:42.37,0:05:46.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:05:42.37,0:05:46.33,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:42.37,0:05:46.33,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIGNAL CORPS FILM · U.S. NATIONAL ARCHIVES
+Dialogue: 3,0:05:42.37,0:05:46.33,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY CAMP · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:05:46.38,0:05:50.08,Sub,,0,0,0,,{\fad(80,80)}By the World War I, the Army counted 1,529 primary
+Dialogue: 0,0:05:50.10,0:05:51.49,Sub,,0,0,0,,{\fad(80,80)}typhoid admissions.
+Dialogue: 0,0:05:51.51,0:05:55.35,Sub,,0,0,0,,{\fad(80,80)}In the Spanish–American War, the yearly typhoid rate
+Dialogue: 0,0:05:55.37,0:05:59.29,Sub,,0,0,0,,{\fad(80,80)}had been more than 300 times higher per thousand men.
+Dialogue: 2,0:05:46.63,0:05:52.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:05:46.63,0:05:52.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:05:46.63,0:05:52.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIGNAL CORPS FILM · U.S. NATIONAL ARCHIVES
+Dialogue: 3,0:05:46.63,0:05:52.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY CAMP · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:05:59.76,0:06:02.72,Sub,,0,0,0,,{\fad(80,80)}The full story of that vaccine comes later.
+Dialogue: 0,0:06:02.74,0:06:05.14,Sub,,0,0,0,,{\fad(80,80)}But the idea behind it was not new.
+Dialogue: 0,0:06:05.16,0:06:08.47,Sub,,0,0,0,,{\fad(80,80)}A general had faced the same choice, more than a
+Dialogue: 0,0:06:08.49,0:06:09.50,Sub,,0,0,0,,{\fad(80,80)}century before.
+Dialogue: 2,0:06:00.01,0:06:05.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1038 0 l 1038 132 l 0 132{\p0}
+Dialogue: 3,0:06:00.01,0:06:05.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:00.01,0:06:05.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}SIGNAL CORPS FILM · U.S. NATIONAL ARCHIVES
+Dialogue: 3,0:06:00.01,0:06:05.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}U.S. ARMY CAMP · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:06:15.67,0:06:18.86,Sub,,0,0,0,,{\fad(80,80)}The Continental Army had an enemy that no musket
+Dialogue: 0,0:06:18.88,0:06:20.27,Sub,,0,0,0,,{\fad(80,80)}could stop. Smallpox.
+Dialogue: 0,0:06:20.29,0:06:23.08,Sub,,0,0,0,,{\fad(80,80)}About 3 in 10 soldiers who caught it died.
+Dialogue: 2,0:06:15.92,0:06:21.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1660 0 l 1660 132 l 0 132{\p0}
+Dialogue: 3,0:06:15.92,0:06:21.67,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:15.92,0:06:21.67,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PRINT · PUBLIC DOMAIN
+Dialogue: 3,0:06:15.92,0:06:21.67,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WASHINGTON TAKING COMMAND OF THE AMERICAN ARMY AT CAMBRIDGE · 1775 (PRINT)
+Dialogue: 0,0:06:37.17,0:06:41.16,Sub,,0,0,0,,{\fad(80,80)}In February 1776, General Arnold banned soldiers
+Dialogue: 0,0:06:41.18,0:06:43.50,Sub,,0,0,0,,{\fad(80,80)}from inoculating themselves.
+Dialogue: 0,0:06:43.52,0:06:47.76,Sub,,0,0,0,,{\fad(80,80)}In Canada, General John Thomas refused inoculation,
+Dialogue: 0,0:06:47.78,0:06:50.76,Sub,,0,0,0,,{\fad(80,80)}caught smallpox, and died that year.
+Dialogue: 2,0:06:37.42,0:06:43.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1467 0 l 1467 132 l 0 132{\p0}
+Dialogue: 3,0:06:37.42,0:06:43.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:06:37.42,0:06:43.17,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORTRAIT · PUBLIC DOMAIN
+Dialogue: 3,0:06:37.42,0:06:43.17,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GEORGE WASHINGTON · WILLIAMSTOWN PORTRAIT BY GILBERT STUART, 1803
+Dialogue: 0,0:07:03.31,0:07:05.93,Sub,,0,0,0,,{\fad(80,80)}It worked, but it was dangerous.
+Dialogue: 0,0:07:05.95,0:07:07.73,Sub,,0,0,0,,{\fad(80,80)}In Boston in 1721, Dr.
+Dialogue: 0,0:07:07.75,0:07:12.01,Sub,,0,0,0,,{\fad(80,80)}Boylston estimated that natural smallpox killed 14%,
+Dialogue: 0,0:07:12.03,0:07:13.65,Sub,,0,0,0,,{\fad(80,80)}and inoculation two.
+Dialogue: 2,0:07:03.56,0:07:09.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1489 0 l 1489 132 l 0 132{\p0}
+Dialogue: 3,0:07:03.56,0:07:09.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:03.56,0:07:09.31,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TEXT PAGE · NATIONAL LIBRARY OF MEDICINE
+Dialogue: 3,0:07:03.56,0:07:09.31,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INOCULATION OF THE SMALL POX AS PRACTISED IN BOSTON · LETTER, 1722
+Dialogue: 0,0:07:19.05,0:07:22.19,Sub,,0,0,0,,{\fad(80,80)}Even so, inoculation carried a risk of death.
+Dialogue: 0,0:07:22.21,0:07:25.76,Sub,,0,0,0,,{\fad(80,80)}The National Library of Medicine calls Washington's
+Dialogue: 0,0:07:25.78,0:07:27.72,Sub,,0,0,0,,{\fad(80,80)}decision bold and dangerous.
+Dialogue: 2,0:07:19.30,0:07:25.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:07:19.30,0:07:25.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:19.30,0:07:25.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORTRAIT · METROPOLITAN MUSEUM OF ART
+Dialogue: 3,0:07:19.30,0:07:25.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GEORGE WASHINGTON · MINIATURE BY JAMES PEALE, 1782
+Dialogue: 0,0:07:28.19,0:07:29.56,Sub,,0,0,0,,{\fad(80,80)}Think about the choice.
+Dialogue: 0,0:07:29.58,0:07:32.51,Sub,,0,0,0,,{\fad(80,80)}To protect his army from smallpox, he had to give
+Dialogue: 0,0:07:32.53,0:07:34.56,Sub,,0,0,0,,{\fad(80,80)}his soldiers smallpox. On purpose.
+Dialogue: 0,0:07:34.58,0:07:36.91,Sub,,0,0,0,,{\fad(80,80)}With a procedure that could still kill.
+Dialogue: 2,0:07:28.44,0:07:34.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:07:28.44,0:07:34.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:28.44,0:07:34.19,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORTRAIT · METROPOLITAN MUSEUM OF ART
+Dialogue: 3,0:07:28.44,0:07:34.19,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GEORGE WASHINGTON · PORTRAIT MINIATURE, C. 1776–83
+Dialogue: 0,0:07:51.66,0:07:54.77,Sub,,0,0,0,,{\fad(80,80)}To him, smallpox was more to dread than the sword of
+Dialogue: 0,0:07:54.79,0:07:55.37,Sub,,0,0,0,,{\fad(80,80)}the enemy.
+Dialogue: 2,0:07:51.91,0:07:55.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1489 0 l 1489 132 l 0 132{\p0}
+Dialogue: 3,0:07:51.91,0:07:55.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:51.91,0:07:55.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORTRAIT · PUBLIC DOMAIN
+Dialogue: 3,0:07:51.91,0:07:55.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GEORGE WASHINGTON · THE ATHENAEUM PORTRAIT BY GILBERT STUART, 1796
+Dialogue: 0,0:07:55.84,0:07:59.59,Sub,,0,0,0,,{\fad(80,80)}The Military Health System estimates that about 90%
+Dialogue: 0,0:07:59.61,0:08:03.81,Sub,,0,0,0,,{\fad(80,80)}of Continental Army deaths came from disease, not combat.
+Dialogue: 2,0:07:56.09,0:08:01.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1767 0 l 1767 132 l 0 132{\p0}
+Dialogue: 3,0:07:56.09,0:08:01.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:07:56.09,0:08:01.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PAINTING OF WINTER 1777–78 · PUBLIC DOMAIN
+Dialogue: 3,0:07:56.09,0:08:01.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WASHINGTON AND LAFAYETTE AT VALLEY FORGE · PAINTING BY JOHN WARD DUNSMORE, 1907
+Dialogue: 0,0:08:15.04,0:08:17.22,Sub,,0,0,0,,{\fad(80,80)}Mount Vernon adds a warning.
+Dialogue: 0,0:08:17.24,0:08:20.91,Sub,,0,0,0,,{\fad(80,80)}It is difficult to track smallpox deaths in the
+Dialogue: 0,0:08:20.93,0:08:22.33,Sub,,0,0,0,,{\fad(80,80)}Revolutionary War.
+Dialogue: 0,0:08:22.35,0:08:25.31,Sub,,0,0,0,,{\fad(80,80)}The epidemic lasted from 1775 to 1782.
+Dialogue: 2,0:08:15.29,0:08:21.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1231 0 l 1231 132 l 0 132{\p0}
+Dialogue: 3,0:08:15.29,0:08:21.04,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:15.29,0:08:21.04,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PORTRAIT · METROPOLITAN MUSEUM OF ART
+Dialogue: 3,0:08:15.29,0:08:21.04,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GEORGE WASHINGTON · FRAMED MEDALLION PORTRAIT, 1800–30
+Dialogue: 0,0:08:44.81,0:08:48.28,Sub,,0,0,0,,{\fad(80,80)}Historians still weigh how much it changed the war.
+Dialogue: 0,0:08:48.30,0:08:50.60,Sub,,0,0,0,,{\fad(80,80)}The order itself is on the record.
+Dialogue: 0,0:08:50.62,0:08:54.16,Sub,,0,0,0,,{\fad(80,80)}It was an order about disease, in an army where, one
+Dialogue: 0,0:08:54.18,0:08:57.72,Sub,,0,0,0,,{\fad(80,80)}study suggests, illness killed far more men than the
+Dialogue: 0,0:08:57.74,0:08:58.27,Sub,,0,0,0,,{\fad(80,80)}British.
+Dialogue: 2,0:08:45.06,0:08:50.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1446 0 l 1446 132 l 0 132{\p0}
+Dialogue: 3,0:08:45.06,0:08:50.81,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:45.06,0:08:50.81,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}BROADSIDE · GENERIC EARLY-AMERICAN NOTICE
+Dialogue: 3,0:08:45.06,0:08:50.81,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}NOTICE OF SMALLPOX INOCULATION · STURBRIDGE, MASSACHUSETTS, 1801
+Dialogue: 0,0:08:58.74,0:09:00.79,Sub,,0,0,0,,{\fad(80,80)}That order went after one disease.
+Dialogue: 0,0:09:00.81,0:09:02.63,Sub,,0,0,0,,{\fad(80,80)}It did nothing about the rest.
+Dialogue: 0,0:09:02.65,0:09:05.68,Sub,,0,0,0,,{\fad(80,80)}And the next time America sent an army abroad, the
+Dialogue: 0,0:09:05.70,0:09:06.97,Sub,,0,0,0,,{\fad(80,80)}pattern would repeat.
+Dialogue: 2,0:08:58.99,0:09:04.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1746 0 l 1746 132 l 0 132{\p0}
+Dialogue: 3,0:08:58.99,0:09:04.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:08:58.99,0:09:04.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}TITLE PAGE · PUBLIC DOMAIN
+Dialogue: 3,0:08:58.99,0:09:04.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AN INQUIRY INTO THE CAUSES AND EFFECTS OF THE VARIOLAE VACCINAE · LONDON, 1798
+Dialogue: 0,0:09:21.35,0:09:24.15,Sub,,0,0,0,,{\fad(80,80)}At Monterrey, American troops stormed a city that
+Dialogue: 0,0:09:24.17,0:09:25.99,Sub,,0,0,0,,{\fad(80,80)}had been turned into a fortress.
+Dialogue: 2,0:09:21.60,0:09:26.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1305 0 l 1305 132 l 0 132{\p0}
+Dialogue: 3,0:09:21.60,0:09:26.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:21.60,0:09:26.41,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · FROST, PICTORIAL HISTORY OF MEXICO AND THE MEXICAN WAR (1862 ED.)
+Dialogue: 3,0:09:21.60,0:09:26.41,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}STORMING OF MONTEREY · 1846
+Dialogue: 0,0:09:26.46,0:09:30.47,Sub,,0,0,0,,{\fad(80,80)}At Veracruz, in March 1847, General Winfield Scott
+Dialogue: 0,0:09:30.49,0:09:32.32,Sub,,0,0,0,,{\fad(80,80)}laid siege to the port.
+Dialogue: 2,0:09:26.71,0:09:32.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 982 0 l 982 132 l 0 132{\p0}
+Dialogue: 3,0:09:26.71,0:09:32.46,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:26.71,0:09:32.46,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MAP · U.S. WAR DEPARTMENT, TOPOGRAPHICAL ENGINEERS (1847)
+Dialogue: 3,0:09:26.71,0:09:32.46,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SIEGE OF VERA CRUZ · MARCH 1847
+Dialogue: 0,0:09:32.79,0:09:35.57,Sub,,0,0,0,,{\fad(80,80)}Engravings of the day show Monterrey's Bishop's
+Dialogue: 0,0:09:35.59,0:09:38.67,Sub,,0,0,0,,{\fad(80,80)}Palace, one of the places the battle was fought for.
+Dialogue: 2,0:09:33.04,0:09:38.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1305 0 l 1305 132 l 0 132{\p0}
+Dialogue: 3,0:09:33.04,0:09:38.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:33.04,0:09:38.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · FROST, PICTORIAL HISTORY OF MEXICO AND THE MEXICAN WAR (1862 ED.)
+Dialogue: 3,0:09:33.04,0:09:38.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}BISHOP'S PALACE · MONTERREY, 1846
+Dialogue: 0,0:09:39.14,0:09:42.65,Sub,,0,0,0,,{\fad(80,80)}Those are the battles in the history books. Buena Vista.
+Dialogue: 0,0:09:42.67,0:09:43.40,Sub,,0,0,0,,{\fad(80,80)}Chapultepec.
+Dialogue: 0,0:09:43.42,0:09:44.91,Sub,,0,0,0,,{\fad(80,80)}The fall of Mexico City.
+Dialogue: 2,0:09:39.39,0:09:45.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 853 0 l 853 132 l 0 132{\p0}
+Dialogue: 3,0:09:39.39,0:09:45.14,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:39.39,0:09:45.14,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · THE MEXICAN WAR AND ITS HEROES (1850)
+Dialogue: 3,0:09:39.39,0:09:45.14,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TAYLOR AT BUENA VISTA · 1847
+Dialogue: 0,0:09:45.38,0:09:47.13,Sub,,0,0,0,,{\fad(80,80)}So here is the other count.
+Dialogue: 0,0:09:47.15,0:09:49.29,Sub,,0,0,0,,{\fad(80,80)}The one nobody put on a monument.
+Dialogue: 2,0:09:45.63,0:09:49.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 853 0 l 853 132 l 0 132{\p0}
+Dialogue: 3,0:09:45.63,0:09:49.71,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:09:45.63,0:09:49.71,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · THE MEXICAN WAR AND ITS HEROES (1850)
+Dialogue: 3,0:09:45.63,0:09:49.71,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CITY OF MEXICO · 1847
+Dialogue: 0,0:10:19.02,0:10:20.27,Sub,,0,0,0,,{\fad(80,80)}Do the arithmetic.
+Dialogue: 0,0:10:20.29,0:10:23.67,Sub,,0,0,0,,{\fad(80,80)}For every man who died in battle, close to seven
+Dialogue: 0,0:10:23.69,0:10:25.09,Sub,,0,0,0,,{\fad(80,80)}died some other way.
+Dialogue: 2,0:10:19.27,0:10:25.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1403 0 l 1403 132 l 0 132{\p0}
+Dialogue: 3,0:10:19.27,0:10:25.02,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:19.27,0:10:25.02,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · FROST, PICTORIAL HISTORY OF MEXICO AND THE MEXICAN WAR (1862 ED.)
+Dialogue: 3,0:10:19.27,0:10:25.02,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PYRAMIDS OF SAN JUAN · MEXICO (ILLUSTRATION, NOT A CAMP SCENE)
+Dialogue: 0,0:10:51.84,0:10:54.32,Sub,,0,0,0,,{\fad(80,80)}But even with that doubt, the shape is clear.
+Dialogue: 0,0:10:54.34,0:10:57.20,Sub,,0,0,0,,{\fad(80,80)}In this war, an army lost far more men away from the
+Dialogue: 0,0:10:57.22,0:10:58.15,Sub,,0,0,0,,{\fad(80,80)}fight than in it.
+Dialogue: 2,0:10:52.09,0:10:57.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 853 0 l 853 132 l 0 132{\p0}
+Dialogue: 3,0:10:52.09,0:10:57.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:52.09,0:10:57.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · THE MEXICAN WAR AND ITS HEROES (1850)
+Dialogue: 3,0:10:52.09,0:10:57.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JALAPA · MEXICO, 1847
+Dialogue: 0,0:10:58.62,0:11:00.83,Sub,,0,0,0,,{\fad(80,80)}Americans did not call it a lesson.
+Dialogue: 0,0:11:00.85,0:11:02.42,Sub,,0,0,0,,{\fad(80,80)}They called it a victory.
+Dialogue: 0,0:11:02.44,0:11:05.66,Sub,,0,0,0,,{\fad(80,80)}They went home, and the numbers went into a pension
+Dialogue: 0,0:11:05.68,0:11:06.11,Sub,,0,0,0,,{\fad(80,80)}report.
+Dialogue: 2,0:10:58.87,0:11:04.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1305 0 l 1305 132 l 0 132{\p0}
+Dialogue: 3,0:10:58.87,0:11:04.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:10:58.87,0:11:04.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · FROST, PICTORIAL HISTORY OF MEXICO AND THE MEXICAN WAR (1862 ED.)
+Dialogue: 3,0:10:58.87,0:11:04.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}GENERAL TAYLOR TAKING LEAVE OF THE SOLDIERS · 1847
+Dialogue: 0,0:11:06.58,0:11:09.69,Sub,,0,0,0,,{\fad(80,80)}In 1861, the country would raise armies again.
+Dialogue: 0,0:11:09.71,0:11:10.78,Sub,,0,0,0,,{\fad(80,80)}Far bigger ones.
+Dialogue: 0,0:11:10.80,0:11:13.91,Sub,,0,0,0,,{\fad(80,80)}And this time, someone would count everything.
+Dialogue: 2,0:11:06.83,0:11:12.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1305 0 l 1305 132 l 0 132{\p0}
+Dialogue: 3,0:11:06.83,0:11:12.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:06.83,0:11:12.58,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ENGRAVING · FROST, PICTORIAL HISTORY OF MEXICO AND THE MEXICAN WAR (1862 ED.)
+Dialogue: 3,0:11:06.83,0:11:12.58,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PUEBLA · MEXICO, 1847
+Dialogue: 0,0:11:18.42,0:11:21.99,Sub,,0,0,0,,{\fad(80,80)}In 1861, thousands of young men left small towns and
+Dialogue: 0,0:11:22.01,0:11:23.99,Sub,,0,0,0,,{\fad(80,80)}farms to join the Union army.
+Dialogue: 0,0:11:24.01,0:11:26.89,Sub,,0,0,0,,{\fad(80,80)}They gathered in camps outside Washington.
+Dialogue: 2,0:11:18.67,0:11:24.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:11:18.67,0:11:24.42,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:18.67,0:11:24.42,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:11:18.67,0:11:24.42,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SECOND MAINE INFANTRY · CAMP JAMESON, 1861
+Dialogue: 0,0:11:27.36,0:11:30.04,Sub,,0,0,0,,{\fad(80,80)}Camps sprang up on the hills around Washington.
+Dialogue: 0,0:11:30.06,0:11:32.57,Sub,,0,0,0,,{\fad(80,80)}Row on row of tents, and every man in them a
+Dialogue: 0,0:11:32.59,0:11:33.77,Sub,,0,0,0,,{\fad(80,80)}stranger to the next.
+Dialogue: 2,0:11:27.61,0:11:33.36,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1274 0 l 1274 132 l 0 132{\p0}
+Dialogue: 3,0:11:27.61,0:11:33.36,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:27.61,0:11:33.36,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:11:27.61,0:11:33.36,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE SEVENTEENTH NEW YORK · MINER'S HILL, NEAR WASHINGTON
+Dialogue: 0,0:11:34.24,0:11:37.46,Sub,,0,0,0,,{\fad(80,80)}Many had never been exposed to the common childhood
+Dialogue: 0,0:11:37.48,0:11:39.05,Sub,,0,0,0,,{\fad(80,80)}diseases. Measles. Mumps.
+Dialogue: 0,0:11:39.07,0:11:42.03,Sub,,0,0,0,,{\fad(80,80)}The National Museum of Health and Medicine says
+Dialogue: 0,0:11:42.05,0:11:44.89,Sub,,0,0,0,,{\fad(80,80)}rural recruits like these often died of them.
+Dialogue: 2,0:11:34.49,0:11:40.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:11:34.49,0:11:40.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:11:34.49,0:11:40.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:11:34.49,0:11:40.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE ELEVENTH 'U.S.' · CAMP AT ALEXANDRIA, VA., 1861
+Dialogue: 0,0:12:40.13,0:12:42.28,Sub,,0,0,0,,{\fad(80,80)}Why two to one, and not one and a half?
+Dialogue: 0,0:12:42.30,0:12:45.12,Sub,,0,0,0,,{\fad(80,80)}The two counts come from different tables, and they
+Dialogue: 0,0:12:45.14,0:12:47.73,Sub,,0,0,0,,{\fad(80,80)}do not define their categories in the same way.
+Dialogue: 2,0:12:40.38,0:12:46.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:12:40.38,0:12:46.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:40.38,0:12:46.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:12:40.38,0:12:46.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FIRST MINNESOTA INFANTRY · CAMP STONE, MD., JAN. 1862
+Dialogue: 0,0:12:55.98,0:12:58.21,Sub,,0,0,0,,{\fad(80,80)}Either way, the direction does not change.
+Dialogue: 0,0:12:58.23,0:13:00.89,Sub,,0,0,0,,{\fad(80,80)}For the Union army, the camp was deadlier than the
+Dialogue: 0,0:13:00.91,0:13:01.53,Sub,,0,0,0,,{\fad(80,80)}battlefield.
+Dialogue: 2,0:12:56.23,0:13:01.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:12:56.23,0:13:01.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:12:56.23,0:13:01.95,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:12:56.23,0:13:01.95,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"RUSHING UP A CAMP" · A UNION CAMP, VIRGINIA, 1862
+Dialogue: 0,0:13:20.56,0:13:23.78,Sub,,0,0,0,,{\fad(80,80)}Dysentery alone made up one quarter of all reported
+Dialogue: 0,0:13:23.80,0:13:24.48,Sub,,0,0,0,,{\fad(80,80)}sicknesses.
+Dialogue: 2,0:13:20.81,0:13:24.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1617 0 l 1617 132 l 0 132{\p0}
+Dialogue: 3,0:13:20.81,0:13:24.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:20.81,0:13:24.90,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:13:20.81,0:13:24.90,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COOKING, WASHING AND POLISHING IN A UNION CAMP · YORKTOWN, VA., MAY 1862
+Dialogue: 0,0:13:51.06,0:13:54.63,Sub,,0,0,0,,{\fad(80,80)}Typhoid, 34,833 deaths in that table.
+Dialogue: 0,0:13:54.65,0:13:59.37,Sub,,0,0,0,,{\fad(80,80)}The National Museum of Civil War Medicine gives a
+Dialogue: 0,0:13:59.39,0:14:01.88,Sub,,0,0,0,,{\fad(80,80)}lower count, about 27,000.
+Dialogue: 0,0:14:01.90,0:14:03.53,Sub,,0,0,0,,{\fad(80,80)}Sources disagree.
+Dialogue: 0,0:14:03.55,0:14:05.66,Sub,,0,0,0,,{\fad(80,80)}Every version is grim.
+Dialogue: 2,0:13:51.31,0:13:57.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1381 0 l 1381 132 l 0 132{\p0}
+Dialogue: 3,0:13:51.31,0:13:57.06,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:13:51.31,0:13:57.06,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:13:51.31,0:13:57.06,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A COVERED WELL, GUARDED TO PREVENT WASTE · VIRGINIA, MAY 1864
+Dialogue: 0,0:14:06.13,0:14:09.34,Sub,,0,0,0,,{\fad(80,80)}Malaria, 10,063 deaths. Typhus, 958.
+Dialogue: 0,0:14:09.36,0:14:13.92,Sub,,0,0,0,,{\fad(80,80)}And pneumonia, the museum says, killed 20,000 Union
+Dialogue: 0,0:14:13.94,0:14:14.55,Sub,,0,0,0,,{\fad(80,80)}troops.
+Dialogue: 2,0:14:06.38,0:14:12.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1031 0 l 1031 132 l 0 132{\p0}
+Dialogue: 3,0:14:06.38,0:14:12.13,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:06.38,0:14:12.13,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:14:06.38,0:14:12.13,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A BATH IN THE NORTH ANNA RIVER · MAY 1864
+Dialogue: 0,0:14:32.12,0:14:33.02,Sub,,0,0,0,,{\fad(80,80)}It was the sum.
+Dialogue: 0,0:14:33.04,0:14:35.90,Sub,,0,0,0,,{\fad(80,80)}Add only those four lines, and you pass 90,000.
+Dialogue: 0,0:14:35.92,0:14:38.96,Sub,,0,0,0,,{\fad(80,80)}Then add everything else a camp could do to a man.
+Dialogue: 2,0:14:32.37,0:14:38.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1360 0 l 1360 132 l 0 132{\p0}
+Dialogue: 3,0:14:32.37,0:14:38.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:32.37,0:14:38.12,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:14:32.37,0:14:38.12,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE 114TH PENNSYLVANIA · BRANDY STATION, VA., WINTER OF 1863
+Dialogue: 0,0:14:58.39,0:15:01.40,Sub,,0,0,0,,{\fad(80,80)}A latrine in the wrong place could foul the water a
+Dialogue: 0,0:15:01.42,0:15:02.41,Sub,,0,0,0,,{\fad(80,80)}camp depended on.
+Dialogue: 0,0:15:02.43,0:15:05.50,Sub,,0,0,0,,{\fad(80,80)}Water came from wells and rivers, and the army drank
+Dialogue: 0,0:15:05.52,0:15:06.34,Sub,,0,0,0,,{\fad(80,80)}what it found.
+Dialogue: 2,0:14:58.64,0:15:04.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1424 0 l 1424 132 l 0 132{\p0}
+Dialogue: 3,0:14:58.64,0:15:04.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:14:58.64,0:15:04.39,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:14:58.64,0:15:04.39,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE SOLDIERS' WATER CART · ARMY OF THE POTOMAC COMMISSARY, 1864
+Dialogue: 0,0:15:06.81,0:15:08.90,Sub,,0,0,0,,{\fad(80,80)}Surgeons asked for cleanliness.
+Dialogue: 0,0:15:08.92,0:15:11.82,Sub,,0,0,0,,{\fad(80,80)}Officers and soldiers largely ignored them.
+Dialogue: 2,0:15:07.06,0:15:12.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:15:07.06,0:15:12.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:07.06,0:15:12.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:15:07.06,0:15:12.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A CONFEDERATE PICKET CAMP · STONO INLET, S.C., 1864
+Dialogue: 0,0:15:32.59,0:15:35.68,Sub,,0,0,0,,{\fad(80,80)}The Union army was, in a grim sense, the largest
+Dialogue: 0,0:15:35.70,0:15:38.86,Sub,,0,0,0,,{\fad(80,80)}experiment in camp life the country had ever run.
+Dialogue: 0,0:15:38.88,0:15:41.32,Sub,,0,0,0,,{\fad(80,80)}And its own doctors were taking notes.
+Dialogue: 2,0:15:32.84,0:15:38.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1424 0 l 1424 132 l 0 132{\p0}
+Dialogue: 3,0:15:32.84,0:15:38.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:32.84,0:15:38.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:15:32.84,0:15:38.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}PREPARING A MEAL IN WINTER QUARTERS · ARMY OF THE POTOMAC, 1864
+Dialogue: 0,0:15:41.79,0:15:45.17,Sub,,0,0,0,,{\fad(80,80)}Pneumonia, measles, mumps, dysentery, typhoid.
+Dialogue: 0,0:15:45.19,0:15:48.71,Sub,,0,0,0,,{\fad(80,80)}A soldier of 1862 could survive the bullets of a
+Dialogue: 0,0:15:48.73,0:15:51.74,Sub,,0,0,0,,{\fad(80,80)}whole campaign and still never come home.
+Dialogue: 2,0:15:42.04,0:15:47.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1982 0 l 1982 132 l 0 132{\p0}
+Dialogue: 3,0:15:42.04,0:15:47.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:15:42.04,0:15:47.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:15:42.04,0:15:47.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FEDERAL PICKET STATION NEAR BULL RUN, 1862 (PAGE ALSO SHOWS PICKETS BEFORE ATLANTA, 1864)
+Dialogue: 0,0:16:11.54,0:16:13.42,Sub,,0,0,0,,{\fad(80,80)}It was a civilian organization.
+Dialogue: 0,0:16:13.44,0:16:16.67,Sub,,0,0,0,,{\fad(80,80)}Its job was to push the army to take care of its men.
+Dialogue: 0,0:16:16.69,0:16:18.75,Sub,,0,0,0,,{\fad(80,80)}Its general secretary was Olmsted.
+Dialogue: 2,0:16:11.79,0:16:17.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1531 0 l 1531 132 l 0 132{\p0}
+Dialogue: 3,0:16:11.79,0:16:17.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:11.79,0:16:17.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:16:11.79,0:16:17.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COMMISSARY DEPARTMENT · ARMY OF THE POTOMAC HEADQUARTERS, APRIL 1864
+Dialogue: 0,0:16:43.68,0:16:46.12,Sub,,0,0,0,,{\fad(80,80)}What they found was often abject squalor.
+Dialogue: 0,0:16:46.14,0:16:49.06,Sub,,0,0,0,,{\fad(80,80)}And the National Park Service notes that soldiers
+Dialogue: 0,0:16:49.08,0:16:50.92,Sub,,0,0,0,,{\fad(80,80)}disregarded the sanitary rules.
+Dialogue: 2,0:16:43.93,0:16:49.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:16:43.93,0:16:49.68,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:16:43.93,0:16:49.68,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:16:43.93,0:16:49.68,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}COOKING OUT OF DOORS · ARMY OF THE POTOMAC, 1864
+Dialogue: 0,0:17:18.33,0:17:21.04,Sub,,0,0,0,,{\fad(80,80)}It funded hospital trains and hospital ships.
+Dialogue: 0,0:17:21.06,0:17:23.34,Sub,,0,0,0,,{\fad(80,80)}It held sanitary fairs to raise money.
+Dialogue: 2,0:17:18.58,0:17:23.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1253 0 l 1253 132 l 0 132{\p0}
+Dialogue: 3,0:17:18.58,0:17:23.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:17:18.58,0:17:23.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:17:18.58,0:17:23.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE ENGINEERS STOP TO EAT · ENGINEER COMPANY CAMP, 1864
+Dialogue: 0,0:17:40.62,0:17:41.72,Sub,,0,0,0,,{\fad(80,80)}It could argue.
+Dialogue: 0,0:17:41.74,0:17:42.84,Sub,,0,0,0,,{\fad(80,80)}It could shame.
+Dialogue: 0,0:17:42.86,0:17:46.71,Sub,,0,0,0,,{\fad(80,80)}It could not always make a regiment dig a latrine in
+Dialogue: 0,0:17:46.73,0:17:47.91,Sub,,0,0,0,,{\fad(80,80)}the right place.
+Dialogue: 2,0:17:40.87,0:17:46.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1467 0 l 1467 132 l 0 132{\p0}
+Dialogue: 3,0:17:40.87,0:17:46.62,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:17:40.87,0:17:46.62,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:17:40.87,0:17:46.62,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OFFICERS' MESS · NINETY-THIRD NEW YORK, BEALTON, VA., AUGUST 1863
+Dialogue: 0,0:17:48.38,0:17:50.62,Sub,,0,0,0,,{\fad(80,80)}Here is what makes the story strange.
+Dialogue: 0,0:17:50.64,0:17:53.73,Sub,,0,0,0,,{\fad(80,80)}The cause of camp fevers was still argued over, and
+Dialogue: 0,0:17:53.75,0:17:55.56,Sub,,0,0,0,,{\fad(80,80)}the proof was not yet in hand.
+Dialogue: 2,0:17:48.63,0:17:54.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1360 0 l 1360 132 l 0 132{\p0}
+Dialogue: 3,0:17:48.63,0:17:54.38,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:17:48.63,0:17:54.38,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:17:48.63,0:17:54.38,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}THE 114TH PENNSYLVANIA · BRANDY STATION, VA., WINTER OF 1863
+Dialogue: 0,0:18:15.29,0:18:17.06,Sub,,0,0,0,,{\fad(80,80)}Cleaner camps may have helped.
+Dialogue: 0,0:18:17.08,0:18:19.92,Sub,,0,0,0,,{\fad(80,80)}But cleaning without understanding is guesswork.
+Dialogue: 0,0:18:19.94,0:18:22.90,Sub,,0,0,0,,{\fad(80,80)}The proof would have to be built, case by case, in
+Dialogue: 0,0:18:22.92,0:18:24.03,Sub,,0,0,0,,{\fad(80,80)}someone's notebook.
+Dialogue: 2,0:18:15.54,0:18:21.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1231 0 l 1231 132 l 0 132{\p0}
+Dialogue: 3,0:18:15.54,0:18:21.29,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:18:15.54,0:18:21.29,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · PHOTOGRAPHIC HISTORY OF THE CIVIL WAR, VOL. 8 (1911)
+Dialogue: 3,0:18:15.54,0:18:21.29,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CONFEDERATE CAMP, NASHVILLE, 1862 · NOT A TYPICAL CAMP
+Dialogue: 0,0:19:03.20,0:19:04.70,Sub,,0,0,0,,{\fad(80,80)}Major Walter Reed led it.
+Dialogue: 2,0:19:03.45,0:19:05.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 974 0 l 974 132 l 0 132{\p0}
+Dialogue: 3,0:19:03.45,0:19:05.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:03.45,0:19:05.12,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · H. KELLY, WALTER REED AND YELLOW FEVER (1906)
+Dialogue: 3,0:19:03.45,0:19:05.12,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MAJ. WALTER REED · WASHINGTON, D.C. · 1901
+Dialogue: 0,0:19:10.69,0:19:13.30,Sub,,0,0,0,,{\fad(80,80)}The idea they had to test was not new.
+Dialogue: 0,0:19:13.32,0:19:16.68,Sub,,0,0,0,,{\fad(80,80)}A Cuban physician, Carlos Finlay, had proposed in
+Dialogue: 0,0:19:16.70,0:19:19.59,Sub,,0,0,0,,{\fad(80,80)}1881 that a mosquito carried yellow fever.
+Dialogue: 2,0:19:10.94,0:19:16.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 918 0 l 918 132 l 0 132{\p0}
+Dialogue: 3,0:19:10.94,0:19:16.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:10.94,0:19:16.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · H. KELLY, WALTER REED AND YELLOW FEVER (1906)
+Dialogue: 3,0:19:10.94,0:19:16.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}DR. CARLOS J. FINLAY · HAVANA, CUBA
+Dialogue: 0,0:19:43.09,0:19:43.64,Sub,,0,0,0,,{\fad(80,80)}Then Dr.
+Dialogue: 0,0:19:43.66,0:19:47.13,Sub,,0,0,0,,{\fad(80,80)}Carroll fell ill with yellow fever, and so did an
+Dialogue: 0,0:19:47.15,0:19:48.05,Sub,,0,0,0,,{\fad(80,80)}Army private.
+Dialogue: 2,0:19:43.34,0:19:48.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1296 0 l 1296 132 l 0 132{\p0}
+Dialogue: 3,0:19:43.34,0:19:48.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:43.34,0:19:48.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · H. KELLY, WALTER REED AND YELLOW FEVER (1906)
+Dialogue: 3,0:19:43.34,0:19:48.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JAMES CARROLL, M.D. · U.S. YELLOW FEVER COMMISSION · 1901
+Dialogue: 0,0:19:48.52,0:19:48.84,Sub,,0,0,0,,{\fad(80,80)}Dr.
+Dialogue: 0,0:19:48.86,0:19:51.09,Sub,,0,0,0,,{\fad(80,80)}Lazear fell ill too.
+Dialogue: 0,0:19:51.11,0:19:55.70,Sub,,0,0,0,,{\fad(80,80)}On September 25, 1900, Jesse Lazear died.
+Dialogue: 2,0:19:48.77,0:19:54.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:19:48.77,0:19:54.52,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:48.77,0:19:54.52,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · H. KELLY, WALTER REED AND YELLOW FEVER (1906)
+Dialogue: 3,0:19:48.77,0:19:54.52,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JESSE W. LAZEAR, M.D. · U.S. YELLOW FEVER COMMISSION · 1900
+Dialogue: 0,0:19:56.17,0:19:59.37,Sub,,0,0,0,,{\fad(80,80)}The University of Virginia's exhibit says his death
+Dialogue: 0,0:19:59.39,0:20:02.34,Sub,,0,0,0,,{\fad(80,80)}was very likely from an experimental infection.
+Dialogue: 0,0:20:02.36,0:20:05.43,Sub,,0,0,0,,{\fad(80,80)}The camp the commission built that winter carried
+Dialogue: 0,0:20:05.45,0:20:06.00,Sub,,0,0,0,,{\fad(80,80)}his name.
+Dialogue: 2,0:19:56.42,0:20:02.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 918 0 l 918 132 l 0 132{\p0}
+Dialogue: 3,0:19:56.42,0:20:02.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:19:56.42,0:20:02.17,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · H. KELLY, WALTER REED AND YELLOW FEVER (1906)
+Dialogue: 3,0:19:56.42,0:20:02.17,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CAMP LAZEAR · QUEMADOS, CUBA · 1900
+Dialogue: 0,0:20:51.95,0:20:54.77,Sub,,0,0,0,,{\fad(80,80)}Other volunteers lived in a building full of
+Dialogue: 0,0:20:54.79,0:20:57.81,Sub,,0,0,0,,{\fad(80,80)}infected clothing, to test whether the sickness
+Dialogue: 0,0:20:57.83,0:21:00.60,Sub,,0,0,0,,{\fad(80,80)}passed from person to person through cloth.
+Dialogue: 0,0:21:00.62,0:21:03.12,Sub,,0,0,0,,{\fad(80,80)}7 men took part in three 20-day trials.
+Dialogue: 0,0:21:03.14,0:21:04.09,Sub,,0,0,0,,{\fad(80,80)}None caught it.
+Dialogue: 2,0:20:52.20,0:20:57.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1510 0 l 1510 132 l 0 132{\p0}
+Dialogue: 3,0:20:52.20,0:20:57.95,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:20:52.20,0:20:57.95,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · H. KELLY, WALTER REED AND YELLOW FEVER (1906)
+Dialogue: 3,0:20:52.20,0:20:57.95,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CAMP LAZEAR · BUILDING USED FOR THE CLOTHING (FOMITES) TESTS · 1900
+Dialogue: 0,0:21:33.61,0:21:36.23,Sub,,0,0,0,,{\fad(80,80)}That finding came from four doctors, and from
+Dialogue: 0,0:21:36.25,0:21:39.64,Sub,,0,0,0,,{\fad(80,80)}volunteers who took a risk that history should not forget.
+Dialogue: 2,0:21:33.86,0:21:39.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1424 0 l 1424 132 l 0 132{\p0}
+Dialogue: 3,0:21:33.86,0:21:39.61,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:21:33.86,0:21:39.61,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · H. KELLY, WALTER REED AND YELLOW FEVER (1906)
+Dialogue: 3,0:21:33.86,0:21:39.61,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARISTIDES AGRAMONTE, M.D. · U.S. YELLOW FEVER COMMISSION · 1902
+Dialogue: 0,0:22:14.31,0:22:17.98,Sub,,0,0,0,,{\fad(80,80)}By January 1903, a report said Cuba was free of
+Dialogue: 0,0:22:18.00,0:22:19.00,Sub,,0,0,0,,{\fad(80,80)}yellow fever.
+Dialogue: 0,0:22:19.02,0:22:23.33,Sub,,0,0,0,,{\fad(80,80)}Decades later, mosquito control still looked like this:
+Dialogue: 0,0:22:23.35,0:22:27.65,Sub,,0,0,0,,{\fad(80,80)}a Public Health Service film from Tampa, Florida, 1945.
+Dialogue: 2,0:22:14.56,0:22:20.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:22:14.56,0:22:20.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:14.56,0:22:20.31,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LATER MOSQUITO CONTROL · TAMPA, FLORIDA · NOT HAVANA, 1900
+Dialogue: 3,0:22:14.56,0:22:20.31,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}1945 PUBLIC HEALTH SERVICE FILM
+Dialogue: 0,0:22:28.12,0:22:29.86,Sub,,0,0,0,,{\fad(80,80)}The work was patient and plain.
+Dialogue: 0,0:22:29.88,0:22:32.66,Sub,,0,0,0,,{\fad(80,80)}Inspectors lifted covers, tipped out buckets, and
+Dialogue: 0,0:22:32.68,0:22:35.50,Sub,,0,0,0,,{\fad(80,80)}looked for standing water where the mosquito could
+Dialogue: 0,0:22:35.52,0:22:36.02,Sub,,0,0,0,,{\fad(80,80)}lay eggs.
+Dialogue: 2,0:22:28.37,0:22:34.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 998 0 l 998 132 l 0 132{\p0}
+Dialogue: 3,0:22:28.37,0:22:34.12,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:28.37,0:22:34.12,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}LATER MOSQUITO CONTROL · TAMPA, FLORIDA · NOT HAVANA, 1900
+Dialogue: 3,0:22:28.37,0:22:34.12,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}1945 PUBLIC HEALTH SERVICE FILM
+Dialogue: 0,0:22:36.49,0:22:39.36,Sub,,0,0,0,,{\fad(80,80)}This is the mosquito itself, Aedes aegypti, in a
+Dialogue: 0,0:22:39.38,0:22:41.77,Sub,,0,0,0,,{\fad(80,80)}training film made for the same service.
+Dialogue: 0,0:22:41.79,0:22:44.48,Sub,,0,0,0,,{\fad(80,80)}The larvae live in the water we leave behind.
+Dialogue: 2,0:22:36.74,0:22:42.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1015 0 l 1015 132 l 0 132{\p0}
+Dialogue: 3,0:22:36.74,0:22:42.49,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:36.74,0:22:42.49,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}THE AEDES AEGYPTI MOSQUITO · LATER FOOTAGE · NOT CUBA, 1900
+Dialogue: 3,0:22:36.74,0:22:42.49,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}1945 PUBLIC HEALTH SERVICE TRAINING FILM
+Dialogue: 0,0:22:54.44,0:22:56.27,Sub,,0,0,0,,{\fad(80,80)}The mosquito was one enemy.
+Dialogue: 0,0:22:56.29,0:22:59.43,Sub,,0,0,0,,{\fad(80,80)}But in the camps of 1898, another killer moved
+Dialogue: 0,0:22:59.45,0:23:01.56,Sub,,0,0,0,,{\fad(80,80)}through hands, water and flies.
+Dialogue: 0,0:23:01.58,0:23:05.19,Sub,,0,0,0,,{\fad(80,80)}The Army was about to try a different weapon: a shot.
+Dialogue: 2,0:22:54.69,0:23:00.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1015 0 l 1015 132 l 0 132{\p0}
+Dialogue: 3,0:22:54.69,0:23:00.44,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:22:54.69,0:23:00.44,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}THE AEDES AEGYPTI MOSQUITO · LATER FOOTAGE · NOT CUBA, 1900
+Dialogue: 3,0:22:54.69,0:23:00.44,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}1945 PUBLIC HEALTH SERVICE TRAINING FILM
+Dialogue: 0,0:23:22.01,0:23:24.80,Sub,,0,0,0,,{\fad(80,80)}An Army board went through the records of 92
+Dialogue: 0,0:23:24.82,0:23:26.91,Sub,,0,0,0,,{\fad(80,80)}regiments to learn how it spread.
+Dialogue: 0,0:23:26.93,0:23:29.97,Sub,,0,0,0,,{\fad(80,80)}Its report ran to nearly 3,000 manuscript pages.
+Dialogue: 0,0:23:29.99,0:23:33.03,Sub,,0,0,0,,{\fad(80,80)}It was written by Reed, Vaughan and Shakespeare.
+Dialogue: 2,0:23:22.26,0:23:28.01,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1167 0 l 1167 132 l 0 132{\p0}
+Dialogue: 3,0:23:22.26,0:23:28.01,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:23:22.26,0:23:28.01,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PLATE · TYPHOID BOARD REPORT, VOL. 2 (1904)
+Dialogue: 3,0:23:22.26,0:23:28.01,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TYPHOID CASES BY DAY IN AN ARMY CORPS' CAMPS · 1898
+Dialogue: 0,0:24:01.87,0:24:05.29,Sub,,0,0,0,,{\fad(80,80)}The museum calls the 1909 effort the Army's first
+Dialogue: 0,0:24:05.31,0:24:08.09,Sub,,0,0,0,,{\fad(80,80)}large-scale typhoid vaccination program.
+Dialogue: 0,0:24:08.11,0:24:11.67,Sub,,0,0,0,,{\fad(80,80)}The vaccine was still new, and the choice was still
+Dialogue: 0,0:24:11.69,0:24:12.37,Sub,,0,0,0,,{\fad(80,80)}voluntary.
+Dialogue: 2,0:24:02.12,0:24:07.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1192 0 l 1192 132 l 0 132{\p0}
+Dialogue: 3,0:24:02.12,0:24:07.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:02.12,0:24:07.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. 6 (1926)
+Dialogue: 3,0:24:02.12,0:24:07.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TABLE SERVICE · CAMP GRANT, ILLINOIS · 1918
+Dialogue: 0,0:24:12.84,0:24:16.16,Sub,,0,0,0,,{\fad(80,80)}In early 1911, it became required for troops sent to
+Dialogue: 0,0:24:16.18,0:24:17.44,Sub,,0,0,0,,{\fad(80,80)}the southern border.
+Dialogue: 0,0:24:17.46,0:24:20.78,Sub,,0,0,0,,{\fad(80,80)}Later that year, it became mandatory for everyone in
+Dialogue: 0,0:24:20.80,0:24:21.55,Sub,,0,0,0,,{\fad(80,80)}the service.
+Dialogue: 2,0:24:13.09,0:24:18.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1188 0 l 1188 132 l 0 132{\p0}
+Dialogue: 3,0:24:13.09,0:24:18.84,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:13.09,0:24:18.84,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}GENERIC · DISCUSSES THE U.S. ARMY'S TYPHOID RECORD
+Dialogue: 3,0:24:13.09,0:24:18.84,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}"ANTI-TYPHOID VACCINATION" · PAMPHLET · LONDON, 1915
+Dialogue: 0,0:24:36.72,0:24:41.93,Sub,,0,0,0,,{\fad(80,80)}The 1898 division recorded 2,693 cases and 248 deaths.
+Dialogue: 0,0:24:41.95,0:24:46.96,Sub,,0,0,0,,{\fad(80,80)}The vaccinated division had one case, and no deaths.
+Dialogue: 2,0:24:36.97,0:24:42.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:24:36.97,0:24:42.72,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:36.97,0:24:42.72,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · NARA
+Dialogue: 3,0:24:36.97,0:24:42.72,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TYPHOID INOCULATION · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:24:58.07,0:25:03.73,Sub,,0,0,0,,{\fad(80,80)}Among 4,087 vaccinated men, 55 fell ill and four died.
+Dialogue: 0,0:25:03.75,0:25:08.98,Sub,,0,0,0,,{\fad(80,80)}Among 812 who were not vaccinated, 45 fell ill and
+Dialogue: 0,0:25:09.00,0:25:10.14,Sub,,0,0,0,,{\fad(80,80)}seven died.
+Dialogue: 2,0:24:58.32,0:25:04.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:24:58.32,0:25:04.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:24:58.32,0:25:04.07,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · NARA
+Dialogue: 3,0:24:58.32,0:25:04.07,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TYPHOID INOCULATION · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:25:21.66,0:25:25.54,Sub,,0,0,0,,{\fad(80,80)}In the Spanish-American War, the rate had been
+Dialogue: 0,0:25:25.56,0:25:27.83,Sub,,0,0,0,,{\fad(80,80)}141.59 per thousand a year.
+Dialogue: 2,0:25:21.91,0:25:27.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 870 0 l 870 132 l 0 132{\p0}
+Dialogue: 3,0:25:21.91,0:25:27.66,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:25:21.91,0:25:27.66,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · 83RD DIVISION · NARA
+Dialogue: 3,0:25:21.91,0:25:27.66,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:25:52.74,0:25:55.04,Sub,,0,0,0,,{\fad(80,80)}The shot was not the only defense.
+Dialogue: 0,0:25:55.06,0:25:58.47,Sub,,0,0,0,,{\fad(80,80)}The camps of 1918 also purified their water, which
+Dialogue: 0,0:25:58.49,0:26:01.96,Sub,,0,0,0,,{\fad(80,80)}is what you see here, and kept flies away from food
+Dialogue: 0,0:26:01.98,0:26:02.78,Sub,,0,0,0,,{\fad(80,80)}and garbage.
+Dialogue: 2,0:25:52.99,0:25:58.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1617 0 l 1617 132 l 0 132{\p0}
+Dialogue: 3,0:25:52.99,0:25:58.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:25:52.99,0:25:58.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. 6 (1926)
+Dialogue: 3,0:25:52.99,0:25:58.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SPECIAL EQUIPMENT · CAMP MEADE WATER-PURIFICATION PLANT, MARYLAND · 1918
+Dialogue: 0,0:26:03.25,0:26:05.70,Sub,,0,0,0,,{\fad(80,80)}Here is the filter room of the same plant.
+Dialogue: 0,0:26:05.72,0:26:08.59,Sub,,0,0,0,,{\fad(80,80)}Clean water, closed garbage cans, and a needle in
+Dialogue: 0,0:26:08.61,0:26:10.18,Sub,,0,0,0,,{\fad(80,80)}the arm all worked at once.
+Dialogue: 2,0:26:03.50,0:26:09.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1489 0 l 1489 132 l 0 132{\p0}
+Dialogue: 3,0:26:03.50,0:26:09.25,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:03.50,0:26:09.25,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. 6 (1926)
+Dialogue: 3,0:26:03.50,0:26:09.25,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}FILTER ROOM · CAMP MEADE WATER-PURIFICATION PLANT, MARYLAND · 1918
+Dialogue: 0,0:26:10.65,0:26:12.61,Sub,,0,0,0,,{\fad(80,80)}An association is not a cause.
+Dialogue: 0,0:26:12.63,0:26:16.36,Sub,,0,0,0,,{\fad(80,80)}But across these records, the line goes in one direction.
+Dialogue: 0,0:26:16.38,0:26:19.32,Sub,,0,0,0,,{\fad(80,80)}Where soldiers were vaccinated, typhoid fell.
+Dialogue: 2,0:26:10.90,0:26:16.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1617 0 l 1617 132 l 0 132{\p0}
+Dialogue: 3,0:26:10.90,0:26:16.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:10.90,0:26:16.65,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. 6 (1926)
+Dialogue: 3,0:26:10.90,0:26:16.65,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ONE METHOD OF PROTECTING GARBAGE CANS FROM FLIES · U.S. ARMY CAMP · 1918
+Dialogue: 0,0:26:19.79,0:26:23.18,Sub,,0,0,0,,{\fad(80,80)}A typhoid shot was routine at Camp Sherman, Ohio.
+Dialogue: 0,0:26:23.20,0:26:26.30,Sub,,0,0,0,,{\fad(80,80)}An intertitle in its Signal Corps film reads:
+Dialogue: 0,0:26:26.32,0:26:29.91,Sub,,0,0,0,,{\fad(80,80)}Inoculation prevents typhoid fever and other serious
+Dialogue: 0,0:26:29.93,0:26:30.53,Sub,,0,0,0,,{\fad(80,80)}diseases.
+Dialogue: 2,0:26:20.04,0:26:25.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:26:20.04,0:26:25.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:20.04,0:26:25.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · NARA
+Dialogue: 3,0:26:20.04,0:26:25.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TYPHOID INOCULATION · CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:26:31.00,0:26:34.32,Sub,,0,0,0,,{\fad(80,80)}But in 1918, a different disease was about to reach
+Dialogue: 0,0:26:34.34,0:26:37.65,Sub,,0,0,0,,{\fad(80,80)}the camps, one that no shot of that day could stop.
+Dialogue: 2,0:26:31.25,0:26:37.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 870 0 l 870 132 l 0 132{\p0}
+Dialogue: 3,0:26:31.25,0:26:37.00,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:31.25,0:26:37.00,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · 83RD DIVISION · NARA
+Dialogue: 3,0:26:31.25,0:26:37.00,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:26:55.28,0:26:58.60,Sub,,0,0,0,,{\fad(80,80)}Camps like this gathered tens of thousands of men in
+Dialogue: 0,0:26:58.62,0:26:59.25,Sub,,0,0,0,,{\fad(80,80)}one place.
+Dialogue: 0,0:26:59.27,0:27:02.53,Sub,,0,0,0,,{\fad(80,80)}This is Camp Sherman, in Ohio, a different camp, in
+Dialogue: 0,0:27:02.55,0:27:03.36,Sub,,0,0,0,,{\fad(80,80)}the same war.
+Dialogue: 0,0:27:03.38,0:27:04.84,Sub,,0,0,0,,{\fad(80,80)}Funston was 56,000 men.
+Dialogue: 2,0:26:55.53,0:27:01.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 870 0 l 870 132 l 0 132{\p0}
+Dialogue: 3,0:26:55.53,0:27:01.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:26:55.53,0:27:01.28,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · 83RD DIVISION · NARA
+Dialogue: 3,0:26:55.53,0:27:01.28,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:27:05.31,0:27:07.87,Sub,,0,0,0,,{\fad(80,80)}Men ate, slept, drilled and lined up together, by
+Dialogue: 0,0:27:07.89,0:27:08.55,Sub,,0,0,0,,{\fad(80,80)}the thousand.
+Dialogue: 0,0:27:08.57,0:27:11.03,Sub,,0,0,0,,{\fad(80,80)}Every one of them would soon be sent somewhere.
+Dialogue: 2,0:27:05.56,0:27:11.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1210 0 l 1210 132 l 0 132{\p0}
+Dialogue: 3,0:27:05.56,0:27:11.31,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:27:05.56,0:27:11.31,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. 6 (1926)
+Dialogue: 3,0:27:05.56,0:27:11.31,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LINE SERVICE, MESS HALL · CAMP MEADE, MARYLAND · 1918
+Dialogue: 0,0:27:20.39,0:27:21.39,Sub,,0,0,0,,{\fad(80,80)}From the S.S.
+Dialogue: 0,0:27:21.41,0:27:25.33,Sub,,0,0,0,,{\fad(80,80)}Grant, a sailor on another ship counted 15 burials
+Dialogue: 0,0:27:25.35,0:27:27.14,Sub,,0,0,0,,{\fad(80,80)}at sea in a single day.
+Dialogue: 2,0:27:20.64,0:27:26.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 870 0 l 870 132 l 0 132{\p0}
+Dialogue: 3,0:27:20.64,0:27:26.39,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:27:20.64,0:27:26.39,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · 83RD DIVISION · NARA
+Dialogue: 3,0:27:20.64,0:27:26.39,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:28:27.09,0:28:29.10,Sub,,0,0,0,,{\fad(80,80)}The flu reached cities too.
+Dialogue: 0,0:28:29.12,0:28:32.25,Sub,,0,0,0,,{\fad(80,80)}This is a parade in San Francisco in 1918,
+Dialogue: 0,0:28:32.27,0:28:34.58,Sub,,0,0,0,,{\fad(80,80)}celebrating the end of the war.
+Dialogue: 0,0:28:34.60,0:28:38.79,Sub,,0,0,0,,{\fad(80,80)}The archive says the paraders are all wearing flu masks.
+Dialogue: 2,0:28:27.34,0:28:33.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1446 0 l 1446 132 l 0 132{\p0}
+Dialogue: 3,0:28:27.34,0:28:33.09,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:27.34,0:28:33.09,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PARADERS IN GAUZE MASKS · NEWSREEL FILM · PRELINGER ARCHIVES (ARCHIVE'S DESCRIPTION)
+Dialogue: 3,0:28:27.34,0:28:33.09,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SAN FRANCISCO · PARADE CELEBRATING THE END OF WORLD WAR I · 1918
+Dialogue: 0,0:28:39.26,0:28:41.73,Sub,,0,0,0,,{\fad(80,80)}So how many soldiers died of influenza?
+Dialogue: 0,0:28:41.75,0:28:43.33,Sub,,0,0,0,,{\fad(80,80)}The sources do not agree.
+Dialogue: 0,0:28:43.35,0:28:44.98,Sub,,0,0,0,,{\fad(80,80)}We will show you each one.
+Dialogue: 2,0:28:39.51,0:28:45.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1446 0 l 1446 132 l 0 132{\p0}
+Dialogue: 3,0:28:39.51,0:28:45.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:39.51,0:28:45.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PARADERS IN GAUZE MASKS · NEWSREEL FILM · PRELINGER ARCHIVES (ARCHIVE'S DESCRIPTION)
+Dialogue: 3,0:28:39.51,0:28:45.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SAN FRANCISCO · PARADE CELEBRATING THE END OF WORLD WAR I · 1918
+Dialogue: 0,0:28:55.58,0:28:59.12,Sub,,0,0,0,,{\fad(80,80)}The Navy's history says more than 44,000.
+Dialogue: 0,0:28:59.14,0:29:03.38,Sub,,0,0,0,,{\fad(80,80)}And the University of Kansas Medical Center cites
+Dialogue: 0,0:29:03.40,0:29:07.73,Sub,,0,0,0,,{\fad(80,80)}24,664, adding that most of those deaths came from
+Dialogue: 0,0:29:07.75,0:29:10.60,Sub,,0,0,0,,{\fad(80,80)}complicating bacterial pneumonia.
+Dialogue: 2,0:28:55.83,0:29:01.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1192 0 l 1192 132 l 0 132{\p0}
+Dialogue: 3,0:28:55.83,0:29:01.58,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:28:55.83,0:29:01.58,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}PHOTO · MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. 6 (1926)
+Dialogue: 3,0:28:55.83,0:29:01.58,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OLD CAMP AT GRANGE NEUVE · GIRONDE, FRANCE · 1918
+Dialogue: 0,0:29:11.07,0:29:13.75,Sub,,0,0,0,,{\fad(80,80)}That is why we lean on the World War numbers.
+Dialogue: 0,0:29:13.77,0:29:16.46,Sub,,0,0,0,,{\fad(80,80)}The Congressional Research Service warns that
+Dialogue: 0,0:29:16.48,0:29:19.34,Sub,,0,0,0,,{\fad(80,80)}casualty records before it are often incomplete.
+Dialogue: 2,0:29:11.32,0:29:17.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1296 0 l 1296 132 l 0 132{\p0}
+Dialogue: 3,0:29:11.32,0:29:17.07,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:29:11.32,0:29:17.07,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY MEDICAL DEPARTMENT IN THE WORLD WAR, VOL. 6 (SANITATION)
+Dialogue: 3,0:29:11.32,0:29:17.07,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}KITCHEN OF COMPANY A, 126TH INFANTRY, 32D DIVISION · 1918
+Dialogue: 0,0:30:07.15,0:30:10.09,Sub,,0,0,0,,{\fad(80,80)}For the World War, non-battle deaths outnumbered
+Dialogue: 0,0:30:10.11,0:30:13.30,Sub,,0,0,0,,{\fad(80,80)}battle deaths in the Army, and influenza was a large
+Dialogue: 0,0:30:13.32,0:30:13.98,Sub,,0,0,0,,{\fad(80,80)}part of it.
+Dialogue: 2,0:30:07.40,0:30:13.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 870 0 l 870 132 l 0 132{\p0}
+Dialogue: 3,0:30:07.40,0:30:13.15,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:07.40,0:30:13.15,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · 83RD DIVISION · NARA
+Dialogue: 3,0:30:07.40,0:30:13.15,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:30:14.45,0:30:17.30,Sub,,0,0,0,,{\fad(80,80)}Twenty years later, in the next world war, the
+Dialogue: 0,0:30:17.32,0:30:18.18,Sub,,0,0,0,,{\fad(80,80)}pattern broke.
+Dialogue: 0,0:30:18.20,0:30:20.36,Sub,,0,0,0,,{\fad(80,80)}Disease still filled the hospitals.
+Dialogue: 0,0:30:20.38,0:30:23.55,Sub,,0,0,0,,{\fad(80,80)}But it no longer killed more soldiers than bullets.
+Dialogue: 2,0:30:14.70,0:30:20.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 870 0 l 870 132 l 0 132{\p0}
+Dialogue: 3,0:30:14.70,0:30:20.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:14.70,0:30:20.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY SIGNAL CORPS FILM · 83RD DIVISION · NARA
+Dialogue: 3,0:30:14.70,0:30:20.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CAMP SHERMAN, OHIO · 1917–18
+Dialogue: 0,0:30:52.83,0:30:55.51,Sub,,0,0,0,,{\fad(80,80)}But there is more than one way to count a war.
+Dialogue: 0,0:30:55.53,0:30:58.50,Sub,,0,0,0,,{\fad(80,80)}Count the medical admissions, and the picture turns
+Dialogue: 0,0:30:58.52,0:30:59.21,Sub,,0,0,0,,{\fad(80,80)}upside down.
+Dialogue: 2,0:30:53.08,0:30:58.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1482 0 l 1482 132 l 0 132{\p0}
+Dialogue: 3,0:30:53.08,0:30:58.83,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:30:53.08,0:30:58.83,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 147 · MEDICAL SERVICE IN THE JUNGLE · 1944 · LOCATION NOT STATED
+Dialogue: 3,0:30:53.08,0:30:58.83,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}APPROACH FROM THE SEA
+Dialogue: 0,0:31:18.69,0:31:20.87,Sub,,0,0,0,,{\fad(80,80)}Disease did not win the count of the dead.
+Dialogue: 0,0:31:20.89,0:31:22.39,Sub,,0,0,0,,{\fad(80,80)}It won the count of the sick.
+Dialogue: 0,0:31:22.41,0:31:24.85,Sub,,0,0,0,,{\fad(80,80)}And in the South Pacific, the name that came up
+Dialogue: 0,0:31:24.87,0:31:26.32,Sub,,0,0,0,,{\fad(80,80)}again and again was malaria.
+Dialogue: 2,0:31:18.94,0:31:24.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1482 0 l 1482 132 l 0 132{\p0}
+Dialogue: 3,0:31:18.94,0:31:24.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:31:18.94,0:31:24.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 147 · MEDICAL SERVICE IN THE JUNGLE · 1944 · LOCATION NOT STATED
+Dialogue: 3,0:31:18.94,0:31:24.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JUNGLE SHORELINE
+Dialogue: 0,0:33:16.23,0:33:19.49,Sub,,0,0,0,,{\fad(80,80)}So the Army built an answer, and it was mostly people.
+Dialogue: 0,0:33:19.51,0:33:22.22,Sub,,0,0,0,,{\fad(80,80)}Survey units found where the mosquitoes bred.
+Dialogue: 0,0:33:22.24,0:33:24.77,Sub,,0,0,0,,{\fad(80,80)}Control units drained, cleared, and oiled.
+Dialogue: 0,0:33:24.79,0:33:27.57,Sub,,0,0,0,,{\fad(80,80)}They trained at places like the Army School of
+Dialogue: 0,0:33:27.59,0:33:29.88,Sub,,0,0,0,,{\fad(80,80)}Malariology, in the Panama Canal Zone.
+Dialogue: 2,0:33:16.48,0:33:22.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1360 0 l 1360 132 l 0 132{\p0}
+Dialogue: 3,0:33:16.48,0:33:22.23,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:33:16.48,0:33:22.23,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)
+Dialogue: 3,0:33:16.48,0:33:22.23,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY SCHOOL OF MALARIOLOGY · FORT CLAYTON, CANAL ZONE · 1943
+Dialogue: 0,0:33:43.56,0:33:45.42,Sub,,0,0,0,,{\fad(80,80)}Drainage was the simplest weapon.
+Dialogue: 0,0:33:45.44,0:33:48.31,Sub,,0,0,0,,{\fad(80,80)}Take away the standing water, and you take away the
+Dialogue: 0,0:33:48.33,0:33:48.77,Sub,,0,0,0,,{\fad(80,80)}nursery.
+Dialogue: 2,0:33:43.81,0:33:49.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1467 0 l 1467 132 l 0 132{\p0}
+Dialogue: 3,0:33:43.81,0:33:49.19,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:33:43.81,0:33:49.19,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)
+Dialogue: 3,0:33:43.81,0:33:49.19,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A MALARIA CONTROL UNIT LEARNS DRAINAGE · CAMP PLAUCHE, LA. · 1943
+Dialogue: 0,0:33:49.24,0:33:52.06,Sub,,0,0,0,,{\fad(80,80)}A Navy film from the time shows the work.
+Dialogue: 0,0:33:52.08,0:33:54.35,Sub,,0,0,0,,{\fad(80,80)}A laboratory bench. A microscope.
+Dialogue: 0,0:33:54.37,0:33:55.46,Sub,,0,0,0,,{\fad(80,80)}Larvae in a jar.
+Dialogue: 2,0:33:49.49,0:33:55.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1788 0 l 1788 132 l 0 132{\p0}
+Dialogue: 3,0:33:49.49,0:33:55.24,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:33:49.49,0:33:55.24,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. NAVY FILM · MALARIA AND MOSQUITO CONTROL ACTIVITIES (MUNDA, NEW GEORGIA, AND LICATA, SICILY) · 1943–44
+Dialogue: 3,0:33:49.49,0:33:55.24,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MALARIA CONTROL LABORATORY WORK
+Dialogue: 0,0:33:55.93,0:33:58.77,Sub,,0,0,0,,{\fad(80,80)}And inspectors in the field, dipping larvae out of
+Dialogue: 0,0:33:58.79,0:34:00.43,Sub,,0,0,0,,{\fad(80,80)}puddles and drainage ditches.
+Dialogue: 2,0:33:56.18,0:34:00.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1788 0 l 1788 132 l 0 132{\p0}
+Dialogue: 3,0:33:56.18,0:34:00.85,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:33:56.18,0:34:00.85,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. NAVY FILM · MALARIA AND MOSQUITO CONTROL ACTIVITIES (MUNDA, NEW GEORGIA, AND LICATA, SICILY) · 1943–44
+Dialogue: 3,0:33:56.18,0:34:00.85,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}INSPECTORS CHECKING STANDING WATER
+Dialogue: 0,0:34:00.90,0:34:01.95,Sub,,0,0,0,,{\fad(80,80)}Then came DDT.
+Dialogue: 0,0:34:01.97,0:34:05.53,Sub,,0,0,0,,{\fad(80,80)}The Army's malaria history says the first field
+Dialogue: 0,0:34:05.55,0:34:09.33,Sub,,0,0,0,,{\fad(80,80)}trial of a DDT residual spray took place in Italy,
+Dialogue: 0,0:34:09.35,0:34:09.94,Sub,,0,0,0,,{\fad(80,80)}in 1944.
+Dialogue: 0,0:34:09.96,0:34:13.75,Sub,,0,0,0,,{\fad(80,80)}The same history shows it being applied by hand in
+Dialogue: 0,0:34:13.77,0:34:14.81,Sub,,0,0,0,,{\fad(80,80)}Army barracks.
+Dialogue: 2,0:34:01.15,0:34:06.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1146 0 l 1146 132 l 0 132{\p0}
+Dialogue: 3,0:34:01.15,0:34:06.90,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:01.15,0:34:06.90,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)
+Dialogue: 3,0:34:01.15,0:34:06.90,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}HAND-SPRAYING RESIDUAL DDT IN ARMY BARRACKS · 1944
+Dialogue: 0,0:34:15.28,0:34:16.55,Sub,,0,0,0,,{\fad(80,80)}An Army film, DDT:
+Dialogue: 0,0:34:16.57,0:34:20.21,Sub,,0,0,0,,{\fad(80,80)}Weapon Against Disease, shows a soldier with a hand
+Dialogue: 0,0:34:20.23,0:34:23.22,Sub,,0,0,0,,{\fad(80,80)}sprayer on a river bank, in clouds of fog.
+Dialogue: 2,0:34:15.53,0:34:21.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1144 0 l 1144 132 l 0 132{\p0}
+Dialogue: 3,0:34:15.53,0:34:21.28,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:15.53,0:34:21.28,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 195 · DDT: WEAPON AGAINST DISEASE · 1944–45
+Dialogue: 3,0:34:15.53,0:34:21.28,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SPRAYING ALONG A RIVER BANK · PLACE NOT STATED
+Dialogue: 0,0:34:23.69,0:34:25.47,Sub,,0,0,0,,{\fad(80,80)}Posters boiled the rules down.
+Dialogue: 0,0:34:25.49,0:34:28.52,Sub,,0,0,0,,{\fad(80,80)}Keep covered from sundown to sunrise, one said, and
+Dialogue: 0,0:34:28.54,0:34:29.66,Sub,,0,0,0,,{\fad(80,80)}use your repellent.
+Dialogue: 2,0:34:23.94,0:34:29.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 982 0 l 982 132 l 0 132{\p0}
+Dialogue: 3,0:34:23.94,0:34:29.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:23.94,0:34:29.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)
+Dialogue: 3,0:34:23.94,0:34:29.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY ANTIMALARIA POSTER · 1943
+Dialogue: 0,0:34:30.13,0:34:32.12,Sub,,0,0,0,,{\fad(80,80)}At night, a hammock, and a net over it.
+Dialogue: 2,0:34:30.38,0:34:32.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1482 0 l 1482 132 l 0 132{\p0}
+Dialogue: 3,0:34:30.38,0:34:32.54,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:30.38,0:34:32.54,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 147 · MEDICAL SERVICE IN THE JUNGLE · 1944 · LOCATION NOT STATED
+Dialogue: 3,0:34:30.38,0:34:32.54,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A HAMMOCK UNDER A MOSQUITO NET
+Dialogue: 0,0:34:32.59,0:34:33.73,Sub,,0,0,0,,{\fad(80,80)}Then the tablets.
+Dialogue: 0,0:34:33.75,0:34:36.86,Sub,,0,0,0,,{\fad(80,80)}The Army's history says that enforced, regular
+Dialogue: 0,0:34:36.88,0:34:40.26,Sub,,0,0,0,,{\fad(80,80)}Atabrine dosing, together with malaria discipline,
+Dialogue: 0,0:34:40.28,0:34:43.18,Sub,,0,0,0,,{\fad(80,80)}allowed forces to fight in malarious areas.
+Dialogue: 2,0:34:32.84,0:34:38.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1482 0 l 1482 132 l 0 132{\p0}
+Dialogue: 3,0:34:32.84,0:34:38.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:32.84,0:34:38.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 147 · MEDICAL SERVICE IN THE JUNGLE · 1944 · LOCATION NOT STATED
+Dialogue: 3,0:34:32.84,0:34:38.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SOLDIERS TAKING ATABRINE UNDER SUPERVISION
+Dialogue: 0,0:34:43.65,0:34:44.58,Sub,,0,0,0,,{\fad(80,80)}It had a cost.
+Dialogue: 0,0:34:44.60,0:34:47.38,Sub,,0,0,0,,{\fad(80,80)}Atabrine turned the skin a sallow yellow.
+Dialogue: 0,0:34:47.40,0:34:49.29,Sub,,0,0,0,,{\fad(80,80)}Some men refused to take it.
+Dialogue: 0,0:34:49.31,0:34:52.63,Sub,,0,0,0,,{\fad(80,80)}A man who stopped, the Heritage Center notes, was
+Dialogue: 0,0:34:52.65,0:34:54.13,Sub,,0,0,0,,{\fad(80,80)}virtually unprotected.
+Dialogue: 2,0:34:43.90,0:34:49.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1788 0 l 1788 132 l 0 132{\p0}
+Dialogue: 3,0:34:43.90,0:34:49.65,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:43.90,0:34:49.65,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. NAVY FILM · MALARIA AND MOSQUITO CONTROL ACTIVITIES (MUNDA, NEW GEORGIA, AND LICATA, SICILY) · 1943–44
+Dialogue: 3,0:34:43.90,0:34:49.65,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ATABRINE BOTTLE AND TABLETS · NAVY MALARIA FILM
+Dialogue: 0,0:34:54.60,0:34:57.67,Sub,,0,0,0,,{\fad(80,80)}So malaria became a matter of discipline.
+Dialogue: 0,0:34:57.69,0:35:00.01,Sub,,0,0,0,,{\fad(80,80)}A poster of 1943 told soldiers:
+Dialogue: 0,0:35:00.03,0:35:01.29,Sub,,0,0,0,,{\fad(80,80)}don't be a dummy.
+Dialogue: 2,0:34:54.85,0:35:00.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 982 0 l 982 132 l 0 132{\p0}
+Dialogue: 3,0:34:54.85,0:35:00.60,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:34:54.85,0:35:00.60,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)
+Dialogue: 3,0:34:54.85,0:35:00.60,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ARMY ANTIMALARIA POSTER · 1943
+Dialogue: 0,0:35:01.76,0:35:05.06,Sub,,0,0,0,,{\fad(80,80)}Army manuals of the period also showed how mosquito
+Dialogue: 0,0:35:05.08,0:35:08.38,Sub,,0,0,0,,{\fad(80,80)}control crews could treat breeding areas, even from
+Dialogue: 0,0:35:08.40,0:35:08.90,Sub,,0,0,0,,{\fad(80,80)}the air.
+Dialogue: 2,0:35:02.01,0:35:07.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1381 0 l 1381 132 l 0 132{\p0}
+Dialogue: 3,0:35:02.01,0:35:07.76,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:02.01,0:35:07.76,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)
+Dialogue: 3,0:35:02.01,0:35:07.76,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AIRPLANE APPLICATION OF LARVICIDE · ARMY MANUAL FIGURE · 1944
+Dialogue: 0,0:35:25.81,0:35:29.10,Sub,,0,0,0,,{\fad(80,80)}A Navy malaria film shows the harbor and streets of
+Dialogue: 0,0:35:29.12,0:35:30.27,Sub,,0,0,0,,{\fad(80,80)}Licata, in Sicily.
+Dialogue: 2,0:35:26.06,0:35:30.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1788 0 l 1788 132 l 0 132{\p0}
+Dialogue: 3,0:35:26.06,0:35:30.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:26.06,0:35:30.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. NAVY FILM · MALARIA AND MOSQUITO CONTROL ACTIVITIES (MUNDA, NEW GEORGIA, AND LICATA, SICILY) · 1943–44
+Dialogue: 3,0:35:26.06,0:35:30.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LICATA, SICILY · FILM OF 1943–44
+Dialogue: 0,0:35:30.74,0:35:33.85,Sub,,0,0,0,,{\fad(80,80)}In India, near Calcutta, the Army's manual shows a
+Dialogue: 0,0:35:33.87,0:35:36.79,Sub,,0,0,0,,{\fad(80,80)}tank full of water plants, a breeding place for
+Dialogue: 0,0:35:36.81,0:35:38.98,Sub,,0,0,0,,{\fad(80,80)}mosquitoes right beside a campsite.
+Dialogue: 2,0:35:30.99,0:35:36.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1338 0 l 1338 132 l 0 132{\p0}
+Dialogue: 3,0:35:30.99,0:35:36.74,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:30.99,0:35:36.74,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)
+Dialogue: 3,0:35:30.99,0:35:36.74,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}A TANK NEAR A CAMPSITE · VICINITY OF CALCUTTA, INDIA · 1944
+Dialogue: 0,0:35:39.45,0:35:41.14,Sub,,0,0,0,,{\fad(80,80)}None of this was glamorous.
+Dialogue: 0,0:35:41.16,0:35:43.43,Sub,,0,0,0,,{\fad(80,80)}Survey, drain, oil, spray, cover up.
+Dialogue: 0,0:35:43.45,0:35:46.35,Sub,,0,0,0,,{\fad(80,80)}But the Army's history credits it with letting
+Dialogue: 0,0:35:46.37,0:35:49.79,Sub,,0,0,0,,{\fad(80,80)}forces fight in places where malaria had been winning.
+Dialogue: 2,0:35:39.70,0:35:45.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1482 0 l 1482 132 l 0 132{\p0}
+Dialogue: 3,0:35:39.70,0:35:45.45,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:39.70,0:35:45.45,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 147 · MEDICAL SERVICE IN THE JUNGLE · 1944 · LOCATION NOT STATED
+Dialogue: 3,0:35:39.70,0:35:45.45,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}JUNGLE APPROACH
+Dialogue: 0,0:35:50.26,0:35:53.14,Sub,,0,0,0,,{\fad(80,80)}And in the Mediterranean, a different insect was
+Dialogue: 0,0:35:53.16,0:35:56.10,Sub,,0,0,0,,{\fad(80,80)}about to start a different epidemic, in a city of
+Dialogue: 0,0:35:56.12,0:35:57.12,Sub,,0,0,0,,{\fad(80,80)}crowded shelters.
+Dialogue: 2,0:35:50.51,0:35:56.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1144 0 l 1144 132 l 0 132{\p0}
+Dialogue: 3,0:35:50.51,0:35:56.26,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:35:50.51,0:35:56.26,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 195 · DDT: WEAPON AGAINST DISEASE · 1944–45
+Dialogue: 3,0:35:50.51,0:35:56.26,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}CIVILIANS IN AN ARCADE · NAPLES, WINTER 1943–44
+Dialogue: 0,0:36:01.79,0:36:03.68,Sub,,0,0,0,,{\fad(80,80)}Typhus is carried by lice.
+Dialogue: 0,0:36:03.70,0:36:07.50,Sub,,0,0,0,,{\fad(80,80)}In September 1943, as Allied armies fought their way
+Dialogue: 0,0:36:07.52,0:36:10.44,Sub,,0,0,0,,{\fad(80,80)}up Italy, cases were reported in Naples.
+Dialogue: 2,0:36:02.04,0:36:07.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1424 0 l 1424 132 l 0 132{\p0}
+Dialogue: 3,0:36:02.04,0:36:07.79,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:02.04,0:36:07.79,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 195 · DDT: WEAPON AGAINST DISEASE · 1944–45
+Dialogue: 3,0:36:02.04,0:36:07.79,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}SIGN: DANGER OF TYPHUS CARRIED BY LICE · NAPLES, WINTER 1943–44
+Dialogue: 0,0:36:24.37,0:36:26.34,Sub,,0,0,0,,{\fad(80,80)}The weapon was a louse powder.
+Dialogue: 0,0:36:26.36,0:36:29.60,Sub,,0,0,0,,{\fad(80,80)}The Anglo-American account credits the pioneering
+Dialogue: 0,0:36:29.62,0:36:30.33,Sub,,0,0,0,,{\fad(80,80)}use of DDT.
+Dialogue: 0,0:36:30.35,0:36:33.18,Sub,,0,0,0,,{\fad(80,80)}In this photograph, an Italian woman uses a
+Dialogue: 0,0:36:33.20,0:36:36.64,Sub,,0,0,0,,{\fad(80,80)}hand-operated dust gun to apply louse powder under a
+Dialogue: 0,0:36:36.66,0:36:37.90,Sub,,0,0,0,,{\fad(80,80)}boy's shirt sleeve.
+Dialogue: 2,0:36:24.62,0:36:30.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1531 0 l 1531 132 l 0 132{\p0}
+Dialogue: 3,0:36:24.62,0:36:30.37,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:24.62,0:36:30.37,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VII
+Dialogue: 3,0:36:24.62,0:36:30.37,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}ITALIAN WOMAN USING A HAND DUST GUN ON A BOY'S SLEEVE · NAPLES, 1943
+Dialogue: 0,0:36:38.37,0:36:41.28,Sub,,0,0,0,,{\fad(80,80)}In the Army's film, civilians stand in a long line
+Dialogue: 0,0:36:41.30,0:36:43.75,Sub,,0,0,0,,{\fad(80,80)}while workers dust their sleeves and hair.
+Dialogue: 2,0:36:38.62,0:36:44.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1144 0 l 1144 132 l 0 132{\p0}
+Dialogue: 3,0:36:38.62,0:36:44.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:38.62,0:36:44.17,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 195 · DDT: WEAPON AGAINST DISEASE · 1944–45
+Dialogue: 3,0:36:38.62,0:36:44.17,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LOUSE-POWDER DUSTING · NAPLES, WINTER 1943–44
+Dialogue: 0,0:36:51.47,0:36:52.72,Sub,,0,0,0,,{\fad(80,80)}Machines sped it up.
+Dialogue: 0,0:36:52.74,0:36:55.90,Sub,,0,0,0,,{\fad(80,80)}A gasoline-motor-driven applicator could dust many
+Dialogue: 0,0:36:55.92,0:36:57.36,Sub,,0,0,0,,{\fad(80,80)}clothed people at once.
+Dialogue: 2,0:36:51.72,0:36:57.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1103 0 l 1103 132 l 0 132{\p0}
+Dialogue: 3,0:36:51.72,0:36:57.47,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:36:51.72,0:36:57.47,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VII
+Dialogue: 3,0:36:51.72,0:36:57.47,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}MOTOR-DRIVEN LOUSE-POWDER DUSTERS · NAPLES, 1944
+Dialogue: 0,0:37:39.41,0:37:41.30,Sub,,0,0,0,,{\fad(80,80)}What we can say is narrower.
+Dialogue: 0,0:37:41.32,0:37:44.65,Sub,,0,0,0,,{\fad(80,80)}A powder, a plan, and tens of thousands of people
+Dialogue: 0,0:37:44.67,0:37:45.95,Sub,,0,0,0,,{\fad(80,80)}lining up each day.
+Dialogue: 0,0:37:45.97,0:37:48.47,Sub,,0,0,0,,{\fad(80,80)}By late February, the alarm was over.
+Dialogue: 2,0:37:39.66,0:37:45.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1144 0 l 1144 132 l 0 132{\p0}
+Dialogue: 3,0:37:39.66,0:37:45.41,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:37:39.66,0:37:45.41,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 195 · DDT: WEAPON AGAINST DISEASE · 1944–45
+Dialogue: 3,0:37:39.66,0:37:45.41,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}LOUSE-POWDER DUSTING · NAPLES, WINTER 1943–44
+Dialogue: 0,0:37:48.94,0:37:52.68,Sub,,0,0,0,,{\fad(80,80)}Those old lessons, water, waste, insects and shots,
+Dialogue: 0,0:37:52.70,0:37:54.59,Sub,,0,0,0,,{\fad(80,80)}did not stay in the 1940s.
+Dialogue: 0,0:37:54.61,0:37:57.02,Sub,,0,0,0,,{\fad(80,80)}So what does the military do now?
+Dialogue: 2,0:37:49.19,0:37:54.94,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:37:49.19,0:37:54.94,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:37:49.19,0:37:54.94,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MCAS IWAKUNI, JAPAN · OCT. 2, 2026 · DVIDS VIDEO
+Dialogue: 3,0:37:49.19,0:37:54.94,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FLU VACCINATION · NAVY CLINIC
+Dialogue: 0,0:39:14.92,0:39:16.18,Sub,,0,0,0,,{\fad(80,80)}Start with water.
+Dialogue: 0,0:39:16.20,0:39:20.09,Sub,,0,0,0,,{\fad(80,80)}An Army film from 1944 shows a purification station:
+Dialogue: 0,0:39:20.11,0:39:23.85,Sub,,0,0,0,,{\fad(80,80)}barrels, a canvas bag, and a soldier drinking from
+Dialogue: 0,0:39:23.87,0:39:24.75,Sub,,0,0,0,,{\fad(80,80)}his canteen.
+Dialogue: 2,0:39:15.17,0:39:20.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1482 0 l 1482 132 l 0 132{\p0}
+Dialogue: 3,0:39:15.17,0:39:20.92,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:15.17,0:39:20.92,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 147 · MEDICAL SERVICE IN THE JUNGLE · 1944 · LOCATION NOT STATED
+Dialogue: 3,0:39:15.17,0:39:20.92,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WATER PURIFICATION STATION
+Dialogue: 0,0:39:25.22,0:39:27.28,Sub,,0,0,0,,{\fad(80,80)}Insect control came home, too.
+Dialogue: 0,0:39:27.30,0:39:30.55,Sub,,0,0,0,,{\fad(80,80)}A Public Health Service training film from 1945
+Dialogue: 0,0:39:30.57,0:39:34.17,Sub,,0,0,0,,{\fad(80,80)}shows the larvae of Aedes aegypti, the mosquito that
+Dialogue: 0,0:39:34.19,0:39:36.40,Sub,,0,0,0,,{\fad(80,80)}carries yellow fever and dengue.
+Dialogue: 2,0:39:25.47,0:39:31.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1296 0 l 1296 132 l 0 132{\p0}
+Dialogue: 3,0:39:25.47,0:39:31.22,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:25.47,0:39:31.22,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. PUBLIC HEALTH SERVICE · NLM COPY
+Dialogue: 3,0:39:25.47,0:39:31.22,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}AEDES AEGYPTI LARVAE AND PUPAE · PHS TRAINING FILM · 1945
+Dialogue: 0,0:39:36.87,0:39:40.74,Sub,,0,0,0,,{\fad(80,80)}The Army's World War I sanitation volume shows crews
+Dialogue: 0,0:39:40.76,0:39:44.41,Sub,,0,0,0,,{\fad(80,80)}oiling small pools with knapsack sprayers at Camp
+Dialogue: 0,0:39:44.43,0:39:46.28,Sub,,0,0,0,,{\fad(80,80)}Meade, Maryland, in 1918.
+Dialogue: 2,0:39:37.12,0:39:42.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1489 0 l 1489 132 l 0 132{\p0}
+Dialogue: 3,0:39:37.12,0:39:42.87,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:37.12,0:39:42.87,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}ARMY MEDICAL DEPT. IN THE WORLD WAR, VOL. 6 'SANITATION' (1926)
+Dialogue: 3,0:39:37.12,0:39:42.87,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}OILING SMALL POOLS WITH KNAPSACK SPRAYERS · CAMP MEADE, MD. · 1918
+Dialogue: 0,0:39:54.57,0:39:57.93,Sub,,0,0,0,,{\fad(80,80)}The Army's article adds that the CDC recommends a
+Dialogue: 0,0:39:57.95,0:40:01.39,Sub,,0,0,0,,{\fad(80,80)}yearly flu vaccine for people older than 6 months.
+Dialogue: 0,0:40:01.41,0:40:04.22,Sub,,0,0,0,,{\fad(80,80)}That is the Army quoting the CDC, not us.
+Dialogue: 2,0:39:54.82,0:40:00.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1317 0 l 1317 132 l 0 132{\p0}
+Dialogue: 3,0:39:54.82,0:40:00.57,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:39:54.82,0:40:00.57,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. WAR DEPT. FILM BULLETIN 217 · NLM COPY
+Dialogue: 3,0:39:54.82,0:40:00.57,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}VACCINE PRODUCTION · ARMY MEDICAL LABORATORIES FILM · 1947
+Dialogue: 0,0:40:04.69,0:40:08.60,Sub,,0,0,0,,{\fad(80,80)}On October 2, 2026, at Marine Corps Air Station
+Dialogue: 0,0:40:08.62,0:40:13.12,Sub,,0,0,0,,{\fad(80,80)}Iwakuni, in Japan, a Navy clinic ran flu vaccinations.
+Dialogue: 2,0:40:04.94,0:40:10.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:40:04.94,0:40:10.69,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:40:04.94,0:40:10.69,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MCAS IWAKUNI, JAPAN · OCT. 2, 2026 · DVIDS VIDEO
+Dialogue: 3,0:40:04.94,0:40:10.69,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FLU VACCINATION · NAVY CLINIC
+Dialogue: 0,0:40:13.59,0:40:16.62,Sub,,0,0,0,,{\fad(80,80)}At Ramstein, in Germany, an immunizations clinic
+Dialogue: 0,0:40:16.64,0:40:17.44,Sub,,0,0,0,,{\fad(80,80)}does one job:
+Dialogue: 0,0:40:17.46,0:40:20.55,Sub,,0,0,0,,{\fad(80,80)}the paperwork, the vial, the needle, and then the
+Dialogue: 0,0:40:20.57,0:40:21.83,Sub,,0,0,0,,{\fad(80,80)}next person in line.
+Dialogue: 2,0:40:13.84,0:40:19.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 652 0 l 652 132 l 0 132{\p0}
+Dialogue: 3,0:40:13.84,0:40:19.59,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:40:13.84,0:40:19.59,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}RAMSTEIN, GERMANY · DVIDS VIDEO
+Dialogue: 3,0:40:13.84,0:40:19.59,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: IMMUNIZATIONS CLINIC
+Dialogue: 0,0:40:22.30,0:40:25.67,Sub,,0,0,0,,{\fad(80,80)}On October 26, at Camp Carroll, in South Korea, a
+Dialogue: 0,0:40:25.69,0:40:28.92,Sub,,0,0,0,,{\fad(80,80)}flu drive filled a large hall with soldiers and
+Dialogue: 0,0:40:28.94,0:40:31.62,Sub,,0,0,0,,{\fad(80,80)}staff, and a line of sleeves rolled up.
+Dialogue: 2,0:40:22.55,0:40:28.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:40:22.55,0:40:28.30,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:40:22.55,0:40:28.30,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CAMP CARROLL, SOUTH KOREA · OCT. 26, 2026 · DVIDS VIDEO
+Dialogue: 3,0:40:22.55,0:40:28.30,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FLU DRIVE
+Dialogue: 0,0:40:32.09,0:40:33.80,Sub,,0,0,0,,{\fad(80,80)}The camps are different now.
+Dialogue: 0,0:40:33.82,0:40:36.63,Sub,,0,0,0,,{\fad(80,80)}The enemy, in the end, is older than any army.
+Dialogue: 2,0:40:32.34,0:40:37.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 950 0 l 950 132 l 0 132{\p0}
+Dialogue: 3,0:40:32.34,0:40:37.05,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:40:32.34,0:40:37.05,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}CAMP CARROLL, SOUTH KOREA · OCT. 26, 2026 · DVIDS VIDEO
+Dialogue: 3,0:40:32.34,0:40:37.05,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FLU DRIVE
+Dialogue: 0,0:41:32.17,0:41:35.48,Sub,,0,0,0,,{\fad(80,80)}Non-battle includes accidents, so it is not a pure
+Dialogue: 0,0:41:35.50,0:41:36.62,Sub,,0,0,0,,{\fad(80,80)}count of disease.
+Dialogue: 0,0:41:36.64,0:41:39.81,Sub,,0,0,0,,{\fad(80,80)}But in the camps of these wars, the records keep
+Dialogue: 0,0:41:39.83,0:41:41.68,Sub,,0,0,0,,{\fad(80,80)}pointing at the same things:
+Dialogue: 0,0:41:41.70,0:41:44.08,Sub,,0,0,0,,{\fad(80,80)}crowding, filthy water, and insects.
+Dialogue: 2,0:41:32.42,0:41:38.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 1482 0 l 1482 132 l 0 132{\p0}
+Dialogue: 3,0:41:32.42,0:41:38.17,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:41:32.42,0:41:38.17,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}U.S. ARMY FILM BULLETIN 147 · MEDICAL SERVICE IN THE JUNGLE · 1944 · LOCATION NOT STATED
+Dialogue: 3,0:41:32.42,0:41:38.17,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}WATER PURIFICATION STATION
+Dialogue: 0,0:41:58.63,0:42:01.86,Sub,,0,0,0,,{\fad(80,80)}The change was not magic, and the records do not say
+Dialogue: 0,0:42:01.88,0:42:03.68,Sub,,0,0,0,,{\fad(80,80)}how much each piece mattered.
+Dialogue: 0,0:42:03.70,0:42:06.80,Sub,,0,0,0,,{\fad(80,80)}Survey units, clean water, drained ponds, powders,
+Dialogue: 0,0:42:06.82,0:42:09.86,Sub,,0,0,0,,{\fad(80,80)}vaccines, and people willing to count and enforce
+Dialogue: 0,0:42:09.88,0:42:11.11,Sub,,0,0,0,,{\fad(80,80)}were all part of it.
+Dialogue: 2,0:41:58.88,0:42:04.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 652 0 l 652 132 l 0 132{\p0}
+Dialogue: 3,0:41:58.88,0:42:04.63,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:41:58.88,0:42:04.63,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}RAMSTEIN, GERMANY · DVIDS VIDEO
+Dialogue: 3,0:41:58.88,0:42:04.63,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: IMMUNIZATIONS CLINIC
+Dialogue: 0,0:42:11.58,0:42:14.08,Sub,,0,0,0,,{\fad(80,80)}Disease is a quieter enemy than a rifle.
+Dialogue: 0,0:42:14.10,0:42:16.09,Sub,,0,0,0,,{\fad(80,80)}It never stopped being an enemy.
+Dialogue: 2,0:42:11.83,0:42:16.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H0014120A\1a&H30&\p1}m 0 0 l 845 0 l 845 132 l 0 132{\p0}
+Dialogue: 3,0:42:11.83,0:42:16.51,Box,,0,0,0,,{\an7\move(76,828,96,828,0,350)\fad(250,300)\bord0\shad0\1c&H00A3B32B\1a&H00&\p1}m 0 0 l 10 0 l 10 132 l 0 132{\p0}
+Dialogue: 3,0:42:11.83,0:42:16.51,Kick,,0,0,0,,{\an7\move(106,846,126,846,0,350)\fad(250,300)}MCAS IWAKUNI, JAPAN · OCT. 2, 2026 · DVIDS VIDEO
+Dialogue: 3,0:42:11.83,0:42:16.51,Head,,0,0,0,,{\an7\move(106,878,126,878,0,350)\fad(250,300)}TODAY: FLU VACCINATION · NAVY CLINIC
+Dialogue: 5,0:42:30.88,0:42:35.08,Credit,,0,0,0,,{\fad(400,0)}Photographs, engravings and plates (public domain, via Internet Archive): see sources.md for each item and page.\NFilm: U.S. government films via the National Archives and Internet Archive (public domain), each labelled with its own year.\NFootage: U.S. Navy, U.S. Air Force and U.S. Army via DVIDS (public domain), Oct.-Nov. 2026.\NAppearance of U.S. government visual information does not imply or constitute endorsement.\NKEPT ALIVE is an independent channel, not affiliated with the U.S. Army, DoD, CDC or any government agency.\NFor education only. This is not medical advice.
+Dialogue: 5,0:00:00.60,0:00:07.00,Credit,,0,0,0,,{\fad(400,400)\an9\pos(1880,40)\fs20}Footage: U.S. government via DVIDS · Independent channel, not affiliated with the DoD, NIH or CDC

@@ -1,0 +1,5 @@
+*.pid
+upload.err
+upload.json
+img3/
+plates/

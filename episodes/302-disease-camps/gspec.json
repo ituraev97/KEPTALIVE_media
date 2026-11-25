@@ -1,0 +1,2521 @@
+[
+ {
+  "key": "stat_3a29f0",
+  "name": "stat",
+  "opts": {
+   "a": "385",
+   "b": "BATTLE DEATHS \u00b7 SPANISH\u2013AMERICAN WAR",
+   "c": "MAY\u2013AUG. 1898 \u00b7 SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_a0efc6",
+  "name": "stat",
+  "opts": {
+   "a": "2,061",
+   "b": "OTHER DEATHS \u00b7 NOT IN BATTLE",
+   "c": "INCLUDES ACCIDENTS \u00b7 DEAD DATA COVER MAY 1\u2013AUG. 31, 1898 \u00b7 SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_2649cb",
+  "name": "quote",
+  "opts": {
+   "q": "...thousand times harder to stand up against than the missiles of the enemy.",
+   "w": "GEN. WILLIAM SHAFTER, ON DISEASE \u00b7 AS QUOTED BY PBS AMERICAN EXPERIENCE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_bb7277",
+  "name": "stat",
+  "opts": {
+   "a": "20,700",
+   "b": "CAUGHT TYPHOID \u00b7 MORE THAN 1,500 DIED",
+   "c": "OF 171,000 PERSONNEL IN THE TRAINING CAMPS \u00b7 SOURCE: PBS AMERICAN EXPERIENCE, \"FEVER\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1dd308",
+  "name": "stat",
+  "opts": {
+   "a": "11,550",
+   "b": "OTHER DEATHS \u00b7 MEXICAN WAR, 1846\u201348",
+   "c": "VS 1,733 BATTLE DEATHS \u00b7 SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6c4abb",
+  "name": "stat",
+  "opts": {
+   "a": "224,097",
+   "b": "OTHER DEATHS \u00b7 CIVIL WAR, UNION FORCES",
+   "c": "VS 140,414 BATTLE DEATHS \u00b7 SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_54222c",
+  "name": "stat",
+  "opts": {
+   "a": "63,114",
+   "b": "OTHER DEATHS \u00b7 WORLD WAR I",
+   "c": "VS 53,402 BATTLE DEATHS \u00b7 ALL SERVICES \u00b7 SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_0d7c0b",
+  "name": "quote",
+  "opts": {
+   "q": "For every life lost to a bullet, disease claimed two lives.",
+   "w": "NATIONAL MUSEUM OF HEALTH AND MEDICINE (DEFENSE HEALTH AGENCY), \"TO BIND UP THE NATION'S WOUNDS\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_d5b211",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. ARMY \u00b7 WORLD WAR II \u00b7 THROUGH DECEMBER 1945",
+   "title": "WHERE THE RULE BROKE",
+   "rows": [
+    [
+     "BATTLE DEATHS",
+     "229,823"
+    ],
+    [
+     "DISEASE DEATHS",
+     "14,904"
+    ],
+    [
+     "DISEASE ADMISSIONS, 1942\u201345",
+     "14,998,369"
+    ]
+   ],
+   "footer": "SOURCE: MEDICAL STATISTICS IN THE U.S. ARMY, WORLD WAR II (OTSG, 1975)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "title_7941fc",
+  "name": "title",
+  "opts": {
+   "kicker": "WAR MEDICINE \u00b7 EP 3",
+   "title": "CAMP FEVER",
+   "sub": "WHEN DISEASE OUTKILLED THE BATTLEFIELD",
+   "size": 210
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_800c30",
+  "name": "chapter",
+  "opts": {
+   "case": "SPAIN \u00b7 1898",
+   "n": "I",
+   "t": "THE CAMPS OF 1898"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_f4ba74",
+  "name": "doc",
+  "opts": {
+   "header": "NATIONAL MUSEUM OF HEALTH AND MEDICINE",
+   "title": "TYPHOID, 1898",
+   "body": "\"swept through overcrowded Army camps, causing far more deaths than combat\"",
+   "source": "SOURCE: NATIONAL MUSEUM OF HEALTH AND MEDICINE",
+   "stamp": "ON THE RECORD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_8e958a",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -90,
+      25
+     ],
+     [
+      -76,
+      38
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       -85.26,
+       34.93
+      ],
+      "r": 34,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -85.26,
+       34.93
+      ],
+      "name": "CAMP THOMAS \u00b7 CHICKAMAUGA",
+      "sub": "45,000+ VOLUNTEERS SENT",
+      "d": 0.3,
+      "color": "#6CF29A"
+     },
+     {
+      "ll": [
+       -81.66,
+       30.33
+      ],
+      "name": "JACKSONVILLE",
+      "sub": "REGIMENTAL CAMPS",
+      "d": 0.6,
+      "anchor": "end"
+     },
+     {
+      "ll": [
+       -82.46,
+       27.95
+      ],
+      "name": "PORT TAMPA",
+      "sub": "EMBARKATION",
+      "d": 0.8,
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "SUMMER 1898",
+   "title": "THE CAMPS",
+   "footer": "SOURCES: GEORGIA STATE UNIVERSITY DISSERTATION (2007) \u00b7 HARPER'S PICTORIAL HISTORY (1899)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_2a1ff3",
+  "name": "doc",
+  "opts": {
+   "header": "REPORT ON THE ORIGIN AND SPREAD OF TYPHOID FEVER IN U.S. MILITARY CAMPS DURING THE SPANISH WAR OF 1898",
+   "title": "REED \u00b7 VAUGHAN \u00b7 SHAKESPEARE",
+   "body": "Two volumes. Government Printing Office, 1904.",
+   "source": "SOURCE: BOARD REPORT, CITED IN A 2007 GEORGIA STATE UNIVERSITY DISSERTATION",
+   "stamp": "THE BOARD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_46b31f",
+  "name": "stat",
+  "opts": {
+   "a": "92",
+   "b": "REGIMENTS STUDIED \u00b7 OVER 100,000 MEN",
+   "c": "SOURCE: UNIVERSITY OF VIRGINIA, CLAUDE MOORE HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_ba8d2a",
+  "name": "list",
+  "opts": {
+   "kicker": "THE BOARD'S METHOD",
+   "title": "COUNT, MARK, COMPARE",
+   "items": [
+    "Count the cases",
+    "Mark every tent on a plan",
+    "Find the sinks and the wells",
+    "Ask what the sick tents shared"
+   ],
+   "footer": "SOURCE: CAMP PLANS IN THE BOARD REPORT (1904)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_c65324",
+  "name": "cards3",
+  "opts": {
+   "kicker": "THE BOARD'S PUZZLE",
+   "title": "TENT TO TENT",
+   "cards": [
+    {
+     "h": "WATER",
+     "t": "Shared",
+     "s": "The same supply"
+    },
+    {
+     "h": "FOOD",
+     "t": "Shared",
+     "s": "The same kitchen"
+    },
+    {
+     "h": "?",
+     "t": "Different results",
+     "s": "One tent hit hard, the next spared"
+    }
+   ],
+   "footer": "SOURCE: BOARD REPORT, AS SUMMARIZED BY UCF VIRTUAL LEARNING PROJECT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_f4c75b",
+  "name": "quote",
+  "opts": {
+   "q": "Man himself is the most active agent in the dissemination of this disease.",
+   "w": "TYPHOID BOARD ABSTRACT (1900), AS QUOTED IN A UCF VIRTUAL LEARNING PROJECT SUMMARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1f51da",
+  "name": "stat",
+  "opts": {
+   "a": "761",
+   "b": "TYPHOID DEATHS AT CAMP THOMAS \u00b7 48% OF THE BOARD'S TOTAL",
+   "c": "BOARD'S COUNT: 1,580 \u00b7 SOURCE: BOARD REPORT, CITED IN A 2007 GEORGIA STATE UNIVERSITY DISSERTATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_9e7274",
+  "name": "stat",
+  "opts": {
+   "a": "57",
+   "b": "GENERAL STATEMENTS AND CONCLUSIONS",
+   "c": "IN THE BOARD'S ABSTRACT AND ITS FINAL REPORT \u00b7 SOURCE: UNIVERSITY OF VIRGINIA, CLAUDE MOORE HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_a57a3b",
+  "name": "callcard",
+  "opts": {
+   "kicker": "TWO COUNTS \u00b7 SPANISH\u2013AMERICAN WAR",
+   "title": "TYPHOID FEVER",
+   "rows": [
+    [
+     "BOARD'S CAMP STUDY",
+     "~1,580 DEATHS"
+    ],
+    [
+     "ARMY, WHOLE WAR",
+     "20,926 CASES"
+    ],
+    [
+     "",
+     "2,192 DEATHS"
+    ]
+   ],
+   "footer": "SOURCES: BOARD REPORT \u00b7 MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. IX (1928)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_3f9f8a",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE TYPHOID BOARD \u00b7 THE LESSON",
+   "title": "HOW IT SPREAD",
+   "items": [
+    [
+     "WHERE",
+     "Where tents, sinks and kitchens stood"
+    ],
+    [
+     "HOW",
+     "Contact, flies and water"
+    ],
+    [
+     "WHO",
+     "Men carrying it from tent to tent"
+    ]
+   ],
+   "footer": "SOURCES: BOARD REPORT, AS SUMMARIZED BY UVA AND UCF"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_7b6990",
+  "name": "cards3",
+  "opts": {
+   "kicker": "TYPHOID \u00b7 TWO ARMY DIVISIONS",
+   "title": "1898 VS 1911",
+   "cards": [
+    {
+     "h": "2,693",
+     "t": "Cases, 1898",
+     "s": "Division of 10,700 men"
+    },
+    {
+     "h": "248",
+     "t": "Deaths, 1898",
+     "s": "Same division"
+    },
+    {
+     "h": "1",
+     "t": "Case, 1911",
+     "s": "Vaccinated division of 12,800 \u00b7 no deaths"
+    }
+   ],
+   "footer": "SOURCE: UNIVERSITY OF VIRGINIA, CLAUDE MOORE HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_4f307f",
+  "name": "chapter",
+  "opts": {
+   "case": "1775 \u2013 1777",
+   "n": "II",
+   "t": "THE FIRST ORDER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6f3219",
+  "name": "stat",
+  "opts": {
+   "a": "5,000",
+   "b": "OF 10,000 CONTINENTAL SOLDIERS CONTRACTED SMALLPOX \u00b7 IN ONE CASE, 1776",
+   "c": "FORCING A RETREAT \u00b7 SOURCE: NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_12ca32",
+  "name": "steps",
+  "opts": {
+   "kicker": "INOCULATION \u00b7 1700S",
+   "title": "CATCHING IT ON PURPOSE",
+   "items": [
+    [
+     "MATTER",
+     "Taken from a smallpox pustule"
+    ],
+    [
+     "CUT",
+     "A small incision in the skin"
+    ],
+    [
+     "GOAL",
+     "Immunity, with less risk of death"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL PARK SERVICE \u00b7 NOT THE SMALLPOX VACCINE USED LATER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_d0d2bf",
+  "name": "phases",
+  "opts": {
+   "kicker": "BOSTON \u00b7 1721 \u00b7 BOYLSTON'S ESTIMATE",
+   "title": "DEATH RATE",
+   "left": {
+    "label": "NATURAL SMALLPOX",
+    "num": "14%",
+    "desc": "Estimated"
+   },
+   "right": {
+    "label": "INOCULATED",
+    "num": "2%",
+    "desc": "Estimated"
+   },
+   "active": 1,
+   "footer": "SOURCE: NATIONAL PARK SERVICE, SMALLPOX INOCULATION IN THE REVOLUTIONARY WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_1593a5",
+  "name": "doc",
+  "opts": {
+   "header": "GEORGE WASHINGTON TO DR. WILLIAM SHIPPEN JR.",
+   "title": "FEBRUARY 6, 1777",
+   "body": "\"I have determined that the Troops shall be inoculated.\"",
+   "source": "SOURCE: NATIONAL PARK SERVICE",
+   "stamp": "THE ORDER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_4ecbe6",
+  "name": "quote",
+  "opts": {
+   "q": "Necessity not only authorizes but seems to require the measure.",
+   "w": "GEORGE WASHINGTON \u00b7 FEB. 6, 1777 \u00b7 VIA NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_8b2bfb",
+  "name": "stat",
+  "opts": {
+   "a": "10 : 1",
+   "b": "DISEASE DEATHS PER SOLDIER WHO FELL TO THE BRITISH",
+   "c": "\"ONE STUDY SUGGESTS\" \u00b7 SOURCE: MOUNT VERNON DIGITAL ENCYCLOPEDIA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6b13ad",
+  "name": "stat",
+  "opts": {
+   "a": "<25%",
+   "b": "OF COLONIAL TROOPS HAD EVER HAD SMALLPOX",
+   "c": "SOURCE: MILITARY HEALTH SYSTEM (HEALTH.MIL), 2021"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_7b56a6",
+  "name": "timeline",
+  "opts": {
+   "kicker": "SMALLPOX AND THE CONTINENTAL ARMY",
+   "title": "FROM RETREAT TO ORDER",
+   "events": [
+    {
+     "y": "1721",
+     "t": "Boston: Boylston's estimate"
+    },
+    {
+     "y": "FEB. 1776",
+     "t": "Arnold bans self-inoculation"
+    },
+    {
+     "y": "1776",
+     "t": "Canada: General Thomas dies"
+    },
+    {
+     "y": "FEB. 1777",
+     "t": "Washington's order"
+    },
+    {
+     "y": "LATE 1777",
+     "t": "Inoculation established"
+    }
+   ],
+   "active": 3,
+   "footer": "SOURCE: NATIONAL PARK SERVICE, SMALLPOX INOCULATION IN THE REVOLUTIONARY WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_a0223c",
+  "name": "chapter",
+  "opts": {
+   "case": "1846 \u2013 1848",
+   "n": "III",
+   "t": "THE FORGOTTEN WAR"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_9ca64c",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -108,
+      16
+     ],
+     [
+      -90,
+      32
+     ]
+    ],
+    "cities": [
+     {
+      "ll": [
+       -100.31,
+       25.67
+      ],
+      "name": "MONTERREY",
+      "sub": "1846",
+      "d": 0.3,
+      "color": "#6CF29A",
+      "anchor": "start"
+     },
+     {
+      "ll": [
+       -96.13,
+       19.2
+      ],
+      "name": "VERACRUZ",
+      "sub": "MARCH 1847",
+      "d": 0.8,
+      "color": "#6CF29A",
+      "anchor": "start"
+     },
+     {
+      "ll": [
+       -99.13,
+       19.43
+      ],
+      "name": "MEXICO CITY",
+      "sub": "1847",
+      "d": 1.3,
+      "color": "#6CF29A",
+      "anchor": "end"
+     }
+    ]
+   },
+   "kicker": "THE MEXICAN\u2013AMERICAN WAR",
+   "title": "WHERE THE ARMIES WENT",
+   "footer": "SOURCES: U.S. WAR DEPARTMENT MAP (1847) \u00b7 FROST, 1862"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_0b9c61",
+  "name": "stat",
+  "opts": {
+   "a": "1,733",
+   "b": "AMERICAN BATTLE DEATHS \u00b7 MEXICAN WAR, 1846\u20131848",
+   "c": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_703337",
+  "name": "stat",
+  "opts": {
+   "a": "11,550",
+   "b": "OTHER DEATHS \u00b7 MEXICAN WAR",
+   "c": "NOT BATTLE \u00b7 VA LABELS IT \"IN THEATER\" \u00b7 SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_f4e709",
+  "name": "cards3",
+  "opts": {
+   "kicker": "AMERICAN DEATHS \u00b7 MEXICAN WAR",
+   "title": "WHO DIED, AND HOW",
+   "cards": [
+    {
+     "h": "13,283",
+     "t": "All deaths",
+     "s": "Total"
+    },
+    {
+     "h": "1,733",
+     "t": "Battle",
+     "s": "Killed in action or died of wounds"
+    },
+    {
+     "h": "11,550",
+     "t": "Other, in theater",
+     "s": "Nearly nine in ten"
+    }
+   ],
+   "footer": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492 \u00b7 SHARE IS OUR ARITHMETIC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f780ef",
+  "name": "stat",
+  "opts": {
+   "a": "1 : 7",
+   "b": "BATTLE DEATHS TO OTHER DEATHS \u00b7 MEXICAN WAR",
+   "c": "ROUNDED \u00b7 OUR ARITHMETIC FROM CONGRESSIONAL RESEARCH SERVICE, RL32492 AND VA, AMERICA'S WARS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_784aa6",
+  "name": "doc",
+  "opts": {
+   "header": "VA, AMERICA'S WARS",
+   "title": "OTHER DEATHS",
+   "body": "\"Other Deaths (In Theater): 11,550\" \u2014 the table gives no breakdown by cause.",
+   "source": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492 \u00b7 VA, AMERICA'S WARS",
+   "stamp": "NO CAUSE LISTED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_bf1dfa",
+  "name": "callcard",
+  "opts": {
+   "kicker": "WHERE THE NUMBERS COME FROM",
+   "title": "MEXICAN WAR DEATHS",
+   "rows": [
+    [
+     "SOURCE",
+     "COMMISSIONER OF PENSIONS, ANNUAL REPORT"
+    ],
+    [
+     "YEAR",
+     "FISCAL YEAR 1903"
+    ],
+    [
+     "REPEATED BY",
+     "DEPT. OF VETERANS AFFAIRS, AMERICA'S WARS"
+    ]
+   ],
+   "footer": "SOURCES: CONGRESSIONAL RESEARCH SERVICE, RL32492 \u00b7 VA FACT SHEET, 2023"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_db6b1d",
+  "name": "quote",
+  "opts": {
+   "q": "Data prior to World War I are based on incomplete records in many cases.",
+   "w": "CONGRESSIONAL RESEARCH SERVICE, AMERICAN WAR AND MILITARY OPERATIONS CASUALTIES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_ed8937",
+  "name": "chapter",
+  "opts": {
+   "case": "1861 \u2013 1865",
+   "n": "IV",
+   "t": "THE LARGEST EXPERIMENT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_e6e06e",
+  "name": "stat",
+  "opts": {
+   "a": "67,000",
+   "b": "UNION SOLDIERS WITH MEASLES \u00b7 MORE THAN 4,000 DIED",
+   "c": "SOURCE: AMERICAN BATTLEFIELD TRUST (SECONDARY COUNT)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_b21b91",
+  "name": "quote",
+  "opts": {
+   "q": "For every life lost to a bullet, disease claimed two lives.",
+   "w": "NATIONAL MUSEUM OF HEALTH AND MEDICINE, \"TO BIND UP THE NATION'S WOUNDS\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_643311",
+  "name": "stat",
+  "opts": {
+   "a": "12,236",
+   "b": "RECORDED SMALLPOX CASES \u00b7 UNION ARMY",
+   "c": "MAY 1861 \u2013 JUNE 1866 \u00b7 SOURCE: AMERICAN BATTLEFIELD TRUST (SECONDARY COUNT)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_95f68b",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION ARMY \u00b7 DEATHS BY CAUSE",
+   "title": "BATTLE VS. EVERYTHING ELSE",
+   "left": {
+    "label": "BATTLE DEATHS",
+    "num": "140,414",
+    "desc": "Killed or died of wounds"
+   },
+   "right": {
+    "label": "OTHER DEATHS",
+    "num": "224,097",
+    "desc": "Not battle"
+   },
+   "active": 0,
+   "footer": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492 \u00b7 UNION FORCES ONLY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_ea5021",
+  "name": "phases",
+  "opts": {
+   "kicker": "UNION ARMY \u00b7 DEATHS BY CAUSE",
+   "title": "BATTLE VS. EVERYTHING ELSE",
+   "left": {
+    "label": "BATTLE DEATHS",
+    "num": "140,414",
+    "desc": "Killed or died of wounds"
+   },
+   "right": {
+    "label": "OTHER DEATHS",
+    "num": "224,097",
+    "desc": "Not battle"
+   },
+   "active": 1,
+   "footer": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492 \u00b7 UNION FORCES ONLY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_d0d8b7",
+  "name": "quote",
+  "opts": {
+   "q": "Twice as many Civil War soldiers died from disease as from battle wounds.",
+   "w": "NATIONAL PARK SERVICE, \"DEATH AND DYING\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_d114af",
+  "name": "callcard",
+  "opts": {
+   "kicker": "THE TITLE, CHECKED",
+   "title": "CIVIL WAR \u00b7 UNION ARMY",
+   "rows": [
+    [
+     "BATTLE DEATHS",
+     "140,414"
+    ],
+    [
+     "OTHER DEATHS",
+     "224,097"
+    ],
+    [
+     "NPS SUMMARY",
+     "TWICE AS MANY FROM DISEASE AS FROM BATTLE WOUNDS"
+    ]
+   ],
+   "footer": "SOURCES: CONGRESSIONAL RESEARCH SERVICE, RL32492 \u00b7 NATIONAL PARK SERVICE \u00b7 DEFINITIONS DIFFER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_5d3193",
+  "name": "stat",
+  "opts": {
+   "a": "~2,000",
+   "b": "SICKNESSES A YEAR IN A CAMP OF 1,000 MEN",
+   "c": "ILLUSTRATION OF THE AVERAGE (ROUGHLY TWO PER SOLDIER) \u00b7 SOURCE: NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_6db8fe",
+  "name": "stat",
+  "opts": {
+   "a": "6 MILLION+",
+   "b": "CASES OF SICKNESS REPORTED \u00b7 UNION ARMY",
+   "c": "ROUGHLY TWO PER SOLDIER PER YEAR \u00b7 SOURCE: NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_a35eef",
+  "name": "list",
+  "opts": {
+   "kicker": "UNION ARMY \u00b7 CASES AND DEATHS, 1861\u201366",
+   "title": "WHAT THE ARMY'S TABLES LIST",
+   "items": [
+    "Diarrhea and dysentery \u2014 1,739,135 cases \u00b7 44,558 deaths",
+    "Malaria \u2014 1,315,955 cases \u00b7 10,063 deaths",
+    "Typhoid \u2014 148,631 cases \u00b7 34,833 deaths",
+    "Typhus \u2014 2,624 cases \u00b7 958 deaths",
+    "Yellow fever \u2014 1,371 cases \u00b7 436 deaths"
+   ],
+   "footer": "SOURCE: MONTANA STATE UNIV. TABLE, FROM MEDICAL AND SURGICAL HISTORY OF THE WAR OF THE REBELLION, VOL. 1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_51c6e7",
+  "name": "callcard",
+  "opts": {
+   "kicker": "WHERE THE TABLES COME FROM",
+   "title": "THE ARMY'S OWN HISTORY",
+   "rows": [
+    [
+     "TITLE",
+     "MEDICAL AND SURGICAL HISTORY OF THE WAR OF THE REBELLION"
+    ],
+    [
+     "COMPILED BY",
+     "U.S. SURGEON GENERAL'S OFFICE"
+    ],
+    [
+     "COVERS",
+     "THE FEDERAL ARMY, 1861\u201366"
+    ]
+   ],
+   "footer": "SOURCE: MONTANA STATE UNIV. TABLE, FROM MEDICAL AND SURGICAL HISTORY OF THE WAR OF THE REBELLION, VOL. 1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_2a4249",
+  "name": "stat",
+  "opts": {
+   "a": "436",
+   "b": "YELLOW FEVER DEATHS \u00b7 UNION ARMY TABLE",
+   "c": "1,371 CASES \u00b7 SOURCE: MONTANA STATE UNIV. TABLE, FROM MEDICAL AND SURGICAL HISTORY OF THE WAR OF THE REBELLION, VOL. 1"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_c3d3b8",
+  "name": "callcard",
+  "opts": {
+   "kicker": "THE HONEST ARITHMETIC",
+   "title": "ONE DISEASE VS. ALL THE BULLETS",
+   "rows": [
+    [
+     "BATTLE DEATHS",
+     "140,414 (UNION)"
+    ],
+    [
+     "DYSENTERY, TYPHOID, MALARIA, TYPHUS",
+     "90,412 DEATHS"
+    ],
+    [
+     "ALL OTHER DEATHS",
+     "224,097 (UNION)"
+    ]
+   ],
+   "footer": "SOURCES: CONGRESSIONAL RESEARCH SERVICE, RL32492 \u00b7 MONTANA STATE UNIV. TABLE, FROM MEDICAL AND SURGICAL HISTORY OF THE WAR OF THE REBELLION, VOL. 1 \u00b7 SUM IS OUR ARITHMETIC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_eca892",
+  "name": "steps",
+  "opts": {
+   "kicker": "HOW TYPHOID REACHED A CAMP \u00b7 TODAY'S EXPLANATION",
+   "title": "CONTAMINATED FOOD OR WATER",
+   "items": [
+    [
+     "SOURCE",
+     "A latrine in the wrong place"
+    ],
+    [
+     "CARRIER",
+     "Water or food"
+    ],
+    [
+     "VICTIM",
+     "Men in a crowded camp"
+    ]
+   ],
+   "active": 1,
+   "footer": "SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE, TYPHOID FEVER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_abca88",
+  "name": "cards3",
+  "opts": {
+   "kicker": "WHY CAMPS KILLED",
+   "title": "THE PLACES MEN LIVED",
+   "cards": [
+    {
+     "h": "SINKS",
+     "t": "Latrines",
+     "s": "Improperly placed"
+    },
+    {
+     "h": "WATER",
+     "t": "Food and water",
+     "s": "Contaminated, carrying typhoid"
+    },
+    {
+     "h": "RULES",
+     "t": "Cleanliness requests",
+     "s": "Largely ignored"
+    }
+   ],
+   "footer": "SOURCE: NATIONAL MUSEUM OF CIVIL WAR MEDICINE, TYPHOID FEVER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_12794d",
+  "name": "quote",
+  "opts": {
+   "q": "...the dead were almost wholly unburied, and the stench arising from it was such as to breed a pestilence.",
+   "w": "A UNION SURGEON AFTER ANTIETAM \u00b7 VIA NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_8ef12f",
+  "name": "stat",
+  "opts": {
+   "a": "620,000",
+   "b": "CIVIL WAR DEAD \u00b7 GENERALLY ESTIMATED",
+   "c": "BOTH SIDES \u00b7 SOURCE: NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_86f4c0",
+  "name": "quote",
+  "opts": {
+   "q": "...improper placement of latrines.",
+   "w": "NATIONAL MUSEUM OF CIVIL WAR MEDICINE, ON THE CAUSES OF TYPHOID IN CAMP"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_254a29",
+  "name": "chapter",
+  "opts": {
+   "case": "1861 \u2013 1865",
+   "n": "V",
+   "t": "THE CIVILIAN ARMY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_773952",
+  "name": "doc",
+  "opts": {
+   "header": "EXECUTIVE ORDER \u00b7 PRESIDENT LINCOLN",
+   "title": "JUNE 13, 1861",
+   "body": "Establishes the United States Sanitary Commission. Olmsted became its General Secretary.",
+   "source": "SOURCE: NATIONAL PARK SERVICE, OLMSTED AND THE SANITARY COMMISSION",
+   "stamp": "SIGNED"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_43a6c3",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. SANITARY COMMISSION \u00b7 1861",
+   "title": "OLMSTED",
+   "rows": [
+    [
+     "TITLE",
+     "GENERAL SECRETARY"
+    ],
+    [
+     "CREATED BY",
+     "EXECUTIVE ORDER, JUNE 13, 1861"
+    ],
+    [
+     "POWER TO COMMAND",
+     "NONE \u2014 IT PRESSED THE ARMY"
+    ]
+   ],
+   "footer": "SOURCES: NATIONAL PARK SERVICE \u00b7 NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_fa9eeb",
+  "name": "steps",
+  "opts": {
+   "kicker": "THE SANITARY COMMISSION AT WORK",
+   "title": "HOW AN INSPECTION WENT",
+   "items": [
+    [
+     "WALK",
+     "Visit the camp"
+    ],
+    [
+     "LOOK",
+     "Quarters, food, water, latrines"
+    ],
+    [
+     "REPORT",
+     "Tell the officers what is wrong"
+    ],
+    [
+     "PUSH",
+     "Press the army to order a fix"
+    ]
+   ],
+   "footer": "SOURCES: NATIONAL PARK SERVICE \u00b7 NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_c3682e",
+  "name": "stat",
+  "opts": {
+   "a": "1,482",
+   "b": "CAMP INSPECTIONS \u00b7 U.S. SANITARY COMMISSION",
+   "c": "BY THE END OF THE WAR \u00b7 SOURCE: NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_37a9ae",
+  "name": "stat",
+  "opts": {
+   "a": "8,000+",
+   "b": "SICK AND WOUNDED TREATED \u00b7 PENINSULA CAMPAIGN",
+   "c": "SOURCE: NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_971d9a",
+  "name": "cards3",
+  "opts": {
+   "kicker": "U.S. SANITARY COMMISSION \u00b7 BY THE WAR'S END",
+   "title": "A CIVILIAN ARMY",
+   "cards": [
+    {
+     "h": "286",
+     "t": "Local aid societies",
+     "s": ""
+    },
+    {
+     "h": "$15M",
+     "t": "In supplies",
+     "s": ""
+    },
+    {
+     "h": "$5M",
+     "t": "In cash",
+     "s": ""
+    }
+   ],
+   "footer": "SOURCE: NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_68d368",
+  "name": "steps",
+  "opts": {
+   "kicker": "WHAT THE COMMISSION FUNDED",
+   "title": "MOVING THE SICK",
+   "items": [
+    [
+     "TRAINS",
+     "Hospital trains"
+    ],
+    [
+     "SHIPS",
+     "Hospital ships"
+    ],
+    [
+     "FAIRS",
+     "Sanitary fairs to raise money"
+    ]
+   ],
+   "active": 0,
+   "footer": "SOURCE: NATIONAL MUSEUM OF HEALTH AND MEDICINE, \"TO BIND UP THE NATION'S WOUNDS\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_c28d75",
+  "name": "list",
+  "opts": {
+   "kicker": "WHAT THE COMMISSION PRESSED THE ARMY TO ORDER",
+   "title": "BETTER CAMPS",
+   "items": [
+    "Better sanitation",
+    "Better hygiene",
+    "Better food"
+   ],
+   "footer": "SOURCE: NATIONAL MUSEUM OF HEALTH AND MEDICINE, \"TO BIND UP THE NATION'S WOUNDS\""
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_380fe0",
+  "name": "callcard",
+  "opts": {
+   "kicker": "WHAT THE RECORD SHOWS",
+   "title": "THE SANITARY COMMISSION",
+   "rows": [
+    [
+     "INSPECTIONS",
+     "1,482"
+    ],
+    [
+     "AID SOCIETIES",
+     "286"
+    ],
+    [
+     "LIVES SAVED",
+     "NOT COUNTED IN THE SOURCES"
+    ]
+   ],
+   "footer": "SOURCES: NATIONAL PARK SERVICE \u00b7 NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_5b30c1",
+  "name": "timeline",
+  "opts": {
+   "kicker": "WHAT THE SANITARY MEN COULD AND COULD NOT SEE",
+   "title": "THE MISSING LINK",
+   "events": [
+    {
+     "y": "SINKS",
+     "t": "Placed too near the camp"
+    },
+    {
+     "y": "WATER",
+     "t": "Carried typhoid"
+    },
+    {
+     "y": "???",
+     "t": "Link not yet proven in the camps"
+    }
+   ],
+   "footer": "SOURCES: NATIONAL MUSEUM OF CIVIL WAR MEDICINE \u00b7 NATIONAL PARK SERVICE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_333164",
+  "name": "list",
+  "opts": {
+   "kicker": "A SURGEON IN 1863",
+   "title": "WHAT WAS AND WAS NOT YET PROVEN",
+   "items": [
+    "Could see: dirt, crowding, squalor",
+    "Could not yet prove: how typhoid travelled",
+    "Today: latrine, water, mouth"
+   ],
+   "footer": "SOURCES: NATIONAL PARK SERVICE \u00b7 NATIONAL MUSEUM OF CIVIL WAR MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_4a82f6",
+  "name": "timeline",
+  "opts": {
+   "kicker": "THE SAME LESSON, TWICE",
+   "title": "FROM THE SANITARY COMMISSION TO 1898",
+   "events": [
+    {
+     "y": "&#8203;1861",
+     "t": "Sanitary Commission created"
+    },
+    {
+     "y": "&#8203;1865",
+     "t": "War ends: more Union deaths from other causes than battle"
+    },
+    {
+     "y": "&#8203;1898",
+     "t": "Camps fill with typhoid again"
+    }
+   ],
+   "footer": "SOURCES: NATIONAL PARK SERVICE \u00b7 CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_dc690e",
+  "name": "chapter",
+  "opts": {
+   "case": "HAVANA \u00b7 1900",
+   "n": "VI",
+   "t": "DID THE MOSQUITO DO IT?"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_55f133",
+  "name": "stat",
+  "opts": {
+   "a": "2,000+",
+   "b": "SOLDIERS WHO CAUGHT YELLOW FEVER IN THE 1898 CAMPAIGN \u00b7 CASES, NOT DEATHS",
+   "c": "SOURCE: PBS AMERICAN EXPERIENCE (SECONDARY SOURCE), AMERICAN EXPERIENCE: FEVER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "map_386ba4",
+  "name": "map",
+  "opts": {
+   "map": {
+    "bounds": [
+     [
+      -87,
+      18
+     ],
+     [
+      -71,
+      27
+     ]
+    ],
+    "rings": [
+     {
+      "ll": [
+       -82.37,
+       23.13
+      ],
+      "r": 40,
+      "n": 3,
+      "d": 0.5
+     }
+    ],
+    "cities": [
+     {
+      "ll": [
+       -82.37,
+       23.13
+      ],
+      "name": "HAVANA",
+      "sub": "U.S. ARMY YELLOW FEVER COMMISSION \u00b7 1900",
+      "d": 0.3,
+      "color": "#6CF29A",
+      "anchor": "start"
+     }
+    ]
+   },
+   "kicker": "MAY 1900",
+   "title": "THE COMMISSION GOES TO CUBA",
+   "footer": "SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY, U.S. ARMY YELLOW FEVER COMMISSION IN CUBA"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_b152cd",
+  "name": "callcard",
+  "opts": {
+   "kicker": "U.S. ARMY YELLOW FEVER COMMISSION \u00b7 APPOINTED MAY 1900",
+   "title": "THE FOUR",
+   "rows": [
+    [
+     "HEAD",
+     "Maj. Walter Reed"
+    ],
+    [
+     "MEMBER",
+     "Dr. James Carroll"
+    ],
+    [
+     "MEMBER",
+     "Dr. Aristides Agramonte"
+    ],
+    [
+     "MEMBER",
+     "Dr. Jesse Lazear"
+    ]
+   ],
+   "footer": "SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_9c4190",
+  "name": "stat",
+  "opts": {
+   "a": "1881 \u2192 1900",
+   "b": "FROM FINLAY'S THEORY TO THE COMMISSION'S TESTS",
+   "c": "SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_6501a7",
+  "name": "quote",
+  "opts": {
+   "q": "Did the Mosquito do it?",
+   "w": "WALTER REED, IN A LETTER TO JAMES CARROLL \u00b7 SEPT. 7, 1900 \u00b7 VIA UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_1b01c2",
+  "name": "stat",
+  "opts": {
+   "a": "9 / 9",
+   "b": "MOSQUITO TRIALS NEGATIVE \u00b7 CAMP COLUMBIA \u00b7 AUG. 11\u201325, 1900",
+   "c": "SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_f02b9a",
+  "name": "doc",
+  "opts": {
+   "header": "CAMP LAZEAR \u00b7 NOVEMBER 20, 1900",
+   "title": "CONSENT",
+   "body": "Volunteers \"signed informed consent agreements.\"",
+   "source": "SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY, YELLOW FEVER EXHIBIT",
+   "stamp": "ON THE RECORD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_12ffb9",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CAMP LAZEAR \u00b7 VOLUNTEERS DESCRIBED BY THE UNIVERSITY OF VIRGINIA EXHIBIT",
+   "title": "THEY STEPPED FORWARD",
+   "rows": [
+    [
+     "U.S. ARMY",
+     "American soldiers"
+    ],
+    [
+     "SPANISH VOLUNTEERS",
+     "Men who signed up to take part"
+    ],
+    [
+     "AMERICAN CIVILIAN",
+     "One man \u00b7 declined payment"
+    ]
+   ],
+   "footer": "SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY, YELLOW FEVER COMMISSION WORK"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_294730",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CAMP LAZEAR \u00b7 VOLUNTEERS",
+   "title": "THE TERMS",
+   "rows": [
+    [
+     "TO TAKE PART",
+     "$100"
+    ],
+    [
+     "IF INFECTED",
+     "$100 more"
+    ],
+    [
+     "BEFORE ENTERING",
+     "A signed consent agreement"
+    ]
+   ],
+   "footer": "SOURCES: PBS AMERICAN EXPERIENCE (SECONDARY SOURCE) (PAYMENT) \u00b7 UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY (CONSENT)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ddfe4b",
+  "name": "stat",
+  "opts": {
+   "a": "4 CASES",
+   "b": "DEVELOPED YELLOW FEVER AFTER BITES FROM INFECTED MOSQUITOES \u00b7 CAMP LAZEAR \u00b7 DECEMBER 1900",
+   "c": "THE FIRST FOUR VOLUNTEERS BITTEN STAYED WELL \u00b7 SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_cf94bd",
+  "name": "steps",
+  "opts": {
+   "kicker": "WHAT THE CAMP LAZEAR TESTS SHOWED",
+   "title": "THREE QUESTIONS",
+   "items": [
+    [
+     "INFECTED MOSQUITOES",
+     "4 cases in December"
+    ],
+    [
+     "INFECTED CLOTHING",
+     "0 cases \u00b7 three 20-day trials"
+    ],
+    [
+     "INJECTED BLOOD",
+     "3 of 4 volunteers fell ill"
+    ]
+   ],
+   "active": 0,
+   "footer": "SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY \u00b7 EXTRINSIC INCUBATION SHOWN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_9343b7",
+  "name": "stat",
+  "opts": {
+   "a": "14",
+   "b": "CASES FROM MOSQUITO INOCULATION AND BLOOD INJECTION \u00b7 ALL RECOVERED",
+   "c": "SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_30a819",
+  "name": "quote",
+  "opts": {
+   "q": "...demonstrated irrefutably that the mosquito was the vector of transmission for yellow fever.",
+   "w": "UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY \u00b7 ON THE U.S. ARMY YELLOW FEVER COMMISSION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_544851",
+  "name": "stat",
+  "opts": {
+   "a": "462",
+   "b": "HAVANA YELLOW FEVER DEATHS A YEAR \u00b7 AVERAGE, 1890\u20131900",
+   "c": "SOURCE: JAMES LIND LIBRARY, DRAMATIC EFFECTS OF CONTROL MEASURES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_12aea6",
+  "name": "phases",
+  "opts": {
+   "kicker": "HAVANA \u00b7 YELLOW FEVER DEATHS",
+   "title": "DEATHS IN HAVANA, 1890\u20131901",
+   "left": {
+    "label": "AVERAGE YEAR, 1890\u20131900",
+    "num": "462",
+    "desc": "Deaths a year"
+   },
+   "right": {
+    "label": "JAN.\u2013FEB. 1901",
+    "num": "12",
+    "desc": "Deaths in two months"
+   },
+   "active": 1,
+   "footer": "MOSQUITO CAMPAIGNS BEGAN IN 1901 \u00b7 LAST DEATH UNDER U.S. OCCUPATION: SEPT. 28, 1901 \u00b7 SOURCE: JAMES LIND LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_5896cc",
+  "name": "cards3",
+  "opts": {
+   "kicker": "HAVANA \u00b7 THE CAMPAIGN, AS DESCRIBED BY THE JAMES LIND LIBRARY",
+   "title": "GORGAS' METHOD",
+   "cards": [
+    {
+     "h": "20",
+     "t": "Districts",
+     "s": "Each with its own teams"
+    },
+    {
+     "h": "TEAMS",
+     "t": "Sanitation",
+     "s": "Against standing water"
+    },
+    {
+     "h": "SEALED",
+     "t": "Homes fumigated",
+     "s": "With pyrethrum"
+    }
+   ],
+   "footer": "SOURCE: JAMES LIND LIBRARY \u00b7 NOT AN OFFICIAL ARMY ACCOUNT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_226ba3",
+  "name": "quote",
+  "opts": {
+   "q": "...yellow fever was largely conquered in the Western Hemisphere.",
+   "w": "UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY, YELLOW FEVER EXHIBIT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_9abd96",
+  "name": "chapter",
+  "opts": {
+   "case": "TYPHOID",
+   "n": "VII",
+   "t": "THE SHOT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_acc354",
+  "name": "stat",
+  "opts": {
+   "a": "20,926",
+   "b": "TYPHOID CASES IN THE ARMY \u00b7 SPANISH-AMERICAN WAR \u00b7 2,192 DEATHS",
+   "c": "SOURCE: SILER, MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. IX (1928)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_df1499",
+  "name": "quote",
+  "opts": {
+   "q": "Man himself is the most active agent in the dissemination of this disease.",
+   "w": "TYPHOID BOARD ABSTRACT, 1900 \u00b7 AS QUOTED BY UCF VIRTUAL LEARNING PROJECT (SECONDARY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_ba8444",
+  "name": "timeline",
+  "opts": {
+   "kicker": "TYPHOID VACCINATION IN THE U.S. ARMY",
+   "title": "FROM CHOICE TO ORDER",
+   "events": [
+    {
+     "y": "LATE 1909",
+     "t": "Vaccination offered, voluntary"
+    },
+    {
+     "y": "EARLY 1911",
+     "t": "Required for troops sent to the southern border"
+    },
+    {
+     "y": "1911",
+     "t": "Made compulsory for all troops"
+    }
+   ],
+   "active": 2,
+   "footer": "SOURCES: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY \u00b7 SILER, MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. IX (1928) \u00b7 NATIONAL MUSEUM OF HEALTH AND MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_3e1070",
+  "name": "phases",
+  "opts": {
+   "kicker": "TWO ARMY DIVISIONS \u00b7 TYPHOID",
+   "title": "1898 AND 1911",
+   "left": {
+    "label": "1898 DIVISION \u00b7 10,700 MEN",
+    "num": "2,693",
+    "desc": "Cases \u00b7 248 deaths"
+   },
+   "right": {
+    "label": "1911 SAN ANTONIO DIVISION \u00b7 12,800 MEN, VACCINATED",
+    "num": "1",
+    "desc": "Case \u00b7 no deaths"
+   },
+   "active": 1,
+   "footer": "DIFFERENT YEARS AND PLACES, NOT A CONTROLLED TRIAL \u00b7 SOURCE: UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY, TYPHOID EXHIBIT"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_3e3cb7",
+  "name": "phases",
+  "opts": {
+   "kicker": "SCHOFIELD BARRACKS \u00b7 1917 \u00b7 TYPHOID",
+   "title": "VACCINATED AND NOT",
+   "left": {
+    "label": "4,087 VACCINATED",
+    "num": "55",
+    "desc": "Cases \u00b7 4 deaths"
+   },
+   "right": {
+    "label": "812 NOT VACCINATED",
+    "num": "45",
+    "desc": "Cases \u00b7 7 deaths"
+   },
+   "active": 1,
+   "footer": "SOURCE: SILER, MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. IX (1928)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_b7e038",
+  "name": "stat",
+  "opts": {
+   "a": "0.37",
+   "b": "TYPHOID ADMISSIONS PER 1,000 MEN PER YEAR \u00b7 U.S. ARMY, WORLD WAR I \u00b7 1,529 FIRST ADMISSIONS",
+   "c": "SPANISH-AMERICAN WAR RATE: 141.59 PER 1,000 PER YEAR \u00b7 SOURCE: SILER, MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. IX (1928)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_fe51c0",
+  "name": "phases",
+  "opts": {
+   "kicker": "TYPHOID DEATH RATE PER 1,000 \u00b7 WORLD WAR I",
+   "title": "ARMY AND CIVILIAN MEN",
+   "left": {
+    "label": "U.S. ARMY",
+    "num": "~0.05",
+    "desc": "Per 1,000 per year"
+   },
+   "right": {
+    "label": "CIVILIAN MEN, AGES 20\u201334",
+    "num": "~0.117",
+    "desc": "Per 1,000 per year"
+   },
+   "active": 0,
+   "footer": "SOURCE: SILER, MEDICAL DEPT. OF THE U.S. ARMY IN THE WORLD WAR, VOL. IX (1928)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_bd65d0",
+  "name": "quote",
+  "opts": {
+   "q": "Had the rates of the Spanish-American War been in effect...",
+   "w": "ESTIMATE OF ONE SCIENTIST: ABOUT 500,000 TYPHOID CASES IN WORLD WAR I \u00b7 VIA UNIVERSITY OF VIRGINIA HEALTH SCIENCES LIBRARY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_044149",
+  "name": "chapter",
+  "opts": {
+   "case": "WORLD WAR I \u00b7 1918",
+   "n": "VIII",
+   "t": "THE SECOND ARMY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_21db6b",
+  "name": "stat",
+  "opts": {
+   "a": "1,100",
+   "b": "OF 56,222 TROOPS SICK WITHIN THREE WEEKS \u00b7 CAMP FUNSTON, KANSAS \u00b7 MARCH 1918",
+   "c": "SOURCE: NATIONAL GUARD BUREAU / DVIDS: FLU OUTBREAK KILLED 45,000 U.S. SOLDIERS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_64e3f2",
+  "name": "callcard",
+  "opts": {
+   "kicker": "TROOP SHIPS TO EUROPE \u00b7 1918",
+   "title": "THE CROSSING",
+   "rows": [
+    [
+     "VOYAGE",
+     "10 to 14 days"
+    ],
+    [
+     "ON THE WAY",
+     "Many soldiers fell sick"
+    ],
+    [
+     "S.S. GRANT",
+     "A sailor on another ship counted 15 burials from her in one day"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL GUARD BUREAU / DVIDS (ONE SAILOR'S ACCOUNT)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_fa9004",
+  "name": "phases",
+  "opts": {
+   "kicker": "AMERICANS IN EUROPE \u00b7 1918 \u00b7 HOSPITALIZED",
+   "title": "FLU AND BATTLE WOUNDS",
+   "left": {
+    "label": "INFLUENZA",
+    "num": "340,000",
+    "desc": "Hospitalized"
+   },
+   "right": {
+    "label": "BATTLE WOUNDS",
+    "num": "227,000",
+    "desc": "Hospitalized"
+   },
+   "active": 0,
+   "footer": "SOURCE: NATIONAL GUARD BUREAU / DVIDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_7e1424",
+  "name": "timeline",
+  "opts": {
+   "kicker": "INFLUENZA AND THE U.S. ARMY \u00b7 1918",
+   "title": "THE SECOND ARMY",
+   "events": [
+    {
+     "y": "MARCH 4",
+     "t": "First cases reported at Camp Funston"
+    },
+    {
+     "y": "MID-OCT.",
+     "t": "Epidemic peaks in the Army"
+    },
+    {
+     "y": "END OF 1918",
+     "t": "About 45,000 soldiers dead of flu and related pneumonia"
+    }
+   ],
+   "active": 2,
+   "footer": "SOURCES: NATIONAL GUARD BUREAU / DVIDS \u00b7 NAVY HISTORY AND HERITAGE COMMAND (NAVY: ABOUT 5,000 DEATHS)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_415c14",
+  "name": "stat",
+  "opts": {
+   "a": "1M+",
+   "b": "ARMY MEN HOSPITALIZED WITH INFLUENZA AND PNEUMONIA \u00b7 1918\u201319",
+   "c": "SOURCE: NAVY HISTORY AND HERITAGE COMMAND: THE PANDEMIC OF INFLUENZA IN 1918\u20131919"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_16ac10",
+  "name": "callcard",
+  "opts": {
+   "kicker": "CAMP FUNSTON, KANSAS \u00b7 SPRING 1918",
+   "title": "THREE WAVES",
+   "rows": [
+    [
+     "MARCH\u2013APRIL",
+     "Three waves of illness"
+    ],
+    [
+     "MARCH 4",
+     "First cases reported"
+    ],
+    [
+     "WITHIN 3 WEEKS",
+     "1,100 of 56,222 troops sick"
+    ]
+   ],
+   "footer": "SOURCES: NAVY HISTORY AND HERITAGE COMMAND \u00b7 NATIONAL GUARD BUREAU / DVIDS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_895267",
+  "name": "stat",
+  "opts": {
+   "a": "21\u201350M",
+   "b": "ESTIMATED DEATHS WORLDWIDE \u00b7 1918 INFLUENZA PANDEMIC",
+   "c": "ESTIMATE \u00b7 SOURCE: NATIONAL MUSEUM OF HEALTH AND MEDICINE (DEFENSE HEALTH AGENCY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "cards3_353b24",
+  "name": "cards3",
+  "opts": {
+   "kicker": "HOW MANY SOLDIERS DIED OF FLU? SOURCES DIFFER",
+   "title": "THREE COUNTS",
+   "cards": [
+    {
+     "h": "~45,000",
+     "t": "National Guard Bureau",
+     "s": "Soldiers who died of influenza and related pneumonia by end of 1918"
+    },
+    {
+     "h": "44,000+",
+     "t": "Navy history",
+     "s": "Army deaths, influenza and pneumonia"
+    },
+    {
+     "h": "24,664",
+     "t": "Univ. of Kansas Medical Center",
+     "s": "Army influenza deaths \u00b7 most from complicating pneumonia"
+    }
+   ],
+   "footer": "THE SOURCES DO NOT EXPLAIN THE GAP \u00b7 NGB / DVIDS \u00b7 NAVY HISTORY AND HERITAGE COMMAND \u00b7 KUMC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "steps_8e6921",
+  "name": "steps",
+  "opts": {
+   "kicker": "U.S. ARMY \u00b7 WORLD WAR I \u00b7 BATTLE DEATHS",
+   "title": "KILLED, AND DIED OF WOUNDS",
+   "items": [
+    [
+     "KILLED IN ACTION",
+     "37,171"
+    ],
+    [
+     "DIED OF WOUNDS",
+     "12,934"
+    ],
+    [
+     "TOGETHER",
+     "50,105"
+    ]
+   ],
+   "active": 2,
+   "footer": "SOURCE: U.S. ARMY CENTER OF MILITARY HISTORY \u00b7 THE U.S. ARMY IN WORLD WAR I \u00b7 TOTAL ADDED BY KEPT ALIVE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_b0b56e",
+  "name": "phases",
+  "opts": {
+   "kicker": "U.S. ARMY \u00b7 WORLD WAR I \u00b7 DEATHS",
+   "title": "BATTLE AND NON-BATTLE",
+   "left": {
+    "label": "BATTLE \u00b7 KILLED + DIED OF WOUNDS",
+    "num": "50,105",
+    "desc": "Deaths"
+   },
+   "right": {
+    "label": "NON-BATTLE",
+    "num": "55,868",
+    "desc": "Deaths"
+   },
+   "active": 1,
+   "footer": "SOURCE: U.S. ARMY CENTER OF MILITARY HISTORY \u00b7 NON-BATTLE INCLUDES ACCIDENTS AND OTHER CAUSES"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_cd89f7",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. ARMY CENTER OF MILITARY HISTORY",
+   "title": "NON-BATTLE DEATHS",
+   "body": "\"U.S. Army Non-Battle Deaths: 55,868\"",
+   "source": "SOURCE: THE U.S. ARMY IN WORLD WAR I \u00b7 NO BREAKDOWN BY CAUSE GIVEN",
+   "stamp": "NO DISEASE-ONLY TOTAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_b9626f",
+  "name": "stat",
+  "opts": {
+   "a": "63,114",
+   "b": "OTHER DEATHS, ALL SERVICES \u00b7 WORLD WAR I \u00b7 VS. 53,402 BATTLE DEATHS",
+   "c": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, AMERICAN WAR AND MILITARY OPERATIONS CASUALTIES \u00b7 TOTAL 116,516"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_052c5a",
+  "name": "chapter",
+  "opts": {
+   "case": "WORLD WAR II \u00b7 1942 \u2013 1945",
+   "n": "IX",
+   "t": "THE SOUTH PACIFIC"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_e06a82",
+  "name": "phases",
+  "opts": {
+   "kicker": "U.S. ARMY DEATHS \u00b7 THROUGH DECEMBER 1945",
+   "title": "WORLD WAR II: BATTLE WON THE COUNT OF THE DEAD",
+   "left": {
+    "label": "BATTLE DEATHS",
+    "num": "229,823",
+    "desc": "Killed in action, died of wounds and similar"
+   },
+   "right": {
+    "label": "DEATHS FROM DISEASE",
+    "num": "14,904",
+    "desc": "All diseases"
+   },
+   "active": 0,
+   "footer": "SOURCE: MEDICAL STATISTICS IN WORLD WAR II (OTSG, 1975)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_52f849",
+  "name": "quote",
+  "opts": {
+   "q": "...battle deaths exceeded nonbattle deaths by a ratio of 3 to 1.",
+   "w": "MEDICAL STATISTICS IN WORLD WAR II (OTSG, 1975)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_70f2dc",
+  "name": "stat",
+  "opts": {
+   "a": "14,998,369",
+   "b": "MEDICAL ADMISSIONS FOR DISEASE \u00b7 U.S. ARMY, 1942\u20131945",
+   "c": "ADMISSIONS FOR BATTLE WOUNDS: 723,560 \u00b7 ADMISSIONS COUNT CASES, NOT MEN, AND INCLUDE MINOR ONES \u00b7 SOURCE: MEDICAL STATISTICS IN WORLD WAR II (OTSG, 1975)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_ca40b5",
+  "name": "stat",
+  "opts": {
+   "a": "~500,000",
+   "b": "MALARIA HOSPITAL ADMISSIONS \u00b7 U.S. ARMY, WORLD WAR II",
+   "c": "SOURCE: ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_343da6",
+  "name": "phases",
+  "opts": {
+   "kicker": "U.S. ARMY MALARIA ADMISSIONS \u00b7 PER 1,000 SOLDIERS PER YEAR",
+   "title": "BEFORE THE ISLANDS",
+   "left": {
+    "label": "1900",
+    "num": "130",
+    "desc": "Admissions per 1,000 per year"
+   },
+   "right": {
+    "label": "1938",
+    "num": "~4.6",
+    "desc": "Admissions per 1,000 per year"
+   },
+   "active": 1,
+   "footer": "SOURCE: ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963) \u00b7 FOREWORD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_58d422",
+  "name": "stat",
+  "opts": {
+   "a": "60\u201365%",
+   "b": "OF SOLDIERS IN THE SOUTH PACIFIC REPORTED HAVING MALARIA AT SOME POINT",
+   "c": "SOURCE: ARMY HERITAGE CENTER FOUNDATION, MALARIA IN WORLD WAR II"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_549d62",
+  "name": "callcard",
+  "opts": {
+   "kicker": "GUADALCANAL \u00b7 NOV. 1942 \u2013 FEB. 1943",
+   "title": "MALARIA AT THREE FIELD HOSPITALS",
+   "rows": [
+    [
+     "RUN BY",
+     "101st Medical Regiment, Americal Division"
+    ],
+    [
+     "MALARIA",
+     "About half of disease casualties"
+    ],
+    [
+     "PLACE",
+     "Guadalcanal, Solomon Islands"
+    ]
+   ],
+   "footer": "SOURCE: MSMR (MILITARY HEALTH SYSTEM) \u00b7 MALARIA POST INFECTION, WORLD WAR II"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_d47e2a",
+  "name": "stat",
+  "opts": {
+   "a": "100,000+",
+   "b": "MALARIA CASES IN 1943 \u00b7 SOUTHWEST AND SOUTH PACIFIC",
+   "c": "3,334 MALARIA EVACUATIONS TO THE U.S. FROM THE SOUTH PACIFIC IN 1943 \u00b7 SOURCE: MSMR (MILITARY HEALTH SYSTEM)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_b5edff",
+  "name": "quote",
+  "opts": {
+   "q": "If the malaria situation is not brought under control, the efficiency of the whole Army will be greatly impaired.",
+   "w": "A MEDICAL OFFICER \u00b7 VIA ARMY HERITAGE CENTER FOUNDATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_2bf822",
+  "name": "phases",
+  "opts": {
+   "kicker": "PLANNING FOR MALARIA \u00b7 SOUTH AND SOUTHWEST PACIFIC",
+   "title": "THE ARITHMETIC",
+   "left": {
+    "label": "IN CONTACT WITH THE ENEMY",
+    "num": "1",
+    "desc": "Division"
+   },
+   "right": {
+    "label": "NEEDED BECAUSE OF MALARIA",
+    "num": "3 \u2013 5",
+    "desc": "Divisions"
+   },
+   "active": 1,
+   "footer": "SOURCE: MSMR (MILITARY HEALTH SYSTEM)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_c2e8c5",
+  "name": "stat",
+  "opts": {
+   "a": "24,000 OF 75,000",
+   "b": "AMERICAN AND FILIPINO DEFENDERS SUFFERING FROM MALARIA \u00b7 BATAAN, 1942",
+   "c": "ROUGHLY \u00b7 SOURCE: ARMY HERITAGE CENTER FOUNDATION"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_dbf781",
+  "name": "timeline",
+  "opts": {
+   "kicker": "BATAAN \u00b7 MARCH 1942",
+   "title": "MALARIA OVERWHELMS THE LINE",
+   "events": [
+    {
+     "y": "FIRST WEEK",
+     "t": "About 500 malaria admissions a day"
+    },
+    {
+     "y": "LATE MARCH",
+     "t": "75\u201380% of front-line men had malaria"
+    },
+    {
+     "y": "END OF MARCH",
+     "t": "Hospital admissions nearly 1,000 a day"
+    }
+   ],
+   "footer": "SOURCE: MORTON, THE FALL OF THE PHILIPPINES (U.S. ARMY CENTER OF MILITARY HISTORY)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_0b9bb0",
+  "name": "phases",
+  "opts": {
+   "kicker": "MALARIA SURVEY AND CONTROL UNITS \u00b7 U.S. ARMY",
+   "title": "A MACHINE OF PEOPLE",
+   "left": {
+    "label": "JANUARY 1943",
+    "num": "6 + 15",
+    "desc": "Survey units + control units"
+   },
+   "right": {
+    "label": "OCT. 1943 \u00b7 RECOMMENDED",
+    "num": "50 + 105",
+    "desc": "Survey units + control units"
+   },
+   "active": 1,
+   "footer": "SOURCE: ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_a03da8",
+  "name": "phases",
+  "opts": {
+   "kicker": "SICILY \u00b7 JULY 9 \u2013 SEPTEMBER 10, 1943",
+   "title": "MALARIA OUTNUMBERED WOUNDS",
+   "left": {
+    "label": "HOSPITALIZED FOR MALARIA",
+    "num": "21,482",
+    "desc": "U.S. Army"
+   },
+   "right": {
+    "label": "HOSPITALIZED FOR WOUNDS",
+    "num": "17,375",
+    "desc": "U.S. Army"
+   },
+   "active": 0,
+   "footer": "SOURCE: ARMY, PREVENTIVE MEDICINE IN WORLD WAR II, VOL. VI (1963)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_6b1976",
+  "name": "chapter",
+  "opts": {
+   "case": "NAPLES \u00b7 1943 \u2013 1944",
+   "n": "X",
+   "t": "THE POWDER"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_eb578b",
+  "name": "doc",
+  "opts": {
+   "header": "TYPHUS CONTROL REPORT \u00b7 NAPLES",
+   "title": "DEC. 1943 \u2013 JAN. 1944",
+   "body": "\"...the imminence of a serious epidemic.\"",
+   "source": "SOURCE: NATIONAL LIBRARY OF MEDICINE, DIGITAL COLLECTIONS",
+   "stamp": "WARNING"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_6c5505",
+  "name": "callcard",
+  "opts": {
+   "kicker": "NAPLES \u00b7 WINTER 1943\u201344",
+   "title": "A TYPHUS TEAM",
+   "rows": [
+    [
+     "NURSE",
+     "Italian"
+    ],
+    [
+     "DUSTER",
+     "One"
+    ],
+    [
+     "DRIVER",
+     "One"
+    ],
+    [
+     "OFFICER",
+     "American"
+    ]
+   ],
+   "footer": "SOURCES: NLM PROFILES, TYPHUS FEVER AND MALARIA IN THE MEDITERRANEAN \u00b7 12TH GENERAL HOSPITAL HISTORY (NORTHWESTERN UNIV.)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_8b0855",
+  "name": "quote",
+  "opts": {
+   "q": "...clamoring for the 'magic louse-killing powder.'",
+   "w": "12TH GENERAL HOSPITAL HISTORY \u00b7 NORTHWESTERN UNIVERSITY \u00b7 NAPLES, 1943\u201344"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_f346a6",
+  "name": "stat",
+  "opts": {
+   "a": "50,000+",
+   "b": "PEOPLE A DAY TREATED AT NAPLES DUSTING STATIONS \u00b7 BY JAN. 10, 1944",
+   "c": "SOURCE: NATIONAL LIBRARY OF MEDICINE, TYPHUS FEVER AND MALARIA IN THE MEDITERRANEAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "timeline_40ef3f",
+  "name": "timeline",
+  "opts": {
+   "kicker": "NAPLES \u00b7 TYPHUS \u00b7 1943\u201344",
+   "title": "FROM FIRST CASES TO NEARLY RESOLVED",
+   "events": [
+    {
+     "y": "SEPT. 1943",
+     "t": "Cases reported"
+    },
+    {
+     "y": "MID-DEC.",
+     "t": "Mass dusting begins"
+    },
+    {
+     "y": "JAN. 10",
+     "t": "Over 50,000 treated a day"
+    },
+    {
+     "y": "LATE FEB. 1944",
+     "t": "Problem nearly resolved"
+    }
+   ],
+   "footer": "SOURCE: NATIONAL LIBRARY OF MEDICINE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_68ba3b",
+  "name": "callcard",
+  "opts": {
+   "kicker": "ALGIERS \u00b7 MAISON CARR\u00c9E PRISON",
+   "title": "TWO POWDERS, ONE PRISON",
+   "rows": [
+    [
+     "MYL",
+     "Killed lice faster"
+    ],
+    [
+     "DDT",
+     "Effects lasted much longer"
+    ],
+    [
+     "TEST",
+     "About 1,000 inmates"
+    ]
+   ],
+   "footer": "SOURCE: NATIONAL LIBRARY OF MEDICINE, TYPHUS FEVER AND MALARIA IN THE MEDITERRANEAN"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_14391e",
+  "name": "doc",
+  "opts": {
+   "header": "UNIVERSITY OF OXFORD \u00b7 FACULTY OF HISTORY",
+   "title": "ENDS AND MEANS",
+   "body": "Typhus in Naples, 1943\u201344: the Anglo-American narrative is \"a triumphant story of effective action\"; the epidemic \"left most people unscathed,\" the article says is likely.",
+   "source": "SOURCE: OXFORD HISTORY FACULTY, ABSTRACT OF 'ENDS AND MEANS: TYPHUS IN NAPLES, 1943\u201344' (BAILEY)",
+   "stamp": "ANOTHER VIEW"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "chapter_7afe05",
+  "name": "chapter",
+  "opts": {
+   "case": "THE ARMY TODAY",
+   "n": "XI",
+   "t": "TODAY"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_2061b9",
+  "name": "phases",
+  "opts": {
+   "kicker": "DISEASE AND NON-BATTLE INJURY \u00b7 SHARE OF DEATHS",
+   "title": "WHAT CHANGED",
+   "left": {
+    "label": "CIVIL WAR",
+    "num": "~60%",
+    "desc": "Of deaths"
+   },
+   "right": {
+    "label": "VIETNAM",
+    "num": "20%",
+    "desc": "Of deaths"
+   },
+   "active": 1,
+   "footer": "SOURCE: MSMR (MILITARY HEALTH SYSTEM) \u00b7 DISEASE AND ILLNESS IN WORLD WAR II PACIFIC FORCES (EDITORIAL)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_544969",
+  "name": "phases",
+  "opts": {
+   "kicker": "VIETNAM WAR \u00b7 U.S. DEATHS",
+   "title": "THE GAP NARROWED",
+   "left": {
+    "label": "BATTLE DEATHS",
+    "num": "47,434",
+    "desc": "In theater"
+   },
+   "right": {
+    "label": "OTHER DEATHS",
+    "num": "10,786",
+    "desc": "In theater \u00b7 includes accidents"
+   },
+   "active": 0,
+   "footer": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_91fbb5",
+  "name": "stat",
+  "opts": {
+   "a": "94.1%",
+   "b": "OF IMPORTED U.S. MALARIA CASES IN 1968 WERE ACQUIRED IN VIETNAM",
+   "c": "2,444 OF 2,598 CASES \u00b7 SOURCE: CDC, MALARIA SURVEILLANCE 1968"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "stat_44f6b0",
+  "name": "stat",
+  "opts": {
+   "a": "3\u00d7",
+   "b": "NON-BATTLE INJURIES VS. ENEMY ACTION \u00b7 EARLY IRAQ WAR",
+   "c": "SOURCE: MSMR (MILITARY HEALTH SYSTEM) \u00b7 EDITORIAL"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "doc_269773",
+  "name": "doc",
+  "opts": {
+   "header": "U.S. ARMY PUBLIC HEALTH CENTER",
+   "title": "OCT. 17, 2022",
+   "body": "The Preventive Medicine Division \"routinely monitors military health system data.\"",
+   "source": "SOURCE: ARMY.MIL \u00b7 ARMY PROMOTES INFECTION PREVENTION BY MONITORING DISEASE CASES",
+   "stamp": "ON THE RECORD"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "callcard_2b57ba",
+  "name": "callcard",
+  "opts": {
+   "kicker": "ARMY PREVENTIVE MEDICINE TODAY",
+   "title": "WATCHING THE NUMBERS",
+   "rows": [
+    [
+     "WHO",
+     "Preventive Medicine Division"
+    ],
+    [
+     "WHAT",
+     "Infectious disease reports"
+    ],
+    [
+     "HOW",
+     "Disease Reporting Surveillance Internet"
+    ]
+   ],
+   "footer": "SOURCE: U.S. ARMY PUBLIC HEALTH CENTER \u00b7 ARMY.MIL, OCT. 17, 2022"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_67de71",
+  "name": "list",
+  "opts": {
+   "kicker": "THE OLD LESSONS",
+   "title": "STILL IN THE TEXTBOOKS",
+   "items": [
+    "Water \u2014 kept clean",
+    "Waste \u2014 kept away from camp",
+    "Insects \u2014 drained, covered, sprayed",
+    "Shots \u2014 vaccines, as history"
+   ],
+   "footer": "FROM THE RECORDS IN THIS EPISODE"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "quote_208fcc",
+  "name": "quote",
+  "opts": {
+   "q": "Get vaccinated (when vaccines are available).",
+   "w": "U.S. ARMY PUBLIC HEALTH CENTER \u00b7 ARMY.MIL, OCT. 17, 2022"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "list_3532a4",
+  "name": "list",
+  "opts": {
+   "kicker": "FOUR WARS \u00b7 BATTLE DEATHS VS. OTHER DEATHS",
+   "title": "MORE NON-BATTLE DEATHS THAN BATTLE DEATHS",
+   "items": [
+    "Mexican War \u2014 1,733 battle \u00b7 11,550 other",
+    "Civil War (Union) \u2014 140,414 \u00b7 224,097",
+    "Spanish\u2013American War \u2014 385 \u00b7 2,061",
+    "World War I (Army) \u2014 50,105 \u00b7 55,868"
+   ],
+   "footer": "SOURCES: CONGRESSIONAL RESEARCH SERVICE, RL32492 \u00b7 U.S. ARMY CENTER OF MILITARY HISTORY (WWI ARMY: KILLED IN ACTION + DIED OF WOUNDS)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_3872ea",
+  "name": "phases",
+  "opts": {
+   "kicker": "MEXICAN WAR \u00b7 1846\u20131848",
+   "title": "DEATHS BY CATEGORY",
+   "left": {
+    "label": "BATTLE",
+    "num": "1,733",
+    "desc": "Deaths"
+   },
+   "right": {
+    "label": "OTHER",
+    "num": "11,550",
+    "desc": "Deaths"
+   },
+   "active": 1,
+   "footer": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_9a3d1c",
+  "name": "phases",
+  "opts": {
+   "kicker": "CIVIL WAR \u00b7 UNION FORCES \u00b7 1861\u20131865",
+   "title": "DEATHS BY CATEGORY",
+   "left": {
+    "label": "BATTLE",
+    "num": "140,414",
+    "desc": "Deaths"
+   },
+   "right": {
+    "label": "OTHER",
+    "num": "224,097",
+    "desc": "Deaths"
+   },
+   "active": 1,
+   "footer": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_ccd50c",
+  "name": "phases",
+  "opts": {
+   "kicker": "SPANISH\u2013AMERICAN WAR \u00b7 MAY\u2013AUG. 1898",
+   "title": "DEATHS BY CATEGORY",
+   "left": {
+    "label": "BATTLE",
+    "num": "385",
+    "desc": "Deaths"
+   },
+   "right": {
+    "label": "OTHER",
+    "num": "2,061",
+    "desc": "Deaths"
+   },
+   "active": 1,
+   "footer": "SOURCE: CONGRESSIONAL RESEARCH SERVICE, RL32492"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_3fff03",
+  "name": "phases",
+  "opts": {
+   "kicker": "WORLD WAR I \u00b7 U.S. ARMY \u00b7 1917\u20131919",
+   "title": "DEATHS BY CATEGORY",
+   "left": {
+    "label": "BATTLE",
+    "num": "50,105",
+    "desc": "Killed in action + died of wounds"
+   },
+   "right": {
+    "label": "NON-BATTLE",
+    "num": "55,868",
+    "desc": "Includes influenza"
+   },
+   "active": 1,
+   "footer": "SOURCE: U.S. ARMY CENTER OF MILITARY HISTORY, THE U.S. ARMY IN WORLD WAR I"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "phases_7b94ce",
+  "name": "phases",
+  "opts": {
+   "kicker": "WORLD WAR II \u00b7 U.S. ARMY",
+   "title": "WHERE THE RULE BROKE",
+   "left": {
+    "label": "DEATHS",
+    "num": "229,823",
+    "desc": "Battle deaths vs. 14,904 disease deaths"
+   },
+   "right": {
+    "label": "MEDICAL ADMISSIONS",
+    "num": "14,998,369",
+    "desc": "Disease admissions vs. 723,560 battle wounds"
+   },
+   "active": 1,
+   "footer": "SOURCE: MEDICAL STATISTICS IN WORLD WAR II (OTSG, 1975)"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_80ec09",
+  "name": "end",
+  "opts": {
+   "label": "KEPT ALIVE \u00b7 WAR MEDICINE \u00b7 NEXT: EP 4",
+   "stamp": "BATTLEFIELD INVENTIONS"
+  },
+  "intro": 2.4
+ },
+ {
+  "key": "end_b1f229",
+  "name": "end",
+  "opts": {
+   "label": "FOR EDUCATION ONLY \u00b7 NOT MEDICAL ADVICE",
+   "stamp": "KEPT ALIVE"
+  },
+  "intro": 2.4
+ }
+]
