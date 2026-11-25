@@ -1,0 +1,67 @@
+[
+ {
+  "out": "thumb_A.jpg",
+  "layout": "full",
+  "plate": "plates/plate_A.png",
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "overlays": [
+   {
+    "type": "tag",
+    "text": "SPANISH-AMERICAN WAR",
+    "size": 44
+   },
+   {
+    "type": "bignum",
+    "text": "385",
+    "size": 150,
+    "xy": [
+     48,
+     120
+    ],
+    "color": "white",
+    "sub": "BATTLE DEATHS",
+    "sub_color": "#111111"
+   },
+   {
+    "type": "bignum",
+    "text": "2,061",
+    "size": 170,
+    "xy": [
+     48,
+     330
+    ],
+    "color": "yellow",
+    "sub": "OTHER DEATHS",
+    "sub_color": "red"
+   }
+  ]
+ },
+ {
+  "out": "thumb_B.jpg",
+  "layout": "full",
+  "plate": "plates/plate_B.png",
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "overlays": [
+   {
+    "type": "tag",
+    "text": "WAR MEDICINE \u00b7 EP 3",
+    "size": 44
+   }
+  ],
+  "line1": "WHAT KILLED MORE",
+  "line2": "THAN BULLETS?",
+  "line2_color": "yellow",
+  "text_area": [
+   40,
+   470,
+   1200,
+   150
+  ]
+ }
+]

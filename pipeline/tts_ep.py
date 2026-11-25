@@ -12,7 +12,7 @@ from kokoro_onnx import Kokoro
 M = os.environ.get("KOKORO_DIR", "/home/claude/tts")
 k = Kokoro(f"{M}/kokoro-v1.0.onnx", f"{M}/voices-v1.0.bin")
 BASE = float(os.environ.get("TTS_SPEED", "0.98"))
-SPEED = {"calm": 1.0, "punch": 0.93, "tense": 1.04, "slow": 0.9, "drive": 1.08, "question": 0.96}
+SPEED = {"calm": 1.0, "punch": 0.93, "tense": 1.0, "slow": 0.9, "drive": 1.0, "question": 0.96}
 PAUSE = {"calm": .28, "punch": .42, "tense": .22, "slow": .5, "drive": .18, "question": .4}
 os.makedirs(f"{ep}/vo", exist_ok=True)
 tot = 0
