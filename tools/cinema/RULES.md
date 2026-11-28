@@ -51,6 +51,7 @@ For the ONE moment that deserves it (a structure cross-section, a reconstruction
 - One sound family per role through a video (consistent whoosh/pop), with only slight pitch/gain variation.
 
 ## 7. Before upload (updated 2026-11-29 after measuring our published videos)
+Shortcut: `python3 finalize.py final.mp4 --episode ID --events events.json` runs steps 1–3 and prints PASS/FAIL.
 1. `python3 deliver.py final.mp4 upload.mp4 --finish` — film finish + 2560×1440 master in ONE encode (YouTube serves a 1440p upload at ~4 Mbit/s, a 1080p one at ~1 Mbit/s). Do not chain `look.py finish` before it.
 2. `python3 critique.py upload.mp4 --events events.json` → must print ОК: frame 0 is a picture, frozen picture ≤ 10 % and no piece > 4 s, no black gaps, −14 LUFS, true peak ≤ −1. Fix its warnings too (flat sound: LRA < 3; resolution below 1440p).
 3. `python3 variety_check.py upload.mp4 --ledger variety_ledger.json --episode <id>` → PASS.

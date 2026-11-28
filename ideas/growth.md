@@ -43,6 +43,8 @@ The latest long video of 8 channels was downloaded from YouTube and measured wit
 6. **Captions readable on a phone**: burned-in captions ≥ 4.5 % of the frame height (≥ 48 px at 1080p, ≥ 64 px at 1440p), max 2 lines, max 7 words on screen, dark plate or 3 px outline. Captions never cover a broadcaster's lower third, a source line or on-screen text of the clip — move them to the top third for that shot. A label must describe what is literally in the picture.
 7. **Length**: 10–15 minutes for every channel under 10k subscribers (KEPT ALIVE and NOT MEANT TO KNOW included: their 30–45 min videos keep ~13 % of viewers at the midpoint). A longer story becomes two episodes.
 
+**ONE COMMAND before scheduling a long video:** `python3 tools/cinema/finalize.py final.mp4 --episode <id> --events events.json` — makes the 1440p upload master (`final.upload.mp4`), then runs critique + variety on it and prints `"verdict": "PASS"|"FAIL"`. Schedule only that file and only on PASS; put its JSON line in the run report; commit `variety_ledger.json`. (Shorts: add `--no-finish`.) The separate commands below are what it runs.
+
 **Hard gate — run on every finished long video AND Short before scheduling (both commands, on the file you will upload):**
 `python3 tools/cinema/critique.py <upload.mp4> --events events.json` → must print ОК (frame 0, frozen picture, black gaps, loudness, true peak; warnings about flat sound / resolution are fixed too).
 
