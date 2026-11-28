@@ -1,4 +1,4 @@
-# How to make videos for this channel — weekly playbook (2026-11-28)
+# How to make videos for this channel — weekly playbook (2026-11-29)
 
 Written by the analytics dashboard from the best competitor and own videos (hooks, titles, thumbnails, retention). Follow it unless it conflicts with this channel's rules.
 

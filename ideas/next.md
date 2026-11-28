@@ -1,4 +1,4 @@
-# Ideas for today — 2026-11-28
+# Ideas for today — 2026-11-29
 
 Written automatically by the analytics dashboard. Verdict: Shorts с жёсткими цифрами работают (Gza6ZUo-wTg — 979, hot 25.8), но свежие Shorts о 1918 годе набрали 11–14, а 40-минутные long — 1–2 просмотра. Последний long вышел 25.11.
 
