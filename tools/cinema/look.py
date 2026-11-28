@@ -3,8 +3,9 @@
 
   look.py move   IMG OUT.mp4 --dur 5 [--from 1.0 --to 1.18] [--pan left|right|up|down|none] [--fps 30] [--size 1920x1080]
       Camera move on a still with weight: ease-in-out (smoothstep), never linear; slight hand-held drift.
-  look.py finish IN.mp4 OUT.mp4 [--grain 6] [--vignette 0.18] [--warm 0.03] [--ca 1]
-      Film finish for the whole master: soft grain, vignette, gentle contrast/colour, 1 px chromatic edge.
+  look.py finish IN.mp4 OUT.mp4 [--grain 3] [--vignette 0.18] [--warm 0.03] [--ca 1]
+      Film finish only (a full re-encode). For the UPLOAD master use `deliver.py IN OUT --finish` instead:
+      finish + 1440p in ONE encode (two encodes soften the picture and cost an extra hour of CPU).
   look.py join A.mp4 B.mp4 OUT.mp4 --kind whip|dip|wipe|glitch|dissolve [--at SECONDS_FROM_END_OF_A] [--d 0.5]
       Transitions with intent: whip (hblur, fast scene change), dip (to black, time jump), wipe (map/timeline),
       glitch (pixelize, digital/evidence), dissolve (same place, time passing).
@@ -44,7 +45,7 @@ def finish(a):
     vf = (f"eq=contrast=1.06:saturation=1.05:gamma=0.98,"
           f"colorbalance=rs={a.warm}:gs=0:bs={-a.warm}:rh={a.warm / 2}:bh={-a.warm / 2},"
           f"rgbashift=rh={a.ca}:bh={-a.ca},"
-          f"vignette=angle=PI/4.5:mode=forward:eval=init,"
+          f"vignette=angle={0.35 + a.vignette * 2:.3f}:mode=forward:eval=init,"
           f"noise=alls={a.grain}:allf=t+u,format=yuv420p")
     run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", a.inp, "-vf", vf, "-c:v", "libx264", "-crf", "17", "-preset", "medium",
          "-c:a", "copy", "-movflags", "+faststart", a.out])
@@ -62,7 +63,7 @@ p = argparse.ArgumentParser(); sp = p.add_subparsers(dest="cmd", required=True)
 m = sp.add_parser("move"); m.add_argument("img"); m.add_argument("out"); m.add_argument("--dur", type=float, default=5)
 m.add_argument("--from", dest="zfrom", type=float, default=1.0); m.add_argument("--to", dest="zto", type=float, default=1.15)
 m.add_argument("--pan", default="none"); m.add_argument("--fps", type=int, default=30); m.add_argument("--size", default="1920x1080")
-f = sp.add_parser("finish"); f.add_argument("inp"); f.add_argument("out"); f.add_argument("--grain", type=float, default=6)
+f = sp.add_parser("finish"); f.add_argument("inp"); f.add_argument("out"); f.add_argument("--grain", type=float, default=3)
 f.add_argument("--vignette", type=float, default=0.18); f.add_argument("--warm", type=float, default=0.03); f.add_argument("--ca", type=int, default=1)
 j = sp.add_parser("join"); j.add_argument("a"); j.add_argument("b"); j.add_argument("out"); j.add_argument("--kind", default="dissolve")
 j.add_argument("--at", type=float); j.add_argument("--d", type=float, default=0.5)

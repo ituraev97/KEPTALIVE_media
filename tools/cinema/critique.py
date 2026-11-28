@@ -39,14 +39,26 @@ rep["black_stretches"] = [(float(x), float(y)) for x, y in blacks]
 s = ff(["-i", a.mp4, "-vf", f"freezedetect=n=0.003:d={a.max_hold}", "-an", "-f", "null", "-"])
 freezes = re.findall(r"freeze_start: ([\d.]+)", s); fdur = re.findall(r"freeze_duration: ([\d.]+)", s)
 rep["frozen_stretches"] = [(float(t), float(d)) for t, d in zip(freezes, fdur)]
+_d = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration:stream=width,height", "-of", "json", a.mp4], capture_output=True, text=True).stdout
+_j = json.loads(_d or "{}"); _dur = float(_j.get("format", {}).get("duration", 0) or 0)
+_v = next((x for x in _j.get("streams", []) if "width" in x), {})
+rep["size"] = f"{_v.get('width')}x{_v.get('height')}"
+rep["frozen_share"] = round(sum(d for _, d in rep["frozen_stretches"]) / _dur, 3) if _dur else None
+if _v.get("width", 0) > _v.get("height", 0) and _dur > 180 and _v.get("height", 0) < 1440:
+    rep["warn"].append(f"длинное видео {rep['size']} — выгружай мастер 1440p через deliver.py (YouTube даёт ему в 3–4 раза больше битрейта)")
 if rep["frozen_stretches"]:
-    rep["fail"].append(f"{len(rep['frozen_stretches'])} застывших кусков > {a.max_hold} с (первые: " +
+    rep["fail"].append(f"застывшая картинка {int((rep['frozen_share'] or 0) * 100)}% ролика; " +f"{len(rep['frozen_stretches'])} застывших кусков > {a.max_hold} с (первые: " +
                        ", ".join(f"{t:.0f}s/{d:.1f}s" for t, d in rep["frozen_stretches"][:5]) + ")")
 # loudness
 s = ff(["-i", a.mp4, "-af", "ebur128=peak=true", "-vn", "-f", "null", "-"])
 I = re.findall(r"I:\s+(-?[\d.]+) LUFS", s); TP = re.findall(r"Peak:\s+(-?[\d.]+) dBFS", s)
 if I:
     rep["lufs"] = float(I[-1]); rep["true_peak"] = float(TP[-1]) if TP else None
+    _l = re.findall(r"LRA:\s+([\d.]+) LU", s)
+    if _l:
+        rep["lra"] = float(_l[-1])
+        if rep["lra"] < 3:
+            rep["warn"].append(f"плоский звук: LRA {rep['lra']} LU (нужно ≥ 3–4) — акценты не слышны, проверь сжатие голоса и уровень музыки")
     if abs(rep["lufs"] + 14) > 1:
         rep["warn"].append(f"громкость {rep['lufs']} LUFS (цель −14)")
     if rep["true_peak"] is not None and rep["true_peak"] > -1:

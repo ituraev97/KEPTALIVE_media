@@ -20,7 +20,7 @@ Goal: nobody should feel "this was made by an AI". Apply inside each channel's o
 - **Lens thinking**: wide for places (maps, satellite, sites), tight for details (a number in a document, a face in a photo). Push in to the detail the narrator names.
 - **Three layers** where possible (foreground element / subject / background), subject on a third or deliberately centred.
 - **Palette 60/30/10**: dominant tone, secondary, one accent colour reserved for the hero element (the number, the route line, the defendant). Frames must read as three tones in greyscale.
-- **Finish** the master with `look.py finish`: grain 2–4 %, vignette 10–20 % in corners, gentle contrast/warmth, 1 px chromatic edge. Glow only from real light sources.
+- **Finish** the master with `deliver.py --finish` (finish + 1440p in one encode; `look.py finish` only for tests): grain 2–4 %, vignette 10–20 % in corners, gentle contrast/warmth, 1 px chromatic edge. Glow only from real light sources.
 - **Transitions with intent** (`look.py join`): whip = fast scene change, dip to black = time jump, wipe = map/timeline, glitch = digital evidence, dissolve = same place/time passing. Hard cuts on the beat are fine — never random effects.
 - **Motion graphics** (numbers, maps, timelines) animate with springs/ease, stagger 1–4 frames between elements, overshoot slightly and settle.
 - One **slow-motion / freeze** moment per video on the key reveal (footage slowed, or a still frozen with a punch-in), sound drops low under it.
@@ -50,8 +50,15 @@ For the ONE moment that deserves it (a structure cross-section, a reconstruction
 - The bed carries mids: < 55 % of its energy below 150 Hz, or it disappears on phone speakers (`critique.py` checks).
 - One sound family per role through a video (consistent whoosh/pop), with only slight pitch/gain variation.
 
-## 7. Before upload
-`python3 critique.py final.mp4 --events events.json` → must print ОК (frame 0, frozen stretches, black gaps, loudness/true peak, mids, event accents). Fix fails, re-render once.
+## 7. Before upload (updated 2026-11-29 after measuring our published videos)
+1. `python3 deliver.py final.mp4 upload.mp4 --finish` — film finish + 2560×1440 master in ONE encode (YouTube serves a 1440p upload at ~4 Mbit/s, a 1080p one at ~1 Mbit/s). Do not chain `look.py finish` before it.
+2. `python3 critique.py upload.mp4 --events events.json` → must print ОК: frame 0 is a picture, frozen picture ≤ 10 % and no piece > 4 s, no black gaps, −14 LUFS, true peak ≤ −1. Fix its warnings too (flat sound: LRA < 3; resolution below 1440p).
+3. `python3 variety_check.py upload.mp4 --ledger variety_ledger.json --episode <id>` → PASS.
+Fix fails, re-render once.
+
+## 8. Levels (sound_design.py does this — do not override)
+Everything is measured against the voice: music −17 dB while the voice speaks / −9 dB in the gaps (the duck is held through 0.8 s pauses so the bed does not pump), ambience −26 dB, whoosh/small hits ~−9…−11 dB under the voice peaks, the reveal impact at the voice peak level. Library files are level-matched on load. The bed is a chain of different tracks (3 s crossfades); `--used-music used_music.json --episode ID` keeps the last 4 episodes' tracks out. `sound_qa.json` reports `music_under_voice_db` (must be ≥ 13) and the tracks used.
+Voice chain: high-pass 70–80 Hz, a little presence (+2 dB at 3.5 kHz), compression ≤ 2:1. No per-line `loudnorm`, no second `loudnorm` on the final mix.
 
 ## 4. Review loop (cheap, every video)
 Before publishing: contact sheet of 12 frames across the video → check (1) no frame is a static still with no motion, (2) the hero element is the brightest/most saturated thing, (3) text readable on a phone, (4) `sound_qa.json` clean. Fix the two worst things, re-render once. Don't polish backgrounds while the hero is weak.
