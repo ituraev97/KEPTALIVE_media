@@ -51,6 +51,8 @@ The latest long video of 8 channels was downloaded from YouTube and measured wit
 - ≥ 25 distinct footage/image sources for a 10+ min video (≥ 30 for 15+ min). Order more footage early instead of stretching what you have.
 - No source > 10–15% of the runtime; never wrap a clip back to its start; no round-robin over a small fixed pool; pick moments at random among unused ones.
 - A clip/still used in any of the previous 5 episodes: ≤ 10 s in the new one. Generic stock (Capitol, courthouse, aircraft, city skyline, military jets): ≤ 20 s per video in total.
+- Never use a source video's own title/intro/text card as b-roll, never zoom until text is cut off or blurry, never upscale a frame beyond ~150%; a soft/low-res frame is replaced, not stretched. On-screen overlays never cover faces or other text.
+- The first 3 seconds are a real, striking moment with people or action (never a text card, black screen or logo).
 - The same document page/photo at most twice per video — show the next page, a different crop of a different line, or another document.
 - Graphics: no card type more than ~12 times or 8% of runtime; nothing holds still > 6 s.
 - IN-SCENE HANDLE (owner 2026-11-29: "just write our YouTube user"): in 3D/composited scenes with a natural surface for signage — airport billboard, hangar wall, terminal screen, ground vehicle, building sign, a TV in the background — put THIS channel's YouTube @handle (listed under "This channel") as if it were a real ad: correct perspective, lighting and wear, readable at phone size for 1–3 s, about once per 3–5 minutes. NEVER on the aircraft/vehicle/person/document the story is about, never on evidence, never in a way that looks like part of the real event.
