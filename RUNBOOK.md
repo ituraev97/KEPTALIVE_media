@@ -13,6 +13,13 @@ The daily run first decides LONG or OFF (see "Long-video cadence"). **LONG run:*
 Read the Projects doc `claude/kept-alive-bible.md` first (rules, brand, voice, formats). The pipeline is a fork of CHANNEL 16;
 `reference/ch16-a001-found/` shows the episode DSL (its colours/hex values are CHANNEL 16's — never copy them; use the KEPT ALIVE palette below).
 
+## IDEAS FROM DASHBOARD — owner decision 2026-11-28 (applies to every topic choice)
+Before choosing a topic, read `ideas/next.md`. It is rewritten every morning by the owner's analytics dashboard from this channel's
+YouTube/Metricool numbers, competitor videos that are breaking out right now, and fresh news. Take the highest-priority idea that fits
+this channel's rules, sourcing/fact standards and available footage (P1 first). If none fits, choose as usual and say in the run report
+which idea was skipped and why. The idea is the TOPIC only — research, script and visuals stay our own; never copy a competitor's video.
+After publishing, append one line to `ideas/used.md`: `<idea id> | <date> | <published title>`.
+
 ## Long-video cadence — owner decision 2026-11-23 (overrides every 'one long per run/day' line)
 Why: token budget. One long video every 2 days; the run in between is OFF.
 1. **First step of every run (before setup, cloning or research):** Metricool `getScheduledPosts` for brand KEPT ALIVE (blogId 7806960), window = yesterday … day after tomorrow (ET). Target day = tomorrow (ET).
