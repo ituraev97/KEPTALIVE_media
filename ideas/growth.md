@@ -83,6 +83,15 @@ Engine: Chatterbox **Turbo** on the office PC / relay since 2026-11-28 (≈4.5×
 - Acronyms: letters with hyphens when spelled (`F-B-I`), as a word only if people say it as a word (NASA).
 - Check the Whisper QA report: any line with similarity < 0.86 or a misread name is re-voiced before rendering.
 
+## Last video — measured automatically (2026-11-29)
+"Why Disease Often Killed More U.S. Soldiers Than Combat, Explained": FIX in the next episode:
+- frozen picture 45% of the runtime (limit 10%), longest 18 s
+- repeated pictures 16% (limit 15%)
+- flat sound: loudness range 1.8 LU (need 4+)
+- frame 0 is black
+- served at 1080p max (1023 kbit/s) — upload the 1440p master (deliver.py)
+- 42.6 minutes long — aim for 10–15
+
 ## This channel
 - MEASURED 2026-11-29 on your latest long video: 45% of the runtime was a frozen picture (156 pieces, up to 18 s), repeats 16% (limit 15%), frame 0 black, loudness range 1.8 LU (flat), 43 minutes long. Next episode: 10–15 minutes, every still gets a move ≤ 4 s then a cut, no black opening.
 - VARIETY FIX (audit 2026-11-28): own graphics 59% of runtime in 302 and 104 (43 stat cards / 40 quote cards) → own graphics 35–45%, no card type more than 12 times or 8% of runtime; 103 WWI showed the same 5-s window 22 times and one film = 23%; 102 top-3 sources = 77%. Cold opens run 50–119 s (RUNBOOK limit 40 s) → make > 40 s a QA failure. 103 and 104 used the same opening pattern sentence by sentence ("So imagine you are one of them… no antibiotics…") → the title formula and cold-open pattern may not repeat the previous long video. Music: pipeline/finish.py:104-139 synth D-minor score with fixed seed → tools/cinema library. Thumbnails: 3 of last 4 = the same red/yellow split layout → rotate. used_clips.json showed repeats (1029569, 1027481, 1027887) — enforce it.
