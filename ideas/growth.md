@@ -23,6 +23,23 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 - Not the same template every time (inauthentic-content risk) — rotate 3–4 layouts.
 - Never AI-generated faces of real people; real photos only (government releases, archive), AI may only relight/extend.
 
+## Variety & promise (all channels) — owner 2026-11-28: "the same clips and graphics keep coming out, and it is not clear what the title has to do with it"
+Audit of the last 4 long videos per channel found the same problem everywhere: one stock clip cut into dozens of slices (COLD WARRANT 027: one aircraft clip = 49% of the video; RELEASED IN FULL 021: the same 5-second Capitol shot 61 times, the same Capitol clip in 17 episodes), the same document page shown 12 times (SWORN 023), the same code-generated music bed in every episode, one thumbnail template for months, the same opening line ("<Date>, twenty twenty-six.") and the same chapter names, and titles promising something that is not on screen (CW 026 "gunfire" with no gunfire shot; SWORN 024 Meng Wanzhou on the thumbnail although she was not on trial; HOTFIX "GTA 6 mode" with GTA in 4% of the footage).
+**Hard gate — run on every finished long video AND Short before scheduling:**
+`python3 tools/cinema/variety_check.py <final.mp4> --ledger variety_ledger.json --episode <id>` (commit `variety_ledger.json`). It hashes the picture once per second: `repeat_share` ≤ 0.15 (the same clip moment/still/page shown again), `top_visual` ≤ 0.12 (one picture dominating), `cross_share` ≤ 0.10 (pictures from the previous episodes). FAIL → fix the edit (more sources, different moments) and re-run; never schedule a FAIL. Put its JSON line in the run report.
+**Picture:**
+- ≥ 25 distinct footage/image sources for a 10+ min video (≥ 30 for 15+ min). Order more footage early instead of stretching what you have.
+- No source > 10–15% of the runtime; never wrap a clip back to its start; no round-robin over a small fixed pool; pick moments at random among unused ones.
+- A clip/still used in any of the previous 5 episodes: ≤ 10 s in the new one. Generic stock (Capitol, courthouse, aircraft, city skyline, military jets): ≤ 20 s per video in total.
+- The same document page/photo at most twice per video — show the next page, a different crop of a different line, or another document.
+- Graphics: no card type more than ~12 times or 8% of runtime; nothing holds still > 6 s.
+**Sound:** never generate the music bed in code (fixed chords/seed = the same track every episode). Use `tools/cinema/library/music_*` (6 moods × several tracks), choose by mood, and keep `used_music.json`: a track used in the last 4 episodes of this channel is not used again.
+**Packaging and structure:**
+- Thumbnail: rotate at least 3 layouts; never the same layout + accent colour twice in a row, never the same wording pattern within 5 episodes. Never AI-drawn documents (garbled text looks fake) — real crops only. Only show a person's face if the video is about THEM.
+- Opening line and title formula: not the same pattern as the previous long video (no "<Date>, twenty twenty-six." twice in a row). Chapter titles used in the last 5 episodes are not reused.
+- PROMISE: the person/object/event named in the title or shown on the thumbnail is ON SCREEN and named within the first 30 s; backstory ≤ 60 s before the promised thing. If the footage for a promised moment does not exist (e.g. "gunfire"), change the title — do not promise it.
+- A remake of an old episode gets a new title, thumbnail and opening, and the old video must be hidden before the remake is scheduled.
+
 ## Voice (all channels) — owner 2026-11-28: work HARD on intonation, pace and pronunciation; every channel has its OWN voice
 Engine: Chatterbox **Turbo** on the office PC / relay since 2026-11-28 (≈4.5× faster than the old Chatterbox, same quality). Never ElevenLabs for the English channels.
 
@@ -43,6 +60,7 @@ Engine: Chatterbox **Turbo** on the office PC / relay since 2026-11-28 (≈4.5×
 - Check the Whisper QA report: any line with similarity < 0.86 or a misread name is re-voiced before rendering.
 
 ## This channel
+- VARIETY FIX (audit 2026-11-28): own graphics 59% of runtime in 302 and 104 (43 stat cards / 40 quote cards) → own graphics 35–45%, no card type more than 12 times or 8% of runtime; 103 WWI showed the same 5-s window 22 times and one film = 23%; 102 top-3 sources = 77%. Cold opens run 50–119 s (RUNBOOK limit 40 s) → make > 40 s a QA failure. 103 and 104 used the same opening pattern sentence by sentence ("So imagine you are one of them… no antibiotics…") → the title formula and cold-open pattern may not repeat the previous long video. Music: pipeline/finish.py:104-139 synth D-minor score with fixed seed → tools/cinema library. Thumbnails: 3 of last 4 = the same red/yellow split layout → rotate. used_clips.json showed repeats (1029569, 1027481, 1027887) — enforce it.
 - Format change: stop 40–50 min episodes (1–2 views each). Longs 10–12 min only on topics whose Short beat the channel median; 2 Shorts/day.
 - Thumbnails: a real historical photo with a human face and emotion, warm palette, ≤3 words. The black-red data template looks mass-produced (inauthentic-content risk) and has too many numbers.
 
