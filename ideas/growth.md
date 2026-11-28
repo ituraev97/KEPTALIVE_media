@@ -23,6 +23,14 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 - Not the same template every time (inauthentic-content risk) — rotate 3–4 layouts.
 - Never AI-generated faces of real people; real photos only (government releases, archive), AI may only relight/extend.
 
+## Voice (all channels)
+- Long narration 150–170 words/min, Shorts 160–180. No silence > 0.6 s inside narration except one deliberate beat before a reveal.
+- Use tone tags: ~25% "hype" on reveals/numbers/verdicts, ~15% "calm" for context, the rest "normal". Short punchy sentences, rhetorical questions, one dry joke per chapter.
+- Never ElevenLabs (owner 2026-11-28). Chatterbox (relay) or the livelier Kokoro method only.
+
 ## This channel
 - Format change: stop 40–50 min episodes (1–2 views each). Longs 10–12 min only on topics whose Short beat the channel median; 2 Shorts/day.
 - Thumbnails: a real historical photo with a human face and emotion, warm palette, ≤3 words. The black-red data template looks mass-produced (inauthentic-content risk) and has too many numbers.
+
+## Voice
+- Voice audit 2026-11-28: Kokoro am_fenrir is medium-flat (pitch 4.2–4.7). Switch to the 'livelier Kokoro' method from coldwarrant-media pipeline/tts_ep.py (commit 54a45a8, owner choice 2026-11-27): blend of voices, per-sentence synthesis, short sentences slower + longer pause, long ones quicker, ±2% jitter — measured on COLD WARRANT as lively as Chatterbox with blend am_fenrir:0.5+bm_george:0.5. Longs 150–160 wpm.
